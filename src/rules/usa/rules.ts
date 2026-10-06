@@ -1,0 +1,73 @@
+import { ItemType } from '../../models/item.js';
+import { KnownTaxType } from '../../models/tax-type.js';
+import { TaxRateBasis, type TaxRule } from '../../models/tax-rule.js';
+
+const OPEN = { effectiveFrom: '2024-01-01' } as const;
+
+export const usaRules: readonly TaxRule[] = [
+  {
+    id: 'us-ca-sales-product',
+    name: 'California Sales Tax Product',
+    taxType: KnownTaxType.SALES_TAX,
+    rate: { value: 7.25, basis: TaxRateBasis.PERCENTAGE },
+    category: 'GENERAL',
+    jurisdiction: { country: 'US', state: 'CA' },
+    effective: OPEN,
+    priority: 1,
+    compound: { isCompound: false },
+    taxableBase: {},
+    applicability: { itemTypes: [ItemType.PRODUCT], itemCategories: ['GENERAL'] },
+  },
+  {
+    id: 'us-ca-sales-service',
+    name: 'California Sales Tax Service',
+    taxType: KnownTaxType.SALES_TAX,
+    rate: { value: 6, basis: TaxRateBasis.PERCENTAGE },
+    category: 'GENERAL',
+    jurisdiction: { country: 'US', state: 'CA' },
+    effective: OPEN,
+    priority: 1,
+    compound: { isCompound: false },
+    taxableBase: {},
+    applicability: { itemTypes: [ItemType.SERVICE], itemCategories: ['GENERAL'] },
+  },
+  {
+    id: 'us-ca-sf-local',
+    name: 'San Francisco Local Tax',
+    taxType: KnownTaxType.LOCAL_TAX,
+    rate: { value: 1.25, basis: TaxRateBasis.PERCENTAGE },
+    category: 'GENERAL',
+    jurisdiction: { country: 'US', state: 'CA', city: 'San Francisco' },
+    effective: OPEN,
+    priority: 2,
+    compound: { isCompound: false },
+    taxableBase: {},
+    applicability: { matchAllCategories: true },
+  },
+  {
+    id: 'us-ny-sales',
+    name: 'New York Sales Tax',
+    taxType: KnownTaxType.SALES_TAX,
+    rate: { value: 8, basis: TaxRateBasis.PERCENTAGE },
+    category: 'GENERAL',
+    jurisdiction: { country: 'US', state: 'NY' },
+    effective: OPEN,
+    priority: 1,
+    compound: { isCompound: false },
+    taxableBase: {},
+    applicability: { matchAllCategories: true },
+  },
+  {
+    id: 'us-sales-expired',
+    name: 'Expired US Sales Tax',
+    taxType: KnownTaxType.SALES_TAX,
+    rate: { value: 5, basis: TaxRateBasis.PERCENTAGE },
+    category: 'LEGACY',
+    jurisdiction: { country: 'US', state: 'CA' },
+    effective: { effectiveFrom: '2022-01-01', effectiveUntil: '2022-12-31' },
+    priority: 1,
+    compound: { isCompound: false },
+    taxableBase: {},
+    applicability: { itemCategories: ['LEGACY'] },
+  },
+];

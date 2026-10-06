@@ -1,0 +1,1831 @@
+{
+    "chapter": "71",
+    "kind": "HSN",
+    "count": 152,
+    "entries": [
+        {
+            "code": "7101",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710110",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71011010",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71011020",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71012100",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710122",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71012200",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7102",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71021000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710221",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71022110",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71022120",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710229",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71022910",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71022990",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710231",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71023100",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710239",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71023910",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71023990",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7103",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710310",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031011",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031012",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031019",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031021",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031022",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031023",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031024",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031029",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710391",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71039100",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710399",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71039910",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71039920",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71039930",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71039940",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71039990",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7104",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710410",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71041000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710420",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71042000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710490",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71049000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7105",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710510",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71051000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710590",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71059000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7106",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710610",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71061000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710691",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71069100",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710692",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71069210",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71069290",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7107",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71070000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7108",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710811",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71081100",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710812",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71081200",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710813",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71081300",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710820",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71082000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7109",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71090000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7110",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711011",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71101110",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71101120",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711019",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71101900",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711021",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71102100",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711029",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71102900",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711031",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71103100",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711039",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71103900",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711041",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71104100",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711049",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71104900",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7111",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71110000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7112",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711230",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71123000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71129100",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71129200",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711299",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71129910",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71129920",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71129990",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7113",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711311",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131110",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131120",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131130",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131190",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131910",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131920",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131930",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131940",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131950",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131960",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131990",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711320",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71132000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7114",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711411",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71141110",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71141120",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71141910",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71141920",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71141930",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711420",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71142010",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71142020",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71142030",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7115",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711510",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71151000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711590",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71159010",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71159020",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71159090",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7116",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711610",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71161000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71162000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7117",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711711",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71171100",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711719",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71171910",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71171920",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71171990",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711790",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71179010",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71179090",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7118",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711810",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71181000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711890",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71189000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}
