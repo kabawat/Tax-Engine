@@ -1,12 +1,12 @@
 {
   "source": "QuantumByteStudios/gst-hsn-sac-codes",
   "license": "MIT",
-  "attribution": "HSN/SAC dataset adapted from https://github.com/QuantumByteStudios/gst-hsn-sac-codes (MIT). Rates may lag CBIC notifications — verify before production use.",
+  "attribution": "HSN/SAC dataset adapted from https://github.com/QuantumByteStudios/gst-hsn-sac-codes (MIT). Rates may lag CBIC notifications \u2014 verify before production use.",
   "effectiveFrom": "2017-07-01",
-  "generatedAt": "2026-10-06T06:39:59.514Z",
+  "generatedAt": "2026-10-06T08:55:45.777623+00:00",
   "hsnCount": 12877,
   "sacCount": 568,
-  "hsnSkippedNoRate": 4396,
+  "hsnSkippedNoRate": 40,
   "sacDefaultRatePercent": 18,
   "chapters": [
     "01",

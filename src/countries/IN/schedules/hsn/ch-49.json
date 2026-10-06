@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "4901",
-            "description": "",
+            "description": "PRINTED BOOKS, BROCHURES, LEAFLETS AND SIMILAR PRINTED MATTER, WHETHER OR NOT IN SINGLE SHEETS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -17,11 +17,11 @@
         },
         {
             "code": "490110",
-            "description": "",
+            "description": "IN SINGLE SHEETS, WHETHER OR NOT FOLDED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -29,11 +29,11 @@
         },
         {
             "code": "49011010",
-            "description": "",
+            "description": "PRINTED BOOKS, BROCHURES, LEAFLETS AND SIMILAR PRINTED MATTER, WHETHER OR NOT IN SINGLE SHEETS IN SINGLE SHEETS, WHETHER OR NOT FOLDED : PRINTED BOOKS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -41,11 +41,11 @@
         },
         {
             "code": "49011020",
-            "description": "",
+            "description": "PRINTED BOOKS, BROCHURES, LEAFLETS AND SIMILAR PRINTED MATTER, WHETHER OR NOT IN SINGLE SHEETS IN SINGLE SHEETS, WHETHER OR NOT FOLDED : PAMPHLETS, BOOKLETS, BROCHURES, LEAFLETS AND SIMILAR PRINTED MATTER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -53,11 +53,11 @@
         },
         {
             "code": "490191",
-            "description": "",
+            "description": "PRINTED BOOKS, BROCHURES, LEAFLETS AND SIMILAR PRINTED MATTER, WHETHER OR NOT IN SINGLE SHEETS - OTHER : DICTIONARIES AND ENCYCLOPAEDIAS, AND SERIAL INSTALMENTS THEREOF",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -65,11 +65,11 @@
         },
         {
             "code": "49019100",
-            "description": "",
+            "description": "PRINTED BOOKS, BROCHURES, LEAFLETS AND SIMILAR PRINTED MATTER, WHETHER OR NOT IN SINGLE SHEETS - OTHER : DICTIONARIES AND ENCYCLOPAEDIAS, AND SERIAL INSTALMENTS THEREOF",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -77,11 +77,11 @@
         },
         {
             "code": "490199",
-            "description": "",
+            "description": "PRINTED BOOKS, BROCHURES, LEAFLETS AND SIMILAR PRINTED MATTER, WHETHER OR NOT IN SINGLE SHEETS - OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -89,11 +89,11 @@
         },
         {
             "code": "49019900",
-            "description": "",
+            "description": "PRINTED BOOKS, BROCHURES, LEAFLETS AND SIMILAR PRINTED MATTER, WHETHER OR NOT IN SINGLE SHEETS - OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -101,7 +101,7 @@
         },
         {
             "code": "4902",
-            "description": "",
+            "description": "NEWSPAPERS, JOURNALS AND PERIODICALS, WHETHER OR NOT I LLUSTRATED OR CONTAINING ADVERTISING MATERIAL",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -113,7 +113,7 @@
         },
         {
             "code": "490210",
-            "description": "",
+            "description": "APPEARING AT LEAST FOUR TIMES A WEEK",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -125,7 +125,7 @@
         },
         {
             "code": "49021010",
-            "description": "",
+            "description": "NEWSPAPERS, JOURNALS AND PERIODICALS, WHETHER OR NOT ILLUSTRATED OR CONTAINING ADVERTISING MATERIAL APPEARING AT LEAST FOUR TIMES A WEEK : NEWSPAPERS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -137,7 +137,7 @@
         },
         {
             "code": "49021020",
-            "description": "",
+            "description": "NEWSPAPERS, JOURNALS AND PERIODICALS, WHETHER OR NOT ILLUSTRATED OR CONTAINING ADVERTISING MATERIAL APPEARING AT LEAST FOUR TIMES A WEEK : JOURNALS AND PERIODICALS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -149,7 +149,7 @@
         },
         {
             "code": "490290",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -161,7 +161,7 @@
         },
         {
             "code": "49029010",
-            "description": "",
+            "description": "NEWSPAPERS, JOURNALS AND PERIODICALS, WHETHER OR NOT ILLUSTRATED OR CONTAINING ADVERTISING MATERIAL OTHER : NEWSPAPERS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -173,7 +173,7 @@
         },
         {
             "code": "49029020",
-            "description": "",
+            "description": "NEWSPAPERS, JOURNALS AND PERIODICALS, WHETHER OR NOT ILLUSTRATED OR CONTAINING ADVERTISING MATERIAL OTHER : JOURNALS AND PERIODICALS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -185,7 +185,7 @@
         },
         {
             "code": "4903",
-            "description": "",
+            "description": "CHILDREN'S PICTURE, DRAWING OR COLOURING BOOKS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -197,7 +197,7 @@
         },
         {
             "code": "490300",
-            "description": "",
+            "description": "CHILDREN'S PICTURE, DRAWING OR COLOURING BOOKS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -209,7 +209,7 @@
         },
         {
             "code": "49030010",
-            "description": "",
+            "description": "CHILDREN'S PICTURE, DRAWING OR COLOURING BOOKS CHILDREN'S PICTURE, DRAWING OR COLOURING BOOKS : PICTURE BOOKS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -221,7 +221,7 @@
         },
         {
             "code": "49030020",
-            "description": "",
+            "description": "CHILDREN'S PICTURE, DRAWING OR COLOURING BOOKS CHILDREN'S PICTURE, DRAWING OR COLOURING BOOKS : DRAWING OR COLOURING BOOKS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -233,11 +233,11 @@
         },
         {
             "code": "4904",
-            "description": "",
+            "description": "MUSIC, PRINTED OR IN MANUSCRIPT, WHETHER OR NOT FOUND OR ILLUSTRATED",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -245,127 +245,223 @@
         },
         {
             "code": "490400",
-            "description": "",
+            "description": "MUSIC, PRINTED OR IN MANUSCRIPT, WHETHER OR NOT FOUND OR ILLUSTRATED",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-12-31"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2019-01-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49040000",
-            "description": "",
+            "description": "MUSIC, PRINTED OR IN MANUSCRIPT, WHETHER OR NOT FOUND OR ILLUSTRATED",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-12-31"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2019-01-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "4905",
-            "description": "",
+            "description": "MAPS AND HYDROGRAPHIC OR SIMILAR CHARTS OF ALL KINDS, INCLUDING ATLASES, WALL MAPS, TOPOGRAPHICAL PLANS AND GLOBES, PRINTED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2022-07-17"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2022-07-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "490510",
-            "description": "",
+            "description": "MAPS AND HYDROGRAPHIC OR SIMILAR CHARTS OF ALL KINDS, INCLUDING ATLASES, WALL MAPS, TOPOGRAPHICAL PLANS AND GLOBES, PRINTED GLOBES",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2022-07-17"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49051000",
-            "description": "",
+            "description": "MAPS AND HYDROGRAPHIC OR SIMILAR CHARTS OF ALL KINDS, INCLUDING ATLASES, WALL MAPS, TOPOGRAPHICAL PLANS AND GLOBES, PRINTED GLOBES",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2022-07-17"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2022-07-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "490591",
-            "description": "",
+            "description": "MAPS AND HYDROGRAPHIC OR SIMILAR CHARTS OF ALL KINDS, INCLUDING ATLASES, WALL MAPS, TOPOGRAPHICAL PLANS AND GLOBES, PRINTED - OTHER : IN BOOK FORM",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2022-07-17"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49059100",
-            "description": "",
+            "description": "MAPS AND HYDROGRAPHIC OR SIMILAR CHARTS OF ALL KINDS, INCLUDING ATLASES, WALL MAPS, TOPOGRAPHICAL PLANS AND GLOBES, PRINTED - OTHER : IN BOOK FORM",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2022-07-17"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2022-07-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "490599",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2022-07-17"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2022-07-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49059910",
-            "description": "",
+            "description": "MAPS AND HYDROGRAPHIC OR SIMILAR CHARTS OF ALL KINDS, INCLUDING ATLASES, WALL MAPS, TOPOGRAPHICAL PLANS AND GLOBES, PRINTED - OTHER : - OTHER: GEOGRAPHICAL, HYDROLOGICAL, ASTRONOMICAL MAPS OR CHARTS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2022-07-17"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2022-07-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49059990",
-            "description": "",
+            "description": "MAPS AND HYDROGRAPHIC OR SIMILAR CHARTS OF ALL KINDS, INCLUDING ATLASES, WALL MAPS, TOPOGRAPHICAL PLANS AND GLOBES, PRINTED - OTHER : - OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2022-07-17"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2022-07-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "4906",
-            "description": "",
+            "description": "PLANS AND DRAWINGS FOR ARCHITECTURAL, ENGINEERING, INDUSTRIAL, COMMERCIAL, TOPOGRAPHICAL OR SIMILAR PURPOSES, BEING ORIGINALS DRAWN BY HAND; HAND-WRITTEN TEXTS; PHOTOGRAPHIC REPRODUCTIONS ON SENSITISED PAPER AND CARBON COPIES OF THE FOREGOING",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -377,348 +473,522 @@
         },
         {
             "code": "49060000",
-            "description": "",
+            "description": "PLANS AND DRAWINGS FORARCHITECTURAL,ENGINEERING,INDUSTRIAL, COMMERCIAL,TOPOGRAPHICAL OR SIMILARPURPOSES,BEING ORIGINALS RAWN BY HAND; HANDWRITTENTEXTS; PHOTOGRAPHIC REPRODUCTIONS NSENSITISED PAPER AND CARBON COPIES OF THE FOREGOING",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "4907",
-            "description": "",
+            "description": "UNUSED POSTAGE, REVENUE OR SIMILAR STAMPS OF CURRENT OR NEW ISSUE IN THE COUNTRY IN WHICH THEY HAVE, OR WILL HAVE, A RECOGNIZED FACE VALUE; STAMP-IMPRESSED PAPER; BANK NOTES; CHEQUE FORMS; STOCK, SHARE OR BOND CERTIFICATES AND SIMILAR DOCUMENTS OF TITLE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49070020",
-            "description": "",
+            "description": "UNUSED POSTAGE, REVENUE OR SIMILAR STAMPS OF CURRENT OR NEW ISSUE IN THE COUNTRY IN WHICH THEY HAVE, OR WILL HAVE, A RECOGNIZED FACE VALUE; STAMP-IMPRESSED PAPER; BANK NOTES; CHEQUE FORMS; STOCK, SHARE OR BOND CERTIFICATES AND SIMILAR DOCUMENTS OF TITLE U",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49070090",
-            "description": "",
+            "description": "UNUSED POSTAGE, REVENUE OR SIMILAR STAMPS OF CURRENT OR NEW ISSUE IN THE COUNTRY IN WHICH THEY HAVE, OR WILL HAVE, A RECOGNIZED FACE VALUE; STAMP-IMPRESSED PAPER; BANK NOTES; CHEQUE FORMS; STOCK, SHARE OR BOND CERTIFICATES AND SIMILAR DOCUMENTS OF TITLE U",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "4908",
-            "description": "",
+            "description": "TRANSFERS (DECALCOMANIAS)",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "490810",
-            "description": "",
+            "description": "TRANSFERS (DECALCOMANIAS) TRANSFERS (DECALCOMANIAS), VITRIFIABLE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49081000",
-            "description": "",
+            "description": "TRANSFERS (DECALCOMANIAS) TRANSFERS (DECALCOMANIAS), VITRIFIABLE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "490890",
-            "description": "",
+            "description": "TRANSFERS (DECALCOMANIAS) OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49089000",
-            "description": "",
+            "description": "TRANSFERS (DECALCOMANIAS) OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "4909",
-            "description": "",
+            "description": "PRINTED OR ILLUSTRATED POSTCARDS; PRINTED CARDS BEARING PERSONAL GREETINGS, MESSAGES OR ANNOUNCEMENTS, WHETHER OR NOT ILLUSTRATED, WITH OR WITHOUT ENVELOPES OR TRIMMINGS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "490900",
-            "description": "",
+            "description": "PRINTED OR ILLUSTRATED POSTCARDS; PRINTED CARDS BEARING PERSONAL GREETINGS, MESSAGES OR ANNOUNCEMENTS, WHETHER OR NOT ILLUSTRATED, WITH OR WITHOUT ENVELOPES OR TRIMMINGS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49090010",
-            "description": "",
+            "description": "PRINTED OR ILLUSTRATED POSTCARDS; PRINTED CARDS BEARING PERSONAL GREETINGS, MESSAGES OR ANNOUNCEMENTS, WHETHER OR NOT ILLUSTRATED, WITH OR WITHOUT ENVELOPES OR TRIMMINGS PRINTED OR ILLUSTRATED POSTCARDS; PRINTED CARDS BEARING PERSONAL GREETINGS, MESSAGES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49090090",
-            "description": "",
+            "description": "PRINTED OR ILLUSTRATED POSTCARDS; PRINTED CARDS BEARING PERSONAL GREETINGS, MESSAGES OR ANNOUNCEMENTS, WHETHER OR NOT ILLUSTRATED, WITH OR WITHOUT ENVELOPES OR TRIMMINGS PRINTED OR ILLUSTRATED POSTCARDS; PRINTED CARDS BEARING PERSONAL GREETINGS, MESSAGES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "4910",
-            "description": "",
+            "description": "CALENDARS OF ANY KIND, PRINTED, INCLUDING CALENDAR BLOCKS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "491000",
-            "description": "",
+            "description": "CALENDARS OF ANY KIND, PRINTED, INCLUDING CALENDAR BLOCKS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49100010",
-            "description": "",
+            "description": "CALENDARS OF ANY KIND, PRINTED, INCLUDING CALENDAR BLOCKS - CALENDARS OF ANY KIND, PRINTED, INCLUDING CALENDAR BLOCKS : ADVERTISING CALENDAR",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49100090",
-            "description": "",
+            "description": "CALENDARS OF ANY KIND, PRINTED, INCLUDING CALENDAR BLOCKS - CALENDARS OF ANY KIND, PRINTED, INCLUDING CALENDAR BLOCKS : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "4911",
-            "description": "",
+            "description": "OTHER PRINTED MATTER, INCLUDING PRINTED PICTURES AND PHOTOGRAPHS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "491110",
-            "description": "",
+            "description": "TRADE ADVERTISING MATERIAL, COMMERCIAL CATALOGUES AND THE LIKE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49111010",
-            "description": "",
+            "description": "OTHER PRINTED MATTER, INCLUDING PRINTED PICTURES AND PHOTOGRAPHS TRADE ADVERTISING MATERIAL, COMMERCIAL CATALOGUES AND THE LIKE : POSTERS, PRINTED",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49111020",
-            "description": "",
+            "description": "OTHER PRINTED MATTER, INCLUDING PRINTED PICTURES AND PHOTOGRAPHS TRADE ADVERTISING MATERIAL, COMMERCIAL CATALOGUES AND THE LIKE : COMMERCIAL CATALOGUES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49111030",
-            "description": "",
+            "description": "OTHER PRINTED MATTER, INCLUDING PRINTED PICTURES AND PHOTOGRAPHS TRADE ADVERTISING MATERIAL, COMMERCIAL CATALOGUES AND THE LIKE : PRINTED INLAY CARDS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49111090",
-            "description": "",
+            "description": "OTHER PRINTED MATTER, INCLUDING PRINTED PICTURES AND PHOTOGRAPHS TRADE ADVERTISING MATERIAL, COMMERCIAL CATALOGUES AND THE LIKE : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "491191",
-            "description": "",
+            "description": "OTHER PRINTED MATTER, INCLUDING PRINTED PICTURES AND PHOTOGRAPHS - OTHER : PICTURES, DESIGNS AND PHOTOGRAPHS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49119100",
-            "description": "",
+            "description": "OTHER PRINTED MATTER, INCLUDING PRINTED PICTURES AND PHOTOGRAPHS - OTHER : PICTURES, DESIGNS AND PHOTOGRAPHS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "491199",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49119910",
-            "description": "",
+            "description": "OTHER PRINTED MATTER, INCLUDING PRINTED PICTURES AND PHOTOGRAPHS - OTHER : OTHER : HARD COPY (PRINTED) OF COMPUTER SOFTWARE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49119920",
-            "description": "",
+            "description": "OTHER PRINTED MATTER, INCLUDING PRINTED PICTURES AND PHOTOGRAPHS - OTHER : OTHER : PLAN AND DRAWINGS FOR ARCHITECTURAL ENGINEERING, INDUSTRIAL, COMMERCIAL, TOPOGRAPHICAL OR SIMILAR PURPOSES REPRODUCED WITH THE AID OF COMPUTER OR ANY OTHER DEVICES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "49119990",
-            "description": "",
+            "description": "OTHER PRINTED MATTER, INCLUDING PRINTED PICTURES AND PHOTOGRAPHS - OTHER : OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]

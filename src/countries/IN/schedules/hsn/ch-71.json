@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "7101",
-            "description": "",
+            "description": "PEARLS, NATURAL OR CULTURED, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; PEARLS, NATURAL OR CULTURED, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -17,7 +17,7 @@
         },
         {
             "code": "710110",
-            "description": "",
+            "description": "NATURAL PEARLS",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -29,7 +29,7 @@
         },
         {
             "code": "71011010",
-            "description": "",
+            "description": "PEARLS, NATURAL OR CULTURED, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; PEARLS, NATURAL OR CULTURED, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - NATURAL PEARLS: UNWORKED",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -41,7 +41,7 @@
         },
         {
             "code": "71011020",
-            "description": "",
+            "description": "PEARLS, NATURAL OR CULTURED, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; PEARLS, NATURAL OR CULTURED, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - NATURAL PEARLS: WORKED",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -53,7 +53,7 @@
         },
         {
             "code": "71012100",
-            "description": "",
+            "description": "PEARLS, NATURAL OR CULTURED, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; PEARLS, NATURAL OR CULTURED, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - CULTURED PEARLS: UNWORKED",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -65,7 +65,7 @@
         },
         {
             "code": "710122",
-            "description": "",
+            "description": "PEARLS, NATURAL OR CULTURED, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; PEARLS, NATURAL OR CULTURED, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - CULTURED PEARLS: WORKED",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -77,7 +77,7 @@
         },
         {
             "code": "71012200",
-            "description": "",
+            "description": "PEARLS, NATURAL OR CULTURED, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; PEARLS, NATURAL OR CULTURED, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - CULTURED PEARLS: WORKED",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -89,7 +89,7 @@
         },
         {
             "code": "7102",
-            "description": "",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -101,7 +101,7 @@
         },
         {
             "code": "71021000",
-            "description": "",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - UNSORTED",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -113,7 +113,7 @@
         },
         {
             "code": "710221",
-            "description": "",
+            "description": "UNWORKED OR SIMPLY SAWN, CLEAVED OR BRUTED",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -125,7 +125,7 @@
         },
         {
             "code": "71022110",
-            "description": "",
+            "description": "21 DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - INDUSTRIAL : UNWORKED OR SIMPLY SAWN, CLEAVED OR BRUTED: SORTED",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -137,7 +137,7 @@
         },
         {
             "code": "71022120",
-            "description": "",
+            "description": "21 DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - INDUSTRIAL : UNWORKED OR SIMPLY SAWN, CLEAVED OR BRUTED: UNSORTED",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -149,7 +149,7 @@
         },
         {
             "code": "710229",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -161,7 +161,7 @@
         },
         {
             "code": "71022910",
-            "description": "",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - INDUSTRIAL : OTHER: CRUSHED",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -173,7 +173,7 @@
         },
         {
             "code": "71022990",
-            "description": "",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - INDUSTRIAL : OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -185,7 +185,7 @@
         },
         {
             "code": "710231",
-            "description": "",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - NON-INDUSTRIAL: UNWORKED OR SIMPLY SAWN, CLEAVED OR BRUTED",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -197,7 +197,7 @@
         },
         {
             "code": "71023100",
-            "description": "",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - NON-INDUSTRIAL: UNWORKED OR SIMPLY SAWN, CLEAVED OR BRUTED",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -209,7 +209,7 @@
         },
         {
             "code": "710239",
-            "description": "",
+            "description": "OTHERS",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -221,7 +221,7 @@
         },
         {
             "code": "71023910",
-            "description": "",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - NON-INDUSTRIAL: OTHERS: DIAMOND, CUT OR OTHERWISE WORKED BUT NOT MOUNTED OR SET",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -233,7 +233,7 @@
         },
         {
             "code": "71023990",
-            "description": "",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - NON-INDUSTRIAL: OTHERS: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -245,7 +245,7 @@
         },
         {
             "code": "7103",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -257,7 +257,7 @@
         },
         {
             "code": "710310",
-            "description": "",
+            "description": "UNWORKED OR SIMPLY SAWN OR ROUGHLY SHAPED",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -269,7 +269,7 @@
         },
         {
             "code": "71031011",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -281,7 +281,7 @@
         },
         {
             "code": "71031012",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -293,7 +293,7 @@
         },
         {
             "code": "71031019",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -305,7 +305,7 @@
         },
         {
             "code": "71031021",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -317,7 +317,7 @@
         },
         {
             "code": "71031022",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -329,7 +329,7 @@
         },
         {
             "code": "71031023",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -341,7 +341,7 @@
         },
         {
             "code": "71031024",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -353,7 +353,7 @@
         },
         {
             "code": "71031029",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -365,7 +365,7 @@
         },
         {
             "code": "710391",
-            "description": "",
+            "description": "RUBY, SAPPHIRE AND EMERALDS",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -377,7 +377,7 @@
         },
         {
             "code": "71039100",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -389,7 +389,7 @@
         },
         {
             "code": "710399",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -401,7 +401,7 @@
         },
         {
             "code": "71039910",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -413,7 +413,7 @@
         },
         {
             "code": "71039920",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -425,7 +425,7 @@
         },
         {
             "code": "71039930",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -437,7 +437,7 @@
         },
         {
             "code": "71039940",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -449,7 +449,7 @@
         },
         {
             "code": "71039990",
-            "description": "",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -461,7 +461,7 @@
         },
         {
             "code": "7104",
-            "description": "",
+            "description": "SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -473,7 +473,7 @@
         },
         {
             "code": "710410",
-            "description": "",
+            "description": "SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - PIEZO-ELECT",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -485,7 +485,7 @@
         },
         {
             "code": "71041000",
-            "description": "",
+            "description": "SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - PIEZO-ELECT",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -497,7 +497,7 @@
         },
         {
             "code": "710420",
-            "description": "",
+            "description": "OTHER, UNWORKED OR SIMPLY SAWN OR ROUGHLY SHAPED",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -509,7 +509,7 @@
         },
         {
             "code": "71042000",
-            "description": "",
+            "description": "SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - OTHER, UNWO",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -521,7 +521,7 @@
         },
         {
             "code": "710490",
-            "description": "",
+            "description": "SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMI-PRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG,MOUNTED OR SET; UNGRADED SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT-OTHER--LABORA",
             "rateHistory": [
                 {
                     "ratePercent": 0.25,
@@ -545,7 +545,7 @@
         },
         {
             "code": "7105",
-            "description": "",
+            "description": "DUST AND POWDER OF NATURAL OR SYNTHETIC PRECIOUS OR SEMI-PRECIOUS STONES",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -557,7 +557,7 @@
         },
         {
             "code": "710510",
-            "description": "",
+            "description": "DUST AND POWDER OF NATURAL OR SYNTHETIC PRECIOUS OR SEMI-PRECIOUS STONES - OF DIAMOND",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -569,7 +569,7 @@
         },
         {
             "code": "71051000",
-            "description": "",
+            "description": "DUST AND POWDER OF NATURAL OR SYNTHETIC PRECIOUS OR SEMI-PRECIOUS STONES - OF DIAMOND",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -581,7 +581,7 @@
         },
         {
             "code": "710590",
-            "description": "",
+            "description": "DUST AND POWDER OF NATURAL OR SYNTHETIC PRECIOUS OR SEMI-PRECIOUS STONES - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -593,7 +593,7 @@
         },
         {
             "code": "71059000",
-            "description": "",
+            "description": "DUST AND POWDER OF NATURAL OR SYNTHETIC PRECIOUS OR SEMI-PRECIOUS STONES - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -605,7 +605,7 @@
         },
         {
             "code": "7106",
-            "description": "",
+            "description": "SILVER (INCLUDING SILVER PLATED WITH GOLD OR PLATINUM), UNWROUGHT OR IN SEMIMANUFACTURED FORMS, OR IN POWDER FORM",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -617,7 +617,7 @@
         },
         {
             "code": "710610",
-            "description": "",
+            "description": "SILVER (INCLUDING SILVER PLATED WITH GOLD OR PLATINUM), UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - POWDER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -629,7 +629,7 @@
         },
         {
             "code": "71061000",
-            "description": "",
+            "description": "SILVER (INCLUDING SILVER PLATED WITH GOLD OR PLATINUM), UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - POWDER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -641,7 +641,7 @@
         },
         {
             "code": "710691",
-            "description": "",
+            "description": "UNWROUGHT",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -653,7 +653,7 @@
         },
         {
             "code": "71069100",
-            "description": "",
+            "description": "SILVER (INCLUDING SILVER PLATED WITH GOLD OR PLATINUM), UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - OTHER : UNWROUGHT",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -665,7 +665,7 @@
         },
         {
             "code": "710692",
-            "description": "",
+            "description": "SEMI-MANUFACTURED",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -677,7 +677,7 @@
         },
         {
             "code": "71069210",
-            "description": "",
+            "description": "SILVER (INCLUDING SILVER PLATED WITH GOLD OR PLATINUM), UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM SEMI-MANUFACTURED : SHEETS, PLATES, STRIPS, TUBES AND PIPES",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -689,7 +689,7 @@
         },
         {
             "code": "71069290",
-            "description": "",
+            "description": "SILVER (INCLUDING SILVER PLATED WITH GOLD OR PLATINUM), UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM SEMI-MANUFACTURED : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -701,7 +701,7 @@
         },
         {
             "code": "7107",
-            "description": "",
+            "description": "BASE METALS CLAD WITH SILVER, NOT FURTHER WORKED THAN SEMI-MANUFACTURED",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -713,7 +713,7 @@
         },
         {
             "code": "71070000",
-            "description": "",
+            "description": "BASE METALS CLAD WITH SILVER, NOT FURTHER WORKED THAN SEMI-MANUFACTURED",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -725,7 +725,7 @@
         },
         {
             "code": "7108",
-            "description": "",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - NON-MONETARY",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -737,7 +737,7 @@
         },
         {
             "code": "710811",
-            "description": "",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - NON-MONETARY : POWDER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -749,7 +749,7 @@
         },
         {
             "code": "71081100",
-            "description": "",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - NON-MONETARY : POWDER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -761,7 +761,7 @@
         },
         {
             "code": "710812",
-            "description": "",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - NON-MONETARY : OTHER UNWROUGHT FORMS",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -773,7 +773,7 @@
         },
         {
             "code": "71081200",
-            "description": "",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - NON-MONETARY : OTHER UNWROUGHT FORMS",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -785,7 +785,7 @@
         },
         {
             "code": "710813",
-            "description": "",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - NON-MONETARY : OTHER SEMI-MANUFACTURED FORMS",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -797,7 +797,7 @@
         },
         {
             "code": "71081300",
-            "description": "",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - NON-MONETARY : OTHER SEMI-MANUFACTURED FORMS",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -809,7 +809,7 @@
         },
         {
             "code": "710820",
-            "description": "",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM MONETARY",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -821,7 +821,7 @@
         },
         {
             "code": "71082000",
-            "description": "",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM MONETARY",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -833,7 +833,7 @@
         },
         {
             "code": "7109",
-            "description": "",
+            "description": "BASE METALS OR SILVER, CLAD WITH GOLD, NOT FURTHER WORKED THAN SEMI-MANUFACTURED",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -845,7 +845,7 @@
         },
         {
             "code": "71090000",
-            "description": "",
+            "description": "BASE METALS OR SILVER, CLAD WITH GOLD, NOT FURTHER WORKED THAN SEMI-MANUFACTURED",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -857,7 +857,7 @@
         },
         {
             "code": "7110",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PLATINUM",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -869,7 +869,7 @@
         },
         {
             "code": "711011",
-            "description": "",
+            "description": "UNWROUGHT OR IN POWDER FORM",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -881,7 +881,7 @@
         },
         {
             "code": "71101110",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PLATINUM : UNWROUGHT OR IN POWDER FORM: UNWROUGHT FORM",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -893,7 +893,7 @@
         },
         {
             "code": "71101120",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PLATINUM : UNWROUGHT OR IN POWDER FORM: IN POWDER FORM",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -905,7 +905,7 @@
         },
         {
             "code": "711019",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PLATINUM : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -917,7 +917,7 @@
         },
         {
             "code": "71101900",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PLATINUM : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -929,7 +929,7 @@
         },
         {
             "code": "711021",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PALLADIUM: UNWROUGHT OR IN POWDER FORM",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -941,7 +941,7 @@
         },
         {
             "code": "71102100",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PALLADIUM: UNWROUGHT OR IN POWDER FORM",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -953,7 +953,7 @@
         },
         {
             "code": "711029",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PALLADIUM: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -965,7 +965,7 @@
         },
         {
             "code": "71102900",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PALLADIUM: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -977,7 +977,7 @@
         },
         {
             "code": "711031",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - RHODIUM: UNWROUGHT OR IN POWDER FROM",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -989,7 +989,7 @@
         },
         {
             "code": "71103100",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - RHODIUM: UNWROUGHT OR IN POWDER FROM",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1001,7 +1001,7 @@
         },
         {
             "code": "711039",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - RHODIUM: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1013,7 +1013,7 @@
         },
         {
             "code": "71103900",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - RHODIUM: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1025,7 +1025,7 @@
         },
         {
             "code": "711041",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - IRIDIUM, OSMIUM AND RUTHENIUM: UNWROUGHT OR IN POWDER FROM",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1037,7 +1037,7 @@
         },
         {
             "code": "71104100",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - IRIDIUM, OSMIUM AND RUTHENIUM: UNWROUGHT OR IN POWDER FROM",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1049,7 +1049,7 @@
         },
         {
             "code": "711049",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - IRIDIUM, OSMIUM AND RUTHENIUM: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1061,7 +1061,7 @@
         },
         {
             "code": "71104900",
-            "description": "",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - IRIDIUM, OSMIUM AND RUTHENIUM: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1073,7 +1073,7 @@
         },
         {
             "code": "7111",
-            "description": "",
+            "description": "BASE METALS, SILVER OR GOLD, CLAD WITH PLATINUM, NOT FURTHER WORKED THAN SEMIMANUFACTURED",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1085,7 +1085,7 @@
         },
         {
             "code": "71110000",
-            "description": "",
+            "description": "BASE METALS, SILVER OR GOLD, CLAD WITH PLATINUM, NOT FURTHER WORKED THAN SEMIMANUFACTURED",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1097,7 +1097,7 @@
         },
         {
             "code": "7112",
-            "description": "",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1109,7 +1109,7 @@
         },
         {
             "code": "711230",
-            "description": "",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL - ASH CONTAINING PRECIOUS METAL OR PRECIOUS",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1121,7 +1121,7 @@
         },
         {
             "code": "71123000",
-            "description": "",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL - ASH CONTAINING PRECIOUS METAL OR PRECIOUS",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1133,7 +1133,7 @@
         },
         {
             "code": "71129100",
-            "description": "",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL - OTHER : OF GOLD, INCLUDING METAL CLAD WITH",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1145,7 +1145,7 @@
         },
         {
             "code": "71129200",
-            "description": "",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL - OTHER : OF PLATINUM, INCLUDING METAL CLAD",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1157,7 +1157,7 @@
         },
         {
             "code": "711299",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1169,7 +1169,7 @@
         },
         {
             "code": "71129910",
-            "description": "",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL - OTHER : OTHER: OF SILVER, INCLUDING METAL",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1181,7 +1181,7 @@
         },
         {
             "code": "71129920",
-            "description": "",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL - OTHER : OTHER: SWEEPINGS CONTAINING GOLD O",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1193,7 +1193,7 @@
         },
         {
             "code": "71129990",
-            "description": "",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL - OTHER : OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1205,7 +1205,7 @@
         },
         {
             "code": "7113",
-            "description": "",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL:",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1217,7 +1217,7 @@
         },
         {
             "code": "711311",
-            "description": "",
+            "description": "OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH OTHER PRECIOUS METAL",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1229,7 +1229,7 @@
         },
         {
             "code": "71131110",
-            "description": "",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH OTHER PRECIOUS METAL: JEWELLERY WITH FILI",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1241,7 +1241,7 @@
         },
         {
             "code": "71131120",
-            "description": "",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH OTHER PRECIOUS METAL: JEWELLERY STUDDED W",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1253,7 +1253,7 @@
         },
         {
             "code": "71131130",
-            "description": "",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH OTHER PRECIOUS METAL: OTHER ARTICLES OF J",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1265,7 +1265,7 @@
         },
         {
             "code": "71131190",
-            "description": "",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH OTHER PRECIOUS METAL: PARTS",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1277,7 +1277,7 @@
         },
         {
             "code": "71131910",
-            "description": "",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF GOLD, UN",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1289,7 +1289,7 @@
         },
         {
             "code": "71131920",
-            "description": "",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF GOLD, SE",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1301,7 +1301,7 @@
         },
         {
             "code": "71131930",
-            "description": "",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF GOLD, SE",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1313,7 +1313,7 @@
         },
         {
             "code": "71131940",
-            "description": "",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF GOLD, SE",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1325,7 +1325,7 @@
         },
         {
             "code": "71131950",
-            "description": "",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF PLATINUM",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1337,7 +1337,7 @@
         },
         {
             "code": "71131960",
-            "description": "",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: PARTS",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1349,7 +1349,7 @@
         },
         {
             "code": "71131990",
-            "description": "",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1361,7 +1361,7 @@
         },
         {
             "code": "711320",
-            "description": "",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF BASE METAL CLAD WITH PRECIOUS METAL",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1373,7 +1373,7 @@
         },
         {
             "code": "71132000",
-            "description": "",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF BASE METAL CLAD WITH PRECIOUS METAL",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1385,7 +1385,7 @@
         },
         {
             "code": "7114",
-            "description": "",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1397,7 +1397,7 @@
         },
         {
             "code": "711411",
-            "description": "",
+            "description": "OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1409,7 +1409,7 @@
         },
         {
             "code": "71141110",
-            "description": "",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL:ART",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1421,7 +1421,7 @@
         },
         {
             "code": "71141120",
-            "description": "",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL:PAR",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1433,7 +1433,7 @@
         },
         {
             "code": "71141910",
-            "description": "",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PREC",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1445,7 +1445,7 @@
         },
         {
             "code": "71141920",
-            "description": "",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PREC",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1457,7 +1457,7 @@
         },
         {
             "code": "71141930",
-            "description": "",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PREC",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1469,7 +1469,7 @@
         },
         {
             "code": "711420",
-            "description": "",
+            "description": "OF BASE METAL CLAD WITH PRECIOUS METAL",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1481,7 +1481,7 @@
         },
         {
             "code": "71142010",
-            "description": "",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF BASE METAL CLAD WITH PRECIOUS METAL : ARTICLES CLAD WITH GOLD",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1493,7 +1493,7 @@
         },
         {
             "code": "71142020",
-            "description": "",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF BASE METAL CLAD WITH PRECIOUS METAL : OTHER ARTICLES",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1505,7 +1505,7 @@
         },
         {
             "code": "71142030",
-            "description": "",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF BASE METAL CLAD WITH PRECIOUS METAL : PARTS",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1517,7 +1517,7 @@
         },
         {
             "code": "7115",
-            "description": "",
+            "description": "OTHER ARTICLES OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1529,7 +1529,7 @@
         },
         {
             "code": "711510",
-            "description": "",
+            "description": "OTHER ARTICLES OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - CATALYSTS IN THE FROM OF WIRE CLOTH OR GRILL, OF PLATINUM",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1541,7 +1541,7 @@
         },
         {
             "code": "71151000",
-            "description": "",
+            "description": "OTHER ARTICLES OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - CATALYSTS IN THE FROM OF WIRE CLOTH OR GRILL, OF PLATINUM",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1553,7 +1553,7 @@
         },
         {
             "code": "711590",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1565,7 +1565,7 @@
         },
         {
             "code": "71159010",
-            "description": "",
+            "description": "OTHER ARTICLES OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER: LABORATORY AND INDUSTRIAL ARTICLES OF PRECIOUS METAL",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1577,7 +1577,7 @@
         },
         {
             "code": "71159020",
-            "description": "",
+            "description": "OTHER ARTICLES OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER: SPINNERETS MADE MAINLY OF GOLD",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1589,7 +1589,7 @@
         },
         {
             "code": "71159090",
-            "description": "",
+            "description": "OTHER ARTICLES OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1601,7 +1601,7 @@
         },
         {
             "code": "7116",
-            "description": "",
+            "description": "ARTICLES OF NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES(NATURAL, SYNTHETIC OR RECONSTRUCTED)",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1613,7 +1613,7 @@
         },
         {
             "code": "711610",
-            "description": "",
+            "description": "ARTICLES OF NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES(NATURAL, SYNTHETIC OR RECONSTRUCTED) - OF NATURAL OR CULTURED PEARLS",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1625,7 +1625,7 @@
         },
         {
             "code": "71161000",
-            "description": "",
+            "description": "ARTICLES OF NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES(NATURAL, SYNTHETIC OR RECONSTRUCTED) - OF NATURAL OR CULTURED PEARLS",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1637,7 +1637,7 @@
         },
         {
             "code": "71162000",
-            "description": "",
+            "description": "ARTICLES OF NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES(NATURAL, SYNTHETIC OR RECONSTRUCTED) - OF PRECIOUS OR SEMI-PRECIOUS STONES (NATURAL, SYNTHETIC OR RECONSTRUCTED)",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1649,7 +1649,7 @@
         },
         {
             "code": "7117",
-            "description": "",
+            "description": "IMITATION JEWELLERY",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1661,7 +1661,7 @@
         },
         {
             "code": "711711",
-            "description": "",
+            "description": "IMITATION JEWELLERY - OF BASE METAL, WHETHER OR NOT PLATED WITH PRECIOUS METAL : CUFF-LINKS AND STUDS",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1673,7 +1673,7 @@
         },
         {
             "code": "71171100",
-            "description": "",
+            "description": "IMITATION JEWELLERY - OF BASE METAL, WHETHER OR NOT PLATED WITH PRECIOUS METAL : CUFF-LINKS AND STUDS",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1685,7 +1685,7 @@
         },
         {
             "code": "711719",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1697,7 +1697,7 @@
         },
         {
             "code": "71171910",
-            "description": "",
+            "description": "IMITATION JEWELLERY - OF BASE METAL, WHETHER OR NOT PLATED WITH PRECIOUS METAL : OTHER: BANGLES",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1709,7 +1709,7 @@
         },
         {
             "code": "71171920",
-            "description": "",
+            "description": "IMITATION JEWELLERY - OF BASE METAL, WHETHER OR NOT PLATED WITH PRECIOUS METAL : OTHER: GERMAN SILVER JEWELLERY",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1721,7 +1721,7 @@
         },
         {
             "code": "71171990",
-            "description": "",
+            "description": "IMITATION JEWELLERY - OF BASE METAL, WHETHER OR NOT PLATED WITH PRECIOUS METAL : OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1733,7 +1733,7 @@
         },
         {
             "code": "711790",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1745,7 +1745,7 @@
         },
         {
             "code": "71179010",
-            "description": "",
+            "description": "IMITATION JEWELLERY - OTHER: JEWELLERY STUDDED WITH IMITATION PEARLS OR IMITATION OR SYNTHETIC STONES",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1757,7 +1757,7 @@
         },
         {
             "code": "71179090",
-            "description": "",
+            "description": "IMITATION JEWELLERY - OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1769,7 +1769,7 @@
         },
         {
             "code": "7118",
-            "description": "",
+            "description": "COIN",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1781,7 +1781,7 @@
         },
         {
             "code": "711810",
-            "description": "",
+            "description": "COIN - COIN (OTHER THAN GOLD COIN), NOT BEING LEGAL TENDER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1793,7 +1793,7 @@
         },
         {
             "code": "71181000",
-            "description": "",
+            "description": "COIN - COIN (OTHER THAN GOLD COIN), NOT BEING LEGAL TENDER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1805,7 +1805,7 @@
         },
         {
             "code": "711890",
-            "description": "",
+            "description": "COIN - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,
@@ -1817,7 +1817,7 @@
         },
         {
             "code": "71189000",
-            "description": "",
+            "description": "COIN - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 3,

@@ -5,154 +5,226 @@
     "entries": [
         {
             "code": "3401",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP,",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340111",
-            "description": "",
+            "description": "CONTAINING SOAP",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34011110",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34011120",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34011190",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340119",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34011911",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34011919",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34011920",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34011941",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34011942",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34011990",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340120",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -161,439 +233,661 @@
         },
         {
             "code": "34012000",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340130",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CREAM AND PUT UP FOR RETAIL SALE, WHETHER OR NOT CONTAINING SOAP",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34013011",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34013012",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34013019",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34013090",
-            "description": "",
+            "description": "SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR USE AS SOAP, IN THE FORM OF BARS,CAKES, MOULDED PIECES OR SHAPES, WHETHER OR NOT CONTAINING SOAP; ORGANIC SURFACE-ACTIVE PRODUCTS AND PREPARATIONS FOR WASHING THE SKIN, IN THE FORM OF LIQUID OR CR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "3402",
-            "description": "",
+            "description": "SULPHONATED CASTOR OIL, FISH OIL OR SPERM OIL",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340211",
-            "description": "",
+            "description": "ANIONIC",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34021110",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 ORGANIC SURFACE-ACTIV",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34021190",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 ORGANIC SURFACE-ACTIV",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340212",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 ORGANIC SURFACE-ACTIV",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34021200",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 ORGANIC SURFACE-ACTIV",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340213",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 ORGANIC SURFACE-ACTIV",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34021300",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 ORGANIC SURFACE-ACTIV",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340219",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 ORGANIC SURFACE-ACTIV",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34021900",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 ORGANIC SURFACE-ACTIV",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340220",
-            "description": "",
+            "description": "PREPARATIONS PUT UP FOR RETAIL SALE",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34022010",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 PREPARATIONS PUT UP F",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34022090",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 PREPARATIONS PUT UP F",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340290",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34029011",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 OTHER: SYNTHETIC DETE",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34029019",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 OTHER: SYNTHETIC DETE",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34029020",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 OTHER: SULPHONATED OR",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34029030",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 OTHER: PENETRATORS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34029041",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 OTHER: WETTING AGENTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34029049",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 OTHER: WETTING AGENTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34029051",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 OTHER: WASHING PREPAR",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34029059",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 OTHER: WASHING PREPAR",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34029091",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 OTHER: OTHER: WASHING",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34029099",
-            "description": "",
+            "description": "ORGANIC SURFACE-ACTIVE AGENTS (OTHER THAN SOAP), SURFACE-ACTIVE PREPARATIONS, WASHING PREPARATIONS (INCLUDING AUXILIARY WASHING PREPARATIONS) AND CLEANING PREPARATIONS, WHETHER OR NOT CONTAINING SOAP, OTHER THAN THOSE OF HEADING 3401 OTHER: OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "3403",
-            "description": "",
+            "description": "LUBRICATING PREPARATIONS (INCLUDING CUTTINGOIL PREPARATIONS , BOLT O R NUT RELEASE PREPARATIONS, ANTI-RUST OR ANTI-CORROSION PREPARATIONS AND MOULD RELEASE PREPARATIONS, BASED ON LUBRICANTS) AND PREPARATIONS OF A KIND USED FOR THE OIL OR GREASE TREATMENT",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340319",
-            "description": "",
+            "description": "LUBRICATING PREPARATIONS (INCLUDING CUTTING-OIL PREPARATIONS, BOLT OR NUT RELEASE PREPARATIONS,ANTI-RUST OR ANTI-CORROSION PREPARATIONS AND MOULD RELEASE PREPARATIONS, BASED ON LUBRICANTS) AND PREPARATIONS OF A KIND USED FOR THE OIL OR GREASE TREATMENT OF",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34031900",
-            "description": "",
+            "description": "LUBRICATING PREPARATIONS (INCLUDING CUTTING-OIL PREPARATIONS, BOLT OR NUT RELEASE PREPARATIONS,ANTI-RUST OR ANTI-CORROSION PREPARATIONS AND MOULD RELEASE PREPARATIONS, BASED ON LUBRICANTS) AND PREPARATIONS OF A KIND USED FOR THE OIL OR GREASE TREATMENT OF",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34039100",
-            "description": "",
+            "description": "LUBRICATING PREPARATIONS (INCLUDING CUTTING-OIL PREPARATIONS, BOLT OR NUT RELEASE PREPARATIONS,ANTI-RUST OR ANTI-CORROSION PREPARATIONS AND MOULD RELEASE PREPARATIONS, BASED ON LUBRICANTS) AND PREPARATIONS OF A KIND USED FOR THE OIL OR GREASE TREATMENT OF",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340399",
-            "description": "",
+            "description": "LUBRICATING PREPARATIONS (INCLUDING CUTTING-OIL PREPARATIONS, BOLT OR NUT RELEASE PREPARATIONS,ANTI-RUST OR ANTI-CORROSION PREPARATIONS AND MOULD RELEASE PREPARATIONS, BASED ON LUBRICANTS) AND PREPARATIONS OF A KIND USED FOR THE OIL OR GREASE TREATMENT OF",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34039900",
-            "description": "",
+            "description": "LUBRICATING PREPARATIONS (INCLUDING CUTTING-OIL PREPARATIONS, BOLT OR NUT RELEASE PREPARATIONS,ANTI-RUST OR ANTI-CORROSION PREPARATIONS AND MOULD RELEASE PREPARATIONS, BASED ON LUBRICANTS) AND PREPARATIONS OF A KIND USED FOR THE OIL OR GREASE TREATMENT OF",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "3404",
-            "description": "",
+            "description": "ARTIFICIAL WAXES AND PREPARED WAXES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -605,7 +899,7 @@
         },
         {
             "code": "34041000",
-            "description": "",
+            "description": "ARTIFICIAL WAXES AND PREPARED WAXES OF CHEMICALLY MODIFIED LIGNITE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -617,7 +911,7 @@
         },
         {
             "code": "340420",
-            "description": "",
+            "description": "ARTIFICIAL WAXES AND PREPARED WAXES OF POLY (OXYETHYLENE) (POLYETHYLENE GLYCOL)",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -629,7 +923,7 @@
         },
         {
             "code": "34042000",
-            "description": "",
+            "description": "ARTIFICIAL WAXES AND PREPARED WAXES OF POLY (OXYETHYLENE) (POLYETHYLENE GLYCOL)",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -641,7 +935,7 @@
         },
         {
             "code": "340490",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -653,7 +947,7 @@
         },
         {
             "code": "34049010",
-            "description": "",
+            "description": "ARTIFICIAL WAXES AND PREPARED WAXES OTHER: SEALING WAX (INCLUDING BOTTLE SEALING WAX) IN STICKS, CAKES OR SIMILAR FORMS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -665,7 +959,7 @@
         },
         {
             "code": "34049020",
-            "description": "",
+            "description": "ARTIFICIAL WAXES AND PREPARED WAXES OTHER: POLYETHYLENE WAX",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -677,7 +971,7 @@
         },
         {
             "code": "34049031",
-            "description": "",
+            "description": "ARTIFICIAL WAXES AND PREPARED WAXES OTHER: ARTIFICIAL WAXES (INCLUDING WATER SOLUBLE WAXES) PREPARED WAXES, NOT EMULSIFIED OR CONTAINING SOLVENTS: POLY BROMINATED BIPHENYLS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -689,7 +983,7 @@
         },
         {
             "code": "34049032",
-            "description": "",
+            "description": "ARTIFICIAL WAXES AND PREPARED WAXES OTHER: ARTIFICIAL WAXES (INCLUDING WATER SOLUBLE WAXES) PREPARED WAXES, NOT EMULSIFIED OR CONTAINING SOLVENTS: POLY CHLORINATED BIPHENYLS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -701,7 +995,7 @@
         },
         {
             "code": "34049033",
-            "description": "",
+            "description": "ARTIFICIAL WAXES AND PREPARED WAXES OTHER: ARTIFICIAL WAXES (INCLUDING WATER SOLUBLE WAXES) PREPARED WAXES, NOT EMULSIFIED OR CONTAINING SOLVENTS: POLY CHLORINATED TERPHENYLS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -713,7 +1007,7 @@
         },
         {
             "code": "34049039",
-            "description": "",
+            "description": "ARTIFICIAL WAXES AND PREPARED WAXES OTHER: ARTIFICIAL WAXES (INCLUDING WATER SOLUBLE WAXES) PREPARED WAXES, NOT EMULSIFIED OR CONTAINING SOLVENTS: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -725,7 +1019,7 @@
         },
         {
             "code": "34049090",
-            "description": "",
+            "description": "ARTIFICIAL WAXES AND PREPARED WAXES OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -737,168 +1031,252 @@
         },
         {
             "code": "3405",
-            "description": "",
+            "description": "POLISHES AND CREAMS, FOR FOOTWEAR, FURNITURE, FLOORS, COACHWORK, GLASS OR METAL, SCOURING PASTES AND POWDERS AND SIMILAR PREPARATIONS (WHETHER OR NOT IN THE FORM OF PAPER, WADDING, FELT, NONWOVENS , CELLULAR PLASTICS OR CELLULAR RUBBER, IMPREGNATED, COATE",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340510",
-            "description": "",
+            "description": "POLISHES AND CREAMS, FOR FOOTWEAR, FURNITURE, FLOORS, COACHWORK, GLASS OR METAL, SCOURING PASTES AND POWDERS AND SIMILAR PREPARATIONS (WHETHER OR NOT IN THE FORM OF PAPER, WADDING, FELT, NONWOVENS,CELLULAR PLASTICS OR CELLULAR RUBBER, IMPREGNATED, COATED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34051000",
-            "description": "",
+            "description": "POLISHES AND CREAMS, FOR FOOTWEAR, FURNITURE, FLOORS, COACHWORK, GLASS OR METAL, SCOURING PASTES AND POWDERS AND SIMILAR PREPARATIONS (WHETHER OR NOT IN THE FORM OF PAPER, WADDING, FELT, NONWOVENS,CELLULAR PLASTICS OR CELLULAR RUBBER, IMPREGNATED, COATED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340540",
-            "description": "",
+            "description": "POLISHES AND CREAMS, FOR FOOTWEAR, FURNITURE, FLOORS, COACHWORK, GLASS OR METAL, SCOURING PASTES AND POWDERS AND SIMILAR PREPARATIONS (WHETHER OR NOT IN THE FORM OF PAPER, WADDING, FELT, NONWOVENS,CELLULAR PLASTICS OR CELLULAR RUBBER, IMPREGNATED, COATED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34054000",
-            "description": "",
+            "description": "POLISHES AND CREAMS, FOR FOOTWEAR, FURNITURE, FLOORS, COACHWORK, GLASS OR METAL, SCOURING PASTES AND POWDERS AND SIMILAR PREPARATIONS (WHETHER OR NOT IN THE FORM OF PAPER, WADDING, FELT, NONWOVENS,CELLULAR PLASTICS OR CELLULAR RUBBER, IMPREGNATED, COATED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340590",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34059090",
-            "description": "",
+            "description": "POLISHES AND CREAMS, FOR FOOTWEAR, FURNITURE, FLOORS, COACHWORK, GLASS OR METAL, SCOURING PASTES AND POWDERS AND SIMILAR PREPARATIONS (WHETHER OR NOT IN THE FORM OF PAPER, WADDING, FELT, NONWOVENS,CELLULAR PLASTICS OR CELLULAR RUBBER, IMPREGNATED, COATED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "3406",
-            "description": "",
+            "description": "CANDLES, TAPERS AND THE LIKE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "340600",
-            "description": "",
+            "description": "HANCRAFTED CANDLES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34060010",
-            "description": "",
+            "description": "CANDLES, TAPERS AND THE LIKE CANDLES, TAPERS AND THE LIKE: CANDLES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34060090",
-            "description": "",
+            "description": "CANDLES, TAPERS AND THE LIKE CANDLES, TAPERS AND THE LIKE: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "3407",
-            "description": "",
+            "description": "MODELLING PASTES, INCLUDING THOSE PUT UP FOR CHILDREN'S AMUSEMENT; PREPARATIONS KNOWN AS DENTAL WAX \" O R A S \"DENTAL IMPRESSION COMPOUNDS\", PUT UP OTHER PREPARA (...)\"RETAIL SALE OR IN PLATES, HORSESHOE SHAPES, STICKS OR SIMILAR FORMSIN SETS, IN PACKIN",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34070010",
-            "description": "",
+            "description": "MODELLING PASTES, INCLUDING THOSE PUT UP FOR CHILDRENS AMUSEMENT; PREPARATIONS KNOWN AS DENTAL WAX OR AS DENTAL IMPRESSION COMPOUNDS, PUT UP IN SETS, IN PACKINGS FOR RETAIL SALE OR IN PLATES, HORSESHOE SHAPES, STICKS OR SIMILAR FORMS; OTHER PREPARATIONS F",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "34070090",
-            "description": "",
+            "description": "MODELLING PASTES, INCLUDING THOSE PUT UP FOR CHILDRENS AMUSEMENT; PREPARATIONS KNOWN AS DENTAL WAX OR AS DENTAL IMPRESSION COMPOUNDS, PUT UP IN SETS, IN PACKINGS FOR RETAIL SALE OR IN PLATES, HORSESHOE SHAPES, STICKS OR SIMILAR FORMS; OTHER PREPARATIONS F",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]

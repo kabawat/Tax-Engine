@@ -5,55 +5,79 @@
     "entries": [
         {
             "code": "5505",
-            "description": "",
+            "description": "WASTE (INCLUDING NOILS, YARN WASTE AND GARNETTED STOCK) OF MAN-MADE FIBRES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "550510",
-            "description": "",
+            "description": "OF SYNTHETIC FIBERS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "55051010",
-            "description": "",
+            "description": "WASTE (INCLUDING NOILS, YARN WASTE AND GARNETTED STOCK) OF MAN-MADE FIBRES - OF SYNTHETIC FIBERS : OF ACRYLIC",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "55051090",
-            "description": "",
+            "description": "WASTE (INCLUDING NOILS, YARN WASTE AND GARNETTED STOCK) OF MAN-MADE FIBRES - OF SYNTHETIC FIBERS : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "550520",
-            "description": "",
+            "description": "WASTE (INCLUDING NOILS, YARN WASTE AND GARNETTED STOCK) OF MAN-MADE FIBRES OF ARTIFICIAL FIBRES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -65,79 +89,133 @@
         },
         {
             "code": "55052000",
-            "description": "",
+            "description": "WASTE (INCLUDING NOILS, YARN WASTE AND GARNETTED STOCK) OF MAN-MADE FIBRES OF ARTIFICIAL FIBRES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "5508",
-            "description": "",
+            "description": "SEWING THREAD OF MAN-MADE STAPLE FIBRES, WHETHER OR NOT PUT UP FOR RETAIL SALE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "550810",
-            "description": "",
+            "description": "SEWING THREAD OF MAN-MADE STAPLE FIBRES, WHETHER OR NOT PUT UP FOR RETAIL SALE - OF SYNTHETIC STAPLE FIBRES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "55081000",
-            "description": "",
+            "description": "SEWING THREAD OF MAN-MADE STAPLE FIBRES, WHETHER OR NOT PUT UP FOR RETAIL SALE - OF SYNTHETIC STAPLE FIBRES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "550820",
-            "description": "",
+            "description": "SEWING THREAD OF MAN-MADE STAPLE FIBRES, WHETHER OR NOT PUT UP FOR RETAIL SALE - OF ARTIFICIAL STAPLE FIBRES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "55082000",
-            "description": "",
+            "description": "SEWING THREAD OF MAN-MADE STAPLE FIBRES, WHETHER OR NOT PUT UP FOR RETAIL SALE - OF ARTIFICIAL STAPLE FIBRES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "5512",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - CONTAINING 85% OR MORE BY WEIGHT OF POLYESTER STAPLE FIBRES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -149,7 +227,7 @@
         },
         {
             "code": "551211",
-            "description": "",
+            "description": "UNBLEACHED OR BLEACHED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -161,7 +239,7 @@
         },
         {
             "code": "55121110",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - CONTAINING 85% OR MORE BY WEIGHT OF POLYESTER STAPLE FIBRES : UNBLEACHED OR BLEACHED : UNBLEACHED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -173,7 +251,7 @@
         },
         {
             "code": "55121120",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - CONTAINING 85% OR MORE BY WEIGHT OF POLYESTER STAPLE FIBRES : UNBLEACHED OR BLEACHED : BLEACHED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -185,7 +263,7 @@
         },
         {
             "code": "551219",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -197,7 +275,7 @@
         },
         {
             "code": "55121910",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - CONTAINING 85% OR MORE BY WEIGHT OF POLYESTER STAPLE FIBRES : OTHER : DYED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -209,7 +287,7 @@
         },
         {
             "code": "55121920",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - CONTAINING 85% OR MORE BY WEIGHT OF POLYESTER STAPLE FIBRES : OTHER : PRINTED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -221,7 +299,7 @@
         },
         {
             "code": "551221",
-            "description": "",
+            "description": "UNBLEACHED OR BLEACHED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -233,7 +311,7 @@
         },
         {
             "code": "55122110",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - CONTAINING 85% OR MORE BY WEIGHT OF ACRYLIC OR MODACRYLIC STAPLE FIBRES : UNBLEACHED OR BLEACHED : UNBLEACHED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -245,7 +323,7 @@
         },
         {
             "code": "55122120",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - CONTAINING 85% OR MORE BY WEIGHT OF ACRYLIC OR MODACRYLIC STAPLE FIBRES : UNBLEACHED OR BLEACHED : BLEACHED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -257,7 +335,7 @@
         },
         {
             "code": "551229",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -269,7 +347,7 @@
         },
         {
             "code": "55122910",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - CONTAINING 85% OR MORE BY WEIGHT OF ACRYLIC OR MODACRYLIC STAPLE FIBRES : OTHER : DYED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -281,7 +359,7 @@
         },
         {
             "code": "55122920",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - CONTAINING 85% OR MORE BY WEIGHT OF ACRYLIC OR MODACRYLIC STAPLE FIBRES : OTHER : PRINTED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -293,7 +371,7 @@
         },
         {
             "code": "55122990",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - CONTAINING 85% OR MORE BY WEIGHT OF ACRYLIC OR MODACRYLIC STAPLE FIBRES : OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -305,7 +383,7 @@
         },
         {
             "code": "551291",
-            "description": "",
+            "description": "UNBLEACHED OR BLEACHED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -317,7 +395,7 @@
         },
         {
             "code": "55129110",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - OTHER : UNBLEACHED OR BLEACHED : UNBLEACHED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -329,7 +407,7 @@
         },
         {
             "code": "55129120",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - OTHER : UNBLEACHED OR BLEACHED : BLEACHED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -341,7 +419,7 @@
         },
         {
             "code": "551299",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -353,7 +431,7 @@
         },
         {
             "code": "55129910",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - OTHER : OTHER : DYED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -365,7 +443,7 @@
         },
         {
             "code": "55129920",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - OTHER : OTHER : PRINTED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -377,7 +455,7 @@
         },
         {
             "code": "55129990",
-            "description": "",
+            "description": "WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES - OTHER : OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,

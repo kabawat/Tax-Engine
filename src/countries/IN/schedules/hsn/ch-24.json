@@ -5,259 +5,385 @@
     "entries": [
         {
             "code": "2401",
-            "description": "",
+            "description": "Tobacco leaves",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "240110",
-            "description": "",
+            "description": "TOBACCO, NOT STEMMED OR STRIPPED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24011010",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, NOT STEMMED OR STRIPPED : FLUE CURED VIRGINIA TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24011020",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, NOT STEMMED OR STRIPPED : SUN CURED COUNTRY (NATU) TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24011030",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, NOT STEMMED OR STRIPPED : SUN CURED VIRGINIA TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24011040",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, NOT STEMMED OR STRIPPED : BURLEY TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24011050",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, NOT STEMMED OR STRIPPED : TOBACCO FOR MANUFACTURE OF BIRIS, NOT STEMMED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24011060",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, NOT STEMMED OR STRIPPED : TOBACCO FOR MANUFACTURE OF CHEWING TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24011070",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, NOT STEMMED OR STRIPPED : TOBACCO FOR MANUFACTURE OF CIGAR AND CHEROOT",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24011080",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, NOT STEMMED OR STRIPPED : TOBACCO FOR MANUFACTURE OF HOOKAH TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24011090",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, NOT STEMMED OR STRIPPED : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "240120",
-            "description": "",
+            "description": "TOBACCO, PARTLY OR WHOLLY STEMMED OR STRIPPED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24012010",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, PARTLY OR WHOLLY STEMMED OR STRIPPED : FLUE CURED VIRGINIA TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24012020",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, PARTLY OR WHOLLY STEMMED OR STRIPPED : SUN CURED COUNTRY (NATU) TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24012030",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, PARTLY OR WHOLLY STEMMED OR STRIPPED : SUN CURED VIRGINIA TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24012040",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, PARTLY OR WHOLLY STEMMED OR STRIPPED : BURLEY TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24012050",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, PARTLY OR WHOLLY STEMMED OR STRIPPED : TOBACCO FOR MANUFACTURE OF BIRIS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24012060",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, PARTLY OR WHOLLY STEMMED OR STRIPPED : TOBACCO FOR MANUFACTURE OF CHEWING TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24012070",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, PARTLY OR WHOLLY STEMMED OR STRIPPED : TOBACCO FOR MANUFACTURE OF CIGAR AND CHEROOT",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24012080",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, PARTLY OR WHOLLY STEMMED OR STRIPPED : TOBACCO FOR MANUFACTURE OF HOOKAH TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24012090",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO, PARTLY OR WHOLLY STEMMED OR STRIPPED : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "240130",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO REFUSE",
             "rateHistory": [
                 {
                     "ratePercent": 28,
@@ -269,120 +395,180 @@
         },
         {
             "code": "24013000",
-            "description": "",
+            "description": "UNMANUFACTURED TOBACCO; TOBACCO REFUSE - TOBACCO REFUSE",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2402",
-            "description": "",
+            "description": "CIGARS, CHEROOTS, CIGARILLOS AND CIGARETTES, OF TOBACCO OR OF TOBACCO SUBSTITUTES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "240210",
-            "description": "",
+            "description": "CIGARS, CHEROOTS AND CIGARILLOS, CONTAINING TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24021010",
-            "description": "",
+            "description": "CIGARS, CHEROOTS, CIGARILLOS AND CIGARETTES, OF TOBACCO OR OF TOBACCO SUBSTITUTES - CIGARS, CHEROOTS AND CIGARILLOS, CONTAINING TOBACCO : CIGAR AND CHEROOTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24021020",
-            "description": "",
+            "description": "CIGARS, CHEROOTS, CIGARILLOS AND CIGARETTES, OF TOBACCO OR OF TOBACCO SUBSTITUTES - CIGARS, CHEROOTS AND CIGARILLOS, CONTAINING TOBACCO : CIGARILLOS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "240220",
-            "description": "",
+            "description": "CIGARETTES, CONTAINING TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24022010",
-            "description": "",
+            "description": "CIGARS, CHEROOTS, CIGARILLOS AND CIGARETTES, OF TOBACCO OR OF TOBACCO SUBSTITUTES - CIGARS, CHEROOTS AND CIGARILLOS, CONTAINING TOBACCO : CIGAR AND CHEROOTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24022030",
-            "description": "",
+            "description": "CIGARS, CHEROOTS, CIGARILLOS AND CIGARETTES, OF TOBACCO OR OF TOBACCO SUBSTITUTES - CIGARETTES, CONTAINING TOBACCO : FILTER CIGARETTES OF LENGTH (INCLUDING THE LENGTH OF THE FILTER, THE LENGTH OF FILTER BEING 11 MILLIMETRES OR ITS ACTUAL LENGTH, WHICHEVER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24022040",
-            "description": "",
+            "description": "CIGARS, CHEROOTS, CIGARILLOS AND CIGARETTES, OF TOBACCO OR OF TOBACCO SUBSTITUTES - CIGARETTES, CONTAINING TOBACCO : FILTER CIGARETTES OF LENGTH (INCLUDING THE LENGTH OF THE FILTER, THE LENGTH OF FILTER BEING 11 MILLIMETRES OR ITS ACTUAL LENGTH, WHICHEVER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24022050",
-            "description": "",
+            "description": "CIGARS, CHEROOTS, CIGARILLOS AND CIGARETTES, OF TOBACCO OR OF TOBACCO SUBSTITUTES - CIGARETTES, CONTAINING TOBACCO : FILTER CIGARETTES OF LENGTH (INCLUDING THE LENGTH OF THE FILTER, THE LENGTH OF FILTER BEING 11 MILLIMETRES OR ITS ACTUAL LENGTH, WHICHEVER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -401,288 +587,432 @@
         },
         {
             "code": "24022090",
-            "description": "",
+            "description": "CIGARS, CHEROOTS, CIGARILLOS AND CIGARETTES, OF TOBACCO OR OF TOBACCO SUBSTITUTES - CIGARETTES, CONTAINING TOBACCO : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "240290",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24029010",
-            "description": "",
+            "description": "CIGARS, CHEROOTS, CIGARILLOS AND CIGARETTES, OF TOBACCO OR OF TOBACCO SUBSTITUTES - OTHER : CIGARETTES OF TOBACCO SUBSTITUTES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24029020",
-            "description": "",
+            "description": "CIGARS, CHEROOTS, CIGARILLOS AND CIGARETTES, OF TOBACCO OR OF TOBACCO SUBSTITUTES - OTHER : CIGARILLOS OF TOBACCO SUBSTITUTES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24029090",
-            "description": "",
+            "description": "CIGARS, CHEROOTS, CIGARILLOS AND CIGARETTES, OF TOBACCO OR OF TOBACCO SUBSTITUTES - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2403",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES; HOMOGENISED\" OR \"RECONSTITUTED\" TOBACCO EXTRACTS AND ESSENCES TOBACCO SUBSTITUE IN ANY PROPORTION",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "240311",
-            "description": "",
+            "description": "WATER PIPE TOBACCO SPECIFIED IN SUB-HEADING NOTE TO THIS CHAPTER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24031110",
-            "description": "",
+            "description": "HOOKAH OR GUDAKU TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24031190",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES;HOMOGENISED\" OR \"RECONSTITUTED\" TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "240319",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24031910",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES;HOMOGENISED\" OR \"RECONSTITUTED\" TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24031921",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES;HOMOGENISED\" OR \"RECONSTITUTED\" TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24031929",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES;HOMOGENISED\" OR \"RECONSTITUTED\" TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24031990",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES;HOMOGENISED\" OR \"RECONSTITUTED\" TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24039100",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES;HOMOGENISED OR RECONSTITUTED TOBACCO; TOBACCO EXTRACTS AND ESSENCES - OTHER : HOMOGENISED OR RECONSTITUTED TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "240399",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24039910",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES;HOMOGENISED OR RECONSTITUTED TOBACCO; TOBACCO EXTRACTS AND ESSENCES - OTHER : OTHER : CHEWING TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24039920",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES;HOMOGENISED OR RECONSTITUTED TOBACCO; TOBACCO EXTRACTS AND ESSENCES - OTHER : OTHER : PREPARATIONS CONTAINING CHEWING TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24039930",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES;HOMOGENISED OR RECONSTITUTED TOBACCO; TOBACCO EXTRACTS AND ESSENCES - OTHER : OTHER : JARDA SCENTED TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24039940",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES;HOMOGENISED OR RECONSTITUTED TOBACCO; TOBACCO EXTRACTS AND ESSENCES - OTHER : OTHER : SNUFF",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24039950",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES;HOMOGENISED OR RECONSTITUTED TOBACCO; TOBACCO EXTRACTS AND ESSENCES - OTHER : OTHER : PREPARATIONS CONTAINING SNUFF",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24039960",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES;HOMOGENISED OR RECONSTITUTED TOBACCO; TOBACCO EXTRACTS AND ESSENCES - OTHER : OTHER : TOBACCO EXTRACTS AND ESSENCE",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24039970",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES;HOMOGENISED OR RECONSTITUTED TOBACCO; TOBACCO EXTRACTS AND ESSENCES - OTHER : OTHER : CUT-TOBACCO",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "24039990",
-            "description": "",
+            "description": "OTHER MANUFACTURED TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES;HOMOGENISED OR RECONSTITUTED TOBACCO; TOBACCO EXTRACTS AND ESSENCES - OTHER : OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]

@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "9301",
-            "description": "",
+            "description": "MILITARY WEAPONS, OTHER THAN REVOLVERS, PISTOLS AND THE ARMS OF HEADING",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -17,7 +17,7 @@
         },
         {
             "code": "930110",
-            "description": "",
+            "description": "ARTILLERY WEAPONS (FOR EXAPLE, GUNDS, HOWITZERS AND MORTARS)",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -29,7 +29,7 @@
         },
         {
             "code": "93011010",
-            "description": "",
+            "description": "SELF PROPELLED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -41,7 +41,7 @@
         },
         {
             "code": "93011090",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -53,7 +53,7 @@
         },
         {
             "code": "93019000",
-            "description": "",
+            "description": "MILITARY WEAPONS, OTHER THAN REVOLVERS, PISTOLS AND THE ARMS OF HEADING 9307 - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -65,19 +65,25 @@
         },
         {
             "code": "9302",
-            "description": "",
+            "description": "REVOLVERS AND PISTOLS, OTHER THAN THOSE OF HEADING 9303 OR 9304",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "930200",
-            "description": "",
+            "description": "REVOLVERS AND PISTOLS, OTHER THAN THOSE OF HEADING 9303 OR 9304",
             "rateHistory": [
                 {
                     "ratePercent": 28,
@@ -89,19 +95,25 @@
         },
         {
             "code": "93020000",
-            "description": "",
+            "description": "REVOLVERS AND PISTOLS, OTHER THAN THOSE OF HEADING 9303 OR 9304",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "9303",
-            "description": "",
+            "description": "OTHER FIREARMS AND SIMILAR DEVICES WHICH OPERATE BY THE FIRING OF AN EXPLOSIVE CHARGE (FOR EXAMPLE, SPORTING SHOTGUNS AND RIFLES, MUZZLE-LOADING FIREARMS, VERY PISTOLS AND OTHER DEVICES DESIGNED TO PROJECT ONLY SIGNAL FLARES, PISTOLS AND REVOLVERS FOR FIR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -113,7 +125,7 @@
         },
         {
             "code": "930310",
-            "description": "",
+            "description": "OTHER FIREARMS AND SIMILAR DEVICES WHICH OPERATE BY THE FIRING OF AN EXPLOSIVE CHARGE (FOR EXAMPLE, SPORTING SHOTGUNS AND RIFLES, MUZZLE-LOADING FIREARMS, VERY PISTOLS AND OTHER DEVICES DESIGNED TO PROJECT ONLY SIGNAL FLARES, PISTOLS AND REVOLVERS FOR FIR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -125,7 +137,7 @@
         },
         {
             "code": "93031000",
-            "description": "",
+            "description": "OTHER FIREARMS AND SIMILAR DEVICES WHICH OPERATE BY THE FIRING OF AN EXPLOSIVE CHARGE (FOR EXAMPLE, SPORTING SHOTGUNS AND RIFLES, MUZZLE-LOADING FIREARMS, VERY PISTOLS AND OTHER DEVICES DESIGNED TO PROJECT ONLY SIGNAL FLARES, PISTOLS AND REVOLVERS FOR FIR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -137,7 +149,7 @@
         },
         {
             "code": "930330",
-            "description": "",
+            "description": "OTHER FIREARMS AND SIMILAR DEVICES WHICH OPERATE BY THE FIRING OF AN EXPLOSIVE CHARGE (FOR EXAMPLE, SPORTING SHOTGUNS AND RIFLES, MUZZLE-LOADING FIREARMS, VERY PISTOLS AND OTHER DEVICES DESIGNED TO PROJECT ONLY SIGNAL FLARES, PISTOLS AND REVOLVERS FOR FIR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -149,7 +161,7 @@
         },
         {
             "code": "93033000",
-            "description": "",
+            "description": "OTHER FIREARMS AND SIMILAR DEVICES WHICH OPERATE BY THE FIRING OF AN EXPLOSIVE CHARGE (FOR EXAMPLE, SPORTING SHOTGUNS AND RIFLES, MUZZLE-LOADING FIREARMS, VERY PISTOLS AND OTHER DEVICES DESIGNED TO PROJECT ONLY SIGNAL FLARES, PISTOLS AND REVOLVERS FOR FIR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -161,7 +173,7 @@
         },
         {
             "code": "930390",
-            "description": "",
+            "description": "OTHER FIREARMS AND SIMILAR DEVICES WHICH OPERATE BY THE FIRING OF AN EXPLOSIVE CHARGE (FOR EXAMPLE, SPORTING SHOTGUNS AND RIFLES, MUZZLE-LOADING FIREARMS, VERY PISTOLS AND OTHER DEVICES DESIGNED TO PROJECT ONLY SIGNAL FLARES, PISTOLS AND REVOLVERS FOR FIR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -173,7 +185,7 @@
         },
         {
             "code": "93039000",
-            "description": "",
+            "description": "OTHER FIREARMS AND SIMILAR DEVICES WHICH OPERATE BY THE FIRING OF AN EXPLOSIVE CHARGE (FOR EXAMPLE, SPORTING SHOTGUNS AND RIFLES, MUZZLE-LOADING FIREARMS, VERY PISTOLS AND OTHER DEVICES DESIGNED TO PROJECT ONLY SIGNAL FLARES, PISTOLS AND REVOLVERS FOR FIR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -185,7 +197,7 @@
         },
         {
             "code": "9304",
-            "description": "",
+            "description": "OTHER ARMS (FOR EXAMPLE, SPRING, AIR OR GAS GUNS AND PISTOLS, TRUNCHEONS), EXCLUDING THOSE OF HEADING 9307",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -197,7 +209,7 @@
         },
         {
             "code": "93040000",
-            "description": "",
+            "description": "OTHER ARMS (FOR EXAMPLE, SPRING, AIR OR GAS GUNS AND PISTOLS, TRUNCHEONS), EXCLUDING THOSE OF HEADING 9307",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -209,7 +221,7 @@
         },
         {
             "code": "9305",
-            "description": "",
+            "description": "PARTS AND ACCESSORIES OF ARTICLES OF HEADINGS 9301 TO 9304",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -221,7 +233,7 @@
         },
         {
             "code": "93051000",
-            "description": "",
+            "description": "PARTS AND ACCESSORIES OF ARTICLES OF HEADINGS 9301 TO 9304 OF REVOLVERS OR PISTOLS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -233,7 +245,7 @@
         },
         {
             "code": "930520",
-            "description": "",
+            "description": "OF SHOTGUNDS OR RIFLES OF HEADING 9303",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -245,7 +257,7 @@
         },
         {
             "code": "93052010",
-            "description": "",
+            "description": "SHOTGUN BARRELS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -257,7 +269,7 @@
         },
         {
             "code": "93052090",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -269,7 +281,7 @@
         },
         {
             "code": "93059100",
-            "description": "",
+            "description": "PARTS AND ACCESSORIES OF ARTICLES OF HEADINGS 9301 TO 9304 - OTHER : OF MILITARY WEAPONS OF HEADING 9301",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -281,7 +293,7 @@
         },
         {
             "code": "93059900",
-            "description": "",
+            "description": "PARTS AND ACCESSORIES OF ARTICLES OF HEADINGS 9301 TO 9304 - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -293,7 +305,7 @@
         },
         {
             "code": "9306",
-            "description": "",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS - SHOTGUN CARTRIDGES AND PARTS THEREOF; AIR GUN PELLETS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -305,7 +317,7 @@
         },
         {
             "code": "93061000",
-            "description": "",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS CARTRIDGES FOR RIVETING OR SIMILAR TOOLS OR FOR CAPTIVE-BOLT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -317,7 +329,7 @@
         },
         {
             "code": "930621",
-            "description": "",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS - SHOTGUN CARTRIDGES AND PARTS THEREOF; AIR GUN PELLETS: CAR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -329,7 +341,7 @@
         },
         {
             "code": "93062100",
-            "description": "",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS - SHOTGUN CARTRIDGES AND PARTS THEREOF; AIR GUN PELLETS: CAR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -341,7 +353,7 @@
         },
         {
             "code": "930629",
-            "description": "",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS - SHOTGUN CARTRIDGES AND PARTS THEREOF; AIR GUN PELLETS: OTH",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -353,7 +365,7 @@
         },
         {
             "code": "93062900",
-            "description": "",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS - SHOTGUN CARTRIDGES AND PARTS THEREOF; AIR GUN PELLETS: OTH",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -365,7 +377,7 @@
         },
         {
             "code": "930630",
-            "description": "",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS OTHER CARTRIDGES AND PARTS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -377,7 +389,7 @@
         },
         {
             "code": "93063000",
-            "description": "",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS OTHER CARTRIDGES AND PARTS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -389,7 +401,7 @@
         },
         {
             "code": "930690",
-            "description": "",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -401,7 +413,7 @@
         },
         {
             "code": "93069000",
-            "description": "",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -413,7 +425,7 @@
         },
         {
             "code": "9307",
-            "description": "",
+            "description": "SWORDS, CUT LASSES, BAYONETS, LANCES AND SIMILAR ARMS AND PARTS THEREOF AND SCABBARDS AND SHEATHS THEREFOR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -425,7 +437,7 @@
         },
         {
             "code": "93070000",
-            "description": "",
+            "description": "SWORDS, CUT LASSES, BAYONETS, LANCES AND SIMILAR ARMS AND PARTS THEREOF AND SCABBARDS AND SHEATHS THEREFOR",
             "rateHistory": [
                 {
                     "ratePercent": 18,

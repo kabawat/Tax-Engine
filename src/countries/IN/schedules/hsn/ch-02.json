@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "0201",
-            "description": "",
+            "description": "MEAT OF BOVINE ANIMALS, FRESH AND CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -17,7 +17,7 @@
         },
         {
             "code": "02011000",
-            "description": "",
+            "description": "MEAT OF BOVINE ANIMALS, FRESH AND CHILLED CARCASSES AND HALF CARCASSES",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -29,7 +29,7 @@
         },
         {
             "code": "02012000",
-            "description": "",
+            "description": "MEAT OF BOVINE ANIMALS, FRESH AND CHILLED OTHER CUTS WITH BONE IN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -41,7 +41,7 @@
         },
         {
             "code": "02013000",
-            "description": "",
+            "description": "MEAT OF BOVINE ANIMALS, FRESH AND CHILLED BONELESS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -53,391 +53,583 @@
         },
         {
             "code": "0202",
-            "description": "",
+            "description": "MEAT OF BOVINE ANIMALS, FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02021000",
-            "description": "",
+            "description": "MEAT OF BOVINE ANIMALS, FROZEN CARCASSES AND HALF-CARCASSES",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02022000",
-            "description": "",
+            "description": "MEAT OF BOVINE ANIMALS, FROZEN OTHER CUTS WITH BONE IN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02023000",
-            "description": "",
+            "description": "MEAT OF BOVINE ANIMALS, FROZEN BONELESS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "0203",
-            "description": "",
+            "description": "MEAT OF SWINE, FRESH, CHILLED OR FROZEN - FRESH OR CHILLED:",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02031100",
-            "description": "",
+            "description": "MEAT OF SWINE, FRESH, CHILLED OR FROZEN FRESH OR CHILLED : CARCASSES AND HALF-CARCASSES",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02031200",
-            "description": "",
+            "description": "MEAT OF SWINE, FRESH, CHILLED OR FROZEN HAMS, SHOULDERS AND CUTS THERE OF, WITH BONE IN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02031900",
-            "description": "",
+            "description": "MEAT OF SWINE, FRESH, CHILLED OR FROZEN HAMS, SHOULDERS AND CUTS THERE OF, WITH BONE INOTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02032100",
-            "description": "",
+            "description": "MEAT OF SWINE, FRESH, CHILLED OR FROZEN FROZEN : CARCASSES AND HALF-CARCASSES",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02032200",
-            "description": "",
+            "description": "MEAT OF SWINE, FRESH, CHILLED OR FROZEN FROZEN : HAMS, SHOULDERS AND CUTS THERE OF, WITH BONE IN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02032900",
-            "description": "",
+            "description": "MEAT OF SWINE, FRESH, CHILLED OR FROZEN FROZEN OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "0204",
-            "description": "",
+            "description": "MEAT OF SHEEP OR GOATS, FRESH, CHILLED OR FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02041000",
-            "description": "",
+            "description": "MEAT OF SHEEP OR GOATS, FRESH, CHILLED OR FROZEN CARCASSES AND HALF CARCASSES OF LAMB, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02042100",
-            "description": "",
+            "description": "MEAT OF SHEEP OR GOATS, FRESH, CHILLED OR FROZEN OTHER MEAT OF SHEEP, FRESH OR CHILLED : CARCASSES AND HALF CARCASSES",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02042200",
-            "description": "",
+            "description": "MEAT OF SHEEP OR GOATS, FRESH, CHILLED OR FROZEN OTHERMEAT OF SHEEP, FRESH OR CHILLED : OTHER CUTS WITH BONE IN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02042300",
-            "description": "",
+            "description": "MEAT OF SHEEP OR GOATS, FRESH, CHILLED OR FROZEN OTHER MEAT OF SHEEP, FRESH OR CHILLED : BONELESS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02043000",
-            "description": "",
+            "description": "MEAT OF SHEEP OR GOATS, FRESH, CHILLED OR FROZEN CARCASSES AND HALFCARCASSES OF LAMB, FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02044100",
-            "description": "",
+            "description": "MEAT OF SHEEP OR GOATS, FRESH, CHILLED OR FROZEN OTHERMEAT OF SHEEP, FROZEN : CARCASSES AND HALF-CARCASSES",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02044200",
-            "description": "",
+            "description": "MEAT OF SHEEP OR GOATS, FRESH, CHILLED OR FROZEN OTHER MEAT OF SHEEP, FROZEN : OTHER CUTS WITH BONE IN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02044300",
-            "description": "",
+            "description": "MEAT OF SHEEP OR GOATS, FRESH, CHILLED OR FROZEN OTHER MEAT OF SHEEP, FROZEN : BONELESS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02045000",
-            "description": "",
+            "description": "MEAT OF SHEEP OR GOATS, FRESH, CHILLED OR FROZEN MEAT OF GOATS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "0205",
-            "description": "",
+            "description": "MEAT OF HORSES, ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02050000",
-            "description": "",
+            "description": "MEAT OF HORSES, ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "0206",
-            "description": "",
+            "description": "EDIBLE OFFAL OF BOVINE ANIMALS, SWINE, SHEEP, GOATS, HORSES, ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "020610",
-            "description": "",
+            "description": "EDIBLE OFFAL OF BOVINEANIMALS, SWINE, SHEEP, GOATS, HORSES, ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN OF BOVINE ANIMALS, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02061000",
-            "description": "",
+            "description": "EDIBLE OFFAL OF BOVINEANIMALS, SWINE, SHEEP, GOATS, HORSES, ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN OF BOVINE ANIMALS, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02062100",
-            "description": "",
+            "description": "EDIBLE OFFAL OF BOVINE ANIMALS, SWINE, SHEEP, GOATS, HORSES, ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN OF BOVINE ANIMALS, FROZEN : TONGUES",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02062200",
-            "description": "",
+            "description": "EDIBLE OFFAL OF BOVINE ANIMALS, SWINE, SHEEP, GOATS, HORSES, ASSES, MULES OR HINNIES, FRESH, CHI LLED OR FROZEN OF BOVINE ANIMALS, FROZEN : LIVERS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02062900",
-            "description": "",
+            "description": "EDIBLE OFFAL OF BOVINEANIMALS, SWINE, SHEEP, GOATS, HORSES, ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN OF BOVINE ANIMALS, FROZEN : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02063000",
-            "description": "",
+            "description": "EDIBLE OFFAL OF BOVINEANIMALS, SWINE, SHEEP, GOATS, HORSES, ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN OF SWINE, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02064100",
-            "description": "",
+            "description": "EDIBLE OFFAL OF BOVINEANIMALS, SWINE, SHEEP, GOATS, HORSES, ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN OF SWINE, FROZEN : LIVERS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02064900",
-            "description": "",
+            "description": "EDIBLE OFFAL OF BOVINEANIMALS, SWINE, SHEEP, GOATS, HORSES, ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN OF SWINE, FROZEN : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "020680",
-            "description": "",
+            "description": "Other, fresh or chilled",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -449,31 +641,43 @@
         },
         {
             "code": "02068010",
-            "description": "",
+            "description": "EDIBLE OFFAL OF BOVINEANIMALS, SWINE, SHEEP, GOATS, HORSES, ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN OTHER, FRESH OR CHILLED OF SHEEP OR GOATS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02068090",
-            "description": "",
+            "description": "EDIBLE OFFAL OF BOVINEANIMALS, SWINE, SHEEP, GOATS, HORSES, ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN OTHER, FRESH OR CHILLED OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "020690",
-            "description": "",
+            "description": "Other, frozen",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -485,127 +689,187 @@
         },
         {
             "code": "02069010",
-            "description": "",
+            "description": "EDIBLE OFFAL OF BOVINEANIMALS, SWINE, SHEEP, GOATS, HORSES, ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN OTHER, FROZEN : OF SHEEP OR GOATS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02069090",
-            "description": "",
+            "description": "EDIBLE OFFAL OF BOVINEANIMALS, SWINE, SHEEP, GOATS, HORSES, ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN OTHER, FROZEN : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "0207",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THE POULTRY OF HEADING 0105, FRESH, CHILLED OR FROZEN - OF FOWLS OF THE SPECIES GALLUS DOMESTICUS:",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02071100",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THEPOULTRY OF HEADING0105, FRESH, CHILLED OR FROZEN OF FOWLS OF THE SPECIES GALLUSDOMESTICUS : NOT CUT IN PIECES, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02071200",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THEPOULTRY OF HEADING0105, FRESH, CHILLED OR FROZEN OF FOWLS OF THE SPECIES GALLUSDOMESTICUS : NOT CUT IN PIECES, FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02071300",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THEPOULTRY OF HEADING0105, FRESH, CHILLED OR FROZEN OF FOWLS OF THE SPECIES GALLUSDOMESTICUS : CUTS AND OFFAL, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02071400",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THEPOULTRY OF HEADING0105, FRESH, CHILLED OR FROZEN OF FOWLS OF THE SPECIES GALLUSDOMESTICUS : CUTS AND OFFAL, FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02072400",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THEPOULTRY OF HEADING0105, FRESH, CHILLED OR FROZEN OF TURKEYS NOT CUT IN PIECES, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02072500",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THEPOULTRY OF HEADING0105, FRESH, CHILLED OR FROZEN OF TURKEYS NOT CUT IN PIECES, FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02072600",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THEPOULTRY OF HEADING0105, FRESH, CHILLED OR FROZEN CUTS AND OFFAL, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02072700",
-            "description": "",
+            "description": "Cuts and offal, frozen",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -617,211 +881,313 @@
         },
         {
             "code": "02074100",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THE POULTRY OF HEADING 0105, FRESH, CHILLED OR FROZEN- OF DUCKS --NOT CUT IN PIECES, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02074200",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THE POULTRY OF HEADING 0105, FRESH, CHILLED OR FROZEN- OF DUCKES -- NOT CUT IN PIECES, FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02074300",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THE POULTRY OF HEADING 0105, FRESH, CHILLED OR FROZEN- OF DUCKS -- FATTY LIVERS, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02074400",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THE POULTRY OF HEADING 0105, FRESH, CHILLED OR FROZEN-OF DUCKS -- OTHER, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02074500",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THE POULTRY OF HEADING 0105, FRESH, CHILLED OR FROZEN- OF DUCKS --OTHER, FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02075100",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THE POULTRY OF HEADING 0105, FRESH, CHILLED OR FROZEN- OF GEESE -- NOT CUT IN PIECES, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02075200",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THE POULTRY OF HEADING 0105, FRESH, CHILLED OR FROZEN- OF GEESE -- NOT CUT IN PIECES, FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02075300",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THE POULTRY OF HEADING 0105, FRESH, CHILLED OR FROZEN- OF GEESE -- FATTY LIVERS, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02075400",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THE POULTRY OF HEADING 0105, FRESH, CHILLED OR FROZEN-OF GEESE --OTHER, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02075500",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THE POULTRY OF HEADING 0105, FRESH, CHILLED OR FROZEN-OF GEESE -- OTHER, FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02076000",
-            "description": "",
+            "description": "MEAT, AND EDIBLE OFFAL, OF THE POULTRY OF HEADING 0105, FRESH, CHILLED OR FROZEN- OF GEESE - OF GUINEA FOWLS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "0208",
-            "description": "",
+            "description": "OTHER MEAT AND EDIBLE MEAT OFFAL, FRESH, CHILLED OR FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02081000",
-            "description": "",
+            "description": "OTHER MEAT AND EDIBLE MEAT OFFAL, FRESH, CHILLED OR FROZEN OF RABBITS OR HARES",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02083000",
-            "description": "",
+            "description": "OTHER MEAT AND EDIBLE MEAT OFFAL, FRESH, CHILLED OR FROZEN OF PRIMATES",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02084000",
-            "description": "",
+            "description": "OTHER MEAT AND EDIBLE MEAT OFFAL, FRESH, CHILLED OR FROZEN OF WHALES, DOLPHINS AND P OR POISES(MAMMALS OF THE OR DER CATACEA); OF MANATEES AND DUGONGS(MAMMALS OF THE OR DER SIRENIA)",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02085000",
-            "description": "",
+            "description": "OTHER MEAT AND EDIBLE MEAT OFFAL, FRESH, CHILLED OR FROZEN OF REPTILES(INCLUDING SNAKES AND TURTLES)",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02086000",
-            "description": "",
+            "description": "OF WHALES, DOLPHINS AND PORPOISES (MAMMALSOF THE ORDER CETACEA); OF MANATEES AND DUGONGS (MAMMALS OF THE ORDER SIRENIA)- OF CAMELS AND OTHER CAMELIDS (CAMELIDAE)",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "020890",
-            "description": "",
+            "description": "Other",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -833,31 +1199,43 @@
         },
         {
             "code": "02089010",
-            "description": "",
+            "description": "OTHER MEAT AND EDIBLE MEAT OFFAL, FRESH, CHILLED OR FROZEN OTHER : OF WILD ANIMALS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02089090",
-            "description": "",
+            "description": "OTHER MEAT AND EDIBLE MEAT OFFAL, FRESH, CHILLED OR FROZEN OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "0209",
-            "description": "",
+            "description": "All goods, fresh or chilled        All goods [other than fresh or chilled] other than those put up in unit container and, -\n(a) bearing a registered brand name; or\n(b) bearing a brand name on which an actionable claim or enforceable right in a court of law is available [other than those where any actionable claim or enforceable right in respect of such brand name has been foregone voluntarily], subject to the conditions as in the ANNEXURE I ]",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -869,132 +1247,198 @@
         },
         {
             "code": "02091000",
-            "description": "",
+            "description": "PIG FAT, FREE OF LEAN MEAT, AND POULTRY FAT, NOT RENDERED OR OTHERWSE EXTRACTED, FRESH, CHILLED, FROZEN, SALTED, IN BRINE, DRIED OR SMOKED - OF PIGS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02099000",
-            "description": "",
+            "description": "PIG FAT, FREE OF LEAN MEAT, AND POULTRY FAT, NOT RENDERED OR OTHERWSE EXTRACTED, FRESH, CHILLED, FROZEN, SALTED, IN BRINE, DRIED OR SMOKED - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "0210",
-            "description": "",
+            "description": "MEAT AND EDIBLE MEAT OFFAL, SALTED, IN BRINE, DRIED OR SMOKED; EDIBLE FLOURS AND MEALS OF MEAT OR MEAT OFFAL - MEAT OF SWINE:",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02101100",
-            "description": "",
+            "description": "MEAT AND EDIBLEMEAT OFFAL, SALTED, INBRINE, DRIED OR SMOKED;EDIBLEFLOURS AND MEALS OF MEAT OR MEAT OFFALMEAT OF SWINE : HAMS, SHOULDERS AND CUTS THERE OF, WITH BONE IN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02101200",
-            "description": "",
+            "description": "MEAT AND EDIBLEMEAT OFFAL, SALTED, INBRINE, DRIED OR SMOKED;EDIBLEFLOURS AND MEALS OF MEAT OR MEAT OFFALMEAT OF SWINE : BELLIES(STREAKY) AND CUTS THERE OF",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02101900",
-            "description": "",
+            "description": "MEAT AND EDIBLEMEAT OFFAL, SALTED, INBRINE, DRIED OR SMOKED;EDIBLEFLOURS AND MEALS OF MEAT OR MEAT OFFALMEAT OF SWINE : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02102000",
-            "description": "",
+            "description": "MEAT AND EDIBLEMEAT OFFAL, SALTED, INBRINE, DRIED OR SMOKED;EDIBLEFLOURS AND MEALS OF MEAT OR MEAT OFFALMEAT OF BOVINE ANIMALS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02109100",
-            "description": "",
+            "description": "MEAT AND EDIBLE MEAT OFFAL, SALTED, INBRINE, DRIED OR SMOKED;EDIBLE FLOURS AND MEALS OF MEAT OR MEAT OFFAL-OTHER, INCLUDING EDIBLE FLOURS AND MEALS OF MEAT OR MEAT OFFAL : OF PRIMATES",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02109200",
-            "description": "",
+            "description": "MEAT AND EDIBLEMEAT OFFAL, SALTED, INBRINE, DRIED OR SMOKED;EDIBLE FLOURS AND MEALS OF MEAT OR MEAT OFFAL-OTHER, INCLUDING EDIBLE FLOURS AND MEALS OF MEAT OR MEAT OFFAL : OF WHALES, DOLPHINS AND PORPOISES(MAMMALS OF THE ORDER CATECEA); OF MANATEES AND DUG",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02109300",
-            "description": "",
+            "description": "MEAT AND EDIBLE MEAT OFFAL, SALTED, INBRINE, DRIED OR SMOKED;EDIBLE FLOURS AND MEALS OF MEAT OR MEAT OFFAL-OTHER, INCLUDING EDIBLE FLOURS AND MEALS OF MEAT OR MEAT OFFAL : OF REPTILES(INCLUDING SNAKES AND TURTLES)",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "02109900",
-            "description": "",
+            "description": "MEAT AND EDIBLE MEAT OFFAL, SALTED, INBRINE, DRIED OR SMOKED;EDIBLE FLOURS AND MEALS OF MEAT OR MEAT OFFAL-OTHER, INCLUDING EDIBLE FLOURS AND MEALS OF MEAT OR MEAT OFFAL -- OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]

@@ -13,6 +13,7 @@ import {
   scheduleLookupKey,
 } from '../src/countries/IN/schedules/index.js';
 import {
+  INDIA_FULL_SCHEDULE,
   INDIA_FULL_SCHEDULE_INDEX,
   INDIA_FULL_SCHEDULE_META,
 } from '../src/countries/IN/schedules/full.js';
@@ -269,5 +270,47 @@ describe('India full schedule (default)', () => {
     ).toThrow(
       expect.objectContaining({ code: TaxEngineErrorCode.NO_RULE_FOUND }),
     );
+  });
+});
+
+describe('HSN dataset integrity', () => {
+  it('has no duplicate codes and valid rate periods in full schedule', () => {
+    expect(INDIA_FULL_SCHEDULE_META.hsnCount).toBe(12877);
+    const seenCodes = new Set<string>();
+    for (const entry of INDIA_FULL_SCHEDULE) {
+      if (entry.kind !== 'HSN') continue;
+      expect(seenCodes.has(entry.code)).toBe(false);
+      seenCodes.add(entry.code);
+      expect(entry.rateHistory.length).toBeGreaterThan(0);
+      // rateHistory is sorted by effectiveFrom descending
+      for (let i = 0; i < entry.rateHistory.length; i++) {
+        const period = entry.rateHistory[i]!;
+        expect(period.ratePercent).toBeGreaterThanOrEqual(0);
+        expect(period.effectiveFrom).toMatch(/^\d{4}-\d{2}-\d{2}$/);
+        if (i === 0) {
+          expect(period.effectiveTo).toBeNull();
+        } else {
+          expect(period.effectiveTo).toMatch(/^\d{4}-\d{2}-\d{2}$/);
+          expect(period.effectiveFrom <= period.effectiveTo!).toBe(true);
+        }
+      }
+    }
+  });
+
+  it('resolves historical rate changes across effective dates', () => {
+    const beforeChange = resolveScheduleEntry(
+      '01012100',
+      'HSN',
+      '2025-09-21',
+      INDIA_FULL_SCHEDULE_INDEX,
+    );
+    const afterChange = resolveScheduleEntry(
+      '01012100',
+      'HSN',
+      '2025-09-22',
+      INDIA_FULL_SCHEDULE_INDEX,
+    );
+    expect(beforeChange?.ratePercent).toBe(12);
+    expect(afterChange?.ratePercent).toBe(5);
   });
 });

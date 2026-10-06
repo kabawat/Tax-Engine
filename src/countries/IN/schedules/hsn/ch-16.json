@@ -5,43 +5,61 @@
     "entries": [
         {
             "code": "1601",
-            "description": "",
+            "description": "SAUSAGES AND SIMILAR PRODUCTS, OF MEAT, MEAT OFFAL OR BLOOD; FOOD PREPARATIONS BASED ON THESE PRODUCTS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16010000",
-            "description": "",
+            "description": "SAUSAGES AND SIMILAR PRODUCTS, OF MEAT, MEAT OFFAL OR BLOOD; FOOD PREPARATIONS BASED ON THESE PRODUCTS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "1602",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "160210",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD HOMOGENISED PREPARATIONS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -53,19 +71,25 @@
         },
         {
             "code": "16021000",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD HOMOGENISED PREPARATIONS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "160220",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF LIVER OF ANY ANIMAL",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -77,19 +101,25 @@
         },
         {
             "code": "16022000",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF LIVER OF ANY ANIMAL",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "160231",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF POULTRY OF HEADING 0105 : OF TURKEYS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -101,19 +131,25 @@
         },
         {
             "code": "16023100",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF POULTRY OF HEADING 0105 : OF TURKEYS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "160232",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF POULTRY OF HEADING 0105 : OF FOWLS OF THE SPECIES GALLUS DOMESTICUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -125,19 +161,25 @@
         },
         {
             "code": "16023200",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF POULTRY OF HEADING 0105 : OF FOWLS OF THE SPECIES GALLUS DOMESTICUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "160239",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF POULTRY OF HEADING 0105 : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -149,19 +191,25 @@
         },
         {
             "code": "16023900",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF POULTRY OF HEADING 0105 : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "160241",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF SWINE : HAMS AND CUTS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -173,19 +221,25 @@
         },
         {
             "code": "16024100",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF SWINE : HAMS AND CUTS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "160242",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF SWINE : SHOULDERS AND CUTS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -197,19 +251,25 @@
         },
         {
             "code": "16024200",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF SWINE : SHOULDERS AND CUTS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "160249",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF SWINE : OTHER, INCLUDING MIXTURES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -221,19 +281,25 @@
         },
         {
             "code": "16024900",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF SWINE : OTHER, INCLUDING MIXTURES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "160250",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF BOVINE ANIMALS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -245,19 +311,25 @@
         },
         {
             "code": "16025000",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OF BOVINE ANIMALS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "160290",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OTHER, INCLUDING PREPARATIONS OF BLOOD OF ANY ANIMAL",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -269,516 +341,774 @@
         },
         {
             "code": "16029000",
-            "description": "",
+            "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL OR BLOOD OTHER, INCLUDING PREPARATIONS OF BLOOD OF ANY ANIMAL",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "1603",
-            "description": "",
+            "description": "EXTRACTS AND JUICES OF MEAT, FISH OR CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16030010",
-            "description": "",
+            "description": "EXTRACTS AND JUICES OF MEAT, FISH OR CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATES EXTRACTS AND JUICES OF MEAT, FISH OR CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATES : EXTRACTS AND JUICES OF MEAT",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16030020",
-            "description": "",
+            "description": "EXTRACTS AND JUICES OF MEAT, FISH OR CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATES EXTRACTS AND JUICES OF MEAT, FISH OR CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATES : EXTRACTS OF FISH",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16030090",
-            "description": "",
+            "description": "EXTRACTS AND JUICES OF MEAT, FISH OR CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATESEXTRACTS AND JUICES OF MEAT, FISH OR CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATES : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "1604",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS - FISH, WHOLE OR IN PIECES, BUT NOT MINCED :",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16041100",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS FISH, WHOLE OR IN PIECES, BUT NOT MINCED : SALMON",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "160412",
-            "description": "",
+            "description": "HERRINGS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16041210",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS FISH, WHOLE OR IN PIECES, BUT NOT MINCED : HERRINGS : PICKLED",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16041290",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS FISH, WHOLE OR IN PIECES, BUT NOT MINCED : HERRINGS : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "160413",
-            "description": "",
+            "description": "SARDINES, SARDINELLA AND BRISLING OR SPRATS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16041310",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS FISH, WHOLE OR IN PIECES, BUT NOT MINCED : SARDINES, SARDINELLA AND BRISLING OR SPRATS : SARDINES, SARDINELLA AND BRISLING",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16041320",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS FISH, WHOLE OR IN PIECES, BUT NOT MINCED : SARDINES, SARDINELLA AND BRISLING OR SPRATS : SPRATS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "160414",
-            "description": "",
+            "description": "TUNAS, SKIPJACK AND BONITO (SARDA SPP.)",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16041410",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS FISH, WHOLE OR IN PIECES, BUT NOT MINCED : TUNAS, SKIPJACK AND BONITO (SARDA SPP.) : TUNAS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16041490",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS FISH, WHOLE OR IN PIECES, BUT NOT MINCED : TUNAS, SKIPJACK AND BONITO (SARDA SPP.) : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16041500",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS FISH, WHOLE OR IN PIECES, BUT NOT MINCED : MACKEREL",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16041600",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS FISH, WHOLE OR IN PIECES, BUT NOT MINCED : ANCHOVIES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16041700",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS-- EELS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16041800",
-            "description": "",
+            "description": "SHARK FINS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16041900",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS FISH, WHOLE OR IN PIECES, BUT NOT MINCED : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16042000",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS OTHER PREPARED OR PRESERVED FISH",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16043100",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS-CAVIAR AND CAVIAR SUBSTITUTES -- CAVIAR",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16043200",
-            "description": "",
+            "description": "PREPARED OR PRESERVED FISH; CAVIAR AND CAVIAR SUBSTITUTES PREPARED FROM FISH EGGS- CAVIAR AND CAVIAR SUBSTITUTES -- CAVIAR SUBSTITUTES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "1605",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16051000",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED CRAB",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16052100",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED SHRIMPS - SHRIMPS AND PRAWNS --NOT IN AIRTIGHT CONTAINER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16052900",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED SHRIMPS AND PRAWNS-SHRIMPTS AND PRAWNS -- OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16053000",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED LOBSTER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16054000",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED OTHER CRUSTACEANS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16055100",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED- MOLLUSCS -- OYSTERS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16055200",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED- MOLLUSCS-- SCALLOPS, INCLUDING QUEEN SCALLOPS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16055300",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED- MOLLUSCS--MUSSELS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16055400",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED- MOLLUSCS--CUTTLE FISH AND SQUID",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16055500",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED- MOLLUSCS- OCTOPUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16055600",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED- MOLLUSCS-CLAMS, COCKLES AND ARKSHELLS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16055700",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED- MOLLUSCS--ABALONE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16055800",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED- MOLLUSCS--SNAILS, OTHER THAN SEA SNAILS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16055900",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED- MOLLUSCS--OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16056100",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED-OTHER AQUATIC INVERTEBRATES--SEA CUCUMBERS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16056200",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED-OTHER AQUATIC INVERTEBRATES-- SEA URCHINS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16056300",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED-OTHER AQUATIC INVERTEBRATES--JELLYFISH",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "16056900",
-            "description": "",
+            "description": "CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, PREPARED OR PRESERVED-OTHER AQUATIC INVERTEBRATES--OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]

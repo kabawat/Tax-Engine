@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "7901",
-            "description": "",
+            "description": "UNWROUGHT ZINC - ZINC, NOT ALLOYED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -17,7 +17,7 @@
         },
         {
             "code": "790111",
-            "description": "",
+            "description": "UNWROUGHT ZINC - ZINC, NOT ALLOYED : CONTAINING BY WEIGHT 99.99% OR MORE OF ZINC",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -29,7 +29,7 @@
         },
         {
             "code": "79011100",
-            "description": "",
+            "description": "UNWROUGHT ZINC - ZINC, NOT ALLOYED : CONTAINING BY WEIGHT 99.99% OR MORE OF ZINC",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -41,7 +41,7 @@
         },
         {
             "code": "790112",
-            "description": "",
+            "description": "UNWROUGHT ZINC - ZINC, NOT ALLOYED : CONTAINING BY WEIGHT LESS THAN 99.99% OF ZINC",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -53,7 +53,7 @@
         },
         {
             "code": "79011200",
-            "description": "",
+            "description": "UNWROUGHT ZINC - ZINC, NOT ALLOYED : CONTAINING BY WEIGHT LESS THAN 99.99% OF ZINC",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -65,7 +65,7 @@
         },
         {
             "code": "790120",
-            "description": "",
+            "description": "ZINC ALLOYS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -77,7 +77,7 @@
         },
         {
             "code": "79012010",
-            "description": "",
+            "description": "UNWROUGHT ZINC - ZINC ALLOYS :MOZAK OR ALLOYS OF ZINC AND ALUMINIUM CONTAINING NOT LESS THAN 94% BY WEIGHT OF ZINC",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -89,7 +89,7 @@
         },
         {
             "code": "79012090",
-            "description": "",
+            "description": "UNWROUGHT ZINC - ZINC ALLOYS : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -101,7 +101,7 @@
         },
         {
             "code": "7902",
-            "description": "",
+            "description": "ZINC WASTE AND SCRAP",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -113,7 +113,7 @@
         },
         {
             "code": "790200",
-            "description": "",
+            "description": "ZINC WASTE AND SCRAP",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -125,7 +125,7 @@
         },
         {
             "code": "79020090",
-            "description": "",
+            "description": "ZINC WASTE AND SCRAP - ZINC WASTE AND SCRAP :OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -137,7 +137,7 @@
         },
         {
             "code": "7903",
-            "description": "",
+            "description": "ZINC DUST, POWDERS AND FLAKES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -149,7 +149,7 @@
         },
         {
             "code": "790310",
-            "description": "",
+            "description": "ZINC DUST, POWDERS AND FLAKES : ZINC DUST",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -161,7 +161,7 @@
         },
         {
             "code": "79031000",
-            "description": "",
+            "description": "ZINC DUST, POWDERS AND FLAKES : ZINC DUST",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -173,7 +173,7 @@
         },
         {
             "code": "790390",
-            "description": "",
+            "description": "ZINC DUST, POWDERS AND FLAKES : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -185,7 +185,7 @@
         },
         {
             "code": "79039000",
-            "description": "",
+            "description": "ZINC DUST, POWDERS AND FLAKES : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -197,7 +197,7 @@
         },
         {
             "code": "7904",
-            "description": "",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -209,7 +209,7 @@
         },
         {
             "code": "790400",
-            "description": "",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -221,7 +221,7 @@
         },
         {
             "code": "79040011",
-            "description": "",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE - ZINC BARS, RODS, PROFILES AND WIRE : BARS AND RODS :HOLLOW BARS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -233,7 +233,7 @@
         },
         {
             "code": "79040012",
-            "description": "",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE - ZINC BARS, RODS, PROFILES AND WIRE : BARS AND RODS :RODS, INCLUDING WIRE RODS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -245,7 +245,7 @@
         },
         {
             "code": "79040019",
-            "description": "",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE - ZINC BARS, RODS, PROFILES AND WIRE : BARS AND RODS :OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -257,7 +257,7 @@
         },
         {
             "code": "79040021",
-            "description": "",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE - ZINC BARS, RODS, PROFILES AND WIRE : PROFILES : HOLLOW",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -269,7 +269,7 @@
         },
         {
             "code": "79040022",
-            "description": "",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE - ZINC BARS, RODS, PROFILES AND WIRE : PROFILES : ANGLES, SHAPES AND SECTIONS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -281,7 +281,7 @@
         },
         {
             "code": "79040029",
-            "description": "",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE - ZINC BARS, RODS, PROFILES AND WIRE : PROFILES : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -293,7 +293,7 @@
         },
         {
             "code": "79040030",
-            "description": "",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE - ZINC BARS, RODS, PROFILES AND WIRE : WIRE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -305,7 +305,7 @@
         },
         {
             "code": "7905",
-            "description": "",
+            "description": "ZINC PLATES, SHEETS, STRIP AND FOIL",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -317,7 +317,7 @@
         },
         {
             "code": "790500",
-            "description": "",
+            "description": "ZINC PLATES, SHEETS, STRIP AND FOIL",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -329,7 +329,7 @@
         },
         {
             "code": "79050010",
-            "description": "",
+            "description": "ZINC PLATES, SHEETS, STRIP AND FOIL - ZINC PLATES, SHEETS, STRIP AND FOIL :CALOTS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -341,7 +341,7 @@
         },
         {
             "code": "79050020",
-            "description": "",
+            "description": "ZINC PLATES, SHEETS, STRIP AND FOIL - ZINC PLATES, SHEETS, STRIP AND FOIL :PLATES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -353,7 +353,7 @@
         },
         {
             "code": "79050030",
-            "description": "",
+            "description": "ZINC PLATES, SHEETS, STRIP AND FOIL - ZINC PLATES, SHEETS, STRIP AND FOIL :SHEETS, STRIP AND CIRCLES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -365,7 +365,7 @@
         },
         {
             "code": "79050040",
-            "description": "",
+            "description": "ZINC PLATES, SHEETS, STRIP AND FOIL - ZINC PLATES, SHEETS, STRIP AND FOIL :FOIL",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -377,7 +377,7 @@
         },
         {
             "code": "7907",
-            "description": "",
+            "description": "OTHER ARTICLES OF ZINC",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -389,7 +389,7 @@
         },
         {
             "code": "790700",
-            "description": "",
+            "description": "OTHER ARTICLES OF ZINC",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -401,7 +401,7 @@
         },
         {
             "code": "79070010",
-            "description": "",
+            "description": "OTHER ARTICLES OF ZINC : SANITARY FIXTURES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -413,7 +413,7 @@
         },
         {
             "code": "79070090",
-            "description": "",
+            "description": "OTHER ARTICLES OF ZINC : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,

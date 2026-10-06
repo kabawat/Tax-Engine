@@ -5,19 +5,25 @@
     "entries": [
         {
             "code": "4701",
-            "description": "",
+            "description": "MECHANICAL WOOD PULP",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470100",
-            "description": "",
+            "description": "MECHANICAL WOOD PULP",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -29,31 +35,43 @@
         },
         {
             "code": "47010000",
-            "description": "",
+            "description": "MECHANICAL WOOD PULP",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "4702",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, DISSOLVING GRADES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470200",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, DISSOLVING GRADES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -65,31 +83,43 @@
         },
         {
             "code": "47020000",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, DISSOLVING GRADES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "4703",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SODA OR SULPHATE, OTHER THAN DISSOLVING GRADES - UNBLEACHED :",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470311",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SODA OR SULPHATE, OTHERTHAN DISSOLVING GRADES - UNBLEACHED : CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -101,19 +131,25 @@
         },
         {
             "code": "47031100",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SODA OR SULPHATE, OTHERTHAN DISSOLVING GRADES - UNBLEACHED : CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470319",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SODA OR SULPHATE, OTHERTHAN DISSOLVING GRADES - UNBLEACHED : NON-CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -125,19 +161,25 @@
         },
         {
             "code": "47031900",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SODA OR SULPHATE, OTHERTHAN DISSOLVING GRADES - UNBLEACHED : NON-CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470321",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SODA OR SULPHATE, OTHERTHAN DISSOLVING GRADES - SEMI-BLEACHED OR BLEACHED : CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -149,19 +191,25 @@
         },
         {
             "code": "47032100",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SODA OR SULPHATE, OTHERTHAN DISSOLVING GRADES - SEMI-BLEACHED OR BLEACHED : CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470329",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SODA OR SULPHATE, OTHERTHAN DISSOLVING GRADES - SEMI-BLEACHED OR BLEACHED : NON-CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -173,31 +221,43 @@
         },
         {
             "code": "47032900",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SODA OR SULPHATE, OTHERTHAN DISSOLVING GRADES - SEMI-BLEACHED OR BLEACHED : NON-CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "4704",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SULPHITE, OTHER THAN DISSOLVING GRADES - UNBLEACHED :",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470411",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SULPHITE, OTHER THAN DISSOLVING GRADES - UNBLEACHED : CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -209,19 +269,25 @@
         },
         {
             "code": "47041100",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SULPHITE, OTHER THAN DISSOLVING GRADES - UNBLEACHED : CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470419",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SULPHITE, OTHER THAN DISSOLVING GRADES - UNBLEACHED : NON-CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -233,19 +299,25 @@
         },
         {
             "code": "47041900",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SULPHITE, OTHER THAN DISSOLVING GRADES - UNBLEACHED : NON-CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470421",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SULPHITE, OTHER THAN DISSOLVING GRADES - SEMI-BLEACHED OR BLEACHED : CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -257,19 +329,25 @@
         },
         {
             "code": "47042100",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SULPHITE, OTHER THAN DISSOLVING GRADES - SEMI-BLEACHED OR BLEACHED : CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470429",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SULPHITE, OTHER THAN DISSOLVING GRADES - SEMI-BLEACHED OR BLEACHED : NON-CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -281,55 +359,79 @@
         },
         {
             "code": "47042900",
-            "description": "",
+            "description": "CHEMICAL WOOD PULP, SULPHITE, OTHER THAN DISSOLVING GRADES - SEMI-BLEACHED OR BLEACHED : NON-CONIFEROUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "4705",
-            "description": "",
+            "description": "WOOD PULP OBTAINED BY A COMBINATION OF MECHANICAL AND CHEMICAL PULPING PROCESSES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "47050000",
-            "description": "",
+            "description": "WOOD PULP OBTAINED BY A COMBINATION OF MECHANICAL AND CHEMICAL PULPING PROCESSES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "4706",
-            "description": "",
+            "description": "PULPS OF FIBRES DERIVED FROM RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD OR OF OTHER FIBROUS CELLULOSIC MATERIAL",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470610",
-            "description": "",
+            "description": "PULPS OF FIBRES DERIVED FROM RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD OR OF OTHER FIBROUS CELLULOSIC MATERIAL - COTTON LINTERS PULP",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -341,19 +443,25 @@
         },
         {
             "code": "47061000",
-            "description": "",
+            "description": "PULPS OF FIBRES DERIVED FROM RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD OR OF OTHER FIBROUS CELLULOSIC MATERIAL - COTTON LINTERS PULP",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470630",
-            "description": "",
+            "description": "PULPS OF FIBRES DERIVED FROM RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD OR OF OTHER FIBROUS CELLULOSIC MATERIAL - OTHER OF BAMBOO",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -365,19 +473,25 @@
         },
         {
             "code": "47063000",
-            "description": "",
+            "description": "PULPS OF FIBRES DERIVED FROM RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD OR OF OTHER FIBROUS CELLULOSIC MATERIAL - OTHER OF BAMBOO",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470691",
-            "description": "",
+            "description": "PULPS OF FIBRES DERIVED FROM RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD OR OF OTHER FIBROUS CELLULOSIC MATERIAL - OTHER : MECHANICAL",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -389,19 +503,25 @@
         },
         {
             "code": "47069100",
-            "description": "",
+            "description": "PULPS OF FIBRES DERIVED FROM RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD OR OF OTHER FIBROUS CELLULOSIC MATERIAL - OTHER : MECHANICAL",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470692",
-            "description": "",
+            "description": "PULPS OF FIBRES DERIVED FROM RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD OR OF OTHER FIBROUS CELLULOSIC MATERIAL - OTHER : CHEMICAL",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -413,84 +533,126 @@
         },
         {
             "code": "47069200",
-            "description": "",
+            "description": "PULPS OF FIBRES DERIVED FROM RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD OR OF OTHER FIBROUS CELLULOSIC MATERIAL - OTHER : CHEMICAL",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470693",
-            "description": "",
+            "description": "OBTAINED BY A COMBINATION OF MECHANICAL AND CHEMICAL PROCESSES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "47069300",
-            "description": "",
+            "description": "PULPS OF FIBRES DERIVED FROM RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD OR OF OTHER FIBROUS CELLULOSIC MATERIAL - OTHER : SEMI-CHEMICAL",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "4707",
-            "description": "",
+            "description": "RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "47071000",
-            "description": "",
+            "description": "RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD - UNBLEACHED KRAFT PAPER OR PAPERBOARD OR CORRUGATED PAPER OR PAPERBOARD",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "470790",
-            "description": "",
+            "description": "RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD - OTHER, INCLUDING UNSORTED WASTE AND SCRAP",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "47079000",
-            "description": "",
+            "description": "RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD - OTHER, INCLUDING UNSORTED WASTE AND SCRAP",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]

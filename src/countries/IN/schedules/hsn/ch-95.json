@@ -5,19 +5,25 @@
     "entries": [
         {
             "code": "9503",
-            "description": "",
+            "description": "Toy balloons made of natural rubber latex",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "950300",
-            "description": "",
+            "description": "TRICYCLES, SCOOTERS, PEDAL CARS AND SIMILAR WHEELED TOYS; DOLL'S CARRIAGES; DOLLS; OTHER TOYS; REDUCED-SIZE (SCALE) MODELS AND SIMILAR RECREATIONAL MODELS, WORKING OR NOT; PUZZLES OF ALL KINDS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -29,7 +35,7 @@
         },
         {
             "code": "95030010",
-            "description": "",
+            "description": "TRICYCLES, SCOOTERS, PEDAL CARS AND SIMILAR WHEELED TOYS; DOLLS CARRIAGES; DOLLS; OTHER TOYS; REDUCED-SIZE (*SCALE*) MODELS AND SIMILAR RECREATIONAL MODELS, WORKING OR NOT; PUZZLES OF ALL KINDS - TRICYCLES, SCOOTERS, PEDAL CARS AND SIMILAR WHEELED TOYS; D",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -41,7 +47,7 @@
         },
         {
             "code": "95030020",
-            "description": "",
+            "description": "TRICYCLES, SCOOTERS, PEDAL CARS AND SIMILAR WHEELED TOYS; DOLLS CARRIAGES; DOLLS; OTHER TOYS; REDUCED-SIZE (*SCALE*) MODELS AND SIMILAR RECREATIONAL MODELS, WORKING OR NOT; PUZZLES OF ALL KINDS - TRICYCLES, SCOOTERS, PEDAL CARS AND SIMILAR WHEELED TOYS; D",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -53,7 +59,7 @@
         },
         {
             "code": "95030030",
-            "description": "",
+            "description": "TRICYCLES, SCOOTERS, PEDAL CARS AND SIMILAR WHEELED TOYS; DOLLS CARRIAGES; DOLLS; OTHER TOYS; REDUCED-SIZE (*SCALE*) MODELS AND SIMILAR RECREATIONAL MODELS, WORKING OR NOT; PUZZLES OF ALL KINDS - TRICYCLES, SCOOTERS, PEDAL CARS AND SIMILAR WHEELED TOYS; D",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -65,7 +71,7 @@
         },
         {
             "code": "95030090",
-            "description": "",
+            "description": "TRICYCLES, SCOOTERS, PEDAL CARS AND SIMILAR WHEELED TOYS; DOLLS CARRIAGES; DOLLS; OTHER TOYS; REDUCED-SIZE (*SCALE*) MODELS AND SIMILAR RECREATIONAL MODELS, WORKING OR NOT; PUZZLES OF ALL KINDS -TRICYCLES, SCOOTERS, PEDAL CARS AND SIMILAR WHEELED TOYS; DO",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -77,60 +83,96 @@
         },
         {
             "code": "9504",
-            "description": "",
+            "description": "Playing cards, chess board, carom board and other board games, like ludo, etc. [other than Video game consoles and Machines], Ganjifa card",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-12-31"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2019-01-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "95042000",
-            "description": "",
+            "description": "ARTICLES FOR FUNFAIR, TABLE OR PARLOUR GAMES, INCLUDING PINTABLES, BILLIARDS, SPECIAL TABLES FOR CASINO GAMES AND AUTOMATIC BOWLING ALLEY EQUIPMENT- ARTICLES AND ACCESSORIES FOR BILLIARDS OF ALL KINDS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-12-31"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2019-01-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "95043000",
-            "description": "",
+            "description": "ARTICLES FOR FUNFAIR, TABLE OR PARLOUR GAMES, INCLUDING PINTABLES, BILLIARDS, SPECIAL TABLES FOR CASINO GAMES AND AUTOMATIC BOWLING ALLEY EQUIPMENT - OTHER GAMES, OPERATED BY COINS, BANK NOTES, BANK CARDS, TOKENS OR BY OTHER MEANS OF PAYMENT, OTHER THAN B",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-12-31"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2019-01-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "95044000",
-            "description": "",
+            "description": "ARTICLES FOR FUNFAIR, TABLE OR PARLOUR GAMES, INCLUDING PINTABLES, BILLIARDS, SPECIAL TABLES FOR CASINO GAMES AND AUTOMATIC BOWLING ALLEY EQUIPMENT - PLAYING CARDS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-12-31"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2019-01-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "95045000",
-            "description": "",
+            "description": "VIDEO GAME CONSOLES AND MACHINES OTHER THAN SUB-HEADING 9504 30",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-12-31"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2019-01-01",
                     "effectiveTo": null
                 }
             ]
@@ -149,130 +191,190 @@
         },
         {
             "code": "95049010",
-            "description": "",
+            "description": "ARTICLES FOR FUNFAIR, TABLE OR PARLOUR GAMES, INCLUDING PINTABLES, BILLIARDS, SPECIAL TABLES FOR CASINO GAMES AND AUTOMATIC BOWLING ALLEY EQUIPMENT - OTHER : CHESS SET, ALL TYPES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-12-31"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2019-01-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "95049020",
-            "description": "",
+            "description": "CAROM BOARD, WITH OR WITHOUT COINS AND STRIKERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "95049090",
-            "description": "",
+            "description": "ARTICLES FOR FUNFAIR, TABLE OR PARLOUR GAMES, INCLUDING PINTABLES, BILLIARDS, SPECIAL TABLES FOR CASINO GAMES AND AUTOMATIC BOWLING ALLEY EQUIPMENT - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-12-31"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2019-01-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "9505",
-            "description": "",
+            "description": "FESTIVE, CARNIVAL OR OTHER ENTERTAINMENT ARTICLES, INCLUDING CONJURING TRICKS AND NOVELTY JOKES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "950510",
-            "description": "",
+            "description": "FESTIVE, CARNIVAL OR OTHER ENTERTAINMENT ARTICLES, INCLUDING CONJURING TRICKS AND NOVELTY JOKES - ARTICLES FOR CHRISTMAS FESTIVITIES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "95051000",
-            "description": "",
+            "description": "FESTIVE, CARNIVAL OR OTHER ENTERTAINMENT ARTICLES, INCLUDING CONJURING TRICKS AND NOVELTY JOKES - ARTICLES FOR CHRISTMAS FESTIVITIES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "950590",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "95059010",
-            "description": "",
+            "description": "FESTIVE, CARNIVAL OR OTHER ENTERTAINMENT ARTICLES, INCLUDING CONJURING TRICKS AND NOVELTY JOKES - OTHER : MAGICAL EQUIPMENTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "95059090",
-            "description": "",
+            "description": "FESTIVE, CARNIVAL OR OTHER ENTERTAINMENT ARTICLES, INCLUDING CONJURING TRICKS AND NOVELTY JOKES - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "9506",
-            "description": "",
+            "description": "Sports goods other than articles and equipments for general physical exercise",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "950611",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - SNOW-SKIS AND OTHER SNOW-SKI EQUI",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -281,10 +383,10 @@
         },
         {
             "code": "95061100",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - SNOW-SKIS AND OTHER SNOW-SKI EQUI",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -293,10 +395,10 @@
         },
         {
             "code": "950612",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - SNOW-SKIS AND OTHER SNOW-SKI EQUI",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -305,10 +407,10 @@
         },
         {
             "code": "95061200",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - SNOW-SKIS AND OTHER SNOW-SKI EQUI",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -317,10 +419,10 @@
         },
         {
             "code": "950619",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - SNOW-SKIS AND OTHER SNOW-SKI EQUI",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -329,10 +431,10 @@
         },
         {
             "code": "95061900",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - SNOW-SKIS AND OTHER SNOW-SKI EQUI",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -341,10 +443,10 @@
         },
         {
             "code": "950621",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - WATER-SKIS, SURF-BOARDS, SAILBOAR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -353,10 +455,10 @@
         },
         {
             "code": "95062100",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - WATER-SKIS, SURF-BOARDS, SAILBOAR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -365,10 +467,10 @@
         },
         {
             "code": "950629",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - WATER-SKIS, SURF-BOARDS, SAILBOAR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -377,10 +479,10 @@
         },
         {
             "code": "95062900",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - WATER-SKIS, SURF-BOARDS, SAILBOAR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -389,10 +491,10 @@
         },
         {
             "code": "950631",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - GOLF CLUBS AND OTHER GOLF EQUIPME",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -401,10 +503,10 @@
         },
         {
             "code": "95063100",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - GOLF CLUBS AND OTHER GOLF EQUIPME",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -413,10 +515,10 @@
         },
         {
             "code": "950632",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - GOLF CLUBS AND OTHER GOLF EQUIPME",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -425,10 +527,10 @@
         },
         {
             "code": "95063200",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - GOLF CLUBS AND OTHER GOLF EQUIPME",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -437,10 +539,10 @@
         },
         {
             "code": "950639",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - GOLF CLUBS AND OTHER GOLF EQUIPME",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -449,10 +551,10 @@
         },
         {
             "code": "95063900",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - GOLF CLUBS AND OTHER GOLF EQUIPME",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -461,10 +563,10 @@
         },
         {
             "code": "950640",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS ARTICLES AND EQUIPMENT FOR TABLE-TE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -473,10 +575,10 @@
         },
         {
             "code": "95064000",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS ARTICLES AND EQUIPMENT FOR TABLE-TE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -485,10 +587,10 @@
         },
         {
             "code": "950651",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - TENNIS, BADMINTON OR SIMILAR RACK",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -497,10 +599,10 @@
         },
         {
             "code": "95065100",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - TENNIS, BADMINTON OR SIMILAR RACK",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -509,10 +611,10 @@
         },
         {
             "code": "950659",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -521,10 +623,10 @@
         },
         {
             "code": "95065910",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - TENNIS, BADMINTON OR SIMILAR RACK",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -533,10 +635,10 @@
         },
         {
             "code": "95065990",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - TENNIS, BADMINTON OR SIMILAR RACK",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -545,10 +647,10 @@
         },
         {
             "code": "950661",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - BALLS, OTHER THAN GOLF BALLS AND",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -557,10 +659,10 @@
         },
         {
             "code": "95066100",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - BALLS, OTHER THAN GOLF BALLS AND",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -569,10 +671,10 @@
         },
         {
             "code": "950662",
-            "description": "",
+            "description": "INFLATABLE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -581,10 +683,10 @@
         },
         {
             "code": "95066210",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - BALLS, OTHER THAN GOLF BALLS AND",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -593,10 +695,10 @@
         },
         {
             "code": "95066220",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - BALLS, OTHER THAN GOLF BALLS AND",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -605,10 +707,10 @@
         },
         {
             "code": "95066230",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - BALLS, OTHER THAN GOLF BALLS AND",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -617,10 +719,10 @@
         },
         {
             "code": "95066290",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - BALLS, OTHER THAN GOLF BALLS AND",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -629,10 +731,10 @@
         },
         {
             "code": "950669",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -641,10 +743,10 @@
         },
         {
             "code": "95066910",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - BALLS, OTHER THAN GOLF BALLS AND",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -653,10 +755,10 @@
         },
         {
             "code": "95066920",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - BALLS, OTHER THAN GOLF BALLS AND",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -665,10 +767,10 @@
         },
         {
             "code": "95066930",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - BALLS, OTHER THAN GOLF BALLS AND",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -677,10 +779,10 @@
         },
         {
             "code": "95066940",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - BALLS, OTHER THAN GOLF BALLS AND",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -689,10 +791,10 @@
         },
         {
             "code": "95066990",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - BALLS, OTHER THAN GOLF BALLS AND",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -701,10 +803,10 @@
         },
         {
             "code": "95067000",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS ICE SKATES AND ROLLER SKATES, INCLU",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -713,10 +815,10 @@
         },
         {
             "code": "95069110",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - OTHER : - ARTICLES AND EQUIPMENT",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -725,10 +827,10 @@
         },
         {
             "code": "95069190",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - OTHER : - ARTICLES AND EQUIPMENT",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -737,10 +839,10 @@
         },
         {
             "code": "950699",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -749,10 +851,10 @@
         },
         {
             "code": "95069910",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - OTHER : - OTHER : BADMINTON SHUTT",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -761,10 +863,10 @@
         },
         {
             "code": "95069920",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - OTHER : - OTHER : LEG PADS AND BA",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -773,10 +875,10 @@
         },
         {
             "code": "95069930",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - OTHER : - OTHER : SHOULDER PADS F",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -785,10 +887,10 @@
         },
         {
             "code": "95069940",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - OTHER : - OTHER : HOCKEY STICKS A",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -797,10 +899,10 @@
         },
         {
             "code": "95069950",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - OTHER : - OTHER : POLO STICKS INC",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -809,10 +911,10 @@
         },
         {
             "code": "95069960",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - OTHER : - OTHER : SPORTS NET",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -821,10 +923,10 @@
         },
         {
             "code": "95069970",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - OTHER : - OTHER : TENNIS AND BADM",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -833,10 +935,10 @@
         },
         {
             "code": "95069990",
-            "description": "",
+            "description": "ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLETENNIS) OR OUT-DOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS - OTHER : - OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -845,19 +947,25 @@
         },
         {
             "code": "9507",
-            "description": "",
+            "description": "Fishing hooks",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "950710",
-            "description": "",
+            "description": "FISHING RODS, FISH-HOOKS AND OTHER LINE FISHING TACKLE; FISH LANDING NETS, BUTTERFLY NETS AND SIMILAR NETS; DECOY BIRDS (OTHER THAN THOSE OF HEADING 9208 OR 9705) AND SIMILAR HUNTING OR SHOOTING REQUISITES FISHING RODS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -869,19 +977,25 @@
         },
         {
             "code": "95071000",
-            "description": "",
+            "description": "FISHING RODS, FISH-HOOKS AND OTHER LINE FISHING TACKLE; FISH LANDING NETS, BUTTERFLY NETS AND SIMILAR NETS; DECOY BIRDS (OTHER THAN THOSE OF HEADING 9208 OR 9705) AND SIMILAR HUNTING OR SHOOTING REQUISITES FISHING RODS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "950720",
-            "description": "",
+            "description": "FISHING RODS, FISH-HOOKS AND OTHER LINE FISHING TACKLE; FISH LANDING NETS, BUTTERFLY NETS AND SIMILAR NETS; DECOY BIRDS (OTHER THAN THOSE OF HEADING 9208 OR 9705) AND SIMILAR HUNTING OR SHOOTING REQUISITES FISH-HOOKS, WHETHER OR NOT SNELLED",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -893,19 +1007,25 @@
         },
         {
             "code": "95072000",
-            "description": "",
+            "description": "FISHING RODS, FISH-HOOKS AND OTHER LINE FISHING TACKLE; FISH LANDING NETS, BUTTERFLY NETS AND SIMILAR NETS; DECOY BIRDS (OTHER THAN THOSE OF HEADING 9208 OR 9705) AND SIMILAR HUNTING OR SHOOTING REQUISITES FISH-HOOKS, WHETHER OR NOT SNELLED",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "950730",
-            "description": "",
+            "description": "FISHING RODS, FISH-HOOKS AND OTHER LINE FISHING TACKLE; FISH LANDING NETS, BUTTERFLY NETS AND SIMILAR NETS; DECOY BIRDS (OTHER THAN THOSE OF HEADING 9208 OR 9705) AND SIMILAR HUNTING OR SHOOTING REQUISITES FISHING REELS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -917,108 +1037,162 @@
         },
         {
             "code": "95073000",
-            "description": "",
+            "description": "FISHING RODS, FISH-HOOKS AND OTHER LINE FISHING TACKLE; FISH LANDING NETS, BUTTERFLY NETS AND SIMILAR NETS; DECOY BIRDS (OTHER THAN THOSE OF HEADING 9208 OR 9705) AND SIMILAR HUNTING OR SHOOTING REQUISITES FISHING REELS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "950790",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "95079010",
-            "description": "",
+            "description": "FISHING RODS, FISH-HOOKS AND OTHER LINE FISHING TACKLE; FISH LANDING NETS, BUTTERFLY NETS AND SIMILAR NETS; DECOY BIRDS (OTHER THAN THOSE OF HEADING 9208 OR 9705) AND SIMILAR HUNTING OR SHOOTING REQUISITES - OTHER : FISH LANDING AND BUTTERFLY NETS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "95079090",
-            "description": "",
+            "description": "FISHING RODS, FISH-HOOKS AND OTHER LINE FISHING TACKLE; FISH LANDING NETS, BUTTERFLY NETS AND SIMILAR NETS; DECOY BIRDS (OTHER THAN THOSE OF HEADING 9208 OR 9705) AND SIMILAR HUNTING OR SHOOTING REQUISITES - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "9508",
-            "description": "",
+            "description": "ROUNDABOUTS, SWINGS, SHOOTING GALLERIES AND OTHER FAIRGROUND AMUSEMENTS; TRAVELLING CIRCUSES, TRAVELLING MENAGERIES AND TRAVELLING THEATRES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "950810",
-            "description": "",
+            "description": "ROUNDABOUTS, SWINGS, SHOOTING GALLERIES AND OTHER FAIRGROUND AMUSEMENTS; TRAVELLING CIRCUSES, TRAVELLING MENAGERIES AND TRAVELLING THEATRES TRAVELLING CIRCUSES AND TRAVELLING MENAGERIES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "95081000",
-            "description": "",
+            "description": "ROUNDABOUTS, SWINGS, SHOOTING GALLERIES AND OTHER FAIRGROUND AMUSEMENTS; TRAVELLING CIRCUSES, TRAVELLING MENAGERIES AND TRAVELLING THEATRES TRAVELLING CIRCUSES AND TRAVELLING MENAGERIES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "950890",
-            "description": "",
+            "description": "ROUNDABOUTS, SWINGS, SHOOTING GALLERIES AND OTHER FAIRGROUND AMUSEMENTS; TRAVELLING CIRCUSES, TRAVELLING MENAGERIES AND TRAVELLING THEATRES OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "95089000",
-            "description": "",
+            "description": "ROUNDABOUTS, SWINGS, SHOOTING GALLERIES AND OTHER FAIRGROUND AMUSEMENTS; TRAVELLING CIRCUSES, TRAVELLING MENAGERIES AND TRAVELLING THEATRES OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]

@@ -5,11 +5,11 @@
     "entries": [
         {
             "code": "3101",
-            "description": "",
+            "description": "ALL GOODS I.E. ANIMAL OR VEGETABLE FERTILISERS OR ORGANIC FERTILISERS PUT UP IN UNIT CONTAINERS AND BEARING A BRAND NAME",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -17,11 +17,11 @@
         },
         {
             "code": "310100",
-            "description": "",
+            "description": "ANIMAL OR VEGETABLE FERTILISERS, WHETHER OR NOT MIXED TOGETHER OR CHEMICALLY TREATED; FERTILISERS PRODUCED BY THE MIXING OR CHEMICAL TREATMENT OF ANIMAL OR VEGETABLE PRODUCTS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -29,11 +29,11 @@
         },
         {
             "code": "31010010",
-            "description": "",
+            "description": "ANIMAL OR VEGETABLE FERTILISERS, WHETHER OR NOT MIXED TOGETHER OR CHEMICALLY TREATED; FERTILISERS PRODUCED BY THE MIXING OR CHEMICAL TREATMENT OF ANIMAL OR VEGETABLE PRODUCTS ANIMAL OR VEGETABLE FERTILISERS, WHETHER OR NOT MIXED TOGETHER OR CHEMICALLY TRE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -41,11 +41,11 @@
         },
         {
             "code": "31010091",
-            "description": "",
+            "description": "ANIMAL OR VEGETABLE FERTILISERS, WHETHER OR NOT MIXED TOGETHER OR CHEMICALLY TREATED; FERTILISERS PRODUCED BY THE MIXING OR CHEMICAL TREATMENT OF ANIMAL OR VEGETABLE PRODUCTS ANIMAL OR VEGETABLE FERTILISERS, WHETHER OR NOT MIXED TOGETHER OR CHEMICALLY TRE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -53,11 +53,11 @@
         },
         {
             "code": "31010092",
-            "description": "",
+            "description": "ANIMAL OR VEGETABLE FERTILISERS, WHETHER OR NOT MIXED TOGETHER OR CHEMICALLY TREATED; FERTILISERS PRODUCED BY THE MIXING OR CHEMICAL TREATMENT OF ANIMAL OR VEGETABLE PRODUCTS ANIMAL OR VEGETABLE FERTILISERS, WHETHER OR NOT MIXED TOGETHER OR CHEMICALLY TRE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -65,19 +65,25 @@
         },
         {
             "code": "31010099",
-            "description": "",
+            "description": "ANIMAL OR VEGETABLE FERTILISERS, WHETHER OR NOT MIXED TOGETHER OR CHEMICALLY TREATED; FERTILISERS PRODUCED BY THE MIXING OR CHEMICAL TREATMENT OF ANIMAL OR VEGETABLE PRODUCTS ANIMAL OR VEGETABLE FERTILISERS, WHETHER OR NOT MIXED TOGETHER OR CHEMICALLY TRE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "3102",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS, OTHER THAN THOSE WHICH ARE CLEARLY NOT TO BE USED AS FERTILIZERS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -89,7 +95,7 @@
         },
         {
             "code": "310210",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS UREA, WHETHER OR NOT IN AQUEOUS SOLUTION",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -101,7 +107,7 @@
         },
         {
             "code": "31021000",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS UREA, WHETHER OR NOT IN AQUEOUS SOLUTION",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -113,7 +119,7 @@
         },
         {
             "code": "310221",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS AMMONIUM SULPHATE; DOUBLE SALTS AND MIXTURES OF AMMONIUM SULPHATE AND AMMONIUM NITRATE: AMMONIUM SULPHATE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -125,7 +131,7 @@
         },
         {
             "code": "31022100",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS AMMONIUM SULPHATE; DOUBLE SALTS AND MIXTURES OF AMMONIUM SULPHATE AND AMMONIUM NITRATE: AMMONIUM SULPHATE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -137,7 +143,7 @@
         },
         {
             "code": "310229",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -149,7 +155,7 @@
         },
         {
             "code": "31022910",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS AMMONIUM SULPHATE; DOUBLE SALTS AND MIXTURES OF AMMONIUM SULPHATE AND AMMONIUM NITRATE: OTHER : AMMONIUM SULPHONITRATE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -161,10 +167,10 @@
         },
         {
             "code": "31022990",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS AMMONIUM SULPHATE; DOUBLE SALTS AND MIXTURES OF AMMONIUM SULPHATE AND AMMONIUM NITRATE: OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -173,7 +179,7 @@
         },
         {
             "code": "310230",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS AMMONIUM NITRATE, WHETHER OR NOT IN AQUEOUS SOLUTION",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -185,7 +191,7 @@
         },
         {
             "code": "31023000",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS AMMONIUM NITRATE, WHETHER OR NOT IN AQUEOUS SOLUTION",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -197,7 +203,7 @@
         },
         {
             "code": "310250",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS SODIUM NITRATE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -209,7 +215,7 @@
         },
         {
             "code": "31025000",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS SODIUM NITRATE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -221,10 +227,10 @@
         },
         {
             "code": "310260",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS DOUBLE SALTS AND MIXTURES OF CALCIUM NITRATE AND AMMONIUM NITRATE",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -233,10 +239,10 @@
         },
         {
             "code": "31026000",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS DOUBLE SALTS AND MIXTURES OF CALCIUM NITRATE AND AMMONIUM NITRATE",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -245,10 +251,10 @@
         },
         {
             "code": "31027000",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS CALCIUM CYANAMIDE",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -257,10 +263,10 @@
         },
         {
             "code": "310290",
-            "description": "",
+            "description": "OTHER, INCLUDING MIXTURES NOT SPECIFIED IN THE FOREGOING SUB-HEADINGS",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -269,10 +275,10 @@
         },
         {
             "code": "31029010",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS OTHER, INCLUDING MIXTURES NOT SPECIFIED IN THE FOREGOING SUB-HEADINGS : DOUBLE SALTS OR MIXTURES OF CALCIUM NITRATE AND MAGNESIUM NITRATE",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -281,10 +287,10 @@
         },
         {
             "code": "31029090",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS OTHER, INCLUDING MIXTURES NOT SPECIFIED IN THE FOREGOING SUB-HEADINGS : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -293,7 +299,7 @@
         },
         {
             "code": "3103",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, PHOSPHATIC, OTHER THAN THOSE WHICH ARE CLEARLY NOT TO BE USED AS FERTILIZERS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -305,10 +311,10 @@
         },
         {
             "code": "31031000",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, PHOSPHATIC SUPERPHOSPHATES",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -317,10 +323,10 @@
         },
         {
             "code": "31031100",
-            "description": "",
+            "description": "CONTAINING BY WEIGHT 35 % OR MORE OF DIPHOSPHORUS PENTAOXIDE (P2O5)",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -329,10 +335,10 @@
         },
         {
             "code": "31031900",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -341,10 +347,10 @@
         },
         {
             "code": "31032000",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, PHOSPHATIC BASIC SLAG",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -353,10 +359,10 @@
         },
         {
             "code": "310390",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, PHOSPHATIC OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -365,10 +371,10 @@
         },
         {
             "code": "31039000",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, PHOSPHATIC OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -377,7 +383,7 @@
         },
         {
             "code": "3104",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, PHOSPHATIC, OTHER THAN THOSE WHICH ARE CLEARLY NOT TO BE USED AS FERTILIZERS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -389,10 +395,10 @@
         },
         {
             "code": "31041000",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, POTASSIC CARNALLITE, SYLVITE AND OTHER CRUDE NATURAL POTASSIUM SALTS",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -401,7 +407,7 @@
         },
         {
             "code": "310420",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, POTASSIC POTASSIUM CHLORIDE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -413,7 +419,7 @@
         },
         {
             "code": "31042000",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, POTASSIC POTASSIUM CHLORIDE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -425,7 +431,7 @@
         },
         {
             "code": "310430",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, POTASSIC POTASSIUM SULPHATE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -437,7 +443,7 @@
         },
         {
             "code": "31043000",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, POTASSIC POTASSIUM SULPHATE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -449,10 +455,10 @@
         },
         {
             "code": "310490",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, POTASSIC OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -461,10 +467,10 @@
         },
         {
             "code": "31049000",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, POTASSIC OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -473,7 +479,7 @@
         },
         {
             "code": "3105",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERS CONTAINING TWO OR THREE OF THE FERTILISING ELEMENTS NITROGEN, PHOSPHORUS AND POTASSIUM; OTHER FERTILISERS; GOODS OF THIS CHAPTER IN TABLETS OR SIMILAR FORMS OR IN PACKAGES OF A GROSS WEIGHT NOT EXCEEDING 10 KG; OTHER THAN THOSE WHICH ARE CLEARLY NOT TO BE USED AS FERTILIZERS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -485,7 +491,7 @@
         },
         {
             "code": "310530",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERSCONTAINING TWO OR THREE OF THE FERTILISING ELEMENTS NITROGEN,PHOSPHORUS AND POTASSIUM; OTHER FERTILISERS;GOODS OF THIS CHAPTER IN TABLETS OR SIMILAR FORMS OR IN PACKAGES OF A GROSS WEIGHT NOT EXCEEDING 10 KG DIAMMONIUM HYDRO",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -497,7 +503,7 @@
         },
         {
             "code": "31053000",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERSCONTAINING TWO OR THREE OF THE FERTILISING ELEMENTS NITROGEN,PHOSPHORUS AND POTASSIUM; OTHER FERTILISERS;GOODS OF THIS CHAPTER IN TABLETS OR SIMILAR FORMS OR IN PACKAGES OF A GROSS WEIGHT NOT EXCEEDING 10 KG DIAMMONIUM HYDRO",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -509,10 +515,10 @@
         },
         {
             "code": "310540",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERSCONTAINING TWO OR THREE OF THE FERTILISING ELEMENTS NITROGEN,PHOSPHORUS AND POTASSIUM; OTHER FERTILISERS;GOODS OF THIS CHAPTER IN TABLETS OR SIMILAR FORMS OR IN PACKAGES OF A GROSS WEIGHT NOT EXCEEDING 10 KG AMMONIUM DIHYDRO",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -521,7 +527,7 @@
         },
         {
             "code": "310551",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERSCONTAINING TWO OR THREE OF THE FERTILISING ELEMENTS NITROGEN,PHOSPHORUS AND POTASSIUM; OTHER FERTILISERS;GOODS OF THIS CHAPTER IN TABLETS OR SIMILAR FORMS OR IN PACKAGES OF A GROSS WEIGHT NOT EXCEEDING 10 KG OTHER MINERAL OR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -533,7 +539,7 @@
         },
         {
             "code": "31055100",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERSCONTAINING TWO OR THREE OF THE FERTILISING ELEMENTS NITROGEN,PHOSPHORUS AND POTASSIUM; OTHER FERTILISERS;GOODS OF THIS CHAPTER IN TABLETS OR SIMILAR FORMS OR IN PACKAGES OF A GROSS WEIGHT NOT EXCEEDING 10 KG OTHER MINERAL OR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -545,10 +551,10 @@
         },
         {
             "code": "310559",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERSCONTAINING TWO OR THREE OF THE FERTILISING ELEMENTS NITROGEN,PHOSPHORUS AND POTASSIUM; OTHER FERTILISERS;GOODS OF THIS CHAPTER IN TABLETS OR SIMILAR FORMS OR IN PACKAGES OF A GROSS WEIGHT NOT EXCEEDING 10 KG OTHER MINERAL OR",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -557,10 +563,10 @@
         },
         {
             "code": "31055900",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERSCONTAINING TWO OR THREE OF THE FERTILISING ELEMENTS NITROGEN,PHOSPHORUS AND POTASSIUM; OTHER FERTILISERS;GOODS OF THIS CHAPTER IN TABLETS OR SIMILAR FORMS OR IN PACKAGES OF A GROSS WEIGHT NOT EXCEEDING 10 KG OTHER MINERAL OR",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -569,10 +575,10 @@
         },
         {
             "code": "31056000",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERSCONTAINING TWO OR THREE OF THE FERTILISING ELEMENTS NITROGEN,PHOSPHORUS AND POTASSIUM; OTHER FERTILISERS;GOODS OF THIS CHAPTER IN TABLETS OR SIMILAR FORMS OR IN PACKAGES OF A GROSS WEIGHT NOT EXCEEDING 10 KG MINERAL OR CHEMI",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -581,7 +587,7 @@
         },
         {
             "code": "310590",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -593,7 +599,7 @@
         },
         {
             "code": "31059090",
-            "description": "",
+            "description": "MINERAL OR CHEMICAL FERTILISERSCONTAINING TWO OR THREE OF THE FERTILISING ELEMENTS NITROGEN,PHOSPHORUS AND POTASSIUM; OTHER FERTILISERS;GOODS OF THIS CHAPTER IN TABLETS OR SIMILAR FORMS OR IN PACKAGES OF A GROSS WEIGHT NOT EXCEEDING 10 KG OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,

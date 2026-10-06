@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "0701",
-            "description": "",
+            "description": "POTATOES, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -17,11 +17,11 @@
         },
         {
             "code": "070110",
-            "description": "",
+            "description": "POTATOES, FRESH OR CHILLED SEED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -29,11 +29,11 @@
         },
         {
             "code": "07011000",
-            "description": "",
+            "description": "POTATOES, FRESH OR CHILLED SEED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -41,11 +41,11 @@
         },
         {
             "code": "070190",
-            "description": "",
+            "description": "POTATOES, FRESH OR CHILLED OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -53,11 +53,11 @@
         },
         {
             "code": "07019000",
-            "description": "",
+            "description": "POTATOES, FRESH OR CHILLED OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -65,7 +65,7 @@
         },
         {
             "code": "0702",
-            "description": "",
+            "description": "TOMATOES, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -77,11 +77,11 @@
         },
         {
             "code": "070200",
-            "description": "",
+            "description": "TOMATOES, FRESH OR CHILLED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -89,11 +89,11 @@
         },
         {
             "code": "07020000",
-            "description": "",
+            "description": "TOMATOES, FRESH OR CHILLED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -101,7 +101,7 @@
         },
         {
             "code": "0703",
-            "description": "",
+            "description": "ONIONS, SHALLOTS, GARLIC, LEEKS AND OTHER ALLIACEOUS VEGETABLES, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -113,7 +113,7 @@
         },
         {
             "code": "070310",
-            "description": "",
+            "description": "Onions and shallots",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -125,11 +125,11 @@
         },
         {
             "code": "07031010",
-            "description": "",
+            "description": "ONIONS, SHALLOTS, GARLIC, LEEKS AND OTHERALLIACEOUS VEGETABLES, FRESH OR CHILLED ONIONS AND SHALLOTS ONIONS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -137,11 +137,11 @@
         },
         {
             "code": "07031020",
-            "description": "",
+            "description": "ONIONS, SHALLOTS, GARLIC, LEEKS AND OTHERALLIACEOUS VEGETABLES, FRESH OR CHILLED ONIONS AND SHALLOTS SHALLOTS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -149,11 +149,11 @@
         },
         {
             "code": "070320",
-            "description": "",
+            "description": "ONIONS, SHALLOTS, GARLIC, LEEKS AND OTHERALLIACEOUS VEGETABLES, FRESH OR CHILLED GARLIC",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -161,11 +161,11 @@
         },
         {
             "code": "07032000",
-            "description": "",
+            "description": "ONIONS, SHALLOTS, GARLIC, LEEKS AND OTHERALLIACEOUS VEGETABLES, FRESH OR CHILLED GARLIC",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -173,11 +173,11 @@
         },
         {
             "code": "070390",
-            "description": "",
+            "description": "ONIONS, SHALLOTS, GARLIC, LEEKS AND OTHERALLIACEOUS VEGETABLES, FRESH OR CHILLED LEEKS AND OTHER ALLIACEOUS VEGETABLES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -185,11 +185,11 @@
         },
         {
             "code": "07039000",
-            "description": "",
+            "description": "ONIONS, SHALLOTS, GARLIC, LEEKS AND OTHERALLIACEOUS VEGETABLES, FRESH OR CHILLED LEEKS AND OTHER ALLIACEOUS VEGETABLES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -197,7 +197,7 @@
         },
         {
             "code": "0704",
-            "description": "",
+            "description": "CABBAGES, CAULIFLOWERS, KOHLRABI, KALE AND SIMILAR EDIBLE BRASSICAS, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -209,11 +209,11 @@
         },
         {
             "code": "070410",
-            "description": "",
+            "description": "CABBAGES, CAULIFLOWERS, KOHLRABI, KALEAND SIMILAR EDIBLE BRASSICAS, FRESH ORCHILLED CAULIFLOWERS AND HEADED BROCCOLI",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -221,11 +221,11 @@
         },
         {
             "code": "07041000",
-            "description": "",
+            "description": "CABBAGES, CAULIFLOWERS, KOHLRABI, KALEAND SIMILAR EDIBLE BRASSICAS, FRESH ORCHILLED CAULIFLOWERS AND HEADED BROCCOLI",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -233,11 +233,11 @@
         },
         {
             "code": "070420",
-            "description": "",
+            "description": "CABBAGES, CAULIFLOWERS, KOHLRABI, KALEAND SIMILAR EDIBLE BRASSICAS, FRESH ORCHILLED BRUSSELS SPROUTS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -245,11 +245,11 @@
         },
         {
             "code": "07042000",
-            "description": "",
+            "description": "CABBAGES, CAULIFLOWERS, KOHLRABI, KALEAND SIMILAR EDIBLE BRASSICAS, FRESH ORCHILLED BRUSSELS SPROUTS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -257,11 +257,11 @@
         },
         {
             "code": "070490",
-            "description": "",
+            "description": "CABBAGES, CAULIFLOWERS, KOHLRABI, KALEAND SIMILAR EDIBLE BRASSICAS, FRESH ORCHILLED OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -269,11 +269,11 @@
         },
         {
             "code": "07049000",
-            "description": "",
+            "description": "CABBAGES, CAULIFLOWERS, KOHLRABI, KALEAND SIMILAR EDIBLE BRASSICAS, FRESH ORCHILLED OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -281,7 +281,7 @@
         },
         {
             "code": "0705",
-            "description": "",
+            "description": "LETTUCE (LACTUCASATIVA) AND CHICORY (CICHORIUM SPP. ), FRESH OR CHILLED - LETTUCE:",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -293,11 +293,11 @@
         },
         {
             "code": "070511",
-            "description": "",
+            "description": "LETTUCE (LACTUCASATIVA) AND CHICORY(CICHORIUM SPP. ), FRESH OR CHILLED LETTUCE : CABBAGE LETTUCE (HEAD LETTUCE)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -305,11 +305,11 @@
         },
         {
             "code": "07051100",
-            "description": "",
+            "description": "LETTUCE (LACTUCASATIVA) AND CHICORY(CICHORIUM SPP. ), FRESH OR CHILLED LETTUCE : CABBAGE LETTUCE (HEAD LETTUCE)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -317,11 +317,11 @@
         },
         {
             "code": "070519",
-            "description": "",
+            "description": "LETTUCE (LACTUCASATIVA) AND CHICORY(CICHORIUM SPP. ), FRESH OR CHILLED LETTUCE : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -329,11 +329,11 @@
         },
         {
             "code": "07051900",
-            "description": "",
+            "description": "LETTUCE (LACTUCASATIVA) AND CHICORY(CICHORIUM SPP. ), FRESH OR CHILLED LETTUCE : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -341,11 +341,11 @@
         },
         {
             "code": "070521",
-            "description": "",
+            "description": "LETTUCE (LACTUCASATIVA) AND CHICORY(CICHORIUM SPP. ), FRESH OR CHILLED CHICORY WITLOOF CHICORY (CICHORIUM INTYBUS VAR. FOLIOSUM)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -353,11 +353,11 @@
         },
         {
             "code": "07052100",
-            "description": "",
+            "description": "LETTUCE (LACTUCASATIVA) AND CHICORY(CICHORIUM SPP. ), FRESH OR CHILLED CHICORY WITLOOF CHICORY (CICHORIUM INTYBUS VAR. FOLIOSUM)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -365,11 +365,11 @@
         },
         {
             "code": "070529",
-            "description": "",
+            "description": "LETTUCE (LACTUCASATIVA) AND CHICORY(CICHORIUM SPP. ), FRESH OR CHILLEDCHICORY OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -377,11 +377,11 @@
         },
         {
             "code": "07052900",
-            "description": "",
+            "description": "LETTUCE (LACTUCASATIVA) AND CHICORY(CICHORIUM SPP. ), FRESH OR CHILLEDCHICORY OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -389,7 +389,7 @@
         },
         {
             "code": "0706",
-            "description": "",
+            "description": "CARROTS, TURNIPS, SALAD BEETROOT, SALSIFY, CELERIAC, RADISHES AND SIMILAR EDIBLE ROOTS, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -401,11 +401,11 @@
         },
         {
             "code": "070610",
-            "description": "",
+            "description": "CARROTS, TURNIPS, SALAD BEETROOT, SALSIFY,CELERIAC, RADISHES AND SIMILAR EDIBLEROOTS, FRESH OR CHILLEDCARROTS AND TURNIPS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -413,11 +413,11 @@
         },
         {
             "code": "07061000",
-            "description": "",
+            "description": "CARROTS, TURNIPS, SALAD BEETROOT, SALSIFY,CELERIAC, RADISHES AND SIMILAR EDIBLEROOTS, FRESH OR CHILLEDCARROTS AND TURNIPS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -425,7 +425,7 @@
         },
         {
             "code": "070690",
-            "description": "",
+            "description": "Other",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -437,11 +437,11 @@
         },
         {
             "code": "07069010",
-            "description": "",
+            "description": "CARROTS, TURNIPS, SALAD BEETROOT, SALSIFY,CELERIAC, RADISHES AND SIMILAR EDIBLEROOTS, FRESH OR CHILLED OTHER : HORSE RADISH",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -449,11 +449,11 @@
         },
         {
             "code": "07069020",
-            "description": "",
+            "description": "CARROTS, TURNIPS, SALAD BEETROOT, SALSIFY,CELERIAC, RADISHES AND SIMILAR EDIBLEROOTS, FRESH OR CHILLED OTHER OTHER RADISH",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -461,11 +461,11 @@
         },
         {
             "code": "07069030",
-            "description": "",
+            "description": "CARROTS, TURNIPS, SALAD BEETROOT, SALSIFY,CELERIAC, RADISHES AND SIMILAR EDIBLEROOTS, FRESH OR CHILLED OTHER SALAD BEETROOT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -473,11 +473,11 @@
         },
         {
             "code": "07069090",
-            "description": "",
+            "description": "CARROTS, TURNIPS, SALAD BEETROOT, SALSIFY,CELERIAC, RADISHES AND SIMILAR EDIBLEROOTS, FRESH OR CHILLED OTHER OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -485,7 +485,7 @@
         },
         {
             "code": "0707",
-            "description": "",
+            "description": "CUCUMBERS OR GHERKINS, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -497,11 +497,11 @@
         },
         {
             "code": "070700",
-            "description": "",
+            "description": "CUCUMBERS OR GHERKINS, FRESH OR CHILLED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -509,11 +509,11 @@
         },
         {
             "code": "07070000",
-            "description": "",
+            "description": "CUCUMBERS OR GHERKINS, FRESH OR CHILLED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -521,7 +521,7 @@
         },
         {
             "code": "0708",
-            "description": "",
+            "description": "LEGUMINOUS VEGETABLES, SHELLED OR UNSHELLED, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -533,11 +533,11 @@
         },
         {
             "code": "070810",
-            "description": "",
+            "description": "LEGUMINOUS VEGETABLES, SHELLED ORUNSHELLED, FRESH OR CHILLED PEAS (PISUM SATIVUM)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -545,11 +545,11 @@
         },
         {
             "code": "07081000",
-            "description": "",
+            "description": "LEGUMINOUS VEGETABLES, SHELLED ORUNSHELLED, FRESH OR CHILLED PEAS (PISUM SATIVUM)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -557,11 +557,11 @@
         },
         {
             "code": "070820",
-            "description": "",
+            "description": "LEGUMINOUS VEGETABLES, SHELLED ORUNSHELLED, FRESH OR CHILLED BEANS (VIGNA SPP., PHASEOLUS SPP.)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -569,11 +569,11 @@
         },
         {
             "code": "07082000",
-            "description": "",
+            "description": "LEGUMINOUS VEGETABLES, SHELLED ORUNSHELLED, FRESH OR CHILLED BEANS (VIGNA SPP., PHASEOLUS SPP.)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -581,11 +581,11 @@
         },
         {
             "code": "070890",
-            "description": "",
+            "description": "LEGUMINOUS VEGETABLES, SHELLED ORUNSHELLED, FRESH OR CHILLED OTHER LEGUMINOUS VEGETABLES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -593,11 +593,11 @@
         },
         {
             "code": "07089000",
-            "description": "",
+            "description": "LEGUMINOUS VEGETABLES, SHELLED ORUNSHELLED, FRESH OR CHILLED OTHER LEGUMINOUS VEGETABLES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -605,7 +605,7 @@
         },
         {
             "code": "0709",
-            "description": "",
+            "description": "OTHER VEGETABLES, FRESH OR CHILLED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -617,11 +617,11 @@
         },
         {
             "code": "07092000",
-            "description": "",
+            "description": "OTHER VEGETABLES, FRESH OR CHILLED ASPARAGUS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -629,11 +629,11 @@
         },
         {
             "code": "07093000",
-            "description": "",
+            "description": "OTHER VEGETABLES, FRESH OR CHILLED AUBERGINES (EGG PLANTS)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -641,11 +641,11 @@
         },
         {
             "code": "07094000",
-            "description": "",
+            "description": "OTHER VEGETABLES, FRESH OR CHILLED CELERY OTHER THAN CELERIAC",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -653,11 +653,11 @@
         },
         {
             "code": "07095100",
-            "description": "",
+            "description": "OTHER VEGETABLES, FRESH OR CHILLED MUSHROOMS AND TRUFFLES MUSHROOMS OF THE GENUS AGARICUS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -665,11 +665,11 @@
         },
         {
             "code": "07095200",
-            "description": "",
+            "description": "OTHER VEGETABLES, FRESH OR CHILLED MUSHROOMS AND TRUFFLES TRUFFLES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -677,11 +677,11 @@
         },
         {
             "code": "07095900",
-            "description": "",
+            "description": "OTHER VEGETABLES, FRESH OR CHILLED MUSHROOMS AND TRUFFLES OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -689,7 +689,7 @@
         },
         {
             "code": "070960",
-            "description": "",
+            "description": "Fruits of the genus Capsicum or of the genus pimenta",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -701,11 +701,11 @@
         },
         {
             "code": "07096010",
-            "description": "",
+            "description": "OTHER VEGETABLES, FRESH OR CHILLED FRUITS OF THE GENUS CAPSICUM OR OF THEGENUS PIMENTA : GREEN CHILLY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -713,11 +713,11 @@
         },
         {
             "code": "07096090",
-            "description": "",
+            "description": "OTHER VEGETABLES, FRESH OR CHILLED FRUITS OF THE GENUS CAPSICUM OR OF THEGENUS PIMENTA : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -725,11 +725,11 @@
         },
         {
             "code": "07097000",
-            "description": "",
+            "description": "OTHER VEGETABLES, FRESH OR CHILLED SPINACH, NEW ZEALAND SPINACH AND ORACHE SPINACH (GARDEN SPINACH)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -737,11 +737,11 @@
         },
         {
             "code": "07099090",
-            "description": "",
+            "description": "OTHER VEGETABLES, FRESH OR CHILLED OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -749,11 +749,11 @@
         },
         {
             "code": "07099100",
-            "description": "",
+            "description": "OTHER VEGETABLES,FRESH OR CHILLED - OTHER --GLOBE ARTICHOKES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -761,11 +761,11 @@
         },
         {
             "code": "07099200",
-            "description": "",
+            "description": "OTHER VEGETABLES,FRESH OR CHILLED - OTHER --OLIVES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -773,11 +773,11 @@
         },
         {
             "code": "07099300",
-            "description": "",
+            "description": "OTHER VEGETABLES,FRESH OR CHILLED - OTHER --PUMPKINS,SQUASH AND GOURDS (CUCURBITA SPP.)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -785,7 +785,7 @@
         },
         {
             "code": "070999",
-            "description": "",
+            "description": "Other",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -797,43 +797,7 @@
         },
         {
             "code": "07099910",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "07099920",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "07099990",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "0710",
-            "description": "",
+            "description": "OTHER VEGETABLES,FRESH OR CHILLED - OTHER --OTHER---GREEN PEPPER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -844,8 +808,50 @@
             ]
         },
         {
+            "code": "07099920",
+            "description": "OTHER VEGETABLES,FRESH OR CHILLED - OTHER --OTHER---MIXED VEGETABLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "07099990",
+            "description": "OTHER VEGETABLES,FRESH OR CHILLED - OTHER --OTHER---OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0710",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER), FROZEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-12-31"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2019-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
             "code": "071010",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN POTATOES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -857,7 +863,7 @@
         },
         {
             "code": "07101000",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN POTATOES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -869,7 +875,7 @@
         },
         {
             "code": "071021",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN LEGUMINOUS VEGETABLES, SHELLED OR UNSHELLED : PEAS (PISUM SATIVUM)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -881,7 +887,7 @@
         },
         {
             "code": "07102100",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN LEGUMINOUS VEGETABLES, SHELLED OR UNSHELLED : PEAS (PISUM SATIVUM)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -893,7 +899,7 @@
         },
         {
             "code": "071022",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN LEGUMINOUS VEGETABLES, SHELLED OR UNSHELLED BEANS (VIGNA SPP., PHASEOLUS SPP.)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -905,7 +911,7 @@
         },
         {
             "code": "07102200",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN LEGUMINOUS VEGETABLES, SHELLED OR UNSHELLED BEANS (VIGNA SPP., PHASEOLUS SPP.)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -917,7 +923,7 @@
         },
         {
             "code": "071029",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN LEGUMINOUS VEGETABLES, SHELLED OR UNSHELLED OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -929,7 +935,7 @@
         },
         {
             "code": "07102900",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN LEGUMINOUS VEGETABLES, SHELLED OR UNSHELLED OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -941,7 +947,7 @@
         },
         {
             "code": "071030",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN SPINACH, NEW ZEALAND SPINACH AND ORACHE SPINACH (GARDEN SPINACH)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -953,7 +959,7 @@
         },
         {
             "code": "07103000",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN SPINACH, NEW ZEALAND SPINACH AND ORACHE SPINACH (GARDEN SPINACH)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -965,7 +971,7 @@
         },
         {
             "code": "071040",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN SWEET CORN",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -977,7 +983,7 @@
         },
         {
             "code": "07104000",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN SWEET CORN",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -989,11 +995,11 @@
         },
         {
             "code": "071080",
-            "description": "",
+            "description": "Other vegetables",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1001,7 +1007,7 @@
         },
         {
             "code": "07108010",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN OTHER VEGETABLES TERRAGON",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1013,7 +1019,7 @@
         },
         {
             "code": "07108090",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN OTHER VEGETABLES OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1025,7 +1031,7 @@
         },
         {
             "code": "071090",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN MIXTURES OF VEGETABLES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1037,7 +1043,7 @@
         },
         {
             "code": "07109000",
-            "description": "",
+            "description": "VEGETABLES (UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER), FROZEN MIXTURES OF VEGETABLES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1049,19 +1055,25 @@
         },
         {
             "code": "0711",
-            "description": "",
+            "description": "VEGETABLES PROVISIONALLY PRESERVED (FOR EXAMPLE, BY SULPHUR DIOXIDE GAS, IN BRINE, IN SULPHUR WATER OR IN OTHER PRESERVATIVE SOLUTIONS), BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-12-31"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2019-01-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "071120",
-            "description": "",
+            "description": "VEGETABLES PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS, BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTION OLIVES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1073,7 +1085,7 @@
         },
         {
             "code": "07112000",
-            "description": "",
+            "description": "VEGETABLES PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS, BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTION OLIVES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1085,7 +1097,7 @@
         },
         {
             "code": "071140",
-            "description": "",
+            "description": "VEGETABLES PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS,IN BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTIONCUCUMBERS AND GHERKINS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1097,7 +1109,7 @@
         },
         {
             "code": "07114000",
-            "description": "",
+            "description": "VEGETABLES PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS,IN BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTIONCUCUMBERS AND GHERKINS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1109,7 +1121,7 @@
         },
         {
             "code": "071151",
-            "description": "",
+            "description": "VEGETABLES PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS,IN BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTION MUSHROOMS AND TRUFFLES MUSHROOMS OF THE GENSUS AGARICUS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1121,7 +1133,7 @@
         },
         {
             "code": "07115100",
-            "description": "",
+            "description": "VEGETABLES PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS,IN BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTION MUSHROOMS AND TRUFFLES MUSHROOMS OF THE GENSUS AGARICUS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1133,7 +1145,7 @@
         },
         {
             "code": "071159",
-            "description": "",
+            "description": "VEGETABLES PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS,IN BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTION MUSHROOMS AND TRUFFLES OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1145,7 +1157,7 @@
         },
         {
             "code": "07115900",
-            "description": "",
+            "description": "VEGETABLES PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS,IN BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTION MUSHROOMS AND TRUFFLES OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1157,11 +1169,11 @@
         },
         {
             "code": "071190",
-            "description": "",
+            "description": "Other vegetables; mixtures of vegetables",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1169,7 +1181,7 @@
         },
         {
             "code": "07119010",
-            "description": "",
+            "description": "VEGETABLES PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS,IN BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTION OTHER VEGETABLES; MIXTURES OF VEGETABLES : GREEN PEPPER IN BRINE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1181,7 +1193,7 @@
         },
         {
             "code": "07119020",
-            "description": "",
+            "description": "VEGETABLES PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS,IN BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTION OTHER VEGETABLES; MIXTURES OF VEGETABLES : ASSORTED CANNED VEGETABL",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1193,7 +1205,7 @@
         },
         {
             "code": "07119090",
-            "description": "",
+            "description": "VEGETABLES PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS,IN BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTION OTHER VEGETABLES; MIXTURES OF VEGETABLES : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1205,7 +1217,7 @@
         },
         {
             "code": "0712",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED, BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -1217,11 +1229,11 @@
         },
         {
             "code": "071220",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED ONIONS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1229,11 +1241,11 @@
         },
         {
             "code": "07122000",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED ONIONS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1241,11 +1253,11 @@
         },
         {
             "code": "071231",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED MUSHROOMS, WOOD EARS (AURICULARIA SPP.),JELLY FUNGI (TREMELLA SPP.) AND TRUFFLES : MUSHROOMS OF THE GENUS LGARICUS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1253,11 +1265,11 @@
         },
         {
             "code": "07123100",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED MUSHROOMS, WOOD EARS (AURICULARIA SPP.),JELLY FUNGI (TREMELLA SPP.) AND TRUFFLES : MUSHROOMS OF THE GENUS LGARICUS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1265,11 +1277,11 @@
         },
         {
             "code": "071232",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED MUSHROOMS, WOOD EARS (AURICULARIA SPP.),JELLY FUNGI (TREMELLA SPP.) AND TRUFFLES : WOOD EARS (AURICULARIA SPP.)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1277,11 +1289,11 @@
         },
         {
             "code": "07123200",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED MUSHROOMS, WOOD EARS (AURICULARIA SPP.),JELLY FUNGI (TREMELLA SPP.) AND TRUFFLES : WOOD EARS (AURICULARIA SPP.)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1289,11 +1301,11 @@
         },
         {
             "code": "071233",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED ?MUSHROOMS, WOOD EARS (AURICULARIA SPP.),JELLY FUNGI (TREMELLA SPP.) AND TRUFFLES : JELLY FUNGI (TREMELLA SPP.)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1301,11 +1313,11 @@
         },
         {
             "code": "07123300",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED ?MUSHROOMS, WOOD EARS (AURICULARIA SPP.),JELLY FUNGI (TREMELLA SPP.) AND TRUFFLES : JELLY FUNGI (TREMELLA SPP.)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1313,11 +1325,11 @@
         },
         {
             "code": "071239",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED ? MUSHROOMS, WOOD EARS (AURICULARIA SPP.),JELLY FUNGI (TREMELLA SPP.) AND TRUFFLES : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1325,11 +1337,11 @@
         },
         {
             "code": "07123900",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED ? MUSHROOMS, WOOD EARS (AURICULARIA SPP.),JELLY FUNGI (TREMELLA SPP.) AND TRUFFLES : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1337,7 +1349,7 @@
         },
         {
             "code": "071290",
-            "description": "",
+            "description": "Other vegetables; mixtures of vegetables",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -1349,11 +1361,11 @@
         },
         {
             "code": "07129010",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED OTHER VEGETABLES; MIXTURES OF VEGETABLES : ASPARAGUS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1361,11 +1373,11 @@
         },
         {
             "code": "07129020",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED OTHER VEGETABLES; MIXTURES OF VEGETABLES : DEHYDRATED GARLIC POWDER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1373,11 +1385,11 @@
         },
         {
             "code": "07129030",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED OTHER VEGETABLES; MIXTURES OF VEGETABLES : DEHYDRATED GARLIC FLAKES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1385,11 +1397,11 @@
         },
         {
             "code": "07129040",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED OTHER VEGETABLES; MIXTURES OF VEGETABLES : DRIED GARLIC",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1397,11 +1409,11 @@
         },
         {
             "code": "07129050",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED OTHER VEGETABLES; MIXTURES OF VEGETABLES : MARJORAM, OREGANO",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1409,11 +1421,11 @@
         },
         {
             "code": "07129060",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED OTHER VEGETABLES; MIXTURES OF VEGETABLES : POTATOES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1421,11 +1433,11 @@
         },
         {
             "code": "07129090",
-            "description": "",
+            "description": "DRIED VEGETABLES, WHOLE, CUT, SLICED,BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED OTHER VEGETABLES; MIXTURES OF VEGETABLES : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1433,7 +1445,7 @@
         },
         {
             "code": "0713",
-            "description": "",
+            "description": "DRIED LEGUMINOUS VEGETABLES, SHELLED, WHETHER OR NOT SKINNED OR SPLIT",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -1445,11 +1457,11 @@
         },
         {
             "code": "07131000",
-            "description": "",
+            "description": "DRIED LEGUMINOUS VEGETABLES, SHELLED,WHETHER OR NOT SKINNED OR SPLIT PEAS (PISUM SATIVUM)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1457,11 +1469,11 @@
         },
         {
             "code": "07132000",
-            "description": "",
+            "description": "DRIED LEGUMINOUS VEGETABLES, SHELLED,WHETHER OR NOT SKINNED OR SPLIT CHICKPEAS (GARBANZOS) BEANS (VIGNA SPP., PHASEOLUS SPP.) :",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1469,11 +1481,11 @@
         },
         {
             "code": "07133200",
-            "description": "",
+            "description": "DRIED LEGUMINOUS VEGETABLES, SHELLED,WHETHER OR NOT SKINNED OR SPLIT BEANS (VIGNA SPP., PHASEOLUS SPP.) : SMALL RED (ADZUKI) BEANS (PHASEOLUS OR VIGNA ANGULARIS)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1481,11 +1493,11 @@
         },
         {
             "code": "07133300",
-            "description": "",
+            "description": "DRIED LEGUMINOUS VEGETABLES, SHELLED,WHETHER OR NOT SKINNED OR SPLIT BEANS (VIGNA SPP., PHASEOLUS SPP.) : KIDNEY BEANS, INCLUDING WHITE PEA BEANS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1493,11 +1505,11 @@
         },
         {
             "code": "07133400",
-            "description": "",
+            "description": "DRIED LEGUMINOUS VEGETABLES, SHELLED,WHETHER OR NOT SKINNED OR SPLIT - BEANS --BAMBARA BEANS (VIGNA SUBTERRANEA OR VOANDZEIA SUBTERRANEA)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1505,11 +1517,11 @@
         },
         {
             "code": "07133500",
-            "description": "",
+            "description": "DRIED LEGUMINOUS VEGETABLES, SHELLED,WHETHER OR NOT SKINNED OR SPLIT - BEANS --COW PEAS (VIGNA UNGUICULATA)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1517,11 +1529,11 @@
         },
         {
             "code": "071339",
-            "description": "",
+            "description": "Other",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1529,11 +1541,11 @@
         },
         {
             "code": "07133910",
-            "description": "",
+            "description": "DRIED LEGUMINOUS VEGETABLES, SHELLED,WHETHER OR NOT SKINNED OR SPLIT BEANS (VIGNA SPP., PHASEOLUS SPP.) : OTHER : GUAR SEEDS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1541,11 +1553,11 @@
         },
         {
             "code": "07133990",
-            "description": "",
+            "description": "DRIED LEGUMINOUS VEGETABLES, SHELLED,WHETHER OR NOT SKINNED OR SPLIT BEANS (VIGNA SPP., PHASEOLUS SPP.) : OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1553,11 +1565,11 @@
         },
         {
             "code": "07134000",
-            "description": "",
+            "description": "DRIED LEGUMINOUS VEGETABLES, SHELLED,WHETHER OR NOT SKINNED OR SPLIT LENTILS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1565,11 +1577,11 @@
         },
         {
             "code": "07136000",
-            "description": "",
+            "description": "DRIED LEGUMINOUS VEGETABLES, SHELLED,WHETHER OR NOT SKINNED OR SPLIT - PIGEON PEAS (CAJANUS CAJAN)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1577,11 +1589,11 @@
         },
         {
             "code": "071390",
-            "description": "",
+            "description": "Other",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1589,11 +1601,11 @@
         },
         {
             "code": "07139010",
-            "description": "",
+            "description": "DRIED LEGUMINOUS VEGETABLES, SHELLED,WHETHER OR NOT SKINNED OR SPLIT -OTHER ---SPLIT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1601,11 +1613,11 @@
         },
         {
             "code": "07139090",
-            "description": "",
+            "description": "DRIED LEGUMINOUS VEGETABLES, SHELLED,WHETHER OR NOT SKINNED OR SPLIT - OTHER---OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1613,7 +1625,7 @@
         },
         {
             "code": "0714",
-            "description": "",
+            "description": "MANIOC, ARROWROOT, SALEP, JERUSALEM ARTICHOKES, SWEET POTATOES AND SIMILAR ROOTS AND TUBERS WITH HIGH STARCH OR INULIN CONTENT, FRESH, CHILLED, FROZEN OR DRIED, WHETHER OR NOT SLICED OR IN THE FORM OF PELLETS; SAGO PITH",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -1625,11 +1637,11 @@
         },
         {
             "code": "07141000",
-            "description": "",
+            "description": "MANIOC, ARROWROOT, SALEP, JERUSALEMARTICHOKES, SWEET POTATOES AND SIMILARROOTS AND TUBERS WITH HIGH STARCH ORINULIN CONTENT, FRESH, CHILLED, FROZEN ORDRIED, WHETHER OR NOT SLICED OR IN THEFORM OF PELLETS; SAGO PITH MANIOC (CASSAVA)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1637,11 +1649,11 @@
         },
         {
             "code": "07142000",
-            "description": "",
+            "description": "MANIOC, ARROWROOT, SALEP, JERUSALEMARTICHOKES, SWEET POTATOES AND SIMILARROOTS AND TUBERS WITH HIGH STARCH ORINULIN CONTENT, FRESH, CHILLED, FROZEN ORDRIED, WHETHER OR NOT SLICED OR IN THEFORM OF PELLETS; SAGO PITH SWEET POTATOES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1649,11 +1661,11 @@
         },
         {
             "code": "07143000",
-            "description": "",
+            "description": "MANIOC, ARROWROOT, SALEP, JERUSALEMARTICHOKES, SWEET POTATOES AND SIMILARROOTS AND TUBERS WITH HIGH STARCH ORINULIN CONTENT, FRESH, CHILLED, FROZEN ORDRIED, WHETHER OR NOT SLICED OR IN THEFORM OF PELLETS; SAGO PITH-YAMS (DIOSCOREA SPP.)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1661,11 +1673,11 @@
         },
         {
             "code": "07144000",
-            "description": "",
+            "description": "MANIOC, ARROWROOT, SALEP, JERUSALEMARTICHOKES, SWEET POTATOES AND SIMILARROOTS AND TUBERS WITH HIGH STARCH ORINULIN CONTENT, FRESH, CHILLED, FROZEN ORDRIED, WHETHER OR NOT SLICED OR IN THEFORM OF PELLETS; SAGO PITH- TARO (COLOCASIA SPP.)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1673,11 +1685,11 @@
         },
         {
             "code": "07145000",
-            "description": "",
+            "description": "MANIOC, ARROWROOT, SALEP, JERUSALEMARTICHOKES, SWEET POTATOES AND SIMILARROOTS AND TUBERS WITH HIGH STARCH ORINULIN CONTENT, FRESH, CHILLED, FROZEN ORDRIED, WHETHER OR NOT SLICED OR IN THEFORM OF PELLETS; SAGO PITH-YAUTIA (XANTHOSOMA SPP.)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1685,11 +1697,11 @@
         },
         {
             "code": "071490",
-            "description": "",
+            "description": "Other",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1697,11 +1709,11 @@
         },
         {
             "code": "07149010",
-            "description": "",
+            "description": "MANIOC, ARROWROOT, SALEP, JERUSALEMARTICHOKES, SWEET POTATOES AND SIMILARROOTS AND TUBERS WITH HIGH STARCH ORINULIN CONTENT, FRESH, CHILLED, FROZEN ORDRIED, WHETHER OR NOT SLICED OR IN THEFORM OF PELLETS; SAGO PITH OTHER : SAGO PITH",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1709,11 +1721,11 @@
         },
         {
             "code": "07149090",
-            "description": "",
+            "description": "MANIOC, ARROWROOT, SALEP, JERUSALEMARTICHOKES, SWEET POTATOES AND SIMILARROOTS AND TUBERS WITH HIGH STARCH ORINULIN CONTENT, FRESH, CHILLED, FROZEN ORDRIED, WHETHER OR NOT SLICED OR IN THEFORM OF PELLETS; SAGO PITH OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }

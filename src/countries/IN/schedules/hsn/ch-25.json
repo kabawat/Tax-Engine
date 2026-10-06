@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "2501",
-            "description": "",
+            "description": "SALT (INCLUDING TABLE SALT AND DENATURED SALT) AND PURE SODIUM CHLORIDE, WHETHER OR NOT IN AQUEOUS SOLUTION OR CONTAINING ADDED ANTI-CAKING OR FREE FLOWING AGENTS; SEA WATER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -17,7 +17,7 @@
         },
         {
             "code": "250100",
-            "description": "",
+            "description": "SALT (INCLUDING TABLE SALT AND DENATURED SALT) AND PURE SODIUM CHLORIDE, WHETHER OR NOT IN AQUEOUS SOLUTION OR CONTAINING ADDED ANTI-CAKING OR FREE FLOWING AGENTS; SEA WATER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -29,7 +29,7 @@
         },
         {
             "code": "25010010",
-            "description": "",
+            "description": "SALT (INCLUDING TABLE SALT AND DENATURED SALT) AND PURE SODIUM CHLORIDE, WHETHER OR NOT IN AQUEOUS SOLUTION OR CONTAINING ADDED ANTI-CAKING OR FREE FLOWING AGENTS; SEA WATER - SALT (INCLUDING TABLE SALT AND DENATURED SALT) AND PURE SODIUM CHLORIDE, WHETHE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -41,7 +41,7 @@
         },
         {
             "code": "25010020",
-            "description": "",
+            "description": "SALT (INCLUDING TABLE SALT AND DENATURED SALT) AND PURE SODIUM CHLORIDE, WHETHER OR NOT IN AQUEOUS SOLUTION OR CONTAINING ADDED ANTI-CAKING OR FREE FLOWING AGENTS; SEA WATER - SALT (INCLUDING TABLE SALT AND DENATURED SALT) AND PURE SODIUM CHLORIDE, WHETHE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -53,7 +53,7 @@
         },
         {
             "code": "25010090",
-            "description": "",
+            "description": "SALT (INCLUDING TABLE SALT AND DENATURED SALT) AND PURE SODIUM CHLORIDE, WHETHER OR NOT IN AQUEOUS SOLUTION OR CONTAINING ADDED ANTI-CAKING OR FREE FLOWING AGENTS; SEA WATER - SALT (INCLUDING TABLE SALT AND DENATURED SALT) AND PURE SODIUM CHLORIDE, WHETHE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -65,7 +65,7 @@
         },
         {
             "code": "2502",
-            "description": "",
+            "description": "UNROASTED IRON PYRITES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -77,7 +77,7 @@
         },
         {
             "code": "250200",
-            "description": "",
+            "description": "UNROASTED IRON PYRITES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -89,7 +89,7 @@
         },
         {
             "code": "25020000",
-            "description": "",
+            "description": "UNROASTED IRON PYRITES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -101,43 +101,61 @@
         },
         {
             "code": "2503",
-            "description": "",
+            "description": "SULPHUR OF ALL KINDS, OTHER THAN SUBLIMED SULPHUR, PRECIPITATED SULPHUR AND COLLODIAL SULPHUR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25030010",
-            "description": "",
+            "description": "SULPHUR OF ALL KINDS, OTHER THAN SUBLIMED SULPHUR, PRECIPITATED SULPHUR AND COLLODIAL SULPHUR - SULPHUR OF ALL KINDS, OTHER THAN SUBLIMED SULPHUR, PRECIPITATED SULPHUR AND COLLODIAL SULPHUR: SULPHUR RECOVERED AS BY-PRODUCT IN REFINING OF CRUDE OIL",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25030090",
-            "description": "",
+            "description": "SULPHUR OF ALL KINDS, OTHER THAN SUBLIMED SULPHUR, PRECIPITATED SULPHUR AND COLLODIAL SULPHUR - SULPHUR OF ALL KINDS, OTHER THAN SUBLIMED SULPHUR, PRECIPITATED SULPHUR AND COLLODIAL SULPHUR: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2504",
-            "description": "",
+            "description": "NATURAL GRAPHITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -149,7 +167,7 @@
         },
         {
             "code": "250410",
-            "description": "",
+            "description": "IN POWDER OR IN FLAKES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -161,7 +179,7 @@
         },
         {
             "code": "25041010",
-            "description": "",
+            "description": "NATURAL GRAPHITE - IN POWDER OR IN FLAKES:GRAPHITE, CRYSTALLINE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -173,7 +191,7 @@
         },
         {
             "code": "25041020",
-            "description": "",
+            "description": "NATURAL GRAPHITE - IN POWDER OR IN FLAKES:GRAPHITE, AMORPHOUS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -185,7 +203,7 @@
         },
         {
             "code": "25041090",
-            "description": "",
+            "description": "NATURAL GRAPHITE - IN POWDER OR IN FLAKES:OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -197,7 +215,7 @@
         },
         {
             "code": "250490",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -209,7 +227,7 @@
         },
         {
             "code": "25049010",
-            "description": "",
+            "description": "NATURAL GRAPHITE - OTHER: GRAPHITE, MICRONISED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -221,7 +239,7 @@
         },
         {
             "code": "25049090",
-            "description": "",
+            "description": "NATURAL GRAPHITE - OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -233,7 +251,7 @@
         },
         {
             "code": "2505",
-            "description": "",
+            "description": "NATURAL SANDS OF ALL KINDS, WHETHER OR NOT COLOURED, OTHER THAN METAL-BEARING SANDS OF CHAPTER 26",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -245,7 +263,7 @@
         },
         {
             "code": "250510",
-            "description": "",
+            "description": "SILICA SANDS AND QUARTZ SANDS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -257,7 +275,7 @@
         },
         {
             "code": "25051011",
-            "description": "",
+            "description": "NATURAL SANDS OF ALL KINDS, WHETHER OR NOT COLOURED, OTHER THAN METAL-BEARING SANDS OF CHAPTER 26 - SILICA SANDS AND QUARTZ SANDS: SILICA SANDS: PROCESSED (WHITE)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -269,7 +287,7 @@
         },
         {
             "code": "25051012",
-            "description": "",
+            "description": "NATURAL SANDS OF ALL KINDS, WHETHER OR NOT COLOURED, OTHER THAN METAL-BEARING SANDS OF CHAPTER 26 - SILICA SANDS AND QUARTZ SANDS: SILICA SANDS: PROCESSED (BROWN)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -281,7 +299,7 @@
         },
         {
             "code": "25051019",
-            "description": "",
+            "description": "NATURAL SANDS OF ALL KINDS, WHETHER OR NOT COLOURED, OTHER THAN METAL-BEARING SANDS OF CHAPTER 26 - SILICA SANDS AND QUARTZ SANDS: SILICA SANDS: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -293,7 +311,7 @@
         },
         {
             "code": "25051020",
-            "description": "",
+            "description": "NATURAL SANDS OF ALL KINDS, WHETHER OR NOT COLOURED, OTHER THAN METAL-BEARING SANDS OF CHAPTER 26 - SILICA SANDS AND QUARTZ SANDS: QUARTZ SANDS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -305,7 +323,7 @@
         },
         {
             "code": "250590",
-            "description": "",
+            "description": "NATURAL SANDS OF ALL KINDS, WHETHER OR NOT COLOURED, OTHER THAN METAL-BEARING SANDS OF CHAPTER 26 OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -317,7 +335,7 @@
         },
         {
             "code": "25059000",
-            "description": "",
+            "description": "NATURAL SANDS OF ALL KINDS, WHETHER OR NOT COLOURED, OTHER THAN METAL-BEARING SANDS OF CHAPTER 26 OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -329,7 +347,7 @@
         },
         {
             "code": "2506",
-            "description": "",
+            "description": "QUARTZ (OTHER THAN NATURAL SANDS); QUARTZITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -341,7 +359,7 @@
         },
         {
             "code": "250610",
-            "description": "",
+            "description": "QUARTZ",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -353,7 +371,7 @@
         },
         {
             "code": "25061010",
-            "description": "",
+            "description": "QUARTZ (OTHER THAN NATURAL SANDS); QUARTZITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - QUARTZ: IN LUMPS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -365,7 +383,7 @@
         },
         {
             "code": "25061020",
-            "description": "",
+            "description": "QUARTZ (OTHER THAN NATURAL SANDS); QUARTZITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - QUARTZ: IN POWDER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -377,7 +395,7 @@
         },
         {
             "code": "250620",
-            "description": "",
+            "description": "QUARTZITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -389,7 +407,7 @@
         },
         {
             "code": "25062010",
-            "description": "",
+            "description": "QUARTZ (OTHER THAN NATURAL SANDS); QUARTZITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - QUARTZITE --- IN LUMPS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -401,7 +419,7 @@
         },
         {
             "code": "25062020",
-            "description": "",
+            "description": "QUARTZ (OTHER THAN NATURAL SANDS); QUARTZITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - QUARTZITE --- IN POWDER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -413,7 +431,7 @@
         },
         {
             "code": "25062090",
-            "description": "",
+            "description": "QUARTZ (OTHER THAN NATURAL SANDS); QUARTZITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - QUARTZITE --- OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -425,7 +443,7 @@
         },
         {
             "code": "25062110",
-            "description": "",
+            "description": "QUARTZ (OTHER THAN NATURAL SANDS); QUARTZITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - QUARTZITE : CRUDE OR ROUGHLY TRIMMED: IN LUMPS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -437,7 +455,7 @@
         },
         {
             "code": "25062120",
-            "description": "",
+            "description": "QUARTZ (OTHER THAN NATURAL SANDS); QUARTZITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - QUARTZITE : CRUDE OR ROUGHLY TRIMMED: IN POWDER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -449,7 +467,7 @@
         },
         {
             "code": "25062190",
-            "description": "",
+            "description": "QUARTZ (OTHER THAN NATURAL SANDS); QUARTZITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - QUARTZITE : CRUDE OR ROUGHLY TRIMMED: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -461,7 +479,7 @@
         },
         {
             "code": "2507",
-            "description": "",
+            "description": "KAOLIN AND OTHER KAOLINIC CLAYS, WHETHER OR NOT CALCINED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -473,7 +491,7 @@
         },
         {
             "code": "250700",
-            "description": "",
+            "description": "KAOLIN AND OTHER KAOLINIC CLAYS, WHETHER OR NOT CALCINED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -485,7 +503,7 @@
         },
         {
             "code": "25070010",
-            "description": "",
+            "description": "KAOLIN AND OTHER KAOLINIC CLAYS, WHETHER OR NOT CALCINED - KAOLIN AND OTHER KAOLINIC CLAYS, WHETHER OR NOT CALCINED: CRUDE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -497,7 +515,7 @@
         },
         {
             "code": "25070021",
-            "description": "",
+            "description": "KAOLIN AND OTHER KAOLINIC CLAYS, WHETHER OR NOT CALCINED - KAOLIN AND OTHER KAOLINIC CLAYS, WHETHER OR NOT CALCINED: OTHER: PHARMACEUTICAL GRADE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -509,7 +527,7 @@
         },
         {
             "code": "25070022",
-            "description": "",
+            "description": "KAOLIN AND OTHER KAOLINIC CLAYS, WHETHER OR NOT CALCINED - KAOLIN AND OTHER KAOLINIC CLAYS, WHETHER OR NOT CALCINED: OTHER: CERAMIC GRADE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -521,7 +539,7 @@
         },
         {
             "code": "25070029",
-            "description": "",
+            "description": "KAOLIN AND OTHER KAOLINIC CLAYS, WHETHER OR NOT CALCINED - KAOLIN AND OTHER KAOLINIC CLAYS, WHETHER OR NOT CALCINED: OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -533,7 +551,7 @@
         },
         {
             "code": "2508",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -545,7 +563,7 @@
         },
         {
             "code": "250810",
-            "description": "",
+            "description": "BENTONITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -557,7 +575,7 @@
         },
         {
             "code": "25081010",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - BENTONITE: CRUDE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -569,7 +587,7 @@
         },
         {
             "code": "25081090",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - BENTONITE: OTHER (INCLUDES PROCESSED AND GROUND)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -581,7 +599,7 @@
         },
         {
             "code": "250830",
-            "description": "",
+            "description": "FIRE CLAY",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -593,7 +611,7 @@
         },
         {
             "code": "25083010",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - FIRE CLAY: NON-PLASTIC",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -605,7 +623,7 @@
         },
         {
             "code": "25083020",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - FIRE CLAY: SEMI-PLASTIC",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -617,7 +635,7 @@
         },
         {
             "code": "25083030",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - FIRE CLAY: PLASTIC",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -629,7 +647,7 @@
         },
         {
             "code": "25083090",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - FIRE CLAY: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -641,7 +659,7 @@
         },
         {
             "code": "250840",
-            "description": "",
+            "description": "OTHER CLAYS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -653,7 +671,7 @@
         },
         {
             "code": "25084010",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - OTHER CLAYS: BALL CLAY",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -665,7 +683,7 @@
         },
         {
             "code": "25084020",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - OTHER CLAYS: EARTH CLAY",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -677,7 +695,7 @@
         },
         {
             "code": "25084090",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - OTHER CLAYS: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -689,7 +707,7 @@
         },
         {
             "code": "250850",
-            "description": "",
+            "description": "ANDALUSITE, KYANITE AND SILLIMANITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -701,7 +719,7 @@
         },
         {
             "code": "25085010",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - ANDALUSITE, KYANITE AND SILLIMANITE: ANDALUSITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -713,7 +731,7 @@
         },
         {
             "code": "25085021",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - ANDALUSITE, KYANITE AND SILLIMANITE: KYANITE: CRUDE, OTHER THAN CALCINED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -725,7 +743,7 @@
         },
         {
             "code": "25085022",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - ANDALUSITE, KYANITE AND SILLIMANITE: KYANITE: PROCESSED, OTHER THAN CALCINED (WASHED OR GROUND OR",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -737,7 +755,7 @@
         },
         {
             "code": "25085023",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - ANDALUSITE, KYANITE AND SILLIMANITE: KYANITE: CALCINED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -749,7 +767,7 @@
         },
         {
             "code": "25085031",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - ANDALUSITE, KYANITE AND SILLIMANITE: SILLIMANITE: LUMPS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -761,7 +779,7 @@
         },
         {
             "code": "25085032",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - ANDALUSITE, KYANITE AND SILLIMANITE: SILLIMANITE: FINES (INCLUDING SAND)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -773,7 +791,7 @@
         },
         {
             "code": "25085039",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - ANDALUSITE, KYANITE AND SILLIMANITE: SILLIMANITE: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -785,7 +803,7 @@
         },
         {
             "code": "250860",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - MULLITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -797,7 +815,7 @@
         },
         {
             "code": "25086000",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - MULLITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -809,7 +827,7 @@
         },
         {
             "code": "250870",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - CHAMOTTE OR DINAS EARTHS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -821,7 +839,7 @@
         },
         {
             "code": "25087000",
-            "description": "",
+            "description": "OTHER CLAYS (NOT INCLUDING EXPANDED CLAYS OF HEADING 6806), ANDALUSITE, KYANITE AND SILLIMANITE, WHETHER OR NOT CALCINED; MULLITE; CHAMOTTE OR DINAS EARTHS - CHAMOTTE OR DINAS EARTHS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -833,7 +851,7 @@
         },
         {
             "code": "2509",
-            "description": "",
+            "description": "CHALK",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -845,7 +863,7 @@
         },
         {
             "code": "250900",
-            "description": "",
+            "description": "CHALK",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -857,7 +875,7 @@
         },
         {
             "code": "25090000",
-            "description": "",
+            "description": "CHALK",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -869,7 +887,7 @@
         },
         {
             "code": "2510",
-            "description": "",
+            "description": "NATURAL CALCIUM PHOSPHATES, NATURAL ALUMINIUM CALCIUM PHOSPHATES AND PHOSPHATIC CHALK",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -881,7 +899,7 @@
         },
         {
             "code": "251010",
-            "description": "",
+            "description": "UNGROUND",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -893,7 +911,7 @@
         },
         {
             "code": "25101010",
-            "description": "",
+            "description": "NATURAL CALCIUM PHOSPHATES, NATURAL ALUMINIUM CALCIUM PHOSPHATES AND PHOSPHATIC CHALK - UNGROUND: NATURAL CALCIUM PHOSPHATE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -905,7 +923,7 @@
         },
         {
             "code": "25101020",
-            "description": "",
+            "description": "NATURAL CALCIUM PHOSPHATES, NATURAL ALUMINIUM CALCIUM PHOSPHATES AND PHOSPHATIC CHALK - UNGROUND: NATURAL ALUMINIUM CALCIUM PHOSPHATE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -917,7 +935,7 @@
         },
         {
             "code": "25101030",
-            "description": "",
+            "description": "NATURAL CALCIUM PHOSPHATES, NATURAL ALUMINIUM CALCIUM PHOSPHATES AND PHOSPHATIC CHALK - UNGROUND: NATURAL CALCIUM PHOSPHATE APATITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -929,7 +947,7 @@
         },
         {
             "code": "25101090",
-            "description": "",
+            "description": "NATURAL CALCIUM PHOSPHATES, NATURAL ALUMINIUM CALCIUM PHOSPHATES AND PHOSPHATIC CHALK - UNGROUND: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -941,7 +959,7 @@
         },
         {
             "code": "251020",
-            "description": "",
+            "description": "GROUND",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -953,7 +971,7 @@
         },
         {
             "code": "25102010",
-            "description": "",
+            "description": "NATURAL CALCIUM PHOSPHATES, NATURAL ALUMINIUM CALCIUM PHOSPHATES AND PHOSPHATIC CHALK - GROUND: NATURAL CALCIUM PHOSPHATES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -965,7 +983,7 @@
         },
         {
             "code": "25102020",
-            "description": "",
+            "description": "NATURAL CALCIUM PHOSPHATES, NATURAL ALUMINIUM CALCIUM PHOSPHATES AND PHOSPHATIC CHALK - GROUND: NATURAL ALUMINIUM CALCIUM PHOSPHATE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -977,7 +995,7 @@
         },
         {
             "code": "25102030",
-            "description": "",
+            "description": "NATURAL CALCIUM PHOSPHATES, NATURAL ALUMINIUM CALCIUM PHOSPHATES AND PHOSPHATIC CHALK - GROUND: NATURAL CALCIUM PHOSPHATES APATITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -989,7 +1007,7 @@
         },
         {
             "code": "25102090",
-            "description": "",
+            "description": "NATURAL CALCIUM PHOSPHATES, NATURAL ALUMINIUM CALCIUM PHOSPHATES AND PHOSPHATIC CHALK - GROUND: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1001,7 +1019,7 @@
         },
         {
             "code": "2511",
-            "description": "",
+            "description": "NATURAL BARIUM SULPHATE (BARYTES); NATURAL BARIUM CARBONATE (WITHERITE), WHETHER OR NOT CALCINED, OTHER THAN BARIUM OXIDE OF HEADING 2816",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1013,7 +1031,7 @@
         },
         {
             "code": "251110",
-            "description": "",
+            "description": "NATURAL BARIUM SULPHATE (BARYTES)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1025,7 +1043,7 @@
         },
         {
             "code": "25111010",
-            "description": "",
+            "description": "NATURAL BARIUM SULPHATE (BARYTES); NATURAL BARIUM CARBONATE (WITHERITE), WHETHER OR NOT CALCINED, OTHER THAN BARIUM OXIDE OF HEADING 2816 - NATURAL BARIUM SULPHATE (BARYTES): LUMPS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1037,7 +1055,7 @@
         },
         {
             "code": "25111020",
-            "description": "",
+            "description": "NATURAL BARIUM SULPHATE (BARYTES); NATURAL BARIUM CARBONATE (WITHERITE), WHETHER OR NOT CALCINED, OTHER THAN BARIUM OXIDE OF HEADING 2816 - NATURAL BARIUM SULPHATE (BARYTES): POWDER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1049,7 +1067,7 @@
         },
         {
             "code": "25111090",
-            "description": "",
+            "description": "NATURAL BARIUM SULPHATE (BARYTES); NATURAL BARIUM CARBONATE (WITHERITE), WHETHER OR NOT CALCINED, OTHER THAN BARIUM OXIDE OF HEADING 2816 - NATURAL BARIUM SULPHATE (BARYTES): OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1061,7 +1079,7 @@
         },
         {
             "code": "251120",
-            "description": "",
+            "description": "NATURAL BARIUM SULPHATE (BARYTES); NATURAL BARIUM CARBONATE (WITHERITE), WHETHER OR NOT CALCINED, OTHER THAN BARIUM OXIDE OF HEADING 2816 - NATURAL BARIUM CARBONATE (WITHERITE)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1073,7 +1091,7 @@
         },
         {
             "code": "25112000",
-            "description": "",
+            "description": "NATURAL BARIUM SULPHATE (BARYTES); NATURAL BARIUM CARBONATE (WITHERITE), WHETHER OR NOT CALCINED, OTHER THAN BARIUM OXIDE OF HEADING 2816 - NATURAL BARIUM CARBONATE (WITHERITE)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1085,7 +1103,7 @@
         },
         {
             "code": "2512",
-            "description": "",
+            "description": "SILICEOUS FOSSIL MEALS (FOR EXAMPLE, KIESELGUHR, TRIPOLITE AND DIATOMITE) AND SIMILAR SILICEOUS EARTHS, WHETHER OR NOT CALCINED, OF AN APPARENT SPECIFIC GRAVITY OF 1 OR LESS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1097,7 +1115,7 @@
         },
         {
             "code": "251200",
-            "description": "",
+            "description": "SILICEOUS FOSSIL MEALS (FOR EXAMPLE, KIESELGUHR, TRIPOLITE AND DIATOMITE) AND SIMILAR SILICEOUS EARTHS, WHETHER OR NOT CALCINED, OF AN APPARENT SPECIFIC GRAVITY OF 1 OR LESS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1109,7 +1127,7 @@
         },
         {
             "code": "25120010",
-            "description": "",
+            "description": "SILICEOUS FOSSIL MEALS (FOR EXAMPLE, KIESELGUHR, TRIPOLITE AND DIATOMITE) AND SIMILAR SILICEOUS EARTHS, WHETHER OR NOT CALCINED, OF AN APPARENT SPECIFIC GRAVITY OF 1 OR LESS - SILICEOUS FOSSIL MEALS (FOR EXAMPLE, KIESELGUHR, TRIPOLITE AND DIATOMITE) AND S",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1121,7 +1139,7 @@
         },
         {
             "code": "25120020",
-            "description": "",
+            "description": "SILICEOUS FOSSIL MEALS (FOR EXAMPLE, KIESELGUHR, TRIPOLITE AND DIATOMITE) AND SIMILAR SILICEOUS EARTHS, WHETHER OR NOT CALCINED, OF AN APPARENT SPECIFIC GRAVITY OF 1 OR LESS - SILICEOUS FOSSIL MEALS (FOR EXAMPLE, KIESELGUHR, TRIPOLITE AND DIATOMITE) AND S",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1133,7 +1151,7 @@
         },
         {
             "code": "25120030",
-            "description": "",
+            "description": "SILICEOUS FOSSIL MEALS (FOR EXAMPLE, KIESELGUHR, TRIPOLITE AND DIATOMITE) AND SIMILAR SILICEOUS EARTHS, WHETHER OR NOT CALCINED, OF AN APPARENT SPECIFIC GRAVITY OF 1 OR LESS - SILICEOUS FOSSIL MEALS (FOR EXAMPLE, KIESELGUHR, TRIPOLITE AND DIATOMITE) AND S",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1145,7 +1163,7 @@
         },
         {
             "code": "25120090",
-            "description": "",
+            "description": "SILICEOUS FOSSIL MEALS (FOR EXAMPLE, KIESELGUHR, TRIPOLITE AND DIATOMITE) AND SIMILAR SILICEOUS EARTHS, WHETHER OR NOT CALCINED, OF AN APPARENT SPECIFIC GRAVITY OF 1 OR LESS - SILICEOUS FOSSIL MEALS (FOR EXAMPLE, KIESELGUHR, TRIPOLITE AND DIATOMITE) AND S",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1157,7 +1175,7 @@
         },
         {
             "code": "2513",
-            "description": "",
+            "description": "PUMICE STONE; EMERY; NATURAL CORUNDUM, NATURAL GARNET AND OTHER NATURAL ABRASIVES, WHETHER OR NOT HEAT-TREATED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1169,7 +1187,7 @@
         },
         {
             "code": "251310",
-            "description": "",
+            "description": "PUMICE STONE; EMERY; NATURAL CORUNDUM, NATURAL GARNET AND OTHER NATURAL ABRASIVES, WHETHER OR NOT HEAT-TREATED - PUMICE STONE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1181,7 +1199,7 @@
         },
         {
             "code": "25131000",
-            "description": "",
+            "description": "PUMICE STONE; EMERY; NATURAL CORUNDUM, NATURAL GARNET AND OTHER NATURAL ABRASIVES, WHETHER OR NOT HEAT-TREATED - PUMICE STONE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1193,7 +1211,7 @@
         },
         {
             "code": "25132010",
-            "description": "",
+            "description": "PUMICE STONE; EMERY; NATURAL CORUNDUM, NATURAL GARNET AND OTHER NATURAL ABRASIVES, WHETHER OR NOT HEAT-TREATED - EMERY, NATURAL CORUNDUM, NATURAL GARNETAND OTHER NATURAL ABRASIVES: EMERY",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1205,7 +1223,7 @@
         },
         {
             "code": "25132020",
-            "description": "",
+            "description": "PUMICE STONE; EMERY; NATURAL CORUNDUM, NATURAL GARNET AND OTHER NATURAL ABRASIVES, WHETHER OR NOT HEAT-TREATED - EMERY, NATURAL CORUNDUM, NATURAL GARNETAND OTHER NATURAL ABRASIVES: NATURAL CORUNDUM",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1217,7 +1235,7 @@
         },
         {
             "code": "25132030",
-            "description": "",
+            "description": "PUMICE STONE; EMERY; NATURAL CORUNDUM, NATURAL GARNET AND OTHER NATURAL ABRASIVES, WHETHER OR NOT HEAT-TREATED - EMERY, NATURAL CORUNDUM, NATURAL GARNETAND OTHER NATURAL ABRASIVES: NATURAL GARNET",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1229,7 +1247,7 @@
         },
         {
             "code": "25132090",
-            "description": "",
+            "description": "PUMICE STONE; EMERY; NATURAL CORUNDUM, NATURAL GARNET AND OTHER NATURAL ABRASIVES, WHETHER OR NOT HEAT-TREATED - EMERY, NATURAL CORUNDUM, NATURAL GARNETAND OTHER NATURAL ABRASIVES: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1241,7 +1259,7 @@
         },
         {
             "code": "2514",
-            "description": "",
+            "description": "SLATE, WHETHER OR NOT ROUGHLY TRIMMED KG. NIL OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1253,7 +1271,7 @@
         },
         {
             "code": "251400",
-            "description": "",
+            "description": "SLATE, WHETHER OR NOT ROUGHLY TRIMMED KG. NIL OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1265,10 +1283,10 @@
         },
         {
             "code": "2515",
-            "description": "",
+            "description": "MARBLE, TRAVERTINE, ECAUSSINE AND OTHER CALCAREOUS MONUMENTAL OR BUILDING STONE OF AN APPARENT SPECIFIC GRAVITY OF 2.5 OR MORE, AND ALABASTER, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INC",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1277,70 +1295,100 @@
         },
         {
             "code": "251511",
-            "description": "",
+            "description": "MARBLE, TRAVERTINE, ECAUSSINE AND OTHER CALCAREOUS MONUMENTAL OR BUILDING STONE OF AN APPARENT SPECIFIC GRAVITY OF 2.5 OR MORE, AND ALABASTER, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INC",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-12-31"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2019-01-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25151100",
-            "description": "",
+            "description": "MARBLE, TRAVERTINE, ECAUSSINE AND OTHER CALCAREOUS MONUMENTAL OR BUILDING STONE OF AN APPARENT SPECIFIC GRAVITY OF 2.5 OR MORE, AND ALABASTER, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INC",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-12-31"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2019-01-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25151210",
-            "description": "",
+            "description": "MARBLE, TRAVERTINE, ECAUSSINE AND OTHER CALCAREOUS MONUMENTAL OR BUILDING STONE OF AN APPARENT SPECIFIC GRAVITY OF 2.5 OR MORE, AND ALABASTER, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INC",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25151220",
-            "description": "",
+            "description": "MARBLE, TRAVERTINE, ECAUSSINE AND OTHER CALCAREOUS MONUMENTAL OR BUILDING STONE OF AN APPARENT SPECIFIC GRAVITY OF 2.5 OR MORE, AND ALABASTER, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INC",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25151290",
-            "description": "",
+            "description": "MARBLE, TRAVERTINE, ECAUSSINE AND OTHER CALCAREOUS MONUMENTAL OR BUILDING STONE OF AN APPARENT SPECIFIC GRAVITY OF 2.5 OR MORE, AND ALABASTER, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INC",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25152010",
-            "description": "",
+            "description": "MARBLE, TRAVERTINE, ECAUSSINE AND OTHER CALCAREOUS MONUMENTAL OR BUILDING STONE OF AN APPARENT SPECIFIC GRAVITY OF 2.5 OR MORE, AND ALABASTER, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INC",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1349,10 +1397,10 @@
         },
         {
             "code": "25152090",
-            "description": "",
+            "description": "MARBLE, TRAVERTINE, ECAUSSINE AND OTHER CALCAREOUS MONUMENTAL OR BUILDING STONE OF AN APPARENT SPECIFIC GRAVITY OF 2.5 OR MORE, AND ALABASTER, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INC",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1361,22 +1409,28 @@
         },
         {
             "code": "2516",
-            "description": "",
+            "description": "GRANITE BLOCKS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "251611",
-            "description": "",
+            "description": "GRANITE, PORPHYRY, BASALT, SANDSTONE AND OTHER MONUMENTAL OR BUILDING STONE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - GRANITE : CRUDE OR ROUGHLY TRIMMED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1385,10 +1439,10 @@
         },
         {
             "code": "25161100",
-            "description": "",
+            "description": "GRANITE, PORPHYRY, BASALT, SANDSTONE AND OTHER MONUMENTAL OR BUILDING STONE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - GRANITE : CRUDE OR ROUGHLY TRIMMED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1397,22 +1451,34 @@
         },
         {
             "code": "25161200",
-            "description": "",
+            "description": "GRANITE, PORPHYRY, BASALT, SANDSTONE AND OTHER MONUMENTAL OR BUILDING STONE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - GRANITE : MERELY CUT, BY SAWING OR OTHERWIS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "251620",
-            "description": "",
+            "description": "GRANITE, PORPHYRY, BASALT, SANDSTONE AND OTHER MONUMENTAL OR BUILDING STONE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - SANDSTONE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1421,10 +1487,10 @@
         },
         {
             "code": "25162000",
-            "description": "",
+            "description": "GRANITE, PORPHYRY, BASALT, SANDSTONE AND OTHER MONUMENTAL OR BUILDING STONE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - SANDSTONE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1433,10 +1499,10 @@
         },
         {
             "code": "25162100",
-            "description": "",
+            "description": "GRANITE, PORPHYRY, BASALT, SANDSTONE AND OTHER MONUMENTAL OR BUILDING STONE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - SANDSTONE: CRUDE OR ROUGHLY TRIMMED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1445,10 +1511,10 @@
         },
         {
             "code": "25162200",
-            "description": "",
+            "description": "GRANITE, PORPHYRY, BASALT, SANDSTONE AND OTHER MONUMENTAL OR BUILDING STONE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - SANDSTONE: MERELY CUT, BY SAWING OR OTHERWI",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1457,10 +1523,10 @@
         },
         {
             "code": "251690",
-            "description": "",
+            "description": "OTHER MONUMENTAL OR BUILDING STONE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1469,10 +1535,10 @@
         },
         {
             "code": "25169010",
-            "description": "",
+            "description": "GRANITE, PORPHYRY, BASALT, SANDSTONE AND OTHER MONUMENTAL OR BUILDING STONE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - OTHER MONUMENTAL OR BUILDING STONE: PAKUR S",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1481,10 +1547,10 @@
         },
         {
             "code": "25169020",
-            "description": "",
+            "description": "GRANITE, PORPHYRY, BASALT, SANDSTONE AND OTHER MONUMENTAL OR BUILDING STONE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - OTHER MONUMENTAL OR BUILDING STONE: STONE B",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1493,10 +1559,10 @@
         },
         {
             "code": "25169090",
-            "description": "",
+            "description": "GRANITE, PORPHYRY, BASALT, SANDSTONE AND OTHER MONUMENTAL OR BUILDING STONE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - OTHER MONUMENTAL OR BUILDING STONE: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1505,7 +1571,7 @@
         },
         {
             "code": "2517",
-            "description": "",
+            "description": "PEBBLES, GRAVEL, BROKEN OR CRUSHED STONE, OF A KIND COMMONLY USED FOR CONCRETE AGGREGATES, FOR ROAD METALLING OR FOR RAILWAY OR OTHER BALLAST, SHINGLE AND FLINT, WHETHER OR NOT HEAT-TREATED; MACADAM OF SLAG, DROSS OR SIMILAR INDUSTRIAL WASTE, WHETHER OR N",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1517,7 +1583,7 @@
         },
         {
             "code": "251710",
-            "description": "",
+            "description": "PEBBLES, GRAVEL, BROKEN OR CRUSHED STONE, OF A KIND COMMONLY USED FOR CONCRETE AGGREGATES, FOR ROAD METALLING OR FOR RAILWAY OR OTHER BALLAST, SHINGLE AND FLINT, WHETHER OR NOT HEAT-TREATED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1529,7 +1595,7 @@
         },
         {
             "code": "25171010",
-            "description": "",
+            "description": "PEBBLES, GRAVEL, BROKEN OR CRUSHED STONE, OF A KIND COMMONLY USED FOR CONCRETE AGGREGATES, FOR ROAD METALLING OR FOR RAILWAY OR OTHER BALLAST, SHINGLE AND FLINT, WHETHER OR NOT HEAT-TREATED; MACADAM OF SLAG, DROSS OR SIMILAR INDUSTRIAL WASTE, WHETHER OR N",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1541,7 +1607,7 @@
         },
         {
             "code": "25171020",
-            "description": "",
+            "description": "PEBBLES, GRAVEL, BROKEN OR CRUSHED STONE, OF A KIND COMMONLY USED FOR CONCRETE AGGREGATES, FOR ROAD METALLING OR FOR RAILWAY OR OTHER BALLAST, SHINGLE AND FLINT, WHETHER OR NOT HEAT-TREATED; MACADAM OF SLAG, DROSS OR SIMILAR INDUSTRIAL WASTE, WHETHER OR N",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1553,7 +1619,7 @@
         },
         {
             "code": "25171090",
-            "description": "",
+            "description": "PEBBLES, GRAVEL, BROKEN OR CRUSHED STONE, OF A KIND COMMONLY USED FOR CONCRETE AGGREGATES, FOR ROAD METALLING OR FOR RAILWAY OR OTHER BALLAST, SHINGLE AND FLINT, WHETHER OR NOT HEAT-TREATED; MACADAM OF SLAG, DROSS OR SIMILAR INDUSTRIAL WASTE, WHETHER OR N",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1565,7 +1631,7 @@
         },
         {
             "code": "25172000",
-            "description": "",
+            "description": "PEBBLES, GRAVEL, BROKEN OR CRUSHED STONE, OF A KIND COMMONLY USED FOR CONCRETE AGGREGATES, FOR ROAD METALLING OR FOR RAILWAY OR OTHER BALLAST, SHINGLE AND FLINT, WHETHER OR NOT HEAT-TREATED; MACADAM OF SLAG, DROSS OR SIMILAR INDUSTRIAL WASTE, WHETHER OR N",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1577,7 +1643,7 @@
         },
         {
             "code": "251730",
-            "description": "",
+            "description": "PEBBLES, GRAVEL, BROKEN OR CRUSHED STONE, OF A KIND COMMONLY USED FOR CONCRETE AGGREGATES, FOR ROAD METALLING OR FOR RAILWAY OR OTHER BALLAST, SHINGLE AND FLINT, WHETHER OR NOT HEAT-TREATED; MACADAM OF SLAG, DROSS OR SIMILAR INDUSTRIAL WASTE, WHETHER OR N",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1589,7 +1655,7 @@
         },
         {
             "code": "251741",
-            "description": "",
+            "description": "PEBBLES, GRAVEL, BROKEN OR CRUSHED STONE, OF A KIND COMMONLY USED FOR CONCRETE AGGREGATES, FOR ROAD METALLING OR FOR RAILWAY OR OTHER BALLAST, SHINGLE AND FLINT, WHETHER OR NOT HEAT-TREATED; MACADAM OF SLAG, DROSS OR SIMILAR INDUSTRIAL WASTE, WHETHER OR N",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1601,7 +1667,7 @@
         },
         {
             "code": "25174100",
-            "description": "",
+            "description": "PEBBLES, GRAVEL, BROKEN OR CRUSHED STONE, OF A KIND COMMONLY USED FOR CONCRETE AGGREGATES, FOR ROAD METALLING OR FOR RAILWAY OR OTHER BALLAST, SHINGLE AND FLINT, WHETHER OR NOT HEAT-TREATED; MACADAM OF SLAG, DROSS OR SIMILAR INDUSTRIAL WASTE, WHETHER OR N",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1613,7 +1679,7 @@
         },
         {
             "code": "251749",
-            "description": "",
+            "description": "PEBBLES, GRAVEL, BROKEN OR CRUSHED STONE, OF A KIND COMMONLY USED FOR CONCRETE AGGREGATES, FOR ROAD METALLING OR FOR RAILWAY OR OTHER BALLAST, SHINGLE AND FLINT, WHETHER OR NOT HEAT-TREATED; MACADAM OF SLAG, DROSS OR SIMILAR INDUSTRIAL WASTE, WHETHER OR N",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1625,7 +1691,7 @@
         },
         {
             "code": "25174900",
-            "description": "",
+            "description": "PEBBLES, GRAVEL, BROKEN OR CRUSHED STONE, OF A KIND COMMONLY USED FOR CONCRETE AGGREGATES, FOR ROAD METALLING OR FOR RAILWAY OR OTHER BALLAST, SHINGLE AND FLINT, WHETHER OR NOT HEAT-TREATED; MACADAM OF SLAG, DROSS OR SIMILAR INDUSTRIAL WASTE, WHETHER OR N",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1637,7 +1703,7 @@
         },
         {
             "code": "2518",
-            "description": "",
+            "description": "DOLOMITE, WHETHER OR NOT CALCINED OR SINTERED, INCLUDING DOLOMITE ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE; DOLOMITE RAMMING MIX",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1649,7 +1715,7 @@
         },
         {
             "code": "251810",
-            "description": "",
+            "description": "DOLOMITE, WHETHER OR NOT CALCINED OR SINTERED, INCLUDING DOLOMITE ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE; DOLOMITE RAMMING MIX -DOLOMITE NOT CALCINED OR SINTERED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1661,7 +1727,7 @@
         },
         {
             "code": "25181000",
-            "description": "",
+            "description": "DOLOMITE, WHETHER OR NOT CALCINED OR SINTERED, INCLUDING DOLOMITE ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE; DOLOMITE RAMMING MIX -DOLOMITE NOT CALCINED OR SINTERED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1673,7 +1739,7 @@
         },
         {
             "code": "251820",
-            "description": "",
+            "description": "DOLOMITE, WHETHER OR NOT CALCINED OR SINTERED, INCLUDING DOLOMITE ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE; DOLOMITE RAMMING MIX -CALCINED OR SINTERED DOLOMITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1685,7 +1751,7 @@
         },
         {
             "code": "25182000",
-            "description": "",
+            "description": "DOLOMITE, WHETHER OR NOT CALCINED OR SINTERED, INCLUDING DOLOMITE ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE; DOLOMITE RAMMING MIX -CALCINED OR SINTERED DOLOMITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1697,7 +1763,7 @@
         },
         {
             "code": "251830",
-            "description": "",
+            "description": "DOLOMITE, WHETHER OR NOT CALCINED OR SINTERED, INCLUDING DOLOMITE ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE; DOLOMITE RAMMING MIX -DOLOMITE RAMMING MIX",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1709,7 +1775,7 @@
         },
         {
             "code": "25183000",
-            "description": "",
+            "description": "DOLOMITE, WHETHER OR NOT CALCINED OR SINTERED, INCLUDING DOLOMITE ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE; DOLOMITE RAMMING MIX -DOLOMITE RAMMING MIX",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1721,7 +1787,7 @@
         },
         {
             "code": "2519",
-            "description": "",
+            "description": "NATURAL MAGNESIUM CARBONATE (MAGNESITE); FUSED MAGNESIA; DEAD-BURNED (SINTERED) MAGNESIA, WHETHER OR NOT CONTAINING SMALL QUANTITIES OF OTHER OXIDES ADDED BEFORE SINTERING; OTHER MAGNESIUM OXIDE, WHETHER OR NOT PURE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1733,7 +1799,7 @@
         },
         {
             "code": "251910",
-            "description": "",
+            "description": "NATURAL MAGNESIUM CARBONATE (MAGNESITE); FUSED MAGNESIA; DEAD-BURNED (SINTERED) MAGNESIA, WHETHER OR NOT CONTAINING SMALL QUANTITIES OF OTHER OXIDES ADDED BEFORE SINTERING; OTHER MAGNESIUM OXIDE, WHETHER OR NOT PURE - NATURAL MAGNESIUM CARBONATE (MAGNESIT",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1745,7 +1811,7 @@
         },
         {
             "code": "25191000",
-            "description": "",
+            "description": "NATURAL MAGNESIUM CARBONATE (MAGNESITE); FUSED MAGNESIA; DEAD-BURNED (SINTERED) MAGNESIA, WHETHER OR NOT CONTAINING SMALL QUANTITIES OF OTHER OXIDES ADDED BEFORE SINTERING; OTHER MAGNESIUM OXIDE, WHETHER OR NOT PURE - NATURAL MAGNESIUM CARBONATE (MAGNESIT",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1757,7 +1823,7 @@
         },
         {
             "code": "251990",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1769,7 +1835,7 @@
         },
         {
             "code": "25199010",
-            "description": "",
+            "description": "NATURAL MAGNESIUM CARBONATE (MAGNESITE); FUSED MAGNESIA; DEAD-BURNED (SINTERED) MAGNESIA, WHETHER OR NOT CONTAINING SMALL QUANTITIES OF OTHER OXIDES ADDED BEFORE SINTERING; OTHER MAGNESIUM OXIDE, WHETHER OR NOT PURE - OTHER: FUSED MAGNESIA (NATURAL)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1781,7 +1847,7 @@
         },
         {
             "code": "25199020",
-            "description": "",
+            "description": "NATURAL MAGNESIUM CARBONATE (MAGNESITE); FUSED MAGNESIA; DEAD-BURNED (SINTERED) MAGNESIA, WHETHER OR NOT CONTAINING SMALL QUANTITIES OF OTHER OXIDES ADDED BEFORE SINTERING; OTHER MAGNESIUM OXIDE, WHETHER OR NOT PURE - OTHER: DEAD-BURNT (SINTERED) MAGNESIA",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1793,7 +1859,7 @@
         },
         {
             "code": "25199030",
-            "description": "",
+            "description": "NATURAL MAGNESIUM CARBONATE (MAGNESITE); FUSED MAGNESIA; DEAD-BURNED (SINTERED) MAGNESIA, WHETHER OR NOT CONTAINING SMALL QUANTITIES OF OTHER OXIDES ADDED BEFORE SINTERING; OTHER MAGNESIUM OXIDE, WHETHER OR NOT PURE - OTHER: MAGNESIUM CALCINED (OTHER THAN",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1805,7 +1871,7 @@
         },
         {
             "code": "25199040",
-            "description": "",
+            "description": "NATURAL MAGNESIUM CARBONATE (MAGNESITE); FUSED MAGNESIA; DEAD-BURNED (SINTERED) MAGNESIA, WHETHER OR NOT CONTAINING SMALL QUANTITIES OF OTHER OXIDES ADDED BEFORE SINTERING; OTHER MAGNESIUM OXIDE, WHETHER OR NOT PURE - OTHER: MAGNESIUM OXIDE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1817,7 +1883,7 @@
         },
         {
             "code": "25199090",
-            "description": "",
+            "description": "NATURAL MAGNESIUM CARBONATE (MAGNESITE); FUSED MAGNESIA; DEAD-BURNED (SINTERED) MAGNESIA, WHETHER OR NOT CONTAINING SMALL QUANTITIES OF OTHER OXIDES ADDED BEFORE SINTERING; OTHER MAGNESIUM OXIDE, WHETHER OR NOT PURE - OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1829,7 +1895,7 @@
         },
         {
             "code": "2520",
-            "description": "",
+            "description": "GYPSUM; ANHYDRITE; PLASTERS (CONSISTING OF CALCINED GYPSUM OR CALCIUM SULPHATE) WHETHER OR NOT COLOURED, WITH OR WITHOUT SMALL QUANTITIES OF ACCELERATORS OR RETARDERS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1841,7 +1907,7 @@
         },
         {
             "code": "252010",
-            "description": "",
+            "description": "GYPSUM; ANHYDRITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1853,7 +1919,7 @@
         },
         {
             "code": "25201010",
-            "description": "",
+            "description": "GYPSUM; ANHYDRITE; PLASTERS (CONSISTING OF CALCINED GYPSUM OR CALCIUM SULPHATE) WHETHER OR NOT COLOURED, WITH OR WITHOUT SMALL QUANTITIES OF ACCELERATORS OR RETARDERS - GYPSUM; ANHYDRITE: NATURAL",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1865,7 +1931,7 @@
         },
         {
             "code": "25201020",
-            "description": "",
+            "description": "GYPSUM; ANHYDRITE; PLASTERS (CONSISTING OF CALCINED GYPSUM OR CALCIUM SULPHATE) WHETHER OR NOT COLOURED, WITH OR WITHOUT SMALL QUANTITIES OF ACCELERATORS OR RETARDERS - GYPSUM; ANHYDRITE: MARINE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1877,7 +1943,7 @@
         },
         {
             "code": "25201090",
-            "description": "",
+            "description": "GYPSUM; ANHYDRITE; PLASTERS (CONSISTING OF CALCINED GYPSUM OR CALCIUM SULPHATE) WHETHER OR NOT COLOURED, WITH OR WITHOUT SMALL QUANTITIES OF ACCELERATORS OR RETARDERS - GYPSUM; ANHYDRITE: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1889,7 +1955,7 @@
         },
         {
             "code": "252020",
-            "description": "",
+            "description": "PLASTERS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1901,7 +1967,7 @@
         },
         {
             "code": "25202010",
-            "description": "",
+            "description": "GYPSUM; ANHYDRITE; PLASTERS (CONSISTING OF CALCINED GYPSUM OR CALCIUM SULPHATE) WHETHER OR NOT COLOURED, WITH OR WITHOUT SMALL QUANTITIES OF ACCELERATORS OR RETARDERS - PLASTERS: CALCINED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1913,7 +1979,7 @@
         },
         {
             "code": "25202090",
-            "description": "",
+            "description": "GYPSUM; ANHYDRITE; PLASTERS (CONSISTING OF CALCINED GYPSUM OR CALCIUM SULPHATE) WHETHER OR NOT COLOURED, WITH OR WITHOUT SMALL QUANTITIES OF ACCELERATORS OR RETARDERS - PLASTERS: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1925,7 +1991,7 @@
         },
         {
             "code": "2521",
-            "description": "",
+            "description": "LIMESTONE FLUX; LIMESTONE AND OTHER CALCAREOUS STONES, OF A KIND USED FOR THE MANUFACTURE OF LIME OR CEMENT",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1937,7 +2003,7 @@
         },
         {
             "code": "25210010",
-            "description": "",
+            "description": "LIMESTONE FLUX; LIMESTONE AND OTHER CALCAREOUS STONES, OF A KIND USED FOR THE MANUFACTURE OF LIME OR CEMENT - LIMESTONE FLUX; LIMESTONE AND OTHER CALCAREOUS STONES, OF A KIND USED FOR THE MANUFACTURE OF LIME OR CEMENT: LIMESTONE FLUX (L.D., BELOW 1% SIO2)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1949,7 +2015,7 @@
         },
         {
             "code": "25210090",
-            "description": "",
+            "description": "LIMESTONE FLUX; LIMESTONE AND OTHER CALCAREOUS STONES, OF A KIND USED FOR THE MANUFACTURE OF LIME OR CEMENT - LIMESTONE FLUX; LIMESTONE AND OTHER CALCAREOUS STONES, OF A KIND USED FOR THE MANUFACTURE OF LIME OR CEMENT: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1961,7 +2027,7 @@
         },
         {
             "code": "2522",
-            "description": "",
+            "description": "QUICKLIME, SLAKED LIME AND HYDRAULIC LIME, OTHER THAN CALCIUM OXIDE AND HYDROXIDE OF HEADING 2825",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1973,7 +2039,7 @@
         },
         {
             "code": "252210",
-            "description": "",
+            "description": "QUICKLIME, SLAKED LIME AND HYDRAULIC LIME, OTHER THAN CALCIUM OXIDE AND HYDROXIDE OF HEADING 2825 QUICKLIME",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1985,7 +2051,7 @@
         },
         {
             "code": "25221000",
-            "description": "",
+            "description": "QUICKLIME, SLAKED LIME AND HYDRAULIC LIME, OTHER THAN CALCIUM OXIDE AND HYDROXIDE OF HEADING 2825 QUICKLIME",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1997,7 +2063,7 @@
         },
         {
             "code": "252220",
-            "description": "",
+            "description": "QUICKLIME, SLAKED LIME AND HYDRAULIC LIME, OTHER THAN CALCIUM OXIDE AND HYDROXIDE OF HEADING 2825 SLAKED LIME",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2009,7 +2075,7 @@
         },
         {
             "code": "25222000",
-            "description": "",
+            "description": "QUICKLIME, SLAKED LIME AND HYDRAULIC LIME, OTHER THAN CALCIUM OXIDE AND HYDROXIDE OF HEADING 2825 SLAKED LIME",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2021,7 +2087,7 @@
         },
         {
             "code": "252230",
-            "description": "",
+            "description": "QUICKLIME, SLAKED LIME AND HYDRAULIC LIME, OTHER THAN CALCIUM OXIDE AND HYDROXIDE OF HEADING 2825 HYDRAULIC LIME",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2033,7 +2099,7 @@
         },
         {
             "code": "25223000",
-            "description": "",
+            "description": "QUICKLIME, SLAKED LIME AND HYDRAULIC LIME, OTHER THAN CALCIUM OXIDE AND HYDROXIDE OF HEADING 2825 HYDRAULIC LIME",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2045,19 +2111,25 @@
         },
         {
             "code": "2523",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "252310",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS CEMENT CLINKERS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
@@ -2069,19 +2141,25 @@
         },
         {
             "code": "25231000",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS CEMENT CLINKERS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "252321",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS - PORTLAND CEMENT: WHITE CEMENT, WHETHER OR NOT ARTIFICIALLY COLOURED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
@@ -2093,91 +2171,133 @@
         },
         {
             "code": "25232100",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS - PORTLAND CEMENT: WHITE CEMENT, WHETHER OR NOT ARTIFICIALLY COLOURED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "252329",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25232910",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS - PORTLAND CEMENT: OTHER: ORDINARY PORTLAND CEMENT, DRY",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25232920",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS - PORTLAND CEMENT: OTHER: ORDINARY PORTLAND CEMENT, COLOURED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25232930",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS - PORTLAND CEMENT: OTHER: PORTLAND POZZOLANA CEMENT",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25232940",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS - PORTLAND CEMENT: OTHER: PORTLAND SLAG CEMENT",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25232990",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS - PORTLAND CEMENT: OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "252330",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS -ALUMINOUS CEMENT",
             "rateHistory": [
                 {
                     "ratePercent": 28,
@@ -2189,67 +2309,97 @@
         },
         {
             "code": "25233000",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS -ALUMINOUS CEMENT",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "252390",
-            "description": "",
+            "description": "OTHER HYDRAULIC CEMENTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25239010",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS - OTHER HYDRAULIC CEMENTS: SAGOL; ASHMOH",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25239020",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS - OTHER HYDRAULIC CEMENTS: HIGH ALUMINA REFRACTORY CEMENT",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "25239090",
-            "description": "",
+            "description": "PORTLAND CEMENT, ALUMINOUS CEMENT, SLAG CEMENT, SUPERSULPHATE CEMENT AND SIMILAR HYDRAULIC CEMENTS, WHETHER OR NOT COLOURED OR IN THE FORM OF CLINKERS - OTHER HYDRAULIC CEMENTS: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2524",
-            "description": "",
+            "description": "ASBESTOS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2261,7 +2411,7 @@
         },
         {
             "code": "25240011",
-            "description": "",
+            "description": "ASBESTOS - ASBESTOS: ASBESTOS IN ROCK FORM: CHRYSOTILE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2273,7 +2423,7 @@
         },
         {
             "code": "25240012",
-            "description": "",
+            "description": "ASBESTOS - ASBESTOS: ASBESTOS IN ROCK FORM: AMPHIBOLE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2285,7 +2435,7 @@
         },
         {
             "code": "25240019",
-            "description": "",
+            "description": "ASBESTOS - ASBESTOS: ASBESTOS IN ROCK FORM: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2297,7 +2447,7 @@
         },
         {
             "code": "25240021",
-            "description": "",
+            "description": "ASBESTOS - ASBESTOS: FIBRE RAW, BEATEN OR WASHED OR GRADED TO LENGTH : CHRYSOLITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2309,7 +2459,7 @@
         },
         {
             "code": "25240022",
-            "description": "",
+            "description": "ASBESTOS - ASBESTOS: FIBRE RAW, BEATEN OR WASHED OR GRADED TO LENGTH : AMOSITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2321,7 +2471,7 @@
         },
         {
             "code": "25240029",
-            "description": "",
+            "description": "ASBESTOS - ASBESTOS: FIBRE RAW, BEATEN OR WASHED OR GRADED TO LENGTH : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2333,7 +2483,7 @@
         },
         {
             "code": "25240031",
-            "description": "",
+            "description": "ASBESTOS - ASBESTOS: FLAKES OR POWDER: AMOSITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2345,7 +2495,7 @@
         },
         {
             "code": "25240039",
-            "description": "",
+            "description": "ASBESTOS - ASBESTOS: FLAKES OR POWDER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2357,7 +2507,7 @@
         },
         {
             "code": "25240091",
-            "description": "",
+            "description": "ASBESTOS - ASBESTOS: OTHER: WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2369,7 +2519,7 @@
         },
         {
             "code": "25240099",
-            "description": "",
+            "description": "ASBESTOS - ASBESTOS: OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2381,7 +2531,7 @@
         },
         {
             "code": "252410",
-            "description": "",
+            "description": "ASBESTOS - CROCIDOLITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2393,7 +2543,7 @@
         },
         {
             "code": "25241000",
-            "description": "",
+            "description": "ASBESTOS - CROCIDOLITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2405,7 +2555,7 @@
         },
         {
             "code": "25241010",
-            "description": "",
+            "description": "CROCIDOLITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2417,7 +2567,7 @@
         },
         {
             "code": "252490",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2429,7 +2579,7 @@
         },
         {
             "code": "25249011",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- IN ROCK FORM ---- CHRYSOTILE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2441,7 +2591,7 @@
         },
         {
             "code": "25249012",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- IN ROCK FORM ---- AMPHIBOLE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2453,7 +2603,7 @@
         },
         {
             "code": "25249013",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- IN ROCK FORM ---- CRYSOLITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2465,7 +2615,7 @@
         },
         {
             "code": "25249014",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- IN ROCK FORM ---- AMOSITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2477,7 +2627,7 @@
         },
         {
             "code": "25249019",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- IN ROCK FORM ---- OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2489,7 +2639,7 @@
         },
         {
             "code": "25249021",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- FIBRE RAW, BEATEN OR WASHED OR GRADED TO LENGTH ---- CHRYSOTILE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2501,7 +2651,7 @@
         },
         {
             "code": "25249022",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- FIBRE RAW, BEATEN OR WASHED OR GRADED TO LENGTH ---- AMPHIBOLE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2513,7 +2663,7 @@
         },
         {
             "code": "25249023",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- FIBRE RAW, BEATEN OR WASHED OR GRADED TO LENGTH ---- CRYSOLITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2525,7 +2675,7 @@
         },
         {
             "code": "25249024",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- FIBRE RAW, BEATEN OR WASHED OR GRADED TO LENGTH ---- AMOSITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2537,7 +2687,7 @@
         },
         {
             "code": "25249029",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- FIBRE RAW, BEATEN OR WASHED OR GRADED TO LENGTH ---- OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2549,7 +2699,7 @@
         },
         {
             "code": "25249031",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- FLAKES OR POWDER ---- CHRYSOTILE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2561,7 +2711,7 @@
         },
         {
             "code": "25249032",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- FLAKES OR POWDER ---- AMPHIBOLE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2573,7 +2723,7 @@
         },
         {
             "code": "25249033",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- FLAKES OR POWDER ---- CRYSOLITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2585,7 +2735,7 @@
         },
         {
             "code": "25249034",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- FLAKES OR POWDER ---- AMOSITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2597,7 +2747,7 @@
         },
         {
             "code": "25249039",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- FLAKES OR POWDER ---- OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2609,7 +2759,7 @@
         },
         {
             "code": "25249091",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- OTHER ---- WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2621,7 +2771,7 @@
         },
         {
             "code": "25249099",
-            "description": "",
+            "description": "ASBESTOS - OTHER --- OTHER ---- OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2633,7 +2783,7 @@
         },
         {
             "code": "2525",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2645,7 +2795,7 @@
         },
         {
             "code": "252510",
-            "description": "",
+            "description": "CRUDE MICA AND MICA RIFTED INTO SHEETS OR SPLITTINGS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2657,7 +2807,7 @@
         },
         {
             "code": "25251010",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - CRUDE MICA AND MICA RIFTED INTO SHEETS OR SPLITTINGS: MICA BLOCKS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2669,7 +2819,7 @@
         },
         {
             "code": "25251020",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - CRUDE MICA AND MICA RIFTED INTO SHEETS OR SPLITTINGS: CONDENSOR FILMS TRIMMED BUT NOT CUT TO SHAPE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2681,7 +2831,7 @@
         },
         {
             "code": "25251030",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - CRUDE MICA AND MICA RIFTED INTO SHEETS OR SPLITTINGS: MICA SPLITTINGS, BOOK FORM",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2693,7 +2843,7 @@
         },
         {
             "code": "25251040",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - CRUDE MICA AND MICA RIFTED INTO SHEETS OR SPLITTINGS: MICA SPLITTINGS, LOOSE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2705,7 +2855,7 @@
         },
         {
             "code": "25251090",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - CRUDE MICA AND MICA RIFTED INTO SHEETS OR SPLITTINGS: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2717,7 +2867,7 @@
         },
         {
             "code": "252520",
-            "description": "",
+            "description": "MICA POWDER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2729,7 +2879,7 @@
         },
         {
             "code": "25252010",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - MICA POWDER: MICA FLAKES, 2.20 MESH",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2741,7 +2891,7 @@
         },
         {
             "code": "25252020",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - MICA POWDER: MICA POWDER, DRY GROUND",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2753,7 +2903,7 @@
         },
         {
             "code": "25252030",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - MICA POWDER: MICA POWDER, MICRONISED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2765,7 +2915,7 @@
         },
         {
             "code": "25252040",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - MICA POWDER: MICA POWDER, WET GROUND",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2777,7 +2927,7 @@
         },
         {
             "code": "25252050",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - MICA POWDER: MICA POWDER, CALCINED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2789,7 +2939,7 @@
         },
         {
             "code": "25252090",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - MICA POWDER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2801,7 +2951,7 @@
         },
         {
             "code": "252530",
-            "description": "",
+            "description": "MICA WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2813,7 +2963,7 @@
         },
         {
             "code": "25253010",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - MICA WASTE: MICA MINE SCRAP AND WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2825,7 +2975,7 @@
         },
         {
             "code": "25253020",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - MICA WASTE: MICA FACTORY SCRAP",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2837,7 +2987,7 @@
         },
         {
             "code": "25253030",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - MICA WASTE: MICA CUTTINGS BOOK FORM",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2849,7 +2999,7 @@
         },
         {
             "code": "25253090",
-            "description": "",
+            "description": "MICA, INCLUDING SPLITTINGS; MICA WASTE - MICA WASTE: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2861,7 +3011,7 @@
         },
         {
             "code": "2526",
-            "description": "",
+            "description": "NATURAL STEATITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE; TALC",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2873,7 +3023,7 @@
         },
         {
             "code": "252610",
-            "description": "",
+            "description": "NOT CRUSHED, NOT POWDERED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2885,7 +3035,7 @@
         },
         {
             "code": "25261010",
-            "description": "",
+            "description": "NATURAL STEATITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE; TALC - NOT CRUSHED, NOT POWDERED: STEATITE (SOAP STONE, ETC.) BLOCK",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2897,7 +3047,7 @@
         },
         {
             "code": "25261020",
-            "description": "",
+            "description": "NATURAL STEATITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE; TALC - NOT CRUSHED, NOT POWDERED: STEATITE (SOAP STONE, ETC.) LUMPS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2909,7 +3059,7 @@
         },
         {
             "code": "25261090",
-            "description": "",
+            "description": "NATURAL STEATITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE; TALC - NOT CRUSHED, NOT POWDERED: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2921,7 +3071,7 @@
         },
         {
             "code": "252620",
-            "description": "",
+            "description": "NATURAL STEATITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE; TALC CRUSHED OR POWDERED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2933,7 +3083,7 @@
         },
         {
             "code": "25262000",
-            "description": "",
+            "description": "NATURAL STEATITE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE; TALC CRUSHED OR POWDERED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2945,7 +3095,7 @@
         },
         {
             "code": "2528",
-            "description": "",
+            "description": "NATURAL BORATES AND CONCENTRATES THEREOF (WHETER OR NOT CALCINED), BUT NOT INCLUDING BORATES SEPARATED FROM NATUAL BRINE; NATURAL",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2957,7 +3107,7 @@
         },
         {
             "code": "25280010",
-            "description": "",
+            "description": "NATURAL BORATES AND CONCENTRATES THEREOF (WHETHER OR NOT CALCINED), BUT NOT INCLUDING BORATES SEPARATED FROM NATURAL BRINE;NATURAL BORIC ACID CONTAINING NOT MORE THAN 85% OF H2BO3 CALCULATED ON THE DRY WEIGHT---NATURAL SODIUM BORATES AND CONCENTRATES THER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2969,7 +3119,7 @@
         },
         {
             "code": "25280020",
-            "description": "",
+            "description": "NATURAL BORATES AND CONCENTRATES THEREOF (WHETHER OR NOT CALCINED), BUT NOT INCLUDING BORATES SEPARATED FROM NATURAL BRINE;NATURAL BORIC ACID CONTAINING NOT MORE THAN 85% OF H2BO3 CALCULATED ON THE DRY WEIGHT---NATURAL BORIC ACID (CONTAINING NOT MORE THAN",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2981,7 +3131,7 @@
         },
         {
             "code": "25280030",
-            "description": "",
+            "description": "NATURAL BORATES AND CONCENTRATES THEREOF (WHETHER OR NOT CALCINED), BUT NOT INCLUDING BORATES SEPARATED FROM NATURAL BRINE;NATURAL BORIC ACID CONTAINING NOT MORE THAN 85% OF H2BO3 CALCULATED ON THE DRY WEIGHT---NATURAL CALCIUM BORATES AND CONCENTRATES THE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2993,7 +3143,7 @@
         },
         {
             "code": "25280090",
-            "description": "",
+            "description": "NATURAL BORATES AND CONCENTRATES THEREOF (WHETHER OR NOT CALCINED), BUT NOT INCLUDING BORATES SEPARATED FROM NATURAL BRINE;NATURAL BORIC ACID CONTAINING NOT MORE THAN 85% OF H2BO3 CALCULATED ON THE DRY WEIGHT---OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3005,7 +3155,7 @@
         },
         {
             "code": "25289020",
-            "description": "",
+            "description": "NATURAL BORATES AND CONCENTRATES THEREOF (WHETHER OR NOT CALCINED), BUT NOT INCLUDING BORATES SEPARATED FROM NATURAL BRINE; NATURAL BORIC ACID CONTAINING NOT MORE THAN 85% OF H3BO3 CALCULATED ON THE DRY WEIGHT- OTHER: NATURAL CALCIUM BORATES AND CONCENTRA",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3017,7 +3167,7 @@
         },
         {
             "code": "2529",
-            "description": "",
+            "description": "FELDSPAR; LEUCITE; NEPHELINE AND NEPHELINE SYENITE; FLUORSPAR",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3029,7 +3179,7 @@
         },
         {
             "code": "252910",
-            "description": "",
+            "description": "FELDSPAR",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3041,7 +3191,7 @@
         },
         {
             "code": "25291010",
-            "description": "",
+            "description": "FELDSPAR; LEUCITE; NEPHELINE AND NEPHELINE SYENITE; FLUORSPAR - FELDSPAR: LUMPS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3053,7 +3203,7 @@
         },
         {
             "code": "25291020",
-            "description": "",
+            "description": "FELDSPAR; LEUCITE; NEPHELINE AND NEPHELINE SYENITE; FLUORSPAR - FELDSPAR: POWDER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3065,7 +3215,7 @@
         },
         {
             "code": "25292100",
-            "description": "",
+            "description": "FELDSPAR; LEUCITE; NEPHELINE AND NEPHELINE SYENITE; FLUORSPAR - FLUORSPAR: CONTAINING BY WEIGHT 97% OR LESS OF CALCIUM FLUORIDE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3077,7 +3227,7 @@
         },
         {
             "code": "25292200",
-            "description": "",
+            "description": "FELDSPAR; LEUCITE; NEPHELINE AND NEPHELINE SYENITE; FLUORSPAR - FLUORSPAR: CONTAINING BY WEIGHT MORE THAN 97% OF CALCIUM FLUORIDE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3089,7 +3239,7 @@
         },
         {
             "code": "25293000",
-            "description": "",
+            "description": "FELDSPAR; LEUCITE; NEPHELINE AND NEPHELINE SYENITE; FLUORSPAR - LEUCITE; NEPHELINE AND NEPHELINE SYENITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3101,7 +3251,7 @@
         },
         {
             "code": "2530",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3113,7 +3263,7 @@
         },
         {
             "code": "253010",
-            "description": "",
+            "description": "VERMICULITE, PERLITE AND CHLORITES, UNEXPANDED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3125,7 +3275,7 @@
         },
         {
             "code": "25301010",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED - VERMICULITE, PERLITE AND CHLORITES, UNEXPANDED: VERMICULITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3137,7 +3287,7 @@
         },
         {
             "code": "25301020",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED - VERMICULITE, PERLITE AND CHLORITES, UNEXPANDED: PERLITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3149,7 +3299,7 @@
         },
         {
             "code": "25301090",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED - VERMICULITE, PERLITE AND CHLORITES, UNEXPANDED: OTHERS (INCLUDING POWDER)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3161,7 +3311,7 @@
         },
         {
             "code": "253020",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED KIESERITE, EPSOMITE (NATURAL MAGNESIUM SULPHATES)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3173,7 +3323,7 @@
         },
         {
             "code": "25302000",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED KIESERITE, EPSOMITE (NATURAL MAGNESIUM SULPHATES)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3185,7 +3335,7 @@
         },
         {
             "code": "253090",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3197,7 +3347,7 @@
         },
         {
             "code": "25309010",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER: MEERSCHAUM (WHETHER OR NOT IN POLISHED PIECES) AND AMBER AGGLOMERATED; MEERACHAUM AND AGGLOMERATED AMBER IN PLATES, RODS, ETC., NOT WORKED AFTER MOULDING JET",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3209,7 +3359,7 @@
         },
         {
             "code": "25309020",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER: NATURAL ARSENIC SULPHIDES (SUCH AS ORPIMENT)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3221,7 +3371,7 @@
         },
         {
             "code": "25309030",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER: CALCITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3233,7 +3383,7 @@
         },
         {
             "code": "25309040",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER: ORES AND CONCENTRATES OF RARE EARTH METALS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3245,7 +3395,7 @@
         },
         {
             "code": "25309050",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER: WOLLASTONITE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3257,7 +3407,7 @@
         },
         {
             "code": "25309060",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER: EARTH COLOUR OCHRE, CRUDE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3269,7 +3419,7 @@
         },
         {
             "code": "25309070",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER: OTHER PROCESSED EARTH COLOUR OCHRE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3281,7 +3431,7 @@
         },
         {
             "code": "25309091",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER:OTHER: STRONTIUM SULPHATE (NATURAL ORE)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -3293,7 +3443,7 @@
         },
         {
             "code": "25309099",
-            "description": "",
+            "description": "MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER:OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,

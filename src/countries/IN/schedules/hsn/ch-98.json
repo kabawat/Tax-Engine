@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "9801",
-            "description": "",
+            "description": "ALL ITEMS OF MACHINERY INCLUDING PRIME MOVERS, INSTRUMENTS, APPARATUS AND APPLIANCES, CONTROL GEAR AND TRANSMISSION EQUIPMENT, AUXILIARY EQUIPMENT (INCLUDING THOSE REQUIRED FOR RESEARCH AND DEVELOPMENT PURPOSES, TESTING AND QUALITY CONTROL), AS WELL AS A",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -17,7 +17,7 @@
         },
         {
             "code": "98010011",
-            "description": "",
+            "description": "FOR INDUSTRIAL PLANT PROJECT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -29,7 +29,7 @@
         },
         {
             "code": "98010012",
-            "description": "",
+            "description": "FOR IRRIGATION PLANT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -41,7 +41,7 @@
         },
         {
             "code": "98010013",
-            "description": "",
+            "description": "FOR POWER PROJECT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -53,7 +53,7 @@
         },
         {
             "code": "98010014",
-            "description": "",
+            "description": "FOR MINING PROJECT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -65,7 +65,7 @@
         },
         {
             "code": "98010015",
-            "description": "",
+            "description": "PROJECT FOR EXPLORATION OF OIL OR OTHER MINERALS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -77,7 +77,7 @@
         },
         {
             "code": "98010019",
-            "description": "",
+            "description": "FOR OTHER PROJECTS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -89,7 +89,7 @@
         },
         {
             "code": "98010030",
-            "description": "",
+            "description": "SPARE PARTS AND OTHER RAW MATERIALS (INCLUDING SEMI-FINISHED MATERIALS OR CONSUMABLE STORES FOR THE MAINTENANCE OF PLANT OR PROJECT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -101,7 +101,7 @@
         },
         {
             "code": "9802",
-            "description": "",
+            "description": "LABORATORY CHEMICALS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -113,7 +113,7 @@
         },
         {
             "code": "98020000",
-            "description": "",
+            "description": "LABORATORY CHEMICALS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -125,7 +125,7 @@
         },
         {
             "code": "9803",
-            "description": "",
+            "description": "ALL DUTIABLE ARTICLES, IMPORTED BY A PASSENGER OR A MEMBER OF A CREW IN HIS BAGGAGE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -137,7 +137,7 @@
         },
         {
             "code": "98030000",
-            "description": "",
+            "description": "ALL DUTIABLE ARTICLES, IMPORTED BY A PASSENGER OR A MEMBER OF A CREW IN HIS BAGGAGE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -149,22 +149,28 @@
         },
         {
             "code": "9804",
-            "description": "",
+            "description": "Drugs or medicines including their salts and esters and diagnostic test kits specified at S.No.180 above and Formulations specified at S.No.181 above, intended for personal use.",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "98041000",
-            "description": "",
+            "description": "DRUGS AND MEDICINES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -173,12 +179,18 @@
         },
         {
             "code": "98049000",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]

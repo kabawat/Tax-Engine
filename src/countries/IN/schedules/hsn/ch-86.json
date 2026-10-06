@@ -5,715 +5,1069 @@
     "entries": [
         {
             "code": "8601",
-            "description": "",
+            "description": "RAIL LOCOMOTIVES POWERED FROM AN EXTERNAL SOURCE OF ELECTRICITY OR BY ELECTRIC ACCUMULATORS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860110",
-            "description": "",
+            "description": "RAIL LOCOMOTIVES POWERED FROM AN EXTERNAL SOURCE OF ELECTRICITY OR BY ELECTRIC ACCUMULATORS POWERED FROM AN EXTERNAL SOURCE OF ELECTRICITY",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86011000",
-            "description": "",
+            "description": "RAIL LOCOMOTIVES POWERED FROM AN EXTERNAL SOURCE OF ELECTRICITY OR BY ELECTRIC ACCUMULATORS POWERED FROM AN EXTERNAL SOURCE OF ELECTRICITY",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860120",
-            "description": "",
+            "description": "RAIL LOCOMOTIVES POWERED FROM AN EXTERNAL SOURCE OF ELECTRICITY OR BY ELECTRIC ACCUMULATORS POWERED BY ELECTRIC ACCUMULATORS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86012000",
-            "description": "",
+            "description": "RAIL LOCOMOTIVES POWERED FROM AN EXTERNAL SOURCE OF ELECTRICITY OR BY ELECTRIC ACCUMULATORS POWERED BY ELECTRIC ACCUMULATORS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "8602",
-            "description": "",
+            "description": "OTHER RAIL LOCOMOTIVES; LOCOMOTIVE TENDERS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860210",
-            "description": "",
+            "description": "OTHER RAIL LOCOMOTIVES; LOCOMOTIVE TENDERS DIESEL-ELECTRIC LOCOMOTIVES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86021000",
-            "description": "",
+            "description": "OTHER RAIL LOCOMOTIVES; LOCOMOTIVE TENDERS DIESEL-ELECTRIC LOCOMOTIVES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860290",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86029010",
-            "description": "",
+            "description": "OTHER RAIL LOCOMOTIVES; LOCOMOTIVE TENDERS - OTHER : STEAM LOCOMOTIVES AND TENDERS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86029090",
-            "description": "",
+            "description": "OTHER RAIL LOCOMOTIVES; LOCOMOTIVE TENDERS - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "8603",
-            "description": "",
+            "description": "SELF-PROPELLED RAILWAY OR TRAMWAY COACHES, VANS AND TRUCKS, OTHER THAN THOSE OF HEADING 8604",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860310",
-            "description": "",
+            "description": "SELF-PROPELLED RAILWAY OR TRAMWAY COACHES, VANS AND TRUCKS, OTHER THAN THOSE OF HEADING 8604 POWERED FROM AN EXTERNAL SOURCE OF ELECTRICITY",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86031000",
-            "description": "",
+            "description": "SELF-PROPELLED RAILWAY OR TRAMWAY COACHES, VANS AND TRUCKS, OTHER THAN THOSE OF HEADING 8604 POWERED FROM AN EXTERNAL SOURCE OF ELECTRICITY",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860390",
-            "description": "",
+            "description": "SELF-PROPELLED RAILWAY OR TRAMWAY COACHES, VANS AND TRUCKS, OTHER THAN THOSE OF HEADING 8604 OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86039000",
-            "description": "",
+            "description": "SELF-PROPELLED RAILWAY OR TRAMWAY COACHES, VANS AND TRUCKS, OTHER THAN THOSE OF HEADING 8604 OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "8604",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY MAINTENANCE OR SERVICE VEHICLES WHETHER OR NOT SELF-PROPELLED (FOR EXAMPLE, WORKSHOPS, CRANES, BALLAST TAMPERS, TRACK-LINERS, TESTING COACHES AND TRACK INSPECTION VEHICLES)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860400",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY MAINTENANCE OR SERVICE VEHICLES WHETHER OR NOT SELF-PROPELLED (FOR EXAMPLE, WORKSHOPS, CRANES, BALLAST TAMPERS, TRACK-LINERS, TESTING COACHES AND TRACK INSPECTION VEHICLES)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "8606",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY GOODS VANS AND WAGONS, NOT SELF-PROPELLED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860610",
-            "description": "",
+            "description": "TANK WAGONS AND THE LIKE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86061010",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY GOODS VANS AND WAGONS, NOT SELF-PROPELLED - TANK WAGONS AND THE LIKE : FOUR WHEELER TANK WAGONS OF PAY-LOAD EXCEEDING 23 TONNES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86061020",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY GOODS VANS AND WAGONS, NOT SELF-PROPELLED - TANK WAGONS AND THE LIKE : EIGHT WHEELER TANK WAGONS OF PAY-LOAD NOT EXCEEDING 60 TONNES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86061090",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY GOODS VANS AND WAGONS, NOT SELF-PROPELLED - RAILWAY OR TRAMWAY GOODS VANS AND WAGONS, NOT SELF-PROPELLED - TANK WAGONS AND THE LIKE : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860691",
-            "description": "",
+            "description": "COVERED AND CLOSED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86069190",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY GOODS VANS AND WAGONS, NOT SELF-PROPELLED - OTHER: COVERED AND CLOSED : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860692",
-            "description": "",
+            "description": "OPEN WITH NON-REMOVABLE SIDES OF A HEIGHT EXCEEDING 60 CMS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86069210",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY GOODS VANS AND WAGONS, NOT SELF-PROPELLED - OTHER: OPEN WITH NON-REMOVABLE SIDES OF A HEIGHT EXCEEDING 60 CMS: BOGIE EIGHT WHEELER WAGONS OF PAY-LOAD NOT EXCEEDING 60 TONNES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86069220",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY GOODS VANS AND WAGONS, NOT SELF-PROPELLED - OTHER: OPEN WITH NON-REMOVABLE SIDES OF A HEIGHT EXCEEDING 60 CMS: BROAD GUAGE BOGIE EIGHT WHEELER WAGONS OF PAY-LOAD EXCEEDING 60 TONNES BUT NOT EXCEEDING 67 TONNES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86069290",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY GOODS VANS AND WAGONS, NOT SELF-PROPELLED - OTHER: OPEN WITH NON-REMOVABLE SIDES OF A HEIGHT EXCEEDING 60 CMS: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860699",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY GOODS VANS AND WAGONS, NOT SELF-PROPELLED - OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86069900",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY GOODS VANS AND WAGONS, NOT SELF-PROPELLED - OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "8607",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - BOGIES, BISSEL-BOGIES, AXLES AND WHEELS, AND PARTS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860711",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - BOGIES, BISSEL-BOGIES, AXLES AND WHEELS, AND PARTS THEREOF : DRIVING BOGIES AND BISSEL-BOGIES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86071100",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - BOGIES, BISSEL-BOGIES, AXLES AND WHEELS, AND PARTS THEREOF : DRIVING BOGIES AND BISSEL-BOGIES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860712",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - BOGIES, BISSEL-BOGIES, AXLES AND WHEELS, AND PARTS THEREOF : OTHER BOGIES AND BISSEL-BOGIES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86071200",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - BOGIES, BISSEL-BOGIES, AXLES AND WHEELS, AND PARTS THEREOF : OTHER BOGIES AND BISSEL-BOGIES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860719",
-            "description": "",
+            "description": "OTHER INCLUDING PARTS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86071910",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - BOGIES, BISSEL-BOGIES, AXLES AND WHEELS, AND PARTS THEREOF : OTHER INCLUDING PARTS : AXLES, WHEELS FOR COACHES, VAN AND WAGONS (ROLLING-STOCK)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86071920",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - BOGIES, BISSEL-BOGIES, AXLES AND WHEELS, AND PARTS THEREOF : OTHER INCLUDING PARTS : AXLES AND WHEELS FOR LOCOMOTIVES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86071930",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - BOGIES, BISSEL-BOGIES, AXLES AND WHEELS, AND PARTS THEREOF : OTHER INCLUDING PARTS : AXLE BOXES (LUBRICATING OR GREASE BOX)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86071990",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - BOGIES, BISSEL-BOGIES, AXLES AND WHEELS, AND PARTS THEREOF : OTHER INCLUDING PARTS : OTHER PARTS OF AXLES AND WHEELS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860721",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - BRAKES AND PARTS THEREOF : AIR BRAKES AND PARTS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86072100",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - BRAKES AND PARTS THEREOF : AIR BRAKES AND PARTS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860729",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - BRAKES AND PARTS THEREOF : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86072900",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - BRAKES AND PARTS THEREOF : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860730",
-            "description": "",
+            "description": "HOOKS AND OTHER COUPLING DEVICES, BUFFERS AND PARTS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86073010",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK HOOKS AND OTHER COUPLING DEVICES, BUFFERS AND PARTS THEREOF: BUFFERS AND COUPLING DEVICES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86073090",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK HOOKS AND OTHER COUPLING DEVICES, BUFFERS AND PARTS THEREOF: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860791",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - OTHER : OF LOCOMOTIVES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86079100",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - OTHER : OF LOCOMOTIVES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "860799",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86079910",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - OTHER : OTHER : PARTS OF COACH WORK OF RAILWAY RUNNING STOCK",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86079920",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - OTHER : OTHER : PARTS OF TRAMWAY, LOCOMOTIVES AND RUNNING STOCK",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86079930",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - OTHER : OTHER : HYDRAULIC SHOCK ABSORBERS FOR RAILWAY BOGIES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86079990",
-            "description": "",
+            "description": "PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK - OTHER : OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "8608",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY TRACK FIXTURES AND FITTINGS; MECHANICAL (INCLUDING ELECTOMECHANICAL) SIGNALLING, SAFETY OR TRAFFIC CONTROL EQUIPMENT FOR RAILWAY, TRAMWAYS, ROADS, INLAND WATERWAYS, PARKING FACILITIES, PORT INSTALLATION OR AIR-FIELDS; PARTS OF THE FORE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86080010",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY TRACK FIXTURES AND FITTINGS; MECHANICAL (INCLUDING ELECTO-MECHANICAL) SIGNALLING, SAFETY OR TRAFFIC CONTROL EQUIPMENT FOR RAILWAY, TRAMWAYS, ROADS, INLAND WATERWAYS, PARKING FACILITIES, PORT INSTALLATION OR AIR-FIELDS; PARTS OF THE FORE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86080030",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY TRACK FIXTURES AND FITTINGS; MECHANICAL (INCLUDING ELECTO-MECHANICAL) SIGNALLING, SAFETY OR TRAFFIC CONTROL EQUIPMENT FOR RAILWAY, TRAMWAYS, ROADS, INLAND WATERWAYS, PARKING FACILITIES, PORT INSTALLATION OR AIR-FIELDS; PARTS OF THE FORE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "86080090",
-            "description": "",
+            "description": "RAILWAY OR TRAMWAY TRACK FIXTURES AND FITTINGS; MECHANICAL (INCLUDING ELECTO-MECHANICAL) SIGNALLING, SAFETY OR TRAFFIC CONTROL EQUIPMENT FOR RAILWAY, TRAMWAYS, ROADS, INLAND WATERWAYS, PARKING FACILITIES, PORT INSTALLATION OR AIR-FIELDS; PARTS OF THE FORE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "8609",
-            "description": "",
+            "description": "CONTAINERS (INCLUDING CONTAINERS FOR THE TRANSPORT OF FLUIDS) SPECIALLY DESIGNED AND EQUIPPED FOR CARRIAGE BY ONE OR MORE MODES OF TRANSPORT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -725,7 +1079,7 @@
         },
         {
             "code": "860900",
-            "description": "",
+            "description": "CONTAINERS (INCLUDING CONTAINERS FOR THE TRANSPORT OF FLUIDS) SPECIALLY DESIGNED AND EQUIPPED FOR CARRIAGE BY ONE OR MORE MODES OF TRANSPORT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -737,7 +1091,7 @@
         },
         {
             "code": "86090000",
-            "description": "",
+            "description": "CONTAINERS (INCLUDING CONTAINERS FOR THE TRANSPORT OF FLUIDS) SPECIALLY DESIGNED AND EQUIPPED FOR CARRIAGE BY ONE OR MORE MODES OF TRANSPORT",
             "rateHistory": [
                 {
                     "ratePercent": 18,

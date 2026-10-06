@@ -5,439 +5,655 @@
     "entries": [
         {
             "code": "9101",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - WRIST-WATCHES, ELECTRICALLY OPERATED WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910111",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - WRIST-WATCHES, ELECTRICALLY OPERATED WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: WITH MECHANICAL DISPLAY ON",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91011100",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - WRIST-WATCHES, ELECTRICALLY OPERATED WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: WITH MECHANICAL DISPLAY ON",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91011200",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - WRIST-WATCHES, ELECTRICALLY OPERATED WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: WITH OPTO-ELECTRONIC DISPL",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910119",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - WRIST-WATCHES, ELECTRICALLY OPERATED WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91011900",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - WRIST-WATCHES, ELECTRICALLY OPERATED WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910121",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER WRIST-WATCHES, WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: WITH AUTOMATIC WINDING",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91012100",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER WRIST-WATCHES, WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: WITH AUTOMATIC WINDING",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910129",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER WRIST-WATCHES, WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91012900",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER WRIST-WATCHES, WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910191",
-            "description": "",
+            "description": "ELECTRICALLY OPERATED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91019110",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER : - ELECTRICALLY OPERATED: POCKET WATCHES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91019120",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER : - ELECTRICALLY OPERATED: STOP WATCHES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91019190",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER : - ELECTRICALLY OPERATED: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910199",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91019910",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER : OTHER: POCKET WATCHES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91019920",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER : OTHER: STOP WATCHES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91019990",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP-WATCHES, WITH CASE OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER : OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "9102",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING - WRIST-WATCHES, ELECTRICALLY OPERATED, WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910211",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING 9101 - WRIST-WATCHES, ELECTRICALLY OPERATED, WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: WITH MECHANICAL DISPLAY ONLY",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91021100",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING 9101 - WRIST-WATCHES, ELECTRICALLY OPERATED, WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: WITH MECHANICAL DISPLAY ONLY",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910212",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING 9101 - WRIST-WATCHES, ELECTRICALLY OPERATED, WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: WITH OPTO-ELECTRONIC DISPLAY ONLY",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91021200",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING 9101 - WRIST-WATCHES, ELECTRICALLY OPERATED, WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: WITH OPTO-ELECTRONIC DISPLAY ONLY",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910219",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING 9101 - WRIST-WATCHES, ELECTRICALLY OPERATED, WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910221",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING 9101- OTHER WRIST-WATCHES, WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: WITH AUTOMATIC WINDING",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91022100",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING 9101- OTHER WRIST-WATCHES, WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: WITH AUTOMATIC WINDING",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910229",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING 9101- OTHER WRIST-WATCHES, WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91022900",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING 9101- OTHER WRIST-WATCHES, WHETHER OR NOT INCORPORATING A STOP-WATCH FACILITY: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910291",
-            "description": "",
+            "description": "ELECTRICALLY OPERATED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91029110",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING - OTHER: ELECTRICALLY OPERATED: POCKET WATCHES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91029120",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING - OTHER: ELECTRICALLY OPERATED: STOP WATCHES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91029190",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING - OTHER: ELECTRICALLY OPERATED: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910299",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91029910",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING - OTHER - OTHER: POCKET WATCHES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91029920",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING - OTHER - OTHER: STOP WATCHES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91029990",
-            "description": "",
+            "description": "WRIST-WATCHES, POCKET-WATCHES AND OTHER WATCHES, INCLUDING STOP WATCHES, OTHER THAN THOSE OF HEADING - OTHER - OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "9103",
-            "description": "",
+            "description": "CLOCKS WITH WATCH MOVEMENTS, EXCLUDING CLOCKS OF HEADING 9104",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -449,7 +665,7 @@
         },
         {
             "code": "910310",
-            "description": "",
+            "description": "CLOCKS WITH WATCH MOVEMENTS, EXCLUDING CLOCKS OF HEADING 9104 - ELECTRICALLY OPERATED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -461,7 +677,7 @@
         },
         {
             "code": "91031000",
-            "description": "",
+            "description": "CLOCKS WITH WATCH MOVEMENTS, EXCLUDING CLOCKS OF HEADING 9104 - ELECTRICALLY OPERATED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -473,7 +689,7 @@
         },
         {
             "code": "910390",
-            "description": "",
+            "description": "CLOCKS WITH WATCH MOVEMENTS, EXCLUDING CLOCKS OF HEADING 9104 - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -485,7 +701,7 @@
         },
         {
             "code": "91039000",
-            "description": "",
+            "description": "CLOCKS WITH WATCH MOVEMENTS, EXCLUDING CLOCKS OF HEADING 9104 - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -497,31 +713,43 @@
         },
         {
             "code": "9104",
-            "description": "",
+            "description": "INSTRUMENT PANEL CLOCKS AND CLOCKS OF A SIMILAR TYPE FOR VEHICLES, AIRCRAFT, SPACECRAFT OR VESSELS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91040000",
-            "description": "",
+            "description": "INSTRUMENT PANEL CLOCKS AND CLOCKS OF A SIMILAR TYPE FOR VEHICLES, AIRCRAFT, SPACECRAFT OR VESSELS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "9105",
-            "description": "",
+            "description": "OTHER CLOCKS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -533,7 +761,7 @@
         },
         {
             "code": "91051090",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -545,7 +773,7 @@
         },
         {
             "code": "910511",
-            "description": "",
+            "description": "OTHER CLOCKS - ALARM CLOCKS: ELECTRICALLY OPERATED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -557,7 +785,7 @@
         },
         {
             "code": "91051100",
-            "description": "",
+            "description": "OTHER CLOCKS - ALARM CLOCKS: ELECTRICALLY OPERATED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -569,7 +797,7 @@
         },
         {
             "code": "910519",
-            "description": "",
+            "description": "OTHER CLOCKS - ALARM CLOCKS: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -581,7 +809,7 @@
         },
         {
             "code": "91051900",
-            "description": "",
+            "description": "OTHER CLOCKS - ALARM CLOCKS: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -593,7 +821,7 @@
         },
         {
             "code": "910521",
-            "description": "",
+            "description": "OTHER CLOCKS - WALL CLOCKS: ELECTRICALLY OPERATED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -605,7 +833,7 @@
         },
         {
             "code": "91052100",
-            "description": "",
+            "description": "OTHER CLOCKS - WALL CLOCKS: ELECTRICALLY OPERATED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -617,7 +845,7 @@
         },
         {
             "code": "910529",
-            "description": "",
+            "description": "OTHER CLOCKS - WALL CLOCKS: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -629,7 +857,7 @@
         },
         {
             "code": "91052900",
-            "description": "",
+            "description": "OTHER CLOCKS - WALL CLOCKS: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -641,7 +869,7 @@
         },
         {
             "code": "910591",
-            "description": "",
+            "description": "OTHER CLOCKS - OTHER: ELECTRICALLY OPERATED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -653,7 +881,7 @@
         },
         {
             "code": "91059100",
-            "description": "",
+            "description": "OTHER CLOCKS - OTHER: ELECTRICALLY OPERATED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -665,7 +893,7 @@
         },
         {
             "code": "910599",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -677,7 +905,7 @@
         },
         {
             "code": "91059910",
-            "description": "",
+            "description": "OTHER CLOCKS - OTHER: OTHER: TIME PIECES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -689,7 +917,7 @@
         },
         {
             "code": "91059990",
-            "description": "",
+            "description": "OTHER CLOCKS - OTHER: OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -701,211 +929,313 @@
         },
         {
             "code": "9106",
-            "description": "",
+            "description": "TIME OF DAY RECORDING APPARATUS AND APPARATUS FOR MEASURING, RECORDING OR OTHERWISE INDICATING INTERVALS OF TIME, WITH CLOCK OR WATCH MOVEMENT OR WITH SYNCHRONOUS MOTOR (FOR EXAMPLE, TIMEREGISTERS, TIME-RECORDERS)",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910610",
-            "description": "",
+            "description": "TIME OF DAY RECORDING APPARATUS AND APPARATUS FOR MEASURING, RECORDING OR OTHERWISE INDICATING INTERVALS OF TIME, WITH CLOCK OR WATCH MOVEMENT OR WITH SYNCHRONOUS MOTOR (FOR EXAMPLE, TIME-REGISTERS, TIMERECORDERS) TIME-REGISTERS; TIME-RECORDERS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91061000",
-            "description": "",
+            "description": "TIME OF DAY RECORDING APPARATUS AND APPARATUS FOR MEASURING, RECORDING OR OTHERWISE INDICATING INTERVALS OF TIME, WITH CLOCK OR WATCH MOVEMENT OR WITH SYNCHRONOUS MOTOR (FOR EXAMPLE, TIME-REGISTERS, TIMERECORDERS) TIME-REGISTERS; TIME-RECORDERS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91062000",
-            "description": "",
+            "description": "TIME OF DAY RECORDING APPARATUS AND APPARATUS FOR MEASURING, RECORDING OR OTHERWISE INDICATING INTERVALS OF TIME, WITH CLOCK OR WATCH MOVEMENT OR WITH SYNCHRONOUS MOTOR (FOR EXAMPLE, TIME-REGISTERS, TIMERECORDERS) PARKING METERS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910690",
-            "description": "",
+            "description": "TIME OF DAY RECORDING APPARATUS AND APPARATUS FOR MEASURING, RECORDING OR OTHERWISE INDICATING INTERVALS OF TIME, WITH CLOCK OR WATCH MOVEMENT OR WITH SYNCHRONOUS MOTOR (FOR EXAMPLE, TIME-REGISTERS, TIMERECORDERS) OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91069000",
-            "description": "",
+            "description": "TIME OF DAY RECORDING APPARATUS AND APPARATUS FOR MEASURING, RECORDING OR OTHERWISE INDICATING INTERVALS OF TIME, WITH CLOCK OR WATCH MOVEMENT OR WITH SYNCHRONOUS MOTOR (FOR EXAMPLE, TIME-REGISTERS, TIMERECORDERS) OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "9107",
-            "description": "",
+            "description": "TIME SWITCHES WITH CLOCK OR WATCH MOVEMENT OR WITH SYNCHRONOUS MOTOR",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91070000",
-            "description": "",
+            "description": "TIME SWITCHES WITH CLOCK OR WATCH MOVEMENT OR WITH SYNCHRONOUS MOTOR",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "9108",
-            "description": "",
+            "description": "WATCH MOVEMENTS, COMPLETE AND ASSEMBLED - ELECTRICALLY OPERATED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910812",
-            "description": "",
+            "description": "WATCH MOVEMENTS, COMPLETE AND ASSEMBLED - ELECTRICALLY OPERATED: WITH OPTO-ELECTRONIC DISPLAY ONLY",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91081200",
-            "description": "",
+            "description": "WATCH MOVEMENTS, COMPLETE AND ASSEMBLED - ELECTRICALLY OPERATED: WITH OPTO-ELECTRONIC DISPLAY ONLY",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910819",
-            "description": "",
+            "description": "WATCH MOVEMENTS, COMPLETE AND ASSEMBLED - ELECTRICALLY OPERATED: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91081900",
-            "description": "",
+            "description": "WATCH MOVEMENTS, COMPLETE AND ASSEMBLED - ELECTRICALLY OPERATED: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910820",
-            "description": "",
+            "description": "WATCH MOVEMENTS, COMPLETE AND ASSEMBLED WITH AUTOMATIC WINDING",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91082000",
-            "description": "",
+            "description": "WATCH MOVEMENTS, COMPLETE AND ASSEMBLED WITH AUTOMATIC WINDING",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "910890",
-            "description": "",
+            "description": "WATCH MOVEMENTS, COMPLETE AND ASSEMBLED OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91089000",
-            "description": "",
+            "description": "WATCH MOVEMENTS, COMPLETE AND ASSEMBLED OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "9109",
-            "description": "",
+            "description": "CLOCK MOVEMENTS, COMPLETE AND ASSEMBLED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -917,7 +1247,7 @@
         },
         {
             "code": "910910",
-            "description": "",
+            "description": "ELECTRICALLY OPERATED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -929,7 +1259,7 @@
         },
         {
             "code": "91091010",
-            "description": "",
+            "description": "OF ALARM CLOCKS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -941,7 +1271,7 @@
         },
         {
             "code": "91091090",
-            "description": "",
+            "description": "CLOCK MOVEMENTS, COMPLETE AND ASSEMBLED - ELECTRICALLY OPERATED ---OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -953,7 +1283,7 @@
         },
         {
             "code": "91099000",
-            "description": "",
+            "description": "CLOCK MOVEMENTS, COMPLETE AND ASSEMBLED - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -965,10 +1295,10 @@
         },
         {
             "code": "9110",
-            "description": "",
+            "description": "COMPLETE WATCH OR CLOCK MOVEMENTS, UNASSEMBLED OR PARTLY ASSEMBLED (MOVEMENT SETS); INCOMPLETE WATCH OR CLOCK MOVEMENTS, ASSEMBLED; ROUGH WATCH OR CLOCK MOVEMENTS - OF WATCHES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -977,10 +1307,10 @@
         },
         {
             "code": "91101100",
-            "description": "",
+            "description": "COMPLETE WATCH OR CLOCK MOVEMENTS, UNASSEMBLED OR PARTLY ASSEMBLED (MOVEMENT SETS); INCOMPLETE WATCH OR CLOCK MOVEMENTS, ASSEMBLED; ROUGH WATCH OR CLOCK MOVEMENTS - OF WATCHES: COMPLETE MOVEMENTS, UNASSEMBLED OR PARTLY ASSEMBLED (MOVEMENT SETS)",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -989,10 +1319,10 @@
         },
         {
             "code": "911012",
-            "description": "",
+            "description": "COMPLETE WATCH OR CLOCK MOVEMENTS, UNASSEMBLED OR PARTLY ASSEMBLED (MOVEMENT SETS); INCOMPLETE WATCH OR CLOCK MOVEMENTS, ASSEMBLED; ROUGH WATCH OR CLOCK MOVEMENTS - OF WATCHES: INCOMPLETE MOVEMENTS, ASSEMBLED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1001,10 +1331,10 @@
         },
         {
             "code": "91101200",
-            "description": "",
+            "description": "COMPLETE WATCH OR CLOCK MOVEMENTS, UNASSEMBLED OR PARTLY ASSEMBLED (MOVEMENT SETS); INCOMPLETE WATCH OR CLOCK MOVEMENTS, ASSEMBLED; ROUGH WATCH OR CLOCK MOVEMENTS - OF WATCHES: INCOMPLETE MOVEMENTS, ASSEMBLED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1013,10 +1343,10 @@
         },
         {
             "code": "911019",
-            "description": "",
+            "description": "COMPLETE WATCH OR CLOCK MOVEMENTS, UNASSEMBLED OR PARTLY ASSEMBLED (MOVEMENT SETS); INCOMPLETE WATCH OR CLOCK MOVEMENTS, ASSEMBLED; ROUGH WATCH OR CLOCK MOVEMENTS - OF WATCHES: ROUGH MOVEMENTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1025,10 +1355,10 @@
         },
         {
             "code": "91101900",
-            "description": "",
+            "description": "COMPLETE WATCH OR CLOCK MOVEMENTS, UNASSEMBLED OR PARTLY ASSEMBLED (MOVEMENT SETS); INCOMPLETE WATCH OR CLOCK MOVEMENTS, ASSEMBLED; ROUGH WATCH OR CLOCK MOVEMENTS - OF WATCHES: ROUGH MOVEMENTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1037,10 +1367,10 @@
         },
         {
             "code": "911090",
-            "description": "",
+            "description": "COMPLETE WATCH OR CLOCK MOVEMENTS, UNASSEMBLED OR PARTLY ASSEMBLED (MOVEMENT SETS); INCOMPLETE WATCH OR CLOCK MOVEMENTS, ASSEMBLED; ROUGH WATCH OR CLOCK MOVEMENTS - OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1049,10 +1379,10 @@
         },
         {
             "code": "91109000",
-            "description": "",
+            "description": "COMPLETE WATCH OR CLOCK MOVEMENTS, UNASSEMBLED OR PARTLY ASSEMBLED (MOVEMENT SETS); INCOMPLETE WATCH OR CLOCK MOVEMENTS, ASSEMBLED; ROUGH WATCH OR CLOCK MOVEMENTS - OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1061,118 +1391,172 @@
         },
         {
             "code": "9111",
-            "description": "",
+            "description": "WATCH CASES AND PARTS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "911110",
-            "description": "",
+            "description": "WATCH CASES AND PARTS THEREOF CASES OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91111000",
-            "description": "",
+            "description": "WATCH CASES AND PARTS THEREOF CASES OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "911120",
-            "description": "",
+            "description": "WATCH CASES AND PARTS THEREOF CASES OF BASE METAL, WHETHER OR NOT GOLD- OR SILVER-PLATED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91112000",
-            "description": "",
+            "description": "WATCH CASES AND PARTS THEREOF CASES OF BASE METAL, WHETHER OR NOT GOLD- OR SILVER-PLATED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "911180",
-            "description": "",
+            "description": "WATCH CASES AND PARTS THEREOF WATCH CASES AND PARTS THEREOF OTHER CASES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91118000",
-            "description": "",
+            "description": "WATCH CASES AND PARTS THEREOF WATCH CASES AND PARTS THEREOF OTHER CASES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "911190",
-            "description": "",
+            "description": "PARTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91119000",
-            "description": "",
+            "description": "PARTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "9112",
-            "description": "",
+            "description": "CLOCK CASES AND CASES OF A SIMILAR TYPE FOR OTHER GOODS OF THIS CHAPTER, AND PARTS THEREOF",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1181,10 +1565,10 @@
         },
         {
             "code": "911220",
-            "description": "",
+            "description": "CLOCK CASES AND CASES OF A SIMILAR TYPE FOR OTHER GOODS OF THIS CHAPTER, AND PARTS THEREOF CASES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1193,10 +1577,10 @@
         },
         {
             "code": "91122000",
-            "description": "",
+            "description": "CLOCK CASES AND CASES OF A SIMILAR TYPE FOR OTHER GOODS OF THIS CHAPTER, AND PARTS THEREOF CASES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1205,10 +1589,10 @@
         },
         {
             "code": "911290",
-            "description": "",
+            "description": "CLOCK CASES AND CASES OF A SIMILAR TYPE FOR OTHER GOODS OF THIS CHAPTER, AND PARTS THEREOF PARTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1217,10 +1601,10 @@
         },
         {
             "code": "91129000",
-            "description": "",
+            "description": "CLOCK CASES AND CASES OF A SIMILAR TYPE FOR OTHER GOODS OF THIS CHAPTER, AND PARTS THEREOF PARTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1229,118 +1613,172 @@
         },
         {
             "code": "9113",
-            "description": "",
+            "description": "WATCH STRAPS, WATCH BANDS AND WATCH BRACELETS, AND PARTS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "911310",
-            "description": "",
+            "description": "WATCH STRAPS, WATCH BANDS AND WATCH BRACELETS, AND PARTS THEREOF OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91131000",
-            "description": "",
+            "description": "WATCH STRAPS, WATCH BANDS AND WATCH BRACELETS, AND PARTS THEREOF OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "911320",
-            "description": "",
+            "description": "OF BASE METAL, WHETHER OR NOT GOLD- OR SILVER-PLATED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91132010",
-            "description": "",
+            "description": "WATCH STRAPS, WATCH BANDS AND WATCH BRACELETS, AND PARTS THEREOF OF BASE METAL, WHETHER OR NOT GOLD- OR SILVERPLATED:PARTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91132090",
-            "description": "",
+            "description": "WATCH STRAPS, WATCH BANDS AND WATCH BRACELETS, AND PARTS THEREOF OF BASE METAL, WHETHER OR NOT GOLD- OR SILVERPLATED:OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "911390",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91139010",
-            "description": "",
+            "description": "WATCH STRAPS, WATCH BANDS AND WATCH BRACELETS, AND PARTS THEREOF - OTHER: PARTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "91139090",
-            "description": "",
+            "description": "WATCH STRAPS, WATCH BANDS AND WATCH BRACELETS, AND PARTS THEREOF - OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "9114",
-            "description": "",
+            "description": "OTHER CLOCK OR WATCH PARTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1349,10 +1787,10 @@
         },
         {
             "code": "911410",
-            "description": "",
+            "description": "SPRINGS, INCLUDING HAIR-SPRINGS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1361,10 +1799,10 @@
         },
         {
             "code": "91141010",
-            "description": "",
+            "description": "OTHER CLOCK OR WATCH PARTS SPRINGS, INCLUDING HAIR-SPRINGS:FOR WATCHES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1373,10 +1811,10 @@
         },
         {
             "code": "91141020",
-            "description": "",
+            "description": "OTHER CLOCK OR WATCH PARTS SPRINGS, INCLUDING HAIR-SPRINGS:FOR CLOCKS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1385,10 +1823,10 @@
         },
         {
             "code": "911430",
-            "description": "",
+            "description": "DIALS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1397,10 +1835,10 @@
         },
         {
             "code": "91143010",
-            "description": "",
+            "description": "OTHER CLOCK OR WATCH PARTS- DIALS:FOR WATCHES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1409,10 +1847,10 @@
         },
         {
             "code": "91143020",
-            "description": "",
+            "description": "OTHER CLOCK OR WATCH PARTS- DIALS:FOR CLOCKS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1421,10 +1859,10 @@
         },
         {
             "code": "911440",
-            "description": "",
+            "description": "PLATES AND BRIDGES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1433,10 +1871,10 @@
         },
         {
             "code": "91144010",
-            "description": "",
+            "description": "OTHER CLOCK OR WATCH PARTS- PLATES AND BRIDGES:FOR WATCHES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1445,10 +1883,10 @@
         },
         {
             "code": "91144020",
-            "description": "",
+            "description": "OTHER CLOCK OR WATCH PARTS- PLATES AND BRIDGES:FOR CLOCKS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1457,10 +1895,10 @@
         },
         {
             "code": "911490",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1469,10 +1907,10 @@
         },
         {
             "code": "91149030",
-            "description": "",
+            "description": "JEWELS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1481,10 +1919,10 @@
         },
         {
             "code": "91149091",
-            "description": "",
+            "description": "FOR WATCHES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -1493,10 +1931,10 @@
         },
         {
             "code": "91149092",
-            "description": "",
+            "description": "FOR CLOCKS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null

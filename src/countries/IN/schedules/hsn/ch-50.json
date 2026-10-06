@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "5001",
-            "description": "",
+            "description": "SILK-WORM COCOONS SUITABLE FOR REELING",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -17,7 +17,7 @@
         },
         {
             "code": "500100",
-            "description": "",
+            "description": "SILK-WORM COCOONS SUITABLE FOR REELING",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -29,7 +29,7 @@
         },
         {
             "code": "50010000",
-            "description": "",
+            "description": "SILK-WORM COCOONS SUITABLE FOR REELING",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -41,7 +41,7 @@
         },
         {
             "code": "5002",
-            "description": "",
+            "description": "RAW SILK (NOT THROWN)",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -53,7 +53,7 @@
         },
         {
             "code": "500200",
-            "description": "",
+            "description": "RAW SILK (NOT THROWN)",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -65,7 +65,7 @@
         },
         {
             "code": "50020010",
-            "description": "",
+            "description": "RAW SILK (NOT THROWN) RAW SILK (NOT THROWN) MULBERRY RAW SILK",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -77,7 +77,7 @@
         },
         {
             "code": "50020020",
-            "description": "",
+            "description": "RAW SILK (NOT THROWN) RAW SILK (NOT THROWN) MULBERRY DUPION SILK",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -89,7 +89,7 @@
         },
         {
             "code": "50020030",
-            "description": "",
+            "description": "RAW SILK (NOT THROWN) RAW SILK (NOT THROWN) NON-MULBERRY SILK",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -101,7 +101,7 @@
         },
         {
             "code": "5003",
-            "description": "",
+            "description": "SILK WASTE (INCLUDING COCOONS UNSUITABLE FOR REELING, YARN WASTE AND GARNETTED STOCK)",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -113,7 +113,7 @@
         },
         {
             "code": "50030010",
-            "description": "",
+            "description": "MULBERRY SILK WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -125,7 +125,7 @@
         },
         {
             "code": "50030020",
-            "description": "",
+            "description": "TUSSAR SILK WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -137,7 +137,7 @@
         },
         {
             "code": "50030030",
-            "description": "",
+            "description": "DRI WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -149,7 +149,7 @@
         },
         {
             "code": "50030040",
-            "description": "",
+            "description": "MUNGA WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -161,7 +161,7 @@
         },
         {
             "code": "50030090",
-            "description": "",
+            "description": "SILK WASTE - OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -173,7 +173,7 @@
         },
         {
             "code": "50031090",
-            "description": "",
+            "description": "SILK WASTE (INCLUDING COCOONS UNSUITABLE FOR REELING, YARN WASTE AND GARNETTED STOCK) NOT CARDED OR COMBED OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -185,7 +185,7 @@
         },
         {
             "code": "50039010",
-            "description": "",
+            "description": "SILK WASTE (INCLUDING COCOONS UNSUITABLE FOR REELING, YARN WASTE AND GARNETTED STOCK) - OTHER : MULBERRY SILK WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -197,7 +197,7 @@
         },
         {
             "code": "50039020",
-            "description": "",
+            "description": "SILK WASTE (INCLUDING COCOONS UNSUITABLE FOR REELING, YARN WASTE AND GARNETTED STOCK) - OTHER : TUSSAR WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -209,7 +209,7 @@
         },
         {
             "code": "50039030",
-            "description": "",
+            "description": "SILK WASTE (INCLUDING COCOONS UNSUITABLE FOR REELING, YARN WASTE AND GARNETTED STOCK) - OTHER : ERI WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -221,7 +221,7 @@
         },
         {
             "code": "50039040",
-            "description": "",
+            "description": "SILK WASTE (INCLUDING COCOONS UNSUITABLE FOR REELING, YARN WASTE AND GARNETTED STOCK) - OTHER : MUNGA WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -233,7 +233,7 @@
         },
         {
             "code": "50039090",
-            "description": "",
+            "description": "SILK WASTE (INCLUDING COCOONS UNSUITABLE FOR REELING, YARN WASTE AND GARNETTED STOCK) - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -245,7 +245,7 @@
         },
         {
             "code": "5004",
-            "description": "",
+            "description": "SILK YARN (OTHER THAN YARN SPUN FROM SILK WASTE) NOT PUT UP FOR RETAIL SALE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -257,7 +257,7 @@
         },
         {
             "code": "50040010",
-            "description": "",
+            "description": "(OTHER THAN YARN SPUN FROM SILK WASTE) NOT PUT UP FOR RETAIL SALE : 100 PERCENT MULBERRY DUPION SILK YARN",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -269,7 +269,7 @@
         },
         {
             "code": "50040090",
-            "description": "",
+            "description": "SILK YARN (OTHER THAN YARN SPUN FROM SILK WASTE) NOT PUT UP FOR RETAIL SALE SILK YARN (OTHER THAN YARN SPUN FROM SILK WASTE) NOT PUT UP FOR RETAIL SALE : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -281,7 +281,7 @@
         },
         {
             "code": "5007",
-            "description": "",
+            "description": "WOVEN FABRICS OF SILK OR OF SILK WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -293,7 +293,7 @@
         },
         {
             "code": "500710",
-            "description": "",
+            "description": "WOVEN FABRICS OF SILK OR OF SILK WASTE FABRICS OF NOIL SILK",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -305,7 +305,7 @@
         },
         {
             "code": "50071000",
-            "description": "",
+            "description": "WOVEN FABRICS OF SILK OR OF SILK WASTE FABRICS OF NOIL SILK",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -317,7 +317,7 @@
         },
         {
             "code": "50072010",
-            "description": "",
+            "description": "WOVEN FABRICS OF SILK OR OF SILK WASTE OTHER FABRICS, CONTAINING 85 PERCENT OR MORE BY WEIGHT OF SILK OR OF SILK WASTE OTHER THAN NOIL SILK: SAREES",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -329,7 +329,7 @@
         },
         {
             "code": "50072090",
-            "description": "",
+            "description": "WOVEN FABRICS OF SILK OR OF SILK WASTE OTHER FABRICS, CONTAINING 85 PERCENT OR MORE BY WEIGHT OF SILK OR OF SILK WASTE OTHER THAN NOIL SILK: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -341,7 +341,7 @@
         },
         {
             "code": "500790",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -353,7 +353,7 @@
         },
         {
             "code": "50079000",
-            "description": "",
+            "description": "OTHER FABRICS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -365,7 +365,7 @@
         },
         {
             "code": "50079010",
-            "description": "",
+            "description": "OTHER HANDLOOM WOVEN FABRICS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -377,7 +377,7 @@
         },
         {
             "code": "50079090",
-            "description": "",
+            "description": "WOVEN FABRICS OF SILK OR OF SILK WASTE - OTHER FABRICS",
             "rateHistory": [
                 {
                     "ratePercent": 5,

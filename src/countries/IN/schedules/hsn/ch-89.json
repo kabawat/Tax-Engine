@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "8901",
-            "description": "",
+            "description": "CRUISE SHIPS, EXCURSION BOATS , FERRY-BOATS, CARGO SHIPS, BARGES AND SIMILAR VESSELS FOR THE TRANSPORT OF PERSONS OR GOODS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -17,7 +17,7 @@
         },
         {
             "code": "89011010",
-            "description": "",
+            "description": "CRUISE SHIPS, EXCURSION BOATS , FERRY-BOATS, CARGO SHIPS, BARGES AND SIMILAR VESSELS FOR THE TRANSPORT OF PERSONS OR GOODS - CRUISE SHIPS, EXCURSION BOATS AND SIMILAR VESSELS PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS; FERRY-BOATS OF ALL KINDS: SHI",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -29,7 +29,7 @@
         },
         {
             "code": "89011020",
-            "description": "",
+            "description": "CRUISE SHIPS, EXCURSION BOATS , FERRY-BOATS, CARGO SHIPS, BARGES AND SIMILAR VESSELS FOR THE TRANSPORT OF PERSONS OR GOODS - CRUISE SHIPS, EXCURSION BOATS AND SIMILAR VESSELS PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS; FERRY-BOATS OF ALL KINDS: LAU",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -41,7 +41,7 @@
         },
         {
             "code": "89011030",
-            "description": "",
+            "description": "CRUISE SHIPS, EXCURSION BOATS , FERRY-BOATS, CARGO SHIPS, BARGES AND SIMILAR VESSELS FOR THE TRANSPORT OF PERSONS OR GOODS - CRUISE SHIPS, EXCURSION BOATS AND SIMILAR VESSELS PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS; FERRY-BOATS OF ALL KINDS: BOA",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -53,7 +53,7 @@
         },
         {
             "code": "89011040",
-            "description": "",
+            "description": "CRUISE SHIPS, EXCURSION BOATS , FERRY-BOATS, CARGO SHIPS, BARGES AND SIMILAR VESSELS FOR THE TRANSPORT OF PERSONS OR GOODS - CRUISE SHIPS, EXCURSION BOATS AND SIMILAR VESSELS PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS; FERRY-BOATS OF ALL KINDS: BAR",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -65,7 +65,7 @@
         },
         {
             "code": "89011090",
-            "description": "",
+            "description": "CRUISE SHIPS, EXCURSION BOATS , FERRY-BOATS, CARGO SHIPS, BARGES AND SIMILAR VESSELS FOR THE TRANSPORT OF PERSONS OR GOODS - CRUISE SHIPS, EXCURSION BOATS AND SIMILAR VESSELS PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS; FERRY-BOATS OF ALL KINDS: OTH",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -77,7 +77,7 @@
         },
         {
             "code": "890120",
-            "description": "",
+            "description": "CRUISE SHIPS, EXCURSION BOATS , FERRY-BOATS, CARGO SHIPS, BARGES AND SIMILAR VESSELS FOR THE TRANSPORT OF PERSONS OR GOODS - TANKERS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -89,7 +89,7 @@
         },
         {
             "code": "89012000",
-            "description": "",
+            "description": "CRUISE SHIPS, EXCURSION BOATS , FERRY-BOATS, CARGO SHIPS, BARGES AND SIMILAR VESSELS FOR THE TRANSPORT OF PERSONS OR GOODS - TANKERS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -101,7 +101,7 @@
         },
         {
             "code": "890130",
-            "description": "",
+            "description": "CRUISE SHIPS, EXCURSION BOATS , FERRY-BOATS, CARGO SHIPS, BARGES AND SIMILAR VESSELS FOR THE TRANSPORT OF PERSONS OR GOODS - REFRIGERATED VESSELS, OTHER THAN THOSE OF SUB-HEADING 8901 20",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -113,7 +113,7 @@
         },
         {
             "code": "89013000",
-            "description": "",
+            "description": "CRUISE SHIPS, EXCURSION BOATS , FERRY-BOATS, CARGO SHIPS, BARGES AND SIMILAR VESSELS FOR THE TRANSPORT OF PERSONS OR GOODS - REFRIGERATED VESSELS, OTHER THAN THOSE OF SUB-HEADING 8901 20",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -125,7 +125,7 @@
         },
         {
             "code": "8902",
-            "description": "",
+            "description": "FISHING VESSELS; FACTORY SHIPS AND OTHER VESSELS FOR PROCESSING OR PRESERVING FISHERY PRODUCTS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -137,7 +137,7 @@
         },
         {
             "code": "89020010",
-            "description": "",
+            "description": "FISHING VESSELS; FACTORY SHIPS AND OTHER VESSELS FOR PROCESSING OR PRESERVING FISHERY PRODUCTS 8902 00 - FISHING VESSELS; FACTORY SHIPS AND OTHER VESSELS FOR PROCESSING OR PRESERVING FISHERY PRODUCTS : TRAWLERS AND OTHER FISHING VESSELS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -149,7 +149,7 @@
         },
         {
             "code": "89020090",
-            "description": "",
+            "description": "FISHING VESSELS; FACTORY SHIPS AND OTHER VESSELS FOR PROCESSING OR PRESERVING FISHERY PRODUCTS 8902 00 - FISHING VESSELS; FACTORY SHIPS AND OTHER VESSELS FOR PROCESSING OR PRESERVING FISHERY PRODUCTS : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -161,19 +161,25 @@
         },
         {
             "code": "8903",
-            "description": "",
+            "description": "YACHTS AND OTHER VESSELS FOR PLEASURE OR SPORTS; ROWING BOATS AND CANOES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "890310",
-            "description": "",
+            "description": "YACHTS AND OTHER VESSELS FOR PLEASURE OR SPORTS; ROWING BOATS AND CANOES INFLATABLE",
             "rateHistory": [
                 {
                     "ratePercent": 28,
@@ -185,19 +191,25 @@
         },
         {
             "code": "89031000",
-            "description": "",
+            "description": "YACHTS AND OTHER VESSELS FOR PLEASURE OR SPORTS; ROWING BOATS AND CANOES INFLATABLE",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "890391",
-            "description": "",
+            "description": "YACHTS AND OTHER VESSELS FOR PLEASURE OR SPORTS; ROWING BOATS AND CANOES - OTHER : SAIL BOATS, WITH OR WITHOUT AUXILIARY MOTOR",
             "rateHistory": [
                 {
                     "ratePercent": 28,
@@ -209,19 +221,25 @@
         },
         {
             "code": "89039100",
-            "description": "",
+            "description": "YACHTS AND OTHER VESSELS FOR PLEASURE OR SPORTS; ROWING BOATS AND CANOES - OTHER : SAIL BOATS, WITH OR WITHOUT AUXILIARY MOTOR",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "890392",
-            "description": "",
+            "description": "YACHTS AND OTHER VESSELS FOR PLEASURE OR SPORTS; ROWING BOATS AND CANOES - OTHER : MOTORBOATS, OTHER THAN OUTBOARD MOTORBOATS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
@@ -233,55 +251,79 @@
         },
         {
             "code": "89039200",
-            "description": "",
+            "description": "YACHTS AND OTHER VESSELS FOR PLEASURE OR SPORTS; ROWING BOATS AND CANOES - OTHER : MOTORBOATS, OTHER THAN OUTBOARD MOTORBOATS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "890399",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "89039910",
-            "description": "",
+            "description": "YACHTS AND OTHER VESSELS FOR PLEASURE OR SPORTS; ROWING BOATS AND CANOES - OTHER : - OTHER : CANOES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "89039990",
-            "description": "",
+            "description": "YACHTS AND OTHER VESSELS FOR PLEASURE OR SPORTS; ROWING BOATS AND CANOES - OTHER : - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "8904",
-            "description": "",
+            "description": "TUGS AND PUSHER CRAFT",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -293,7 +335,7 @@
         },
         {
             "code": "890400",
-            "description": "",
+            "description": "TUGS AND PUSHER CRAFT",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -305,7 +347,7 @@
         },
         {
             "code": "89040000",
-            "description": "",
+            "description": "TUGS AND PUSHER CRAFT",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -317,7 +359,7 @@
         },
         {
             "code": "8905",
-            "description": "",
+            "description": "LIGHT-VESSELS, FIRE-FLOATS, DREDGERS, FLOATING CRANES, AND OTHER VESSELS THE NAVIGABILITY OF WHICH IS SUBSIDIARY TO THEIR MAIN FUNCTION; FLOATING DOCKS; FLOATING OR SUBMERSIBLE DRILLING OR PRODUCTION PLATFORMS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -329,7 +371,7 @@
         },
         {
             "code": "890510",
-            "description": "",
+            "description": "LIGHT-VESSELS, FIRE-FLOATS, DREDGERS, FLOATING CRANES, AND OTHER VESSELS THE NAVIGABILITY OF WHICH IS SUBSIDIARY TO THEIR MAIN FUNCTION; FLOATING DOCKS; FLOATING OR SUBMERSIBLE DRILLING OR PRODUCTION PLATFORMS DREDGERS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -341,7 +383,7 @@
         },
         {
             "code": "89051000",
-            "description": "",
+            "description": "LIGHT-VESSELS, FIRE-FLOATS, DREDGERS, FLOATING CRANES, AND OTHER VESSELS THE NAVIGABILITY OF WHICH IS SUBSIDIARY TO THEIR MAIN FUNCTION; FLOATING DOCKS; FLOATING OR SUBMERSIBLE DRILLING OR PRODUCTION PLATFORMS DREDGERS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -353,7 +395,7 @@
         },
         {
             "code": "890520",
-            "description": "",
+            "description": "LIGHT-VESSELS, FIRE-FLOATS, DREDGERS, FLOATING CRANES, AND OTHER VESSELS THE NAVIGABILITY OF WHICH IS SUBSIDIARY TO THEIR MAIN FUNCTION; FLOATING DOCKS; FLOATING OR SUBMERSIBLE DRILLING OR PRODUCTION PLATFORMS FLOATING OR SUBMERSIBLE DRILLING OR PRODUCTIO",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -365,7 +407,7 @@
         },
         {
             "code": "89052000",
-            "description": "",
+            "description": "LIGHT-VESSELS, FIRE-FLOATS, DREDGERS, FLOATING CRANES, AND OTHER VESSELS THE NAVIGABILITY OF WHICH IS SUBSIDIARY TO THEIR MAIN FUNCTION; FLOATING DOCKS; FLOATING OR SUBMERSIBLE DRILLING OR PRODUCTION PLATFORMS FLOATING OR SUBMERSIBLE DRILLING OR PRODUCTIO",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -377,7 +419,7 @@
         },
         {
             "code": "890590",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -389,7 +431,7 @@
         },
         {
             "code": "89059010",
-            "description": "",
+            "description": "LIGHT-VESSELS, FIRE-FLOATS, DREDGERS, FLOATING CRANES, AND OTHER VESSELS THE NAVIGABILITY OF WHICH IS SUBSIDIARY TO THEIR MAIN FUNCTION; FLOATING DOCKS; FLOATING OR SUBMERSIBLE DRILLING OR PRODUCTION PLATFORMS - OTHER : FLOATING DOCKS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -401,7 +443,7 @@
         },
         {
             "code": "89059090",
-            "description": "",
+            "description": "LIGHT-VESSELS, FIRE-FLOATS, DREDGERS, FLOATING CRANES, AND OTHER VESSELS THE NAVIGABILITY OF WHICH IS SUBSIDIARY TO THEIR MAIN FUNCTION; FLOATING DOCKS; FLOATING OR SUBMERSIBLE DRILLING OR PRODUCTION PLATFORMS - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -413,7 +455,7 @@
         },
         {
             "code": "8906",
-            "description": "",
+            "description": "OTHER VESSELS, INCLUDING WARSHIPS AND LIFEBOATS OTHER THAN ROWING BOATS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -425,7 +467,7 @@
         },
         {
             "code": "890610",
-            "description": "",
+            "description": "OTHER VESSELS, INCLUDING WARSHIPS AND LIFEBOATS OTHER THAN ROWING BOATS WARSHIPS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -437,7 +479,7 @@
         },
         {
             "code": "89061000",
-            "description": "",
+            "description": "OTHER VESSELS, INCLUDING WARSHIPS AND LIFEBOATS OTHER THAN ROWING BOATS WARSHIPS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -449,7 +491,7 @@
         },
         {
             "code": "890690",
-            "description": "",
+            "description": "OTHER VESSELS, INCLUDING WARSHIPS AND LIFEBOATS OTHER THAN ROWING BOATS OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -461,7 +503,7 @@
         },
         {
             "code": "89069000",
-            "description": "",
+            "description": "OTHER VESSELS, INCLUDING WARSHIPS AND LIFEBOATS OTHER THAN ROWING BOATS OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -473,7 +515,7 @@
         },
         {
             "code": "8907",
-            "description": "",
+            "description": "OTHER FLOATING STRUCTURES ( FOR EXAMPLE, RAFTS, TANKS, COFFER-DAMS, LANDING-STAGES, BUOYS AND BEACONS)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -485,7 +527,7 @@
         },
         {
             "code": "890710",
-            "description": "",
+            "description": "OTHER FLOATING STRUCTURES ( FOR EXAMPLE, RAFTS, TANKS, COFFER-DAMS, LANDING-STAGES, BUOYS AND BEACONS) INFLATABLE RAFTS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -497,7 +539,7 @@
         },
         {
             "code": "89071000",
-            "description": "",
+            "description": "OTHER FLOATING STRUCTURES ( FOR EXAMPLE, RAFTS, TANKS, COFFER-DAMS, LANDING-STAGES, BUOYS AND BEACONS) INFLATABLE RAFTS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -509,7 +551,7 @@
         },
         {
             "code": "890790",
-            "description": "",
+            "description": "OTHER FLOATING STRUCTURES ( FOR EXAMPLE, RAFTS, TANKS, COFFER-DAMS, LANDING-STAGES, BUOYS AND BEACONS) OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -521,7 +563,7 @@
         },
         {
             "code": "89079000",
-            "description": "",
+            "description": "OTHER FLOATING STRUCTURES ( FOR EXAMPLE, RAFTS, TANKS, COFFER-DAMS, LANDING-STAGES, BUOYS AND BEACONS) OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -533,11 +575,11 @@
         },
         {
             "code": "8908",
-            "description": "",
+            "description": "VESSELS AND OTHER FLOATING STRUCTURES FOR BREAKING UP",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -545,7 +587,7 @@
         },
         {
             "code": "890800",
-            "description": "",
+            "description": "VESSELS AND OTHER FLOATING STRUCTURES FOR BREAKING UP",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -557,7 +599,7 @@
         },
         {
             "code": "89080000",
-            "description": "",
+            "description": "VESSELS AND OTHER FLOATING STRUCTURES FOR BREAKING UP",
             "rateHistory": [
                 {
                     "ratePercent": 18,

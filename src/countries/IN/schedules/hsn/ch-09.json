@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "0901",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DECAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION - COFFEE, NOT ROASTED:",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -17,11 +17,11 @@
         },
         {
             "code": "090111",
-            "description": "",
+            "description": "Not decaffeinated",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -29,11 +29,11 @@
         },
         {
             "code": "09011111",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ARABICA PLANTATION : A GRADE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -41,11 +41,11 @@
         },
         {
             "code": "09011112",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ARABICA PLANTATION : B GRADE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -53,11 +53,11 @@
         },
         {
             "code": "09011113",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ARABICA PLANTATION : C GRADE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -65,11 +65,11 @@
         },
         {
             "code": "09011119",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ARABICA PLANTATION : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -77,11 +77,11 @@
         },
         {
             "code": "09011121",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ARABICA CHERRY : AB GRADE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -89,11 +89,11 @@
         },
         {
             "code": "09011122",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ARABICA CHERRY : PB GRADE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -101,11 +101,11 @@
         },
         {
             "code": "09011123",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ARABICA CHERRY : C GRADE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -113,11 +113,11 @@
         },
         {
             "code": "09011124",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ARABICA CHERRY : B/B/B GRADE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -125,11 +125,11 @@
         },
         {
             "code": "09011129",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ARABICA CHERRY : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -137,11 +137,11 @@
         },
         {
             "code": "09011131",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ROB PARCHMENT : AB GRADE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -149,11 +149,11 @@
         },
         {
             "code": "09011132",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ROB PARCHMENT : PB GRADE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -161,11 +161,11 @@
         },
         {
             "code": "09011133",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ROB PARCHMENT : C GRADE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -173,11 +173,11 @@
         },
         {
             "code": "09011139",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ROB PARCHMENT : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -185,11 +185,11 @@
         },
         {
             "code": "09011141",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ROB CHERRY : AB GRADE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -197,11 +197,11 @@
         },
         {
             "code": "09011142",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ROB CHERRY : PB GRADE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -209,11 +209,11 @@
         },
         {
             "code": "09011143",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ROB CHERRY : C GRADE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -221,11 +221,11 @@
         },
         {
             "code": "09011144",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ROB CHERRY : B/B/B GRADE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -233,11 +233,11 @@
         },
         {
             "code": "09011145",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ROB CHERRY : BULK",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -245,11 +245,11 @@
         },
         {
             "code": "09011149",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : ROB CHERRY : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -257,11 +257,11 @@
         },
         {
             "code": "09011190",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : NOT DECAFFEINATED : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -269,11 +269,11 @@
         },
         {
             "code": "090112",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : DECAFFEINATED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -281,11 +281,11 @@
         },
         {
             "code": "09011200",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, NOT ROASTED : DECAFFEINATED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -293,11 +293,11 @@
         },
         {
             "code": "090121",
-            "description": "",
+            "description": "Not decaffeinated",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -305,11 +305,11 @@
         },
         {
             "code": "09012110",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, ROASTED : NOT DECAFFEINATED : IN BULK PACKING",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -317,11 +317,11 @@
         },
         {
             "code": "09012190",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, ROASTED : NOT DECAFFEINATED : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -329,11 +329,11 @@
         },
         {
             "code": "090122",
-            "description": "",
+            "description": "Decaffeinated",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -341,11 +341,11 @@
         },
         {
             "code": "09012210",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, ROASTED : DECAFFEINATED : IN BULK PACKING",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -353,11 +353,11 @@
         },
         {
             "code": "09012290",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION COFFEE, ROASTED : DECAFFEINATED : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -365,11 +365,11 @@
         },
         {
             "code": "090190",
-            "description": "",
+            "description": "Other",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -377,11 +377,11 @@
         },
         {
             "code": "09019010",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION OTHER : COFFEE HUSKS AND SKINS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -389,11 +389,11 @@
         },
         {
             "code": "09019020",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION OTHER : COFFEE SUBSTITUTES CONTAINING COFFEE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -401,11 +401,11 @@
         },
         {
             "code": "09019090",
-            "description": "",
+            "description": "COFFEE, WHETHER OR NOT ROASTED OR DACAFFEINATED; COFFEE HUSKS AND SKINS; COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -413,7 +413,7 @@
         },
         {
             "code": "0902",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -425,11 +425,11 @@
         },
         {
             "code": "09021010",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED GREEN TEA (NOT FERMENTED) IN IMMEDIATE PACKINGS OF A CONTENT NOT EXCEEDING 3 KG : CONTENT NOT EXCEEDING 25 G .",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -437,11 +437,11 @@
         },
         {
             "code": "09021020",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED GREEN TEA (NOT FERMENTED) IN IMMEDIATE PACKINGS OF A CONTENT NOT EXCEEDING 3 KG : CONTENT EXCEEDING 25 G. BUT NOT EXCEEDING 1 KG.",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -449,11 +449,11 @@
         },
         {
             "code": "09021030",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED GREEN TEA (NOT FERMENTED) IN IMMEDIATE PACKINGS OF A CONTENT NOT EXCEEDING 3 KG : CONTENT EXCEEDING 1 KG. BUT NOT EXCEEDING 3 KG.",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -461,11 +461,11 @@
         },
         {
             "code": "09021090",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED GREEN TEA (NOT FERMENTED) IN IMMEDIATE PACKINGS OF A CONTENT NOT EXCEEDING 3 KG : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -473,11 +473,11 @@
         },
         {
             "code": "090220",
-            "description": "",
+            "description": "Other green tea (not fermented)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -485,11 +485,11 @@
         },
         {
             "code": "09022020",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED OTHER GREEN TEA (NOT FERMENTED) : GREEN TEA IN BULK",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -497,11 +497,11 @@
         },
         {
             "code": "09022040",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED OTHER GREEN TEA (NOT FERMENTED) : GREEN TEA WASTE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -509,11 +509,11 @@
         },
         {
             "code": "09022090",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED OTHER GREEN TEA (NOT FERMENTED) : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -521,11 +521,11 @@
         },
         {
             "code": "09023010",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED BLACK TEA (FERMENTED) AND PARTLY FERMENTED TEA, IN IMMEDIATE PACKINGS OF A CONTENT NOT EXCEEDING 3 KG. : CONTENT NOT EXCEEDING 25 G.",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -533,11 +533,11 @@
         },
         {
             "code": "09023020",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED BLACK TEA (FERMENTED) AND PARTLY FERMENTED TEA, IN IMMEDIATE PACKINGS OF A CONTENT NOT EXCEEDING 3 KG. : CONTENT EXCEEDING 25 G. BUT NOT EXCEEDING 1 KG.",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -545,11 +545,11 @@
         },
         {
             "code": "09023030",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED BLACK TEA (FERMENTED) AND PARTLY FERMENTED TEA, IN IMMEDIATE PACKINGS OF A CONTENT NOT EXCEEDING 3 KG. : CONTENT EXCEEDING 1 KG. BUT NOT EXCEEDING 3 KG.",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -557,11 +557,11 @@
         },
         {
             "code": "09023090",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED BLACK TEA (FERMENTED) AND PARTLY FERMENTED TEA, IN IMMEDIATE PACKINGS OF A CONTENT NOT EXCEEDING 3 KG. : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -569,11 +569,11 @@
         },
         {
             "code": "090240",
-            "description": "",
+            "description": "Other black tea (fermented) and other partly fermented tea",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -581,11 +581,11 @@
         },
         {
             "code": "09024010",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED OTHER BLACK TEA (FERMENTED) AND OTHER PARTLY FERMENTED TEA : CONTENT EXCEEDING 3 KG. BUT NOT EXCEEDING 20 KG.",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -593,11 +593,11 @@
         },
         {
             "code": "09024020",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED OTHER BLACK TEA (FERMENTED) AND OTHER PARTLY FERMENTED TEA : BLACK TEA, LEAF IN BULK",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -605,11 +605,11 @@
         },
         {
             "code": "09024030",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED OTHER BLACK TEA (FERMENTED) AND OTHER PARTLY FERMENTED TEA : BLACK TEA, DUST IN BULK",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -617,11 +617,11 @@
         },
         {
             "code": "09024040",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED OTHER BLACK TEA (FERMENTED) AND OTHER PARTLY FERMENTED TEA : TEA BAGS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -629,11 +629,11 @@
         },
         {
             "code": "09024050",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED OTHER BLACK TEA (FERMENTED) AND OTHER PARTLY FERMENTED TEA : BLACK TEA, AGGLOMERATED IN FORMS SUCH AS BALL, BRICK AND TABLETS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -641,11 +641,11 @@
         },
         {
             "code": "09024060",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED OTHER BLACK TEA (FERMENTED) AND OTHER PARTLY FERMENTED TEA : BLACK TEA, WASTE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -653,11 +653,11 @@
         },
         {
             "code": "09024090",
-            "description": "",
+            "description": "TEA, WHETHER OR NOT FLAVOURED OTHER BLACK TEA (FERMENTED) AND OTHER PARTLY FERMENTED TEA : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -665,7 +665,7 @@
         },
         {
             "code": "0903",
-            "description": "",
+            "description": "MATE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -677,7 +677,7 @@
         },
         {
             "code": "090300",
-            "description": "",
+            "description": "MATE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -689,7 +689,7 @@
         },
         {
             "code": "09030000",
-            "description": "",
+            "description": "MATE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -701,7 +701,7 @@
         },
         {
             "code": "0904",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA - PEPPER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -713,7 +713,7 @@
         },
         {
             "code": "090411",
-            "description": "",
+            "description": "Neither crushed nor ground",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -725,7 +725,7 @@
         },
         {
             "code": "09041110",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA PEPPER : NEITHER CRUSHED NOR GROUND : PEPPER, LONG",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -737,7 +737,7 @@
         },
         {
             "code": "09041120",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA PEPPER : NEITHER CRUSHED NOR GROUND : LIGHT BLACK PEPPER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -749,7 +749,7 @@
         },
         {
             "code": "09041130",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA PEPPER : NEITHER CRUSHED NOR GROUND : BLACK PEPPER, GARBLED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -761,7 +761,7 @@
         },
         {
             "code": "09041140",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA PEPPER : NEITHER CRUSHED NOR GROUND : BLACK PEPPER UNGARBLED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -773,7 +773,7 @@
         },
         {
             "code": "09041150",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHEDOR GROUND FRUITS OF THE GENUS CAPSICUM OROF THE GENUS PIMENTA PEPPER : NEITHER CRUSHED NOR GROUND : GREEN PEPPER, DEHYDRATED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -785,7 +785,7 @@
         },
         {
             "code": "09041160",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA PEPPER : NEITHER CRUSHED NOR GROUND : PEPPER PINHEADS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -797,7 +797,7 @@
         },
         {
             "code": "09041170",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA PEPPER : NEITHER CRUSHED NOR GROUND : GREEN PEPPER, FROZEN OR DRIED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -809,7 +809,7 @@
         },
         {
             "code": "09041180",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA PEPPER : NEITHER CRUSHED NOR GROUND : PEPPER OTHER THAN GREEN, FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -821,7 +821,7 @@
         },
         {
             "code": "09041190",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA PEPPER : NEITHER CRUSHED NOR GROUND : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -833,7 +833,7 @@
         },
         {
             "code": "09041200",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA PEPPER : CRUSHED OR GROUND",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -845,7 +845,7 @@
         },
         {
             "code": "090421",
-            "description": "",
+            "description": "Dried, neither crushed nor gorund",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -857,7 +857,7 @@
         },
         {
             "code": "09042110",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OF THE GENUS PIMENTA - FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA -- DRIED NEITHER CRUSHED NOR GROUND ---OF GENUS CAPSICUM",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -869,7 +869,7 @@
         },
         {
             "code": "09042120",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OF THE GENUS PIMENTA - FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA -- DRIED NEITHER CRUSHED NOR GROUND ---OF GENUS PIMENTA",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -881,7 +881,7 @@
         },
         {
             "code": "090422",
-            "description": "",
+            "description": "crushed or ground",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -893,7 +893,7 @@
         },
         {
             "code": "09042211",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OF THE GENUS PIMENTA - FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA -- CRUSHED OR GROUND --- OF GENUS CAPSICUM ---CHILLY POWDER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -905,7 +905,7 @@
         },
         {
             "code": "09042212",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OF THE GENUS PIMENTA - FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA -- CRUSHED OR GROUND --- OF GENUS CAPSICUM---- CHILLY SEEDS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -917,7 +917,7 @@
         },
         {
             "code": "09042219",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OF THE GENUS PIMENTA - FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA -- CRUSHED OR GROUND --- OF GENUS CAPSICUM----OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -929,7 +929,7 @@
         },
         {
             "code": "09042221",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OF THE GENUS PIMENTA - FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA -- CRUSHED OR GROUND --- OF GENUS PIMENTA ---- POWDER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -941,7 +941,7 @@
         },
         {
             "code": "09042229",
-            "description": "",
+            "description": "PEPPER OF THE GENUS PIPER; DRIED OR CRUSHED OR GROUND FRUITS OF THE GENUS CAPSICUM OF THE GENUS PIMENTA - FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA -- CRUSHED OR GROUND --- OF GENUS PIMENTA ----OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -953,7 +953,7 @@
         },
         {
             "code": "0905",
-            "description": "",
+            "description": "VANILLA",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -965,7 +965,7 @@
         },
         {
             "code": "09051000",
-            "description": "",
+            "description": "VANILLA - NEITHER CRUSHED NOR GROUND",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -977,7 +977,7 @@
         },
         {
             "code": "09052000",
-            "description": "",
+            "description": "VANILLA - CRUSHED OR GROUND",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -989,7 +989,7 @@
         },
         {
             "code": "0906",
-            "description": "",
+            "description": "CINNAMON AND CINNAMON-TREE FLOWERS - NEITHER CRUSHED NOR GROUND:",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1001,7 +1001,7 @@
         },
         {
             "code": "09061020",
-            "description": "",
+            "description": "CINNAMON AND CINNAMON-TREE FLOWERS NEITHER CRUSHED NOR GROUND : CINNAMON BARK",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1013,7 +1013,7 @@
         },
         {
             "code": "09061030",
-            "description": "",
+            "description": "CINNAMON AND CINNAMON-TREE FLOWERS NEITHER CRUSHED NOR GROUND : CINNAMON TREE FLOWERS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1025,7 +1025,7 @@
         },
         {
             "code": "09061090",
-            "description": "",
+            "description": "CINNAMON AND CINNAMON-TREE FLOWERS NEITHER CRUSHED NOR GROUND : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1037,7 +1037,7 @@
         },
         {
             "code": "090611",
-            "description": "",
+            "description": "Cinnamon (Cinnamomum Zeylanicum Blume)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1049,7 +1049,7 @@
         },
         {
             "code": "09061110",
-            "description": "",
+            "description": "CINNAMON AND CINNAMON-TREE FLOWERS - NEITHER CRUSHED NOR GROUND :-- CINNAMON (CINNAMOMUM ZEYLANICUM BLUME): --- CINNAMON BARK",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1061,7 +1061,7 @@
         },
         {
             "code": "09061120",
-            "description": "",
+            "description": "CINNAMON AND CINNAMON-TREE FLOWERS - NEITHER CRUSHED NOR GROUND :-- CINNAMON (CINNAMOMUM ZEYLANICUM BLUME): --- CINNAMON TREE FLOWERS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1073,7 +1073,7 @@
         },
         {
             "code": "09061190",
-            "description": "",
+            "description": "CINNAMON AND CINNAMON-TREE FLOWERS - NEITHER CRUSHED NOR GROUND :-- CINNAMON (CINNAMOMUM ZEYLANICUM BLUME): --- OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1085,7 +1085,7 @@
         },
         {
             "code": "090619",
-            "description": "",
+            "description": "Other",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1097,7 +1097,7 @@
         },
         {
             "code": "09061910",
-            "description": "",
+            "description": "CINNAMON AND CINNAMON-TREE FLOWERS - NEITHER CRUSHED NOR GROUND :-- OTHER --- CASSIA",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1109,7 +1109,7 @@
         },
         {
             "code": "09061990",
-            "description": "",
+            "description": "CINNAMON AND CINNAMON-TREE FLOWERS - NEITHER CRUSHED NOR GROUND :-- OTHER : --- OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1121,7 +1121,7 @@
         },
         {
             "code": "09062000",
-            "description": "",
+            "description": "CINNAMON AND CINNAMON-TREE FLOWERS CRUSHED OR GROUND",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1133,7 +1133,7 @@
         },
         {
             "code": "0907",
-            "description": "",
+            "description": "CLOVES (WHOLE FRUIT, CLOVES AND STEMS)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1145,7 +1145,7 @@
         },
         {
             "code": "090710",
-            "description": "",
+            "description": "Neither crushed or ground",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1157,7 +1157,7 @@
         },
         {
             "code": "09071010",
-            "description": "",
+            "description": "CLOVES (WHOLE FRUIT, CLOVES AND STEMS) - NEITHER CRUSHED NOR GROUND --- EXTRACTED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1169,7 +1169,7 @@
         },
         {
             "code": "09071020",
-            "description": "",
+            "description": "CLOVES (WHOLE FRUIT, CLOVES AND STEMS) - NEITHER CRUSHED NOR GROUND --- NOT EXTRACTED (OTHER THAN STEM)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1181,7 +1181,7 @@
         },
         {
             "code": "09071030",
-            "description": "",
+            "description": "CLOVES (WHOLE FRUIT, CLOVES AND STEMS) - NEITHER CRUSHED NOR GROUND ---STEM",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1193,7 +1193,7 @@
         },
         {
             "code": "09071090",
-            "description": "",
+            "description": "CLOVES (WHOLE FRUIT, CLOVES AND STEMS) - NEITHER CRUSHED NOR GROUND --- OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1205,7 +1205,7 @@
         },
         {
             "code": "09072000",
-            "description": "",
+            "description": "CLOVES (WHOLE FRUIT, CLOVES AND STEMS) - CRUSHED OR GROUND",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1217,7 +1217,7 @@
         },
         {
             "code": "0908",
-            "description": "",
+            "description": "NUT MEG :",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1229,7 +1229,7 @@
         },
         {
             "code": "090811",
-            "description": "",
+            "description": "Neither crushed nor ground",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1241,7 +1241,7 @@
         },
         {
             "code": "09081110",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - NUTMEG -- NEITHER CRUSHED NOR GROUND --- IN SHELL",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1253,7 +1253,7 @@
         },
         {
             "code": "09081120",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - NUTMEG -- NEITHER CRUSHED NOR GROUND---SHELLED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1265,7 +1265,7 @@
         },
         {
             "code": "09081200",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - NUTMEG -- CRUSHED OR GROUND",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1277,7 +1277,7 @@
         },
         {
             "code": "09082100",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - MACE--NEITHER CRUSHED NOR GROUND",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1289,7 +1289,7 @@
         },
         {
             "code": "09082200",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - MACE--CRUSHED OR GROUND",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1301,7 +1301,7 @@
         },
         {
             "code": "090831",
-            "description": "",
+            "description": "Cardomoms Neither crushed nor ground",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1313,7 +1313,7 @@
         },
         {
             "code": "09083110",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - CARDAMOMS -- NEITHER CRUSHED NOR GROUND ---LARGE (AMOMUM)",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1325,7 +1325,7 @@
         },
         {
             "code": "09083120",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - CARDAMOMS -- NEITHER CRUSHED NOR GROUND ---SMALL (ELLETTARIA), ALLEPPEY GREEN",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1337,7 +1337,7 @@
         },
         {
             "code": "09083130",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - CARDAMOMS -- NEITHER CRUSHED NOR GROUND ---SMALL , COORG GREEN",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1349,7 +1349,7 @@
         },
         {
             "code": "09083140",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - CARDAMOMS -- NEITHER CRUSHED NOR GROUND ---SMALL , BLEACHED, HALF BLEACHED OR BLEACHABLE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1361,7 +1361,7 @@
         },
         {
             "code": "09083150",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - CARDAMOMS -- NEITHER CRUSHED NOR GROUND ---SMALL , MIXED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1373,7 +1373,7 @@
         },
         {
             "code": "09083190",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - CARDAMOMS -- NEITHER CRUSHED NOR GROUND ---OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1385,7 +1385,7 @@
         },
         {
             "code": "090832",
-            "description": "",
+            "description": "crushed or ground",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1397,7 +1397,7 @@
         },
         {
             "code": "09083210",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - CARDAMOMS -- CRUSHED OR GROUND ---POWDER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1409,7 +1409,7 @@
         },
         {
             "code": "09083220",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - CARDAMOMS -- CRUSHED OR GROUND ---SMALL CARDAMOM SEEDS",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1421,7 +1421,7 @@
         },
         {
             "code": "09083230",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - CARDAMOMS -- CRUSHED OR GROUND ---CARDAMOM HUSK",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1433,7 +1433,7 @@
         },
         {
             "code": "09083290",
-            "description": "",
+            "description": "NUTMEG, MACE AND CARDAMOMS - CARDAMOMS -- CRUSHED OR GROUND ---OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1445,7 +1445,7 @@
         },
         {
             "code": "0909",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF CORIANDER-- NEITHER CRUSED NOR GROUND---OF SEED QUALITY",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -1457,11 +1457,11 @@
         },
         {
             "code": "090921",
-            "description": "",
+            "description": "Neither crushed nor ground",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1469,11 +1469,11 @@
         },
         {
             "code": "09092110",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF CORIANDER-- NEITHER CRUSED NOR GROUND---OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1481,11 +1481,11 @@
         },
         {
             "code": "09092190",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF CORIANDER-- NEITHER CRUSED NOR GROUND---OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1493,11 +1493,11 @@
         },
         {
             "code": "09092200",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF CORIANDER-- CRUSED OR GROUND",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1505,11 +1505,11 @@
         },
         {
             "code": "090931",
-            "description": "",
+            "description": "Seeds of cumin Neither crushed nor ground",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1517,11 +1517,11 @@
         },
         {
             "code": "09093111",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF CUMIN-- NEITHER CRUSHED NOR GROUND---CUMIN, OTHER THAN BLACK----OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1529,11 +1529,11 @@
         },
         {
             "code": "09093119",
-            "description": "",
+            "description": "other",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1541,11 +1541,11 @@
         },
         {
             "code": "09093121",
-            "description": "",
+            "description": "EEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF CUMIN--NEITHER CRUSHED NOR GROUND---CUMIN,OTHER THAN BLACK----OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1553,11 +1553,11 @@
         },
         {
             "code": "09093129",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF CUMIN--NEITHER CRUSHED NOR GROUND---CUMIN,OTHER THAN BLACK----OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1565,11 +1565,11 @@
         },
         {
             "code": "09093200",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF CUMIN-- CRUSHED OR GROUND",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1577,11 +1577,11 @@
         },
         {
             "code": "090961",
-            "description": "",
+            "description": "Seeds of anise, badian, caraway or fennel juniper berries: neither crushed nor gorund",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1589,11 +1589,11 @@
         },
         {
             "code": "09096111",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF ANISE, BADIAN, CARAWAY OR FENNEL; JUNIPER BERRIES--NEITHER CRUSHED NOR GROUND---SEEDS OF ANISE----OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1601,11 +1601,11 @@
         },
         {
             "code": "09096119",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF ANISE, BADIAN, CARAWAY OR FENNEL; JUNIPER BERRIES--NEITHER CRUSHED NOR GROUND---SEEDS OF ANISE----OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1613,11 +1613,11 @@
         },
         {
             "code": "09096121",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF ANISE,BADIAN, CARAWAY OR FENNEL; JUNIPER BERRIES--NEITHER CRUSHED NOR GROUND---SEEDS OF BADIAN----OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1625,11 +1625,11 @@
         },
         {
             "code": "09096129",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF ANISE, BADIAN, CARAWAY OR FENNEL; JUNIPER BERRIES--NEITHER CRUSHED NOR GROUND---SEEDS OF BADIAN----OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1637,11 +1637,11 @@
         },
         {
             "code": "09096131",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF ANISE,BADIAN, CARAWAY OR FENNEL;JUNIPER BERRIES--NEITHER CRUSHED NOR GROUND---SEEDS OF CARAWAY OR FENNEL ---- OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1649,11 +1649,11 @@
         },
         {
             "code": "09096139",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF ANISE, BADIAN, CARAWAY OR FENNEL; JUNIPER BERRIES--NEITHER CRUSHED NOR GROUND---SEEDS OF CARAWAY OR FENNEL----OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1661,11 +1661,11 @@
         },
         {
             "code": "09096141",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF ANISE, BADIAN, CARAWAY OR FENNEL; JUNIPER BERRIES--NEITHER CRUSHED NOR GROUND---JUNIPER BERRIES----OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1673,11 +1673,11 @@
         },
         {
             "code": "09096149",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF ANISE, BADIAN, CARAWAY OR FENNEL; JUNIPER BERRIES--NEITHER CRUSHED NOR GROUND---JUNIPER BERRIES----OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1685,11 +1685,11 @@
         },
         {
             "code": "090962",
-            "description": "",
+            "description": "Crushed or ground",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1697,11 +1697,11 @@
         },
         {
             "code": "09096210",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF ANISE, BADIAN, CARAWAY OR FENNEL; JUNIPER BERRIES--CRUSHED OR GROUND---ANISE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1709,11 +1709,11 @@
         },
         {
             "code": "09096220",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF ANISE, BADIAN, CARAWAY OR FENNEL; JUNIPER BERRIES--CRUSHED OR GROUND---BADIAN",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1721,11 +1721,11 @@
         },
         {
             "code": "09096230",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF ANISE, BADIAN, CARAWAY OR FENNEL; JUNIPER BERRIES--CRUSHED OR GROUND---CARAWAY OR FENNEL",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1733,11 +1733,11 @@
         },
         {
             "code": "09096240",
-            "description": "",
+            "description": "SEEDS OF ANISE,BADIAN,FENNEL, CORIANDER, CUMIN OR CARAWAY; JUNIPER BERRIES-SEEDS OF ANISE, BADIAN, CARAWAY OR FENNEL; JUNIPER BERRIES--CRUSHED OR GROUND---JUNIPER BERRIES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1745,11 +1745,11 @@
         },
         {
             "code": "0910",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC(CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES-GINGER--NEITHER CRUSHED NOR GROUND---FRESH",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1757,11 +1757,11 @@
         },
         {
             "code": "091011",
-            "description": "",
+            "description": "Ginger Neither crushed nor ground",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1769,7 +1769,7 @@
         },
         {
             "code": "09101110",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC(CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES-GINGER--NEITHER CRUSHED NOR GROUND---FRESH",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -1781,11 +1781,11 @@
         },
         {
             "code": "09101120",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC(CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES-GINGER--NEITHER CRUSHED NOR GROUND---DRIED, UNBLEACHED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1793,11 +1793,11 @@
         },
         {
             "code": "09101130",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC(CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES-GINGER--NEITHER CRUSHED NOR GROUND---DRIED, BLEACHED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1805,11 +1805,11 @@
         },
         {
             "code": "09101190",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC(CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES-GINGER--NEITHER CRUSHED NOR GROUND---OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1817,11 +1817,11 @@
         },
         {
             "code": "091012",
-            "description": "",
+            "description": "Crushed or ground",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1829,11 +1829,11 @@
         },
         {
             "code": "09101210",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC(CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES-GINGER--CRUSHED OR GROUND---POWDER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1841,11 +1841,11 @@
         },
         {
             "code": "09101290",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC(CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES-GINGER--CRUSHED OR GROUND---OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1853,11 +1853,11 @@
         },
         {
             "code": "091020",
-            "description": "",
+            "description": "Saffron",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1865,11 +1865,11 @@
         },
         {
             "code": "09102010",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES SAFFRON : SAFFRON STIGMA",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1877,11 +1877,11 @@
         },
         {
             "code": "09102020",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES SAFFRON : SAFFRON STAMEN",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1889,11 +1889,11 @@
         },
         {
             "code": "09102090",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES SAFFRON : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1901,11 +1901,11 @@
         },
         {
             "code": "091030",
-            "description": "",
+            "description": "Turmeric (Curcuma)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1913,7 +1913,7 @@
         },
         {
             "code": "09103010",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES TURMERIC (CURCUMA) : FRESH",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -1925,11 +1925,11 @@
         },
         {
             "code": "09103020",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES TURMERIC (CURCUMA) : DRIED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1937,11 +1937,11 @@
         },
         {
             "code": "09103030",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES TURMERIC (CURCUMA) : POWDER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1949,11 +1949,11 @@
         },
         {
             "code": "09103090",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES TURMERIC (CURCUMA) : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1961,11 +1961,11 @@
         },
         {
             "code": "09109100",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : MIXTURES REFERRED TO IN NOTE 1(B) TO THIS CHAPTER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1973,11 +1973,11 @@
         },
         {
             "code": "091099",
-            "description": "",
+            "description": "Other",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1985,11 +1985,11 @@
         },
         {
             "code": "09109911",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : SEED : CELERY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -1997,11 +1997,11 @@
         },
         {
             "code": "09109912",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : SEED : FENUGREEK",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -2009,11 +2009,11 @@
         },
         {
             "code": "09109913",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : SEED : DILL",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -2021,11 +2021,11 @@
         },
         {
             "code": "09109914",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : SEED : AJWAIN",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -2033,11 +2033,11 @@
         },
         {
             "code": "09109915",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : SEED : CASSIA TOREA",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -2045,11 +2045,11 @@
         },
         {
             "code": "09109919",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : SEED : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -2057,11 +2057,11 @@
         },
         {
             "code": "09109921",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : POWDER : CASSIA",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -2069,11 +2069,11 @@
         },
         {
             "code": "09109923",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : POWDER : CELERY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -2081,11 +2081,11 @@
         },
         {
             "code": "09109924",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : POWDER : FENUGREEK",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -2093,11 +2093,11 @@
         },
         {
             "code": "09109925",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : POWDER : DILL",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -2105,11 +2105,11 @@
         },
         {
             "code": "09109926",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : POWDER : POPPY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -2117,11 +2117,11 @@
         },
         {
             "code": "09109927",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : POWDER : MUSTARD",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -2129,11 +2129,11 @@
         },
         {
             "code": "09109929",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : POWDER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -2141,11 +2141,11 @@
         },
         {
             "code": "09109939",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : HUSK : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -2153,11 +2153,11 @@
         },
         {
             "code": "09109990",
-            "description": "",
+            "description": "GINGER, SAFFRON, TURMERIC (CURCUMA), THYME, BAY LEAVES, CURRY AND OTHER SPICES OTHER SPICES : OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }

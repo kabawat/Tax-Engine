@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "1801",
-            "description": "",
+            "description": "COCOA BEANS, WHOLE OR BROKEN, RAW OR ROASTED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -17,7 +17,7 @@
         },
         {
             "code": "180100",
-            "description": "",
+            "description": "COCOA BEANS, WHOLE OR BROKEN, RAW OR ROASTED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -29,7 +29,7 @@
         },
         {
             "code": "18010000",
-            "description": "",
+            "description": "COCOA BEANS, WHOLE OR BROKEN, RAW OR ROASTED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -41,7 +41,7 @@
         },
         {
             "code": "1802",
-            "description": "",
+            "description": "COCOA SHELLS, HUSKS, SKINS AND OTHER COCOA WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -53,7 +53,7 @@
         },
         {
             "code": "180200",
-            "description": "",
+            "description": "COCOA SHELLS, HUSKS, SKINS AND OTHER COCOA WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -65,7 +65,7 @@
         },
         {
             "code": "18020000",
-            "description": "",
+            "description": "COCOA SHELLS, HUSKS, SKINS AND OTHER COCOA WASTE",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -77,7 +77,7 @@
         },
         {
             "code": "1803",
-            "description": "",
+            "description": "COCOA PASTE, WHETHER OR NOT DEFATTED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -89,7 +89,7 @@
         },
         {
             "code": "180310",
-            "description": "",
+            "description": "COCOA PASTE, WHETHER OR NOT DEFATTED NOT DEFATTED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -101,7 +101,7 @@
         },
         {
             "code": "18031000",
-            "description": "",
+            "description": "COCOA PASTE, WHETHER OR NOT DEFATTED NOT DEFATTED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -113,7 +113,7 @@
         },
         {
             "code": "180320",
-            "description": "",
+            "description": "COCOA PASTE, WHETHER OR NOT DEFATTED WHOLLY OR PARTLY DEFATTED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -125,7 +125,7 @@
         },
         {
             "code": "18032000",
-            "description": "",
+            "description": "COCOA PASTE, WHETHER OR NOT DEFATTED WHOLLY OR PARTLY DEFATTED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -137,240 +137,450 @@
         },
         {
             "code": "1804",
-            "description": "",
+            "description": "COCOA BUTTER, FAT AND OIL",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "180400",
-            "description": "",
+            "description": "COCOA BUTTER, FAT AND OIL",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "18040000",
-            "description": "",
+            "description": "COCOA BUTTER, FAT AND OIL",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "1805",
-            "description": "",
+            "description": "COCOA POWDER, NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "18050000",
-            "description": "",
+            "description": "COCOA POWDER, NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "1806",
-            "description": "",
+            "description": "CHOCOLATE AND OTHER FOOD PREPARATIONS CONTAINING COCOA",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "180610",
-            "description": "",
+            "description": "CHOCOLATE AND OTHER FOOD PREPARATIONS CONTAINING COCOA - COCOA POWDER, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "18061000",
-            "description": "",
+            "description": "CHOCOLATE AND OTHER FOOD PREPARATIONS CONTAINING COCOA - COCOA POWDER, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "180620",
-            "description": "",
+            "description": "CHOCOLATE AND OTHER FOOD PREPARATIONS CONTAINING COCOA - OTHER PREPARATIONS IN BLOCKS, SLABS OR BARS WEIGHING MORE THAN 2 KG OR IN LIQUID, PASTE, POWDER, GRANULAR OR OTHER BULK FORM IN CONTAINERS OR IMMEDIATE PACKINGS, OF A CONTENT EXCEEDING 2 KG",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "18062000",
-            "description": "",
+            "description": "CHOCOLATE AND OTHER FOOD PREPARATIONS CONTAINING COCOA - OTHER PREPARATIONS IN BLOCKS, SLABS OR BARS WEIGHING MORE THAN 2 KG OR IN LIQUID, PASTE, POWDER, GRANULAR OR OTHER BULK FORM IN CONTAINERS OR IMMEDIATE PACKINGS, OF A CONTENT EXCEEDING 2 KG",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "180631",
-            "description": "",
+            "description": "CHOCOLATE AND OTHER FOOD PREPARATIONS CONTAINING COCOA - OTHER, IN BLOCKS, SLABS OR BARS : FILLED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "18063100",
-            "description": "",
+            "description": "CHOCOLATE AND OTHER FOOD PREPARATIONS CONTAINING COCOA - OTHER, IN BLOCKS, SLABS OR BARS : FILLED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "180632",
-            "description": "",
+            "description": "CHOCOLATE AND OTHER FOOD PREPARATIONS CONTAINING COCOA - OTHER, IN BLOCKS, SLABS OR BARS : NOT FILLED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "18063200",
-            "description": "",
+            "description": "CHOCOLATE AND OTHER FOOD PREPARATIONS CONTAINING COCOA - OTHER, IN BLOCKS, SLABS OR BARS : NOT FILLED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "180690",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "18069010",
-            "description": "",
+            "description": "CHOCOLATE AND OTHER FOOD PREPARATIONS CONTAINING COCOA - OTHER : CHOCOLATE AND CHOCOLATE PRODUCTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "18069020",
-            "description": "",
+            "description": "CHOCOLATE AND OTHER FOOD PREPARATIONS CONTAINING COCOA - OTHER : SUGAR CONFECTIONARY CONTAINING COCOA",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "18069030",
-            "description": "",
+            "description": "CHOCOLATE AND OTHER FOOD PREPARATIONS CONTAINING COCOA - OTHER : SPREADS CONTAINING COCOA",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "18069040",
-            "description": "",
+            "description": "CHOCOLATE AND OTHER FOOD PREPARATIONS CONTAINING COCOA - OTHER : PREPARATIONS CONTAINING COCOA FOR MAKING BEVERAGES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "18069090",
-            "description": "",
+            "description": "CHOCOLATE AND OTHER FOOD PREPARATIONS CONTAINING COCOA - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]

@@ -5,19 +5,25 @@
     "entries": [
         {
             "code": "2001",
-            "description": "",
+            "description": "VEGETABLES, FRUIT, NUTS AND OTHER EDIBLE PARTS OF PLANTS, PREPARED OR PRESERVED BY VINEGAR OR ACETIC ACID",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200110",
-            "description": "",
+            "description": "VEGETABLES, FRUIT, NUTS AND OTHER EDIBLEPARTS OF PLANTS, PREPARED OR PRESERVEDBY VINEGAR OR ACETIC ACID CUCUMBERS AND GHERKINS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -29,19 +35,25 @@
         },
         {
             "code": "20011000",
-            "description": "",
+            "description": "VEGETABLES, FRUIT, NUTS AND OTHER EDIBLEPARTS OF PLANTS, PREPARED OR PRESERVEDBY VINEGAR OR ACETIC ACID CUCUMBERS AND GHERKINS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200190",
-            "description": "",
+            "description": "VEGETABLES, FRUIT, NUTS AND OTHER EDIBLEPARTS OF PLANTS, PREPARED OR PRESERVEDBY VINEGAR OR ACETIC ACID OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -53,31 +65,43 @@
         },
         {
             "code": "20019000",
-            "description": "",
+            "description": "VEGETABLES, FRUIT, NUTS AND OTHER EDIBLEPARTS OF PLANTS, PREPARED OR PRESERVEDBY VINEGAR OR ACETIC ACID OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2002",
-            "description": "",
+            "description": "TOMATOES PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200210",
-            "description": "",
+            "description": "TOMATOES PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID TOMATOES, WHOLE OR IN PIECES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -89,19 +113,25 @@
         },
         {
             "code": "20021000",
-            "description": "",
+            "description": "TOMATOES PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID TOMATOES, WHOLE OR IN PIECES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200290",
-            "description": "",
+            "description": "TOMATOES PREPARED OR PRESERVED OTHERWISETHAN BY VINEGAR OR ACETIC ACID OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -113,91 +143,133 @@
         },
         {
             "code": "20029000",
-            "description": "",
+            "description": "TOMATOES PREPARED OR PRESERVED OTHERWISETHAN BY VINEGAR OR ACETIC ACID OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2003",
-            "description": "",
+            "description": "ACETIC ACID",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20031000",
-            "description": "",
+            "description": "MUSHROOMS AND TRUFFLES, PREPARED ORPRESERVED OTHERWISE THAN BY VINEGAR ORACETIC ACID MUSHROOMS OF THE GENUS AGARICUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200390",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20039010",
-            "description": "",
+            "description": "MUSHROOMS AND TRUFFLES, PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID-OTHER---TRUFFLES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20039090",
-            "description": "",
+            "description": "MUSHROOMS AND TRUFFLES, PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID-OTHER---OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2004",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID, FROZEN, OTHER THAN PRODUCTS OF HEADING 2006",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200410",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 POTATOES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -209,19 +281,25 @@
         },
         {
             "code": "20041000",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 POTATOES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200490",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 OTHER VEGETABLES AND MIXTURES OF VEGETABLES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -233,31 +311,43 @@
         },
         {
             "code": "20049000",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 OTHER VEGETABLES AND MIXTURES OF VEGETABLES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2005",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200510",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 HOMOGENISED VEGETABLES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -269,19 +359,25 @@
         },
         {
             "code": "20051000",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 HOMOGENISED VEGETABLES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200520",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 POTATOES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -293,19 +389,25 @@
         },
         {
             "code": "20052000",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 POTATOES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200540",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 PEAS (PISUM, SATIVUM)",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -317,19 +419,25 @@
         },
         {
             "code": "20054000",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 PEAS (PISUM, SATIVUM)",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200551",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 - BEANS (VIGNA SPP., PHASEOLUS SPP.) : BEANS, SHELLED",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -341,19 +449,25 @@
         },
         {
             "code": "20055100",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 - BEANS (VIGNA SPP., PHASEOLUS SPP.) : BEANS, SHELLED",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200559",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 - BEANS (VIGNA SPP., PHASEOLUS SPP.) : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -365,19 +479,25 @@
         },
         {
             "code": "20055900",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 - BEANS (VIGNA SPP., PHASEOLUS SPP.) : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200560",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 ASPARAGUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -389,19 +509,25 @@
         },
         {
             "code": "20056000",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 ASPARAGUS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200570",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 OLIVES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -413,19 +539,25 @@
         },
         {
             "code": "20057000",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 OLIVES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200580",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 SWEET CORN (ZEA MAYS VAR. SACCHARATA)",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -437,19 +569,25 @@
         },
         {
             "code": "20058000",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 SWEET CORN (ZEA MAYS VAR. SACCHARATA)",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200591",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 -OTHER VEGETABLES AND MIXTURES OF VEGETABLES: -- BAMBOO SHOOTS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -461,19 +599,25 @@
         },
         {
             "code": "20059100",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVEDOTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 -OTHER VEGETABLES AND MIXTURES OF VEGETABLES: -- BAMBOO SHOOTS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200599",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 -OTHER VEGETABLES AND MIXTURES OF VEGETABLES: -- OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -485,55 +629,79 @@
         },
         {
             "code": "20059900",
-            "description": "",
+            "description": "OTHER VEGETABLES PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, OTHER THAN PRODUCTS OF HEADING 2006 -OTHER VEGETABLES AND MIXTURES OF VEGETABLES: -- OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2006",
-            "description": "",
+            "description": "VEGETABLES, FRUITS, NUTS, FRUIT-PEEL AND OTHER PARTS OF PLANTS, PRESERVED BY SUGAR (DRAINED, GLACE OR CRYSTALLISED)",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20060000",
-            "description": "",
+            "description": "VEGETABLES, FRUITS, NUTS, FRUIT-PEEL AND OTHER PARTS OF PLANTS, PRESERVED BY SUGAR (DRAINED, GLACE OR CRYSTALLISED)",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2007",
-            "description": "",
+            "description": "JAMS, FRUIT JELLIES, MARMALADES, FRUIT OR NUT PUREE AND FRUIT OR NUT PASTES, OBTAINED BY COOKING, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200710",
-            "description": "",
+            "description": "JAMS, FRUIT JELLIES, MARMALADES, FRUIT ORNUT PUREE AND FRUIT OR NUT PASTES, OBTAINEDBY COOKING, WHETHER OR NOT CONTAININGADDED SUGAR OR OTHER SWEETENING MATTER HOMOGENISED PREPARATIONS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -545,19 +713,25 @@
         },
         {
             "code": "20071000",
-            "description": "",
+            "description": "JAMS, FRUIT JELLIES, MARMALADES, FRUIT ORNUT PUREE AND FRUIT OR NUT PASTES, OBTAINEDBY COOKING, WHETHER OR NOT CONTAININGADDED SUGAR OR OTHER SWEETENING MATTER HOMOGENISED PREPARATIONS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200791",
-            "description": "",
+            "description": "JAMS, FRUIT JELLIES, MARMALADES, FRUIT ORNUT PUREE AND FRUIT OR NUT PASTES, OBTAINEDBY COOKING, WHETHER OR NOT CONTAININGADDED SUGAR OR OTHER SWEETENING MATTER - OTHER : CITRUS FRUIT",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -569,696 +743,1044 @@
         },
         {
             "code": "20079100",
-            "description": "",
+            "description": "JAMS, FRUIT JELLIES, MARMALADES, FRUIT ORNUT PUREE AND FRUIT OR NUT PASTES, OBTAINEDBY COOKING, WHETHER OR NOT CONTAININGADDED SUGAR OR OTHER SWEETENING MATTER - OTHER : CITRUS FRUIT",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200799",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20079910",
-            "description": "",
+            "description": "JAMS, FRUIT JELLIES, MARMALADES, FRUIT ORNUT PUREE AND FRUIT OR NUT PASTES, OBTAINEDBY COOKING, WHETHER OR NOT CONTAININGADDED SUGAR OR OTHER SWEETENING MATTER - OTHER : OTHER : MANGO",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20079920",
-            "description": "",
+            "description": "JAMS, FRUIT JELLIES, MARMALADES, FRUIT ORNUT PUREE AND FRUIT OR NUT PASTES, OBTAINEDBY COOKING, WHETHER OR NOT CONTAININGADDED SUGAR OR OTHER SWEETENING MATTER - OTHER : OTHER : GUAVA",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20079930",
-            "description": "",
+            "description": "JAMS, FRUIT JELLIES, MARMALADES, FRUIT ORNUT PUREE AND FRUIT OR NUT PASTES, OBTAINEDBY COOKING, WHETHER OR NOT CONTAININGADDED SUGAR OR OTHER SWEETENING MATTER - OTHER : OTHER : PINE APPLE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20079940",
-            "description": "",
+            "description": "JAMS, FRUIT JELLIES, MARMALADES, FRUIT ORNUT PUREE AND FRUIT OR NUT PASTES, OBTAINEDBY COOKING, WHETHER OR NOT CONTAININGADDED SUGAR OR OTHER SWEETENING MATTER - OTHER : OTHER : APPLE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20079990",
-            "description": "",
+            "description": "JAMS, FRUIT JELLIES, MARMALADES, FRUIT ORNUT PUREE AND FRUIT OR NUT PASTES, OBTAINEDBY COOKING, WHETHER OR NOT CONTAININGADDED SUGAR OR OTHER SWEETENING MATTER - OTHER : OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2008",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OF PLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR SPIRIT, NOT ELSEWHERE SPECIFIED OR INCLUDED - NUTS, GROUND-NUTS AND OTHER SEEDS, WHETHER OR NOT MIXED TOGET",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20081100",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - NUTS, GROUND - NUTS AND OTHER SEEDS, WHETHER OR NOT MIXED TOGETHE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200819",
-            "description": "",
+            "description": "OTHER, INCLUDING MIXTURES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20081910",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - NUTS, GROUND - NUTS AND OTHER SEEDS, WHETHER OR NOT MIXED TOGETHE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20081920",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - NUTS, GROUND - NUTS AND OTHER SEEDS, WHETHER OR NOT MIXED TOGETHE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20081930",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - NUTS, GROUND - NUTS AND OTHER SEEDS, WHETHER OR NOT MIXED TOGETHE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20081940",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - NUTS, GROUND - NUTS AND OTHER SEEDS, WHETHER OR NOT MIXED TOGETHE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20081990",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - NUTS, GROUND - NUTS AND OTHER SEEDS, WHETHER OR NOT MIXED TOGETHE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20082000",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED PINEAPPLES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200830",
-            "description": "",
+            "description": "CITRUS FRUIT",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20083010",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - CITRUS FRUIT : ORANGE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20083090",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - CITRUS FRUIT : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20084000",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - PEARS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20085000",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - APRICOTS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20086000",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED -CHERRIES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20087000",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - PEACHES, INCLUDING NECTARINES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20088000",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - STRAWBERRIES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20089100",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - - OTHER, INCLUDING MIXTURES OTHER THAN THOSE OF SUB-HEADING 2008",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20089300",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OF PLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR SPIRIT, NOT ELSEWHERE SPECIFIED OR INCLUDED-OTHER, INCLUDING MIXTURES OTHER THAN THOSE OF SUB-HEADING 2008 1",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20089700",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OF PLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR SPIRIT, NOT ELSEWHERE SPECIFIED OR INCLUDED-OTHER, INCLUDING MIXTURES OTHER THAN THOSE OF SUB-HEADING 2008 1",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200899",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20089911",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - - OTHER, INCLUDING MIXTURES OTHER THAN THOSE OF SUB-HEADING 2008",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20089912",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - - OTHER, INCLUDING MIXTURES OTHER THAN THOSE OF SUB-HEADING 2008",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20089913",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - - OTHER, INCLUDING MIXTURES OTHER THAN THOSE OF SUB-HEADING 2008",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20089914",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - - OTHER, INCLUDING MIXTURES OTHER THAN THOSE OF SUB-HEADING 2008",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20089919",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED -- OTHER, INCLUDING MIXTURES OTHER THAN THOSE OF SUB-HEADIN",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20089991",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - - OTHER, INCLUDING MIXTURES OTHER THAN THOSE OF SUB-HEADING 2008",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20089992",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - - OTHER, INCLUDING MIXTURES OTHER THAN THOSE OF SUB-HEADING 2008",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20089993",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - - OTHER, INCLUDING MIXTURES OTHER THAN THOSE OF SUB-HEADING 2008",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20089994",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED - - OTHER, INCLUDING MIXTURES OTHER THAN THOSE OF SUB-HEADING 2008",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20089999",
-            "description": "",
+            "description": "FRUIT, NUTS AND OTHER EDIBLE PARTS OFPLANTS, OTHERWISE PREPARED OR PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OR SPIRIT, NOTELSEWHERE SPECIFIED OR INCLUDED -- OTHER, INCLUDING MIXTURES OTHER THAN THOSE OF SUB-HEADIN",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2009",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) AND VEGETABLE JUICES, UNFERMENTED AND NOT CONTAINING ADDED SPIRIT, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER - ORANGE JUICE :",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20091100",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) ANDVEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER - ORANGE JUICE : FROZEN",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20091200",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) ANDVEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER - ORANGE JUICE : NOT FROZEN, OF A BRIX VALUE NOT EXCEEDING 20",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20091900",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) ANDVEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER - ORANGE JUICE : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20092100",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) ANDVEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER - GRAPEFRUIT (INCLUDING POMELO)JUICE :-- OF A BRIX VALUE NOT EXCEEDING 20",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20092900",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) ANDVEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER - GRAPEFRUIT (INCLUDING POMELO) JUICE : -- OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20093100",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) ANDVEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER - JUICE OF ANY OTHER SINGLE CITRUS FRUIT : OF A BRIX VALUE NOT EXCEEDING 20",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20093900",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) ANDVEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER - JUICE OF ANY OTHER SINGLE CITRUS FRUIT : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20094100",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) ANDVEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER - PINEAPPLE JUICE : OF A BRIX VALUE NOT EXCEEDING 20",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20094900",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) ANDVEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER - PINEAPPLE JUICE : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20095000",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) ANDVEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER TOMATO JUICE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20096100",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) ANDVEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER - GRAPE JUICE (INCLUDING GRAPE MUST) : OF A BRIX VALUE NOT EXCEEDING 30",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20096900",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) ANDVEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER - GRAPE JUICE (INCLUDING GRAPE MUST) : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20097100",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) ANDVEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER - APPLE JUICE : OF A BRIX VALUE NOT EXCEEDING 20",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20097900",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) ANDVEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER - APPLE JUICE : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20098100",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) AND VEGETABLE JUICES, UNFERMENTED AND NOT CONTAINING ADDED SPIRIT, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER-JUICE OF ANY OTHER SINGLE FRUIT OR VEGETABLE--CRANBERRY (VACCINIUM MACROCARPON,VACCINIU",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "200989",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20098910",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) AND VEGETABLE JUICES, UNFERMENTED AND NOT CONTAINING ADDED SPIRIT, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER-JUICE OF ANY OTHER SINGLE FRUIT OR VEGETABLE--OTHER ---MANGO JUICE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20098990",
-            "description": "",
+            "description": "Tender coconut water put up in unit container and, -\n(a) bearing a registered brand name; or\n(b) bearing a brand name on which an actionable claim or enforceable right in a court of law is available [other than those where any such actionable claim or enforceable right in respect of such brand name has been voluntarily foregone, subject to the conditions as specified in the ANNEXURE]\u201d;",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "20099000",
-            "description": "",
+            "description": "FRUIT JUICES (INCLUDING GRAPE MUST) AND VEGETABLE JUICES, UNFERMENTED AND NOTCONTAINING ADDED SPIRIT, WHETHER OR NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER MIXTURES OF JUICES",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]

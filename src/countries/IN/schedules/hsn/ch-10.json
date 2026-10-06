@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "1001",
-            "description": "",
+            "description": "WHEAT AND MESLIN - DURUM WHEAT :",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -17,11 +17,11 @@
         },
         {
             "code": "10011010",
-            "description": "",
+            "description": "WHEAT AND MESLIN DURUM WHEAT : OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -29,11 +29,11 @@
         },
         {
             "code": "10011090",
-            "description": "",
+            "description": "WHEAT AND MESLIN DURUM WHEAT : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -41,11 +41,11 @@
         },
         {
             "code": "10011100",
-            "description": "",
+            "description": "SEED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -53,11 +53,11 @@
         },
         {
             "code": "10011900",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -65,11 +65,11 @@
         },
         {
             "code": "10019010",
-            "description": "",
+            "description": "WHEAT AND MESLIN OTHER : WHEAT OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -77,11 +77,11 @@
         },
         {
             "code": "10019020",
-            "description": "",
+            "description": "WHEAT AND MESLIN OTHER : OTHER WHEAT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -89,11 +89,11 @@
         },
         {
             "code": "10019031",
-            "description": "",
+            "description": "WHEAT AND MESLIN OTHER : MESLIN : OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -101,11 +101,11 @@
         },
         {
             "code": "10019039",
-            "description": "",
+            "description": "WHEAT AND MESLIN OTHER : MESLIN : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -113,11 +113,11 @@
         },
         {
             "code": "10019100",
-            "description": "",
+            "description": "SEED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -125,11 +125,11 @@
         },
         {
             "code": "100199",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -137,11 +137,11 @@
         },
         {
             "code": "10019910",
-            "description": "",
+            "description": "WHEAT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -149,11 +149,11 @@
         },
         {
             "code": "10019920",
-            "description": "",
+            "description": "MESLIN",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -161,7 +161,7 @@
         },
         {
             "code": "1002",
-            "description": "",
+            "description": "RYE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -173,11 +173,11 @@
         },
         {
             "code": "10020010",
-            "description": "",
+            "description": "RYE RYE : OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -185,11 +185,11 @@
         },
         {
             "code": "10020090",
-            "description": "",
+            "description": "RYE RYE : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -197,11 +197,11 @@
         },
         {
             "code": "10021000",
-            "description": "",
+            "description": "SEED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -209,11 +209,11 @@
         },
         {
             "code": "10029000",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -221,7 +221,7 @@
         },
         {
             "code": "1003",
-            "description": "",
+            "description": "BARLEY",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -233,11 +233,11 @@
         },
         {
             "code": "10030010",
-            "description": "",
+            "description": "BARLEY BARLEY : OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -245,11 +245,11 @@
         },
         {
             "code": "10030090",
-            "description": "",
+            "description": "BARLEY BARLEY : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -257,11 +257,11 @@
         },
         {
             "code": "10031000",
-            "description": "",
+            "description": "SEED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -269,11 +269,11 @@
         },
         {
             "code": "10039000",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -281,7 +281,7 @@
         },
         {
             "code": "1004",
-            "description": "",
+            "description": "OATS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -293,11 +293,11 @@
         },
         {
             "code": "10040010",
-            "description": "",
+            "description": "OATS OATS : OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -305,11 +305,11 @@
         },
         {
             "code": "10040090",
-            "description": "",
+            "description": "OATS OATS : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -317,11 +317,11 @@
         },
         {
             "code": "10041000",
-            "description": "",
+            "description": "SEED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -329,11 +329,11 @@
         },
         {
             "code": "10049000",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -341,7 +341,7 @@
         },
         {
             "code": "1005",
-            "description": "",
+            "description": "MAIZE (CORN)",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -353,11 +353,11 @@
         },
         {
             "code": "10051000",
-            "description": "",
+            "description": "MAIZE (CORN) SEED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -365,11 +365,11 @@
         },
         {
             "code": "10059000",
-            "description": "",
+            "description": "MAIZE (CORN)OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -377,7 +377,7 @@
         },
         {
             "code": "1006",
-            "description": "",
+            "description": "RICE",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -389,11 +389,11 @@
         },
         {
             "code": "100610",
-            "description": "",
+            "description": "RICE IN THE HUSK (PADDY OR ROUGH)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -401,11 +401,11 @@
         },
         {
             "code": "10061010",
-            "description": "",
+            "description": "RICE RICE IN THE HUSK (PADDY OR ROUGH) : OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -413,11 +413,11 @@
         },
         {
             "code": "10061090",
-            "description": "",
+            "description": "RICE RICE IN THE HUSK (PADDY OR ROUGH) : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -425,11 +425,11 @@
         },
         {
             "code": "100620",
-            "description": "",
+            "description": "RICE HUSKED (BROWN) RICE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -437,11 +437,11 @@
         },
         {
             "code": "10062000",
-            "description": "",
+            "description": "RICE HUSKED (BROWN) RICE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -449,11 +449,11 @@
         },
         {
             "code": "100630",
-            "description": "",
+            "description": "SEMI-MILLED OR WHOLLY-MILLED RICE, WHETHER OR NOT POLISHED OR GLAZED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -461,11 +461,11 @@
         },
         {
             "code": "10063010",
-            "description": "",
+            "description": "RICE SEM-MILLED OR WHOLLY-MILLED RICE, WHETHER OR NOT POLISHED OR GLAZED : RICE, PARBOILED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -473,11 +473,11 @@
         },
         {
             "code": "10063020",
-            "description": "",
+            "description": "RICE SEMI-MILLED OR WHOLLY-MILLED RICE, WHETHER OR NOT POLISHED OR GLAZED : BASMATI RICE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -485,11 +485,11 @@
         },
         {
             "code": "10063090",
-            "description": "",
+            "description": "RICE SEMI-MILLED OR WHOLLY-MILLED RICE, WHETHER OR NOT POLISHED OR GLAZED : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -497,11 +497,11 @@
         },
         {
             "code": "100640",
-            "description": "",
+            "description": "RICE BROKEN RICE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -509,11 +509,11 @@
         },
         {
             "code": "10064000",
-            "description": "",
+            "description": "RICE BROKEN RICE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -521,7 +521,7 @@
         },
         {
             "code": "1007",
-            "description": "",
+            "description": "GRAIN SORGHUM",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -533,11 +533,11 @@
         },
         {
             "code": "10070010",
-            "description": "",
+            "description": "GRAIN SORGHUM GRAIN SORGHUM : OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -545,11 +545,11 @@
         },
         {
             "code": "10070090",
-            "description": "",
+            "description": "GRAIN SORGHUM GRAIN SORGHUM : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -557,11 +557,11 @@
         },
         {
             "code": "10071000",
-            "description": "",
+            "description": "SEED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -569,11 +569,11 @@
         },
         {
             "code": "10079000",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -581,7 +581,7 @@
         },
         {
             "code": "1008",
-            "description": "",
+            "description": "BUCKWHEAT, MILLET AND CANARY SEED; OTHER CEREALS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -593,11 +593,11 @@
         },
         {
             "code": "100810",
-            "description": "",
+            "description": "BUCKWHEAT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -605,11 +605,11 @@
         },
         {
             "code": "10081010",
-            "description": "",
+            "description": "BUCKWHEAT, MILLET AND CANARY SEED; OTHER CEREALS BUCKWHEAT : OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -617,11 +617,11 @@
         },
         {
             "code": "10081090",
-            "description": "",
+            "description": "BUCKWHEAT, MILLET AND CANARY SEED; OTHER CEREALS BUCKWHEAT : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -629,11 +629,11 @@
         },
         {
             "code": "10082011",
-            "description": "",
+            "description": "BUCKWHEAT, MILLET AND CANARY SEED; OTHER CEREALS MILLET : JAWAR : OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -641,11 +641,11 @@
         },
         {
             "code": "10082019",
-            "description": "",
+            "description": "BUCKWHEAT, MILLET AND CANARY SEED; OTHER CEREALS MILLET : JAWAR : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -653,11 +653,11 @@
         },
         {
             "code": "10082021",
-            "description": "",
+            "description": "BUCKWHEAT, MILLET AND CANARY SEED; OTHER CEREALS MILLET : BAJRA : OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -665,11 +665,11 @@
         },
         {
             "code": "10082029",
-            "description": "",
+            "description": "BUCKWHEAT, MILLET AND CANARY SEED; OTHER CEREALS MILLET : BAJRA : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -677,11 +677,11 @@
         },
         {
             "code": "10082031",
-            "description": "",
+            "description": "BUCKWHEAT, MILLET AND CANARY SEED; OTHER CEREALS MILLET : RAGI (FINGER MILLET) : OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -689,11 +689,11 @@
         },
         {
             "code": "10082039",
-            "description": "",
+            "description": "BUCKWHEAT, MILLET AND CANARY SEED; OTHER CEREALS MILLET : RAGI (FINGER MILLET) : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -701,11 +701,11 @@
         },
         {
             "code": "100821",
-            "description": "",
+            "description": "MILLET SEED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -713,11 +713,11 @@
         },
         {
             "code": "10082110",
-            "description": "",
+            "description": "JAWAR",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -725,11 +725,11 @@
         },
         {
             "code": "10082120",
-            "description": "",
+            "description": "BAJRA",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -737,11 +737,11 @@
         },
         {
             "code": "10082130",
-            "description": "",
+            "description": "RAGI",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -749,11 +749,11 @@
         },
         {
             "code": "100829",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -761,11 +761,11 @@
         },
         {
             "code": "10082910",
-            "description": "",
+            "description": "JAWAR",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -773,11 +773,11 @@
         },
         {
             "code": "10082920",
-            "description": "",
+            "description": "BAJRA",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -785,11 +785,11 @@
         },
         {
             "code": "10082930",
-            "description": "",
+            "description": "RAGI",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -797,11 +797,11 @@
         },
         {
             "code": "100830",
-            "description": "",
+            "description": "CANARY SEED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -809,11 +809,11 @@
         },
         {
             "code": "10083010",
-            "description": "",
+            "description": "BUCKWHEAT, MILLET AND CANARY SEED; OTHER CEREALS CANARY SEED : OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -821,11 +821,11 @@
         },
         {
             "code": "10083090",
-            "description": "",
+            "description": "BUCKWHEAT, MILLET AND CANARY SEED; OTHER CEREALS CANARY SEED : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -833,11 +833,11 @@
         },
         {
             "code": "10084000",
-            "description": "",
+            "description": "FONIO",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -845,11 +845,11 @@
         },
         {
             "code": "10085000",
-            "description": "",
+            "description": "QUINOA (CHENOPODIUM QUINOA)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -857,11 +857,11 @@
         },
         {
             "code": "10086000",
-            "description": "",
+            "description": "TRITICALE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -869,11 +869,11 @@
         },
         {
             "code": "100890",
-            "description": "",
+            "description": "OTHER CEREALS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -881,11 +881,11 @@
         },
         {
             "code": "10089010",
-            "description": "",
+            "description": "BUCKWHEAT, MILLET AND CANARY SEED; OTHER CEREALS OTHER CEREALS : OF SEED QUALITY",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -893,11 +893,11 @@
         },
         {
             "code": "10089090",
-            "description": "",
+            "description": "BUCKWHEAT, MILLET AND CANARY SEED; OTHER CEREALS OTHER CEREALS : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }

@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "3201",
-            "description": "",
+            "description": "TANNING EXTRACTS OF VEGETABLE ORIGIN; TANNINS AND THEIR SALTS, ETHERS, ESTERS AND OTHER DERIVATIVES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -17,7 +17,7 @@
         },
         {
             "code": "320110",
-            "description": "",
+            "description": "TANNING EXTRACTS OF VEGETABLE ORIGIN; TANNINS AND THEIR SALTS, ETHERS, ESTERS AND OTHER DERIVATIVES QUEBRACHO EXTRACT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -29,7 +29,7 @@
         },
         {
             "code": "32011000",
-            "description": "",
+            "description": "TANNING EXTRACTS OF VEGETABLE ORIGIN; TANNINS AND THEIR SALTS, ETHERS, ESTERS AND OTHER DERIVATIVES QUEBRACHO EXTRACT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -41,7 +41,7 @@
         },
         {
             "code": "320120",
-            "description": "",
+            "description": "TANNING EXTRACTS OF VEGETABLE ORIGIN; TANNINS AND THEIR SALTS, ETHERS, ESTERS AND OTHER DERIVATIVES WATTLE EXTRACT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -53,7 +53,7 @@
         },
         {
             "code": "32012000",
-            "description": "",
+            "description": "TANNING EXTRACTS OF VEGETABLE ORIGIN; TANNINS AND THEIR SALTS, ETHERS, ESTERS AND OTHER DERIVATIVES WATTLE EXTRACT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -65,7 +65,7 @@
         },
         {
             "code": "320190",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -77,7 +77,7 @@
         },
         {
             "code": "32019010",
-            "description": "",
+            "description": "TANNING EXTRACTS OF VEGETABLE ORIGIN; TANNINS AND THEIR SALTS, ETHERS, ESTERS AND OTHER DERIVATIVES - OTHER : GAMBIER EXTRACTS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -89,7 +89,7 @@
         },
         {
             "code": "32019020",
-            "description": "",
+            "description": "TANNING EXTRACTS OF VEGETABLE ORIGIN; TANNINS AND THEIR SALTS, ETHERS, ESTERS AND OTHER DERIVATIVES - OTHER : MYROBALAN FRUIT EXTRACT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -101,7 +101,7 @@
         },
         {
             "code": "32019030",
-            "description": "",
+            "description": "TANNING EXTRACTS OF VEGETABLE ORIGIN; TANNINS AND THEIR SALTS, ETHERS, ESTERS AND OTHER DERIVATIVES - OTHER : GALLOTANNIC ACID (TANNIN, DIGALLIC ACID)",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -113,7 +113,7 @@
         },
         {
             "code": "32019090",
-            "description": "",
+            "description": "TANNING EXTRACTS OF VEGETABLE ORIGIN; TANNINS AND THEIR SALTS, ETHERS, ESTERS AND OTHER DERIVATIVES - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -125,7 +125,7 @@
         },
         {
             "code": "3202",
-            "description": "",
+            "description": "ENZYMATIC PREPARATIONS FOR PRE-TANNIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -137,10 +137,10 @@
         },
         {
             "code": "320210",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC TANNING SUBSTANCES; INORGANIC TANNING SUBSTANCES; TANNING PREPARATIONS, WHETHER OR NOT CONTAINING NATURAL TANNING SUBSTANCES; ENZYMATIC PREPARATIONS FOR PRE - TANNING SYNTHETIC ORGANIC TANNING SUBSTANCES",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -149,10 +149,10 @@
         },
         {
             "code": "32021000",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC TANNING SUBSTANCES; INORGANIC TANNING SUBSTANCES; TANNING PREPARATIONS, WHETHER OR NOT CONTAINING NATURAL TANNING SUBSTANCES; ENZYMATIC PREPARATIONS FOR PRE - TANNING SYNTHETIC ORGANIC TANNING SUBSTANCES",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -161,7 +161,7 @@
         },
         {
             "code": "320290",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -173,7 +173,7 @@
         },
         {
             "code": "32029010",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC TANNING SUBSTANCES; INORGANIC TANNING SUBSTANCES; TANNING PREPARATIONS, WHETHER OR NOT CONTAINING NATURAL TANNING SUBSTANCES; ENZYMATIC PREPARATIONS FOR PRE - TANNING - OTHER : INORGANIC TANNING SUBSTANCES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -185,7 +185,7 @@
         },
         {
             "code": "32029020",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC TANNING SUBSTANCES; INORGANIC TANNING SUBSTANCES; TANNING PREPARATIONS, WHETHER OR NOT CONTAINING NATURAL TANNING SUBSTANCES; ENZYMATIC PREPARATIONS FOR PRE - TANNING - OTHER : TANNING PREPARATIONS, WHETHER OR NOT CONTAINING NATURAL TANN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -197,10 +197,10 @@
         },
         {
             "code": "32029030",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC TANNING SUBSTANCES; INORGANIC TANNING SUBSTANCES; TANNING PREPARATIONS, WHETHER OR NOT CONTAINING NATURAL TANNING SUBSTANCES; ENZYMATIC PREPARATIONS FOR PRE - TANNING - OTHER : ENZYMATIC PREPARATIONS FOR PRE - TANNING",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -209,7 +209,7 @@
         },
         {
             "code": "32029090",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC TANNING SUBSTANCES; INORGANIC TANNING SUBSTANCES; TANNING PREPARATIONS, WHETHER OR NOT CONTAINING NATURAL TANNING SUBSTANCES; ENZYMATIC PREPARATIONS FOR PRE - TANNING - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -221,7 +221,7 @@
         },
         {
             "code": "3203",
-            "description": "",
+            "description": "COLOURING MATTER OF VEGETABLE OR ANIMAL ORIGIN (INCLUDING DYEING EXTRACTS BUT EXCLUDING ANIMAL BLACK), WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON COLOURING MATTER OF VEGETABLE OR ANIMAL ORIGIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -233,7 +233,7 @@
         },
         {
             "code": "32030010",
-            "description": "",
+            "description": "COLOURING MATTER OF VEGETABLE OR ANIMAL ORIGIN (INCLUDING DYEING EXTRACTS BUT EXCLUDING ANIMAL BLACK), WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON COLOURING MATTER OF VEGETABLE OR ANIMAL ORIGIN - COLOURI",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -245,7 +245,7 @@
         },
         {
             "code": "32030020",
-            "description": "",
+            "description": "COLOURING MATTER OF VEGETABLE OR ANIMAL ORIGIN (INCLUDING DYEING EXTRACTS BUT EXCLUDING ANIMAL BLACK), WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON COLOURING MATTER OF VEGETABLE OR ANIMAL ORIGIN - COLOURI",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -257,7 +257,7 @@
         },
         {
             "code": "32030030",
-            "description": "",
+            "description": "COLOURING MATTER OF VEGETABLE OR ANIMAL ORIGIN (INCLUDING DYEING EXTRACTS BUT EXCLUDING ANIMAL BLACK), WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON COLOURING MATTER OF VEGETABLE OR ANIMAL ORIGIN - COLOURI",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -269,7 +269,7 @@
         },
         {
             "code": "32030040",
-            "description": "",
+            "description": "COLOURING MATTER OF VEGETABLE OR ANIMAL ORIGIN (INCLUDING DYEING EXTRACTS BUT EXCLUDING ANIMAL BLACK), WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON COLOURING MATTER OF VEGETABLE OR ANIMAL ORIGIN - COLOURI",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -281,7 +281,7 @@
         },
         {
             "code": "32030090",
-            "description": "",
+            "description": "COLOURING MATTER OF VEGETABLE OR ANIMAL ORIGIN (INCLUDING DYEING EXTRACTS BUT EXCLUDING ANIMAL BLACK), WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON COLOURING MATTER OF VEGETABLE OR ANIMAL ORIGIN - COLOURI",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -293,7 +293,7 @@
         },
         {
             "code": "3204",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -305,7 +305,7 @@
         },
         {
             "code": "320411",
-            "description": "",
+            "description": "DISPERSE DYES AND PREPARATIONS BASED THEREON",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -317,7 +317,7 @@
         },
         {
             "code": "32041111",
-            "description": "",
+            "description": "3204 SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -329,7 +329,7 @@
         },
         {
             "code": "32041119",
-            "description": "",
+            "description": "3204 SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -341,7 +341,7 @@
         },
         {
             "code": "32041121",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -353,7 +353,7 @@
         },
         {
             "code": "32041129",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -365,7 +365,7 @@
         },
         {
             "code": "32041131",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -377,7 +377,7 @@
         },
         {
             "code": "32041132",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -389,7 +389,7 @@
         },
         {
             "code": "32041133",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -401,7 +401,7 @@
         },
         {
             "code": "32041139",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -413,7 +413,7 @@
         },
         {
             "code": "32041141",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -425,7 +425,7 @@
         },
         {
             "code": "32041142",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -437,7 +437,7 @@
         },
         {
             "code": "32041143",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -449,7 +449,7 @@
         },
         {
             "code": "32041149",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -461,7 +461,7 @@
         },
         {
             "code": "32041151",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -473,7 +473,7 @@
         },
         {
             "code": "32041152",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -485,7 +485,7 @@
         },
         {
             "code": "32041153",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -497,7 +497,7 @@
         },
         {
             "code": "32041154",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -509,7 +509,7 @@
         },
         {
             "code": "32041155",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -521,7 +521,7 @@
         },
         {
             "code": "32041156",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -533,7 +533,7 @@
         },
         {
             "code": "32041159",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -545,7 +545,7 @@
         },
         {
             "code": "32041191",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -557,7 +557,7 @@
         },
         {
             "code": "32041192",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -569,7 +569,7 @@
         },
         {
             "code": "32041193",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -581,7 +581,7 @@
         },
         {
             "code": "32041194",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -593,7 +593,7 @@
         },
         {
             "code": "32041195",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -605,7 +605,7 @@
         },
         {
             "code": "32041196",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -617,7 +617,7 @@
         },
         {
             "code": "32041199",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -629,7 +629,7 @@
         },
         {
             "code": "32041211",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -641,7 +641,7 @@
         },
         {
             "code": "32041212",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -653,7 +653,7 @@
         },
         {
             "code": "32041213",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -665,7 +665,7 @@
         },
         {
             "code": "32041214",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -677,7 +677,7 @@
         },
         {
             "code": "32041215",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -689,7 +689,7 @@
         },
         {
             "code": "32041216",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -701,7 +701,7 @@
         },
         {
             "code": "32041217",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -713,7 +713,7 @@
         },
         {
             "code": "32041218",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -725,7 +725,7 @@
         },
         {
             "code": "32041219",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -737,7 +737,7 @@
         },
         {
             "code": "32041221",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -749,7 +749,7 @@
         },
         {
             "code": "32041222",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -761,7 +761,7 @@
         },
         {
             "code": "32041223",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -773,7 +773,7 @@
         },
         {
             "code": "32041224",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -785,7 +785,7 @@
         },
         {
             "code": "32041225",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -797,7 +797,7 @@
         },
         {
             "code": "32041229",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -809,7 +809,7 @@
         },
         {
             "code": "32041231",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -821,7 +821,7 @@
         },
         {
             "code": "32041232",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -833,7 +833,7 @@
         },
         {
             "code": "32041239",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -845,7 +845,7 @@
         },
         {
             "code": "32041241",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -857,7 +857,7 @@
         },
         {
             "code": "32041242",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -869,7 +869,7 @@
         },
         {
             "code": "32041243",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -881,7 +881,7 @@
         },
         {
             "code": "32041244",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -893,7 +893,7 @@
         },
         {
             "code": "32041245",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -905,7 +905,7 @@
         },
         {
             "code": "32041246",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -917,7 +917,7 @@
         },
         {
             "code": "32041247",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -929,7 +929,7 @@
         },
         {
             "code": "32041248",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -941,7 +941,7 @@
         },
         {
             "code": "32041251",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -953,7 +953,7 @@
         },
         {
             "code": "32041252",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -965,7 +965,7 @@
         },
         {
             "code": "32041253",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -977,7 +977,7 @@
         },
         {
             "code": "32041254",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -989,7 +989,7 @@
         },
         {
             "code": "32041255",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1001,7 +1001,7 @@
         },
         {
             "code": "32041259",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1013,7 +1013,7 @@
         },
         {
             "code": "32041261",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1025,7 +1025,7 @@
         },
         {
             "code": "32041262",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1037,7 +1037,7 @@
         },
         {
             "code": "32041263",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1049,7 +1049,7 @@
         },
         {
             "code": "32041264",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1061,7 +1061,7 @@
         },
         {
             "code": "32041265",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1073,7 +1073,7 @@
         },
         {
             "code": "32041266",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1085,7 +1085,7 @@
         },
         {
             "code": "32041267",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1097,7 +1097,7 @@
         },
         {
             "code": "32041268",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1109,7 +1109,7 @@
         },
         {
             "code": "32041269",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1121,7 +1121,7 @@
         },
         {
             "code": "32041291",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1133,7 +1133,7 @@
         },
         {
             "code": "32041292",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1145,7 +1145,7 @@
         },
         {
             "code": "32041293",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1157,7 +1157,7 @@
         },
         {
             "code": "32041294",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1169,7 +1169,7 @@
         },
         {
             "code": "32041295",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1181,7 +1181,7 @@
         },
         {
             "code": "32041299",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1193,7 +1193,7 @@
         },
         {
             "code": "320413",
-            "description": "",
+            "description": "BASIC DYES AND PREPARATIONS BASED THEREON",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1205,7 +1205,7 @@
         },
         {
             "code": "32041310",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1217,7 +1217,7 @@
         },
         {
             "code": "32041321",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1229,7 +1229,7 @@
         },
         {
             "code": "32041329",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMI",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1241,7 +1241,7 @@
         },
         {
             "code": "32041331",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1253,7 +1253,7 @@
         },
         {
             "code": "32041339",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1265,7 +1265,7 @@
         },
         {
             "code": "32041341",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1277,7 +1277,7 @@
         },
         {
             "code": "32041342",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1289,7 +1289,7 @@
         },
         {
             "code": "32041343",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1301,7 +1301,7 @@
         },
         {
             "code": "32041349",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1313,7 +1313,7 @@
         },
         {
             "code": "32041351",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1325,7 +1325,7 @@
         },
         {
             "code": "32041352",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1337,7 +1337,7 @@
         },
         {
             "code": "32041359",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1349,7 +1349,7 @@
         },
         {
             "code": "32041361",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1361,7 +1361,7 @@
         },
         {
             "code": "32041369",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1373,7 +1373,7 @@
         },
         {
             "code": "32041391",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1385,7 +1385,7 @@
         },
         {
             "code": "32041392",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1397,7 +1397,7 @@
         },
         {
             "code": "32041393",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1409,7 +1409,7 @@
         },
         {
             "code": "32041399",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1421,7 +1421,7 @@
         },
         {
             "code": "320414",
-            "description": "",
+            "description": "DIRECT DYES AND PREPARATIONS BASED THEREON",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1433,7 +1433,7 @@
         },
         {
             "code": "32041411",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1445,7 +1445,7 @@
         },
         {
             "code": "32041419",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1457,7 +1457,7 @@
         },
         {
             "code": "32041421",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1469,7 +1469,7 @@
         },
         {
             "code": "32041429",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1481,7 +1481,7 @@
         },
         {
             "code": "32041431",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1493,7 +1493,7 @@
         },
         {
             "code": "32041439",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1505,7 +1505,7 @@
         },
         {
             "code": "32041440",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1517,7 +1517,7 @@
         },
         {
             "code": "32041450",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1529,7 +1529,7 @@
         },
         {
             "code": "32041460",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1541,7 +1541,7 @@
         },
         {
             "code": "32041470",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1553,7 +1553,7 @@
         },
         {
             "code": "32041481",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1565,7 +1565,7 @@
         },
         {
             "code": "32041482",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1577,7 +1577,7 @@
         },
         {
             "code": "32041483",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1589,7 +1589,7 @@
         },
         {
             "code": "32041484",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1601,7 +1601,7 @@
         },
         {
             "code": "32041485",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1613,7 +1613,7 @@
         },
         {
             "code": "32041486",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1625,7 +1625,7 @@
         },
         {
             "code": "32041487",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1637,7 +1637,7 @@
         },
         {
             "code": "32041488",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1649,7 +1649,7 @@
         },
         {
             "code": "32041489",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1661,7 +1661,7 @@
         },
         {
             "code": "32041490",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1673,7 +1673,7 @@
         },
         {
             "code": "32041511",
-            "description": "",
+            "description": "(SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMI",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1685,7 +1685,7 @@
         },
         {
             "code": "32041512",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1697,7 +1697,7 @@
         },
         {
             "code": "32041519",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1709,7 +1709,7 @@
         },
         {
             "code": "32041521",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1721,7 +1721,7 @@
         },
         {
             "code": "32041522",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1733,7 +1733,7 @@
         },
         {
             "code": "32041529",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1745,7 +1745,7 @@
         },
         {
             "code": "32041531",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1757,7 +1757,7 @@
         },
         {
             "code": "32041539",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1769,7 +1769,7 @@
         },
         {
             "code": "32041541",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1781,7 +1781,7 @@
         },
         {
             "code": "32041542",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1793,7 +1793,7 @@
         },
         {
             "code": "32041549",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1805,7 +1805,7 @@
         },
         {
             "code": "32041551",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1817,7 +1817,7 @@
         },
         {
             "code": "32041552",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1829,7 +1829,7 @@
         },
         {
             "code": "32041553",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1841,7 +1841,7 @@
         },
         {
             "code": "32041554",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1853,7 +1853,7 @@
         },
         {
             "code": "32041555",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1865,7 +1865,7 @@
         },
         {
             "code": "32041556",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1877,7 +1877,7 @@
         },
         {
             "code": "32041557",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1889,7 +1889,7 @@
         },
         {
             "code": "32041558",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1901,7 +1901,7 @@
         },
         {
             "code": "32041559",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1913,7 +1913,7 @@
         },
         {
             "code": "32041561",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1925,7 +1925,7 @@
         },
         {
             "code": "32041562",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1937,7 +1937,7 @@
         },
         {
             "code": "32041563",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1949,7 +1949,7 @@
         },
         {
             "code": "32041564",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1961,7 +1961,7 @@
         },
         {
             "code": "32041569",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1973,7 +1973,7 @@
         },
         {
             "code": "32041571",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1985,7 +1985,7 @@
         },
         {
             "code": "32041572",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -1997,7 +1997,7 @@
         },
         {
             "code": "32041573",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2009,7 +2009,7 @@
         },
         {
             "code": "32041579",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2021,7 +2021,7 @@
         },
         {
             "code": "32041581",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2033,7 +2033,7 @@
         },
         {
             "code": "32041582",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2045,7 +2045,7 @@
         },
         {
             "code": "32041583",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2057,7 +2057,7 @@
         },
         {
             "code": "32041584",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2069,7 +2069,7 @@
         },
         {
             "code": "32041589",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2081,7 +2081,7 @@
         },
         {
             "code": "32041591",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2093,7 +2093,7 @@
         },
         {
             "code": "32041592",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2105,7 +2105,7 @@
         },
         {
             "code": "32041593",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2117,7 +2117,7 @@
         },
         {
             "code": "32041594",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2129,7 +2129,7 @@
         },
         {
             "code": "32041595",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2141,7 +2141,7 @@
         },
         {
             "code": "32041596",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2153,7 +2153,7 @@
         },
         {
             "code": "32041597",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2165,7 +2165,7 @@
         },
         {
             "code": "32041599",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2177,7 +2177,7 @@
         },
         {
             "code": "320416",
-            "description": "",
+            "description": "REACTIVE DYES AND PREPARATIONS BASED THEREON",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2189,7 +2189,7 @@
         },
         {
             "code": "32041610",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2201,7 +2201,7 @@
         },
         {
             "code": "32041620",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2213,7 +2213,7 @@
         },
         {
             "code": "32041630",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2225,7 +2225,7 @@
         },
         {
             "code": "32041640",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2237,7 +2237,7 @@
         },
         {
             "code": "32041650",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2249,7 +2249,7 @@
         },
         {
             "code": "32041660",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2261,7 +2261,7 @@
         },
         {
             "code": "32041670",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2273,7 +2273,7 @@
         },
         {
             "code": "32041680",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2285,7 +2285,7 @@
         },
         {
             "code": "32041690",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2297,7 +2297,7 @@
         },
         {
             "code": "320417",
-            "description": "",
+            "description": "PIGMENTS AND PREPARATIONS BASED THEREON",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2309,7 +2309,7 @@
         },
         {
             "code": "32041711",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2321,7 +2321,7 @@
         },
         {
             "code": "32041719",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2333,7 +2333,7 @@
         },
         {
             "code": "32041720",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2345,7 +2345,7 @@
         },
         {
             "code": "32041731",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2357,7 +2357,7 @@
         },
         {
             "code": "32041739",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2369,7 +2369,7 @@
         },
         {
             "code": "32041740",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2381,7 +2381,7 @@
         },
         {
             "code": "32041751",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2393,7 +2393,7 @@
         },
         {
             "code": "32041759",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2405,7 +2405,7 @@
         },
         {
             "code": "32041761",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2417,7 +2417,7 @@
         },
         {
             "code": "32041769",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2429,7 +2429,7 @@
         },
         {
             "code": "32041770",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2441,7 +2441,7 @@
         },
         {
             "code": "32041780",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2453,7 +2453,7 @@
         },
         {
             "code": "32041790",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2465,7 +2465,7 @@
         },
         {
             "code": "32041911",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2477,7 +2477,7 @@
         },
         {
             "code": "32041912",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2489,7 +2489,7 @@
         },
         {
             "code": "32041913",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2501,7 +2501,7 @@
         },
         {
             "code": "32041914",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2513,7 +2513,7 @@
         },
         {
             "code": "32041915",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2525,7 +2525,7 @@
         },
         {
             "code": "32041921",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2537,7 +2537,7 @@
         },
         {
             "code": "32041922",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2549,7 +2549,7 @@
         },
         {
             "code": "32041923",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2561,7 +2561,7 @@
         },
         {
             "code": "32041924",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2573,7 +2573,7 @@
         },
         {
             "code": "32041925",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2585,7 +2585,7 @@
         },
         {
             "code": "32041929",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2597,7 +2597,7 @@
         },
         {
             "code": "32041931",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2609,7 +2609,7 @@
         },
         {
             "code": "32041932",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2621,7 +2621,7 @@
         },
         {
             "code": "32041933",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2633,7 +2633,7 @@
         },
         {
             "code": "32041934",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2645,7 +2645,7 @@
         },
         {
             "code": "32041935",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2657,7 +2657,7 @@
         },
         {
             "code": "32041936",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2669,7 +2669,7 @@
         },
         {
             "code": "32041937",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2681,7 +2681,7 @@
         },
         {
             "code": "32041941",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2693,7 +2693,7 @@
         },
         {
             "code": "32041942",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2705,7 +2705,7 @@
         },
         {
             "code": "32041943",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2717,7 +2717,7 @@
         },
         {
             "code": "32041944",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2729,7 +2729,7 @@
         },
         {
             "code": "32041945",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2741,7 +2741,7 @@
         },
         {
             "code": "32041946",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2753,7 +2753,7 @@
         },
         {
             "code": "32041947",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2765,7 +2765,7 @@
         },
         {
             "code": "32041949",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2777,7 +2777,7 @@
         },
         {
             "code": "32041951",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2789,7 +2789,7 @@
         },
         {
             "code": "32041952",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2801,7 +2801,7 @@
         },
         {
             "code": "32041953",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2813,7 +2813,7 @@
         },
         {
             "code": "32041954",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2825,7 +2825,7 @@
         },
         {
             "code": "32041955",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2837,7 +2837,7 @@
         },
         {
             "code": "32041956",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2849,7 +2849,7 @@
         },
         {
             "code": "32041957",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2861,7 +2861,7 @@
         },
         {
             "code": "32041958",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2873,7 +2873,7 @@
         },
         {
             "code": "32041959",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2885,7 +2885,7 @@
         },
         {
             "code": "32041961",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2897,7 +2897,7 @@
         },
         {
             "code": "32041962",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2909,7 +2909,7 @@
         },
         {
             "code": "32041963",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2921,7 +2921,7 @@
         },
         {
             "code": "32041964",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2933,7 +2933,7 @@
         },
         {
             "code": "32041965",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2945,7 +2945,7 @@
         },
         {
             "code": "32041966",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2957,7 +2957,7 @@
         },
         {
             "code": "32041967",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2969,7 +2969,7 @@
         },
         {
             "code": "32041969",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2981,7 +2981,7 @@
         },
         {
             "code": "32041971",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -2993,7 +2993,7 @@
         },
         {
             "code": "32041972",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3005,7 +3005,7 @@
         },
         {
             "code": "32041973",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3017,7 +3017,7 @@
         },
         {
             "code": "32041974",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3029,7 +3029,7 @@
         },
         {
             "code": "32041975",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3041,7 +3041,7 @@
         },
         {
             "code": "32041976",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3053,7 +3053,7 @@
         },
         {
             "code": "32041977",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3065,7 +3065,7 @@
         },
         {
             "code": "32041978",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3077,7 +3077,7 @@
         },
         {
             "code": "32041979",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3089,7 +3089,7 @@
         },
         {
             "code": "32041981",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3101,7 +3101,7 @@
         },
         {
             "code": "32041982",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3113,7 +3113,7 @@
         },
         {
             "code": "32041983",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3125,7 +3125,7 @@
         },
         {
             "code": "32041984",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3137,7 +3137,7 @@
         },
         {
             "code": "32041985",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3149,7 +3149,7 @@
         },
         {
             "code": "32041986",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3161,7 +3161,7 @@
         },
         {
             "code": "32041987",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3173,7 +3173,7 @@
         },
         {
             "code": "32041988",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3185,7 +3185,7 @@
         },
         {
             "code": "32041989",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3197,7 +3197,7 @@
         },
         {
             "code": "32041990",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3209,7 +3209,7 @@
         },
         {
             "code": "32042010",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3221,7 +3221,7 @@
         },
         {
             "code": "32042090",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3233,7 +3233,7 @@
         },
         {
             "code": "320490",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3245,7 +3245,7 @@
         },
         {
             "code": "32049000",
-            "description": "",
+            "description": "SYNTHETIC ORGANIC COLOURING MATTER, WHETHER OR NOT CHEMICALLY DEFINED; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON SYNTHETIC ORGANIC COLOURING MATTER; SYNTHETIC ORGANIC PRODUCTS OF A KIND USED AS FLUORESCENT BRIGHTENING AGENTS OR AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3257,7 +3257,7 @@
         },
         {
             "code": "3205",
-            "description": "",
+            "description": "COLOUR LAKES; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON COLOUR LAKES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3269,7 +3269,7 @@
         },
         {
             "code": "32050000",
-            "description": "",
+            "description": "COLOUR LAKES; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON COLOUR LAKES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3281,7 +3281,7 @@
         },
         {
             "code": "3206",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADING 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - PIGMENTS AND PREPARATIONS BASED ON TITANIUM",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3293,7 +3293,7 @@
         },
         {
             "code": "32061190",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - PIGMENTS AND PREPARATIONS BASED ON TITANIU",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3305,7 +3305,7 @@
         },
         {
             "code": "320619",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - PIGMENTS AND PREPARATIONS BASED ON TITANIU",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3317,7 +3317,7 @@
         },
         {
             "code": "32061900",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - PIGMENTS AND PREPARATIONS BASED ON TITANIU",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3329,7 +3329,7 @@
         },
         {
             "code": "320620",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED- PIGMENTS AND PREPARATIONS BASED ON CHROMIUM",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3341,7 +3341,7 @@
         },
         {
             "code": "32062000",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED- PIGMENTS AND PREPARATIONS BASED ON CHROMIUM",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3353,7 +3353,7 @@
         },
         {
             "code": "32063000",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - PIGMENTS AND PREPARATIONS BASED ON CADMIUM",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3365,7 +3365,7 @@
         },
         {
             "code": "320641",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - OTHER COLOURING MATTER AND OTHER PREPARATI",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3377,7 +3377,7 @@
         },
         {
             "code": "32064100",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - OTHER COLOURING MATTER AND OTHER PREPARATI",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3389,7 +3389,7 @@
         },
         {
             "code": "32064200",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - OTHER COLOURING MATTER AND OTHER PREPARATI",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3401,7 +3401,7 @@
         },
         {
             "code": "320649",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3413,7 +3413,7 @@
         },
         {
             "code": "32064910",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - OTHER COLOURING MATTER AND OTHER PREPARAT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3425,7 +3425,7 @@
         },
         {
             "code": "32064920",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - OTHER COLOURING MATTER AND OTHER PREPARAT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3437,7 +3437,7 @@
         },
         {
             "code": "32064930",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - OTHER COLOURING MATTER AND OTHER PREPARAT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3449,7 +3449,7 @@
         },
         {
             "code": "32064940",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - OTHER COLOURING MATTER AND OTHER PREPARAT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3461,7 +3461,7 @@
         },
         {
             "code": "32064990",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - OTHER COLOURING MATTER AND OTHER PREPARATI",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3473,7 +3473,7 @@
         },
         {
             "code": "320650",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - INORGANIC PRODUCTS OF A KIND USED AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3485,7 +3485,7 @@
         },
         {
             "code": "32065000",
-            "description": "",
+            "description": "OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF HEADINGS 3203, 3204 OR 3205; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED - INORGANIC PRODUCTS OF A KIND USED AS LUMIN",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3497,7 +3497,7 @@
         },
         {
             "code": "3207",
-            "description": "",
+            "description": "PREPARED PIGMENTS, PREPARED OPACIFIERS AND PREPARED COLOURS, VITRIFIABLE ENAMELS AND GLAZES, ENGOBES (SLIPS), LIQUID LUSTRES AND SIMILAR PREPARATIONS, OF A KIND USED IN THE CERAMIC ENAMELLING OR GLASS INDUSTRY; GLASS FRIT AND OTHER GLASS, IN THE FORM OF P",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3509,7 +3509,7 @@
         },
         {
             "code": "32071010",
-            "description": "",
+            "description": "PREPARED PIGMENTS, PREPARED OPACIFIERS AND PREPARED COLOURS, VITRIFIABLE ENAMELS AND GLAZES, ENGOBES (SLIPS), LIQUID LUSTRES AND SIMILAR PREPARATIONS, OF A KIND USED IN THE CERAMIC ENAMELLING OR GLASS INDUSTRY; GLASS FRIT AND OTHER GLASS, IN THE FORM OF P",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3521,7 +3521,7 @@
         },
         {
             "code": "32071020",
-            "description": "",
+            "description": "PREPARED PIGMENTS, PREPARED OPACIFIERS AND PREPARED COLOURS, VITRIFIABLE ENAMELS AND GLAZES, ENGOBES (SLIPS), LIQUID LUSTRES AND SIMILAR PREPARATIONS, OF A KIND USED IN THE CERAMIC ENAMELLING OR GLASS INDUSTRY; GLASS FRIT AND OTHER GLASS, IN THE FORM OF P",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3533,7 +3533,7 @@
         },
         {
             "code": "32071030",
-            "description": "",
+            "description": "PREPARED PIGMENTS, PREPARED OPACIFIERS AND PREPARED COLOURS, VITRIFIABLE ENAMELS AND GLAZES, ENGOBES (SLIPS), LIQUID LUSTRES AND SIMILAR PREPARATIONS, OF A KIND USED IN THE CERAMIC ENAMELLING OR GLASS INDUSTRY; GLASS FRIT AND OTHER GLASS, IN THE FORM OF P",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3545,7 +3545,7 @@
         },
         {
             "code": "32071040",
-            "description": "",
+            "description": "PREPARED PIGMENTS, PREPARED OPACIFIERS AND PREPARED COLOURS, VITRIFIABLE ENAMELS AND GLAZES, ENGOBES (SLIPS), LIQUID LUSTRES AND SIMILAR PREPARATIONS, OF A KIND USED IN THE CERAMIC ENAMELLING OR GLASS INDUSTRY; GLASS FRIT AND OTHER GLASS, IN THE FORM OF P",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3557,7 +3557,7 @@
         },
         {
             "code": "32071090",
-            "description": "",
+            "description": "PREPARED PIGMENTS, PREPARED OPACIFIERS AND PREPARED COLOURS, VITRIFIABLE ENAMELS AND GLAZES, ENGOBES (SLIPS), LIQUID LUSTRES AND SIMILAR PREPARATIONS, OF A KIND USED IN THE CERAMIC ENAMELLING OR GLASS INDUSTRY; GLASS FRIT AND OTHER GLASS, IN THE FORM OF P",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3569,7 +3569,7 @@
         },
         {
             "code": "32072010",
-            "description": "",
+            "description": "PREPARED PIGMENTS, PREPARED OPACIFIERS AND PREPARED COLOURS, VITRIFIABLE ENAMELS AND GLAZES, ENGOBES (SLIPS), LIQUID LUSTRES AND SIMILAR PREPARATIONS, OF A KIND USED IN THE CERAMIC ENAMELLING OR GLASS INDUSTRY; GLASS FRIT AND OTHER GLASS, IN THE FORM OF P",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3581,7 +3581,7 @@
         },
         {
             "code": "32072020",
-            "description": "",
+            "description": "PREPARED PIGMENTS, PREPARED OPACIFIERS AND PREPARED COLOURS, VITRIFIABLE ENAMELS AND GLAZES, ENGOBES (SLIPS), LIQUID LUSTRES AND SIMILAR PREPARATIONS, OF A KIND USED IN THE CERAMIC ENAMELLING OR GLASS INDUSTRY; GLASS FRIT AND OTHER GLASS, IN THE FORM OF P",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3593,7 +3593,7 @@
         },
         {
             "code": "320730",
-            "description": "",
+            "description": "PREPARED PIGMENTS, PREPARED OPACIFIERS AND PREPARED COLOURS, VITRIFIABLE ENAMELS AND GLAZES, ENGOBES (SLIPS), LIQUID LUSTRES AND SIMILAR PREPARATIONS, OF A KIND USED IN THE CERAMIC ENAMELLING OR GLASS INDUSTRY; GLASS FRIT AND OTHER GLASS, IN THE FORM OF P",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3605,7 +3605,7 @@
         },
         {
             "code": "32073000",
-            "description": "",
+            "description": "PREPARED PIGMENTS, PREPARED OPACIFIERS AND PREPARED COLOURS, VITRIFIABLE ENAMELS AND GLAZES, ENGOBES (SLIPS), LIQUID LUSTRES AND SIMILAR PREPARATIONS, OF A KIND USED IN THE CERAMIC ENAMELLING OR GLASS INDUSTRY; GLASS FRIT AND OTHER GLASS, IN THE FORM OF P",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3617,7 +3617,7 @@
         },
         {
             "code": "320740",
-            "description": "",
+            "description": "PREPARED PIGMENTS, PREPARED OPACIFIERS AND PREPARED COLOURS, VITRIFIABLE ENAMELS AND GLAZES, ENGOBES (SLIPS), LIQUID LUSTRES AND SIMILAR PREPARATIONS, OF A KIND USED IN THE CERAMIC ENAMELLING OR GLASS INDUSTRY; GLASS FRIT AND OTHER GLASS, IN THE FORM OF P",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3629,7 +3629,7 @@
         },
         {
             "code": "32074000",
-            "description": "",
+            "description": "PREPARED PIGMENTS, PREPARED OPACIFIERS AND PREPARED COLOURS, VITRIFIABLE ENAMELS AND GLAZES, ENGOBES (SLIPS), LIQUID LUSTRES AND SIMILAR PREPARATIONS, OF A KIND USED IN THE CERAMIC ENAMELLING OR GLASS INDUSTRY; GLASS FRIT AND OTHER GLASS, IN THE FORM OF P",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3641,475 +3641,709 @@
         },
         {
             "code": "3208",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON-AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "320810",
-            "description": "",
+            "description": "BASED ON POLYESTERS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32081010",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON POLYESTERS : ENAMELS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32081020",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON POLYESTERS : LACQUERS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32081030",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON POLYESTERS : VARNISHES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32081090",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON POLYESTERS : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "320820",
-            "description": "",
+            "description": "BASED ON ACRYLIC OR VINYL POLYMERS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32082010",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON ACRYLIC OR VINYL POLYMER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32082020",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON ACRYLIC OR VINYL POLYMER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32082030",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON ACRYLIC OR VINYL POLYMER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32082090",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON ACRYLIC OR VINYL POLYMER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "320890",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32089011",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : BASED ON CELLULOSE NITRA",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32089019",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : BASED ON CELLULOSE NITRA",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32089021",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : ENAMELS : SYNTHETIC ENAME",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32089022",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : ENAMELS : SYNTHETIC ENAME",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32089029",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : ENAMELS : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32089030",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : LACQUERS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32089041",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : VARNISHES : INSULATING VA",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32089049",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : VARNISHES : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32089050",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : SLIP AGENTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32089090",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "3209",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN AN AQUEOUS MEDIUM",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "320910",
-            "description": "",
+            "description": "BASED ON ACRYLIC OR VINYL POLYMERS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32091010",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN AN AQUEOUS MEDIUM - BASED ON ACRYLIC OR VINYL POLYMERS : ACRYLIC EMULSION",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32091090",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN AN AQUEOUS MEDIUM - BASED ON ACRYLIC OR VINYL POLYMERS : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "320990",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32099010",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN AN AQUEOUS MEDIUM - OTHER : DISPERSION PAINTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32099020",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN AN AQUEOUS MEDIUM - OTHER : EMULSION PAINTS NOT ELSEWHERE SPECIFIED OR INCLUDED",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32099090",
-            "description": "",
+            "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN AN AQUEOUS MEDIUM - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "3210",
-            "description": "",
+            "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "321000",
-            "description": "",
+            "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32100011",
-            "description": "",
+            "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER - OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FIN",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32100012",
-            "description": "",
+            "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER - OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FIN",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32100019",
-            "description": "",
+            "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER - OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FIN",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32100020",
-            "description": "",
+            "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER - OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FIN",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32100030",
-            "description": "",
+            "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER - OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FIN",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32100040",
-            "description": "",
+            "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER - OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FIN",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32100090",
-            "description": "",
+            "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER - OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FIN",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "3211",
-            "description": "",
+            "description": "PREPARED DRIERS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4121,7 +4355,7 @@
         },
         {
             "code": "321100",
-            "description": "",
+            "description": "PREPARED DRIERS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4133,7 +4367,7 @@
         },
         {
             "code": "32110000",
-            "description": "",
+            "description": "PREPARED DRIERS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4145,7 +4379,7 @@
         },
         {
             "code": "3212",
-            "description": "",
+            "description": "PIGMENTS (INCLUDING METALLIC POWDERS AND FLAKES) DISPERSED IN NON-AQUEOUS MEDIA, IN LIQUID OR PASTE FORM, OF A KIND USED IN THE MANUFACTURE OF PAINTS (INCLUDING ENAMELS); STAMPING FOILS; DYES AND OTHER COLOURING MATTER PUT UP IN FORMS OR PACKINGS FOR RETA",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4157,7 +4391,7 @@
         },
         {
             "code": "321210",
-            "description": "",
+            "description": "PIGMENTS (INCLUDING METALLIC POWDERS AND FLAKES) DISPERSED IN NON - AQUEOUS MEDIA, IN LIQUID OR PASTE FORM, OF A KIND USED IN THE MANUFACTURE OF PAINTS (INCLUDING ENAMELS); STAMPING FOILS; DYES AND OTHER COLOURING MATTER PUT UP IN FORMS OR PACKINGS FOR RE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4169,7 +4403,7 @@
         },
         {
             "code": "32121000",
-            "description": "",
+            "description": "PIGMENTS (INCLUDING METALLIC POWDERS AND FLAKES) DISPERSED IN NON - AQUEOUS MEDIA, IN LIQUID OR PASTE FORM, OF A KIND USED IN THE MANUFACTURE OF PAINTS (INCLUDING ENAMELS); STAMPING FOILS; DYES AND OTHER COLOURING MATTER PUT UP IN FORMS OR PACKINGS FOR RE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4181,7 +4415,7 @@
         },
         {
             "code": "321290",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4193,7 +4427,7 @@
         },
         {
             "code": "32129030",
-            "description": "",
+            "description": "PIGMENTS (INCLUDING METALLIC POWDERS AND FLAKES) DISPERSED IN NON - AQUEOUS MEDIA, IN LIQUID OR PASTE FORM, OF A KIND USED IN THE MANUFACTURE OF PAINTS (INCLUDING ENAMELS); STAMPING FOILS; DYES AND OTHER COLOURING MATTER PUT UP IN FORMS OR PACKINGS FOR RE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4205,7 +4439,7 @@
         },
         {
             "code": "32129090",
-            "description": "",
+            "description": "PIGMENTS (INCLUDING METALLIC POWDERS AND FLAKES) DISPERSED IN NON - AQUEOUS MEDIA, IN LIQUID OR PASTE FORM, OF A KIND USED IN THE MANUFACTURE OF PAINTS (INCLUDING ENAMELS); STAMPING FOILS; DYES AND OTHER COLOURING MATTER PUT UP IN FORMS OR PACKINGS FOR RE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4217,139 +4451,205 @@
         },
         {
             "code": "3213",
-            "description": "",
+            "description": "ARTISTS, STUDENTS OR SIGNBOARD PAINTERS COLOURS, MODIFIYING TINTS, AMUSEMENT COLOURS AND THE LIKE, IN TABLETS, TUBES, JARS, BOTTLES, PANS OR IN SIMILAR FORMS OR PACKINGS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "321310",
-            "description": "",
+            "description": "ARTISTS, STUDENTS,OR SIGNBOARD PAINTER,COLOURS, MODIFIYING TINTS, AMUSEMENT COLOURS AND THE LIKE, IN TABLETS, TUBES, JARS, BOTTLES, PANS OR IN SIMILAR FORMS OR PACKINGS - COLOURS IN SETS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32131000",
-            "description": "",
+            "description": "ARTISTS, STUDENTS,OR SIGNBOARD PAINTER,COLOURS, MODIFIYING TINTS, AMUSEMENT COLOURS AND THE LIKE, IN TABLETS, TUBES, JARS, BOTTLES, PANS OR IN SIMILAR FORMS OR PACKINGS - COLOURS IN SETS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "321390",
-            "description": "",
+            "description": "ARTISTS, STUDENTS OR SIGNBOARD PAINTERS COLOURS, MODIFIYING TINTS, AMUSEMENT COLOURS AND THE LIKE, IN TABLETS, TUBES, JARS, BOTTLES, PANS OR IN SIMILAR FORMS OR PACKINGS -OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32139000",
-            "description": "",
+            "description": "ARTISTS, STUDENTS OR SIGNBOARD PAINTERS COLOURS, MODIFIYING TINTS, AMUSEMENT COLOURS AND THE LIKE, IN TABLETS, TUBES, JARS, BOTTLES, PANS OR IN SIMILAR FORMS OR PACKINGS -OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "3214",
-            "description": "",
+            "description": "GLAZIERS PUTTY, GRAFTING PUTTY, RESIN CEMENTS, CAULKING COMPOUNDS AND OTHER MASTICS; PAINTERS FILLINGS; NON-REFRACTORY SURFACING PREPARTIONS FOR FACADES, INDOOR WALLS, FLOORS, CEILINGS OR THE LIKE",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32141000",
-            "description": "",
+            "description": "GLAZIERS PUTTY, GRAFTING PUTTY, RESIN CEMENTS, CAULKING COMPOUNDS AND OTHER MASTICS; PAINTERS FILLINGS; NON - REFRACTORY SURFACING PREPARTIONS FOR FACADES, INDOOR WALLS, FLOORS, CEILINGS OR THE LIKE- GLAZIERS PUTTY, GRAFTING PUTTY, RESIN CEMENTS, CAULKING",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "321490",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32149010",
-            "description": "",
+            "description": "GLAZIERS PUTTY, GRAFTING PUTTY, RESIN CEMENTS, CAULKING COMPOUNDS AND OTHER MASTICS; PAINTERS FILLINGS; NON - REFRACTORY SURFACING PREPARTIONS FOR FACADES, INDOOR WALLS, FLOORS, CEILINGS OR THE LIKE - OTHER : NON - REFRACTORY SURFACING PREPARATIONS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32149020",
-            "description": "",
+            "description": "GLAZIERS PUTTY, GRAFTING PUTTY, RESIN CEMENTS, CAULKING COMPOUNDS AND OTHER MASTICS; PAINTERS FILLINGS; NON - REFRACTORY SURFACING PREPARTIONS FOR FACADES, INDOOR WALLS, FLOORS, CEILINGS OR THE LIKE - OTHER : RESIN CEMENT",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "32149090",
-            "description": "",
+            "description": "GLAZIERS PUTTY, GRAFTING PUTTY, RESIN CEMENTS, CAULKING COMPOUNDS AND OTHER MASTICS; PAINTERS FILLINGS; NON - REFRACTORY SURFACING PREPARTIONS FOR FACADES, INDOOR WALLS, FLOORS, CEILINGS OR THE LIKE - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "3215",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - PRINTING INK :",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4361,7 +4661,7 @@
         },
         {
             "code": "321511",
-            "description": "",
+            "description": "BLACK",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4373,7 +4673,7 @@
         },
         {
             "code": "32151110",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - PRINTING INK :- BLACK : LITHOGRAPHIC INK AND JELLY",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4385,7 +4685,7 @@
         },
         {
             "code": "32151120",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - PRINTING INK :- BLACK : NEWSPAPER INK",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4397,7 +4697,7 @@
         },
         {
             "code": "32151130",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - PRINTING INK :- BLACK : ROTARY INK",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4409,7 +4709,7 @@
         },
         {
             "code": "32151140",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - PRINTING INK :- BLACK : SCREEN PRINTING INK",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4421,7 +4721,7 @@
         },
         {
             "code": "32151190",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - PRINTING INK :- BLACK : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4433,7 +4733,7 @@
         },
         {
             "code": "321519",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4445,7 +4745,7 @@
         },
         {
             "code": "32151910",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - PRINTING INK : OTHER : LITHOGRAPHIC INK AND JELLY",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4457,7 +4757,7 @@
         },
         {
             "code": "32151920",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - PRINTING INK : OTHER : NEWSPAPER INK",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4469,7 +4769,7 @@
         },
         {
             "code": "32151930",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - PRINTING INK : OTHER : ROTARY INK",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4481,7 +4781,7 @@
         },
         {
             "code": "32151940",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - PRINTING INK : OTHER : SCREEN PRINTING INK",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4493,7 +4793,7 @@
         },
         {
             "code": "32151990",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - PRINTING INK : OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4505,7 +4805,7 @@
         },
         {
             "code": "321590",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4517,7 +4817,7 @@
         },
         {
             "code": "32159010",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - OTHER : FOUNTAIN PEN INK",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4529,7 +4829,7 @@
         },
         {
             "code": "32159020",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - OTHER : BALL PEN INK",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4541,7 +4841,7 @@
         },
         {
             "code": "32159030",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - OTHER : INDELIBLE INK",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4553,7 +4853,7 @@
         },
         {
             "code": "32159040",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - OTHER : DRAWING INK",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -4565,7 +4865,7 @@
         },
         {
             "code": "32159090",
-            "description": "",
+            "description": "PRINTING INK, WRITING OR DRAWING INK AND OTHER INKS, WHETHER OR NOT CONCENTRATED OR SOLID - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,

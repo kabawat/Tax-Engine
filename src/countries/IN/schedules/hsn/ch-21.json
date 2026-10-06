@@ -5,11 +5,11 @@
     "entries": [
         {
             "code": "2101",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONS WITH A BASIS OF THESE PRODUCTS OR WITH A BASIS OF COFFEE, TEA OR MATE; ROASTED CHICORY AND OTHER ROASTED COFFEE SUBSTITUTES, AND EXTRACTS, ESSENCES AND CONCENTRATES THEREOF - EXT",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -17,94 +17,148 @@
         },
         {
             "code": "210111",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21011110",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONSWITH A BASIS OF THESE PRODUCTS OR WITH ABASIS OF COFFEE, TEA OR MATE; ROASTEDCHICORY AND OTHER ROASTED COFFEESUBSTITUTES, AND EXTRACTS, ESSENCESAND CONCENTRATES THEREOF - EXTRACTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21011120",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONSWITH A BASIS OF THESE PRODUCTS OR WITH ABASIS OF COFFEE, TEA OR MATE; ROASTEDCHICORY AND OTHER ROASTED COFFEESUBSTITUTES, AND EXTRACTS, ESSENCESAND CONCENTRATES THEREOF - EXTRACTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21011130",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONSWITH A BASIS OF THESE PRODUCTS OR WITH ABASIS OF COFFEE, TEA OR MATE; ROASTEDCHICORY AND OTHER ROASTED COFFEESUBSTITUTES, AND EXTRACTS, ESSENCESAND CONCENTRATES THEREOF - EXTRACTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21011190",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONSWITH A BASIS OF THESE PRODUCTS OR WITH ABASIS OF COFFEE, TEA OR MATE; ROASTEDCHICORY AND OTHER ROASTED COFFEESUBSTITUTES, AND EXTRACTS, ESSENCESAND CONCENTRATES THEREOF - EXTRACTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21011200",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONSWITH A BASIS OF THESE PRODUCTS OR WITH ABASIS OF COFFEE, TEA OR MATE; ROASTEDCHICORY AND OTHER ROASTED COFFEESUBSTITUTES, AND EXTRACTS, ESSENCESAND CONCENTRATES THEREOF - EXTRACTS",
             "rateHistory": [
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "210120",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF TEA OR MATE, AND PREPARATIONS WITH A BASIS OF THESE EXTRACTS, ESSENCES OR CONCENTRATES OR WITH A BASIS OF TEA OR MATE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21012010",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONSWITH A BASIS OF THESE PRODUCTS OR WITH ABASIS OF COFFEE, TEA OR MATE; ROASTEDCHICORY AND OTHER ROASTED COFFEESUBSTITUTES, AND EXTRACTS, ESSENCESAND CONCENTRATES THEREOF - EXTRACTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -113,10 +167,10 @@
         },
         {
             "code": "21012020",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONSWITH A BASIS OF THESE PRODUCTS OR WITH ABASIS OF COFFEE, TEA OR MATE; ROASTEDCHICORY AND OTHER ROASTED COFFEESUBSTITUTES, AND EXTRACTS, ESSENCESAND CONCENTRATES THEREOF - EXTRACTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -125,10 +179,10 @@
         },
         {
             "code": "21012030",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONSWITH A BASIS OF THESE PRODUCTS OR WITH ABASIS OF COFFEE, TEA OR MATE; ROASTEDCHICORY AND OTHER ROASTED COFFEESUBSTITUTES, AND EXTRACTS, ESSENCESAND CONCENTRATES THEREOF - EXTRACTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -137,10 +191,10 @@
         },
         {
             "code": "21012090",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONSWITH A BASIS OF THESE PRODUCTS OR WITH ABASIS OF COFFEE, TEA OR MATE; ROASTEDCHICORY AND OTHER ROASTED COFFEESUBSTITUTES, AND EXTRACTS, ESSENCESAND CONCENTRATES THEREOF - EXTRACTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -149,10 +203,10 @@
         },
         {
             "code": "21013010",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONSWITH A BASIS OF THESE PRODUCTS OR WITH ABASIS OF COFFEE, TEA OR MATE; ROASTEDCHICORY AND OTHER ROASTED COFFEESUBSTITUTES, AND EXTRACTS, ESSENCESAND CONCENTRATES THEREOF - ROASTED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -161,10 +215,10 @@
         },
         {
             "code": "21013020",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONSWITH A BASIS OF THESE PRODUCTS OR WITH ABASIS OF COFFEE, TEA OR MATE; ROASTEDCHICORY AND OTHER ROASTED COFFEESUBSTITUTES, AND EXTRACTS, ESSENCESAND CONCENTRATES THEREOF - ROASTED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -173,10 +227,10 @@
         },
         {
             "code": "21013090",
-            "description": "",
+            "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONSWITH A BASIS OF THESE PRODUCTS OR WITH ABASIS OF COFFEE, TEA OR MATE; ROASTEDCHICORY AND OTHER ROASTED COFFEESUBSTITUTES, AND EXTRACTS, ESSENCESAND CONCENTRATES THEREOF - ROASTED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -185,67 +239,97 @@
         },
         {
             "code": "2102",
-            "description": "",
+            "description": "YEASTS (ACTIVE OR INACTIVE); OTHER SINGLE CELL MICRO-ORGANISMS, DEAD (BUT NOT INCLUDING VACCINES OF HEADING 3002); PREPARED BAKING POWDERS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "210210",
-            "description": "",
+            "description": "ACTIVE YEASTS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21021010",
-            "description": "",
+            "description": "YEASTS (ACTIVE OR INACTIVE); OTHER SINGLECELL MICRO - ORGANISMS, DEAD (BUT NOTINCLUDING VACCINES OF HEADING 3002);PREPARED BAKING POWDERS - ACTIVE YEASTS : CULTURE YEAST",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21021020",
-            "description": "",
+            "description": "YEASTS (ACTIVE OR INACTIVE); OTHER SINGLECELL MICRO - ORGANISMS, DEAD (BUT NOTINCLUDING VACCINES OF HEADING 3002);PREPARED BAKING POWDERS - ACTIVE YEASTS : BAKERS YEAST",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21021090",
-            "description": "",
+            "description": "YEASTS (ACTIVE OR INACTIVE); OTHER SINGLECELL MICRO - ORGANISMS, DEAD (BUT NOTINCLUDING VACCINES OF HEADING 3002);PREPARED BAKING POWDERS - ACTIVE YEASTS : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "210220",
-            "description": "",
+            "description": "YEASTS (ACTIVE OR INACTIVE); OTHER SINGLECELL MICRO - ORGANISMS, DEAD (BUT NOTINCLUDING VACCINES OF HEADING 3002);PREPARED BAKING POWDERS - INACTIVE YEASTS, OTHER SINGLE-CELL MICRO-ORGANISMS, DEAD",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -257,19 +341,25 @@
         },
         {
             "code": "21022000",
-            "description": "",
+            "description": "YEASTS (ACTIVE OR INACTIVE); OTHER SINGLECELL MICRO - ORGANISMS, DEAD (BUT NOTINCLUDING VACCINES OF HEADING 3002);PREPARED BAKING POWDERS - INACTIVE YEASTS, OTHER SINGLE-CELL MICRO-ORGANISMS, DEAD",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "210230",
-            "description": "",
+            "description": "YEASTS (ACTIVE OR INACTIVE); OTHER SINGLECELL MICRO - ORGANISMS, DEAD (BUT NOTINCLUDING VACCINES OF HEADING 3002);PREPARED BAKING POWDERS - PREPARED BAKING POWDERS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -281,223 +371,391 @@
         },
         {
             "code": "21023000",
-            "description": "",
+            "description": "YEASTS (ACTIVE OR INACTIVE); OTHER SINGLECELL MICRO - ORGANISMS, DEAD (BUT NOTINCLUDING VACCINES OF HEADING 3002);PREPARED BAKING POWDERS - PREPARED BAKING POWDERS",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2103",
-            "description": "",
+            "description": "SAUCES AND PREPARATIONS THEREFOR, MIXED CONDIMENTS AND MIXED SEASONINGS; MUSTARD FLOUR AND MEAL AND PREPARED MUSTARD",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "210310",
-            "description": "",
+            "description": "SAUCES AND PREPARATIONS THEREFOR, MIXEDCONDIMENTS AND MIXED SEASONINGS;MUSTARD FLOUR AND MEAL AND PREPARED MUSTARD - SOYA SAUCE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21031000",
-            "description": "",
+            "description": "SAUCES AND PREPARATIONS THEREFOR, MIXEDCONDIMENTS AND MIXED SEASONINGS;MUSTARD FLOUR AND MEAL AND PREPARED MUSTARD - SOYA SAUCE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "210320",
-            "description": "",
+            "description": "SAUCES AND PREPARATIONS THEREFOR, MIXEDCONDIMENTS AND MIXED SEASONINGS;MUSTARD FLOUR AND MEAL AND PREPARED MUSTARD - TOMATO KETCHUP AND OTHER TOMATO SAUCES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21032000",
-            "description": "",
+            "description": "SAUCES AND PREPARATIONS THEREFOR, MIXEDCONDIMENTS AND MIXED SEASONINGS;MUSTARD FLOUR AND MEAL AND PREPARED MUSTARD - TOMATO KETCHUP AND OTHER TOMATO SAUCES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "210330",
-            "description": "",
+            "description": "SAUCES AND PREPARATIONS THEREFOR, MIXEDCONDIMENTS AND MIXED SEASONINGS;MUSTARD FLOUR AND MEAL AND PREPARED MUSTARD - MUSTARD FLOUR AND MEAL AND PREPARED MUSTARD",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21033000",
-            "description": "",
+            "description": "SAUCES AND PREPARATIONS THEREFOR, MIXEDCONDIMENTS AND MIXED SEASONINGS;MUSTARD FLOUR AND MEAL AND PREPARED MUSTARD - MUSTARD FLOUR AND MEAL AND PREPARED MUSTARD",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "210390",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21039010",
-            "description": "",
+            "description": "SAUCES AND PREPARATIONS THEREFOR, MIXEDCONDIMENTS AND MIXED SEASONINGS;MUSTARD FLOUR AND MEAL AND PREPARED MUSTARD - OTHER : CURRY PASTE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21039020",
-            "description": "",
+            "description": "SAUCES AND PREPARATIONS THEREFOR, MIXEDCONDIMENTS AND MIXED SEASONINGS;MUSTARD FLOUR AND MEAL AND PREPARED MUSTARD - OTHER : CHILLI SAUCE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21039030",
-            "description": "",
+            "description": "SAUCES AND PREPARATIONS THEREFOR, MIXEDCONDIMENTS AND MIXED SEASONINGS;MUSTARD FLOUR AND MEAL AND PREPARED MUSTARD - OTHER : MAJONNAISE AND SALAD DRESSINGS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21039040",
-            "description": "",
+            "description": "SAUCES AND PREPARATIONS THEREFOR, MIXEDCONDIMENTS AND MIXED SEASONINGS;MUSTARD FLOUR AND MEAL AND PREPARED MUSTARD - OTHER : MIXED, CONDIMENTS AND MIXED SEASONING",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21039090",
-            "description": "",
+            "description": "SAUCES AND PREPARATIONS THEREFOR, MIXEDCONDIMENTS AND MIXED SEASONINGS;MUSTARD FLOUR AND MEAL AND PREPARED MUSTARD - OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2104",
-            "description": "",
+            "description": "SOUPS AND BROTHS AND PREPARATIONS THEREFOR; HOMOGENISED COMPOSITE FOOD PREPARATIONS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "210410",
-            "description": "",
+            "description": "SOUPS AND BROTHS AND PREPARATIONS THEREFOR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21041010",
-            "description": "",
+            "description": "SOUPS AND BROTHS AND PREPARATIONSTHEREFOR; HOMOGENISED COMPOSITE FOOD PREPARATIONS - SOUPS AND BROTHS AND PREPARATIONS THEREFOR : DRIED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21041090",
-            "description": "",
+            "description": "SOUPS AND BROTHS AND PREPARATIONSTHEREFOR; HOMOGENISED COMPOSITE FOOD PREPARATIONS - SOUPS AND BROTHS AND PREPARATIONS THEREFOR : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "210420",
-            "description": "",
+            "description": "SOUPS AND BROTHS AND PREPARATIONSTHEREFOR; HOMOGENISED COMPOSITE FOOD PREPARATIONS HOMOGENISED COMPOSITE FOOD PREPARATIONS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -509,19 +767,25 @@
         },
         {
             "code": "21042000",
-            "description": "",
+            "description": "SOUPS AND BROTHS AND PREPARATIONSTHEREFOR; HOMOGENISED COMPOSITE FOOD PREPARATIONS HOMOGENISED COMPOSITE FOOD PREPARATIONS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "2105",
-            "description": "",
+            "description": "ICECREAM AND OTHER EDIBLE ICE, WHETHER OR NOT CONTAINING COCOA",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -533,7 +797,7 @@
         },
         {
             "code": "210500",
-            "description": "",
+            "description": "ICECREAM AND OTHER EDIBLE ICE, WHETHER OR NOT CONTAINING COCOA",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -545,7 +809,49 @@
         },
         {
             "code": "21050000",
-            "description": "",
+            "description": "ICECREAM AND OTHER EDIBLE ICE, WHETHER OR NOT CONTAINING COCOA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2106",
+            "description": "Khakhra, plain chapatti or roti",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "210610",
+            "description": "PROTEIN CONCENTRATES AND TEXTURED PROTEIN SUBSTANCES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -556,48 +862,30 @@
             ]
         },
         {
-            "code": "2106",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "210610",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
             "code": "21061000",
-            "description": "",
+            "description": "PROTEIN CONCENTRATES AND TEXTURED PROTEIN SUBSTANCES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "210690",
-            "description": "",
+            "description": "OTHER(Sweetmeats)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -605,144 +893,222 @@
         },
         {
             "code": "21069011",
-            "description": "",
+            "description": "FOOD PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER : SOFT DRINK CONCENTRATES : SHARBAT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21069019",
-            "description": "",
+            "description": "FOOD PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER : SOFT DRINK CONCENTRATES : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21069020",
-            "description": "",
+            "description": "FOOD PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER : PAN MASALA",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21069030",
-            "description": "",
+            "description": "FOOD PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER : BETEL NUT PRODUCT KNOWN AS SUPARI",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21069040",
-            "description": "",
+            "description": "FOOD PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER : SUGAR-SYRUPS CONTAINING ADDED FLAVOURING OR COLOURING MATTER, NOT ELSEWHERE SPECIFIED ORINCLUDED; LACTOSE SYRUP; GLUCOSE SYRUP ANDMALTO DEXTRINE SYRUP",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21069050",
-            "description": "",
+            "description": "FOOD PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER : COMPOUND PREPARATIONS FOR MAKING NON-ALCOHOLIC BEVERAGES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21069060",
-            "description": "",
+            "description": "FOOD PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER : FOOD FLAVOURING MATERIAL",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21069070",
-            "description": "",
+            "description": "FOOD PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER : CHURNA FOR PAN",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21069080",
-            "description": "",
+            "description": "FOOD PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER : CUSTARD POWDER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21069091",
-            "description": "",
+            "description": "FOOD PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER : OTHER : DIABETIC FOODS",
             "rateHistory": [
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21069092",
-            "description": "",
+            "description": "FOOD PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER : OTHER : STERILIZED OR PASTEURIZED MILTONE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "21069099",
-            "description": "",
+            "description": "FOOD PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER : OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]

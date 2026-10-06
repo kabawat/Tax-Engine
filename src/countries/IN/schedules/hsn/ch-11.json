@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "1101",
-            "description": "",
+            "description": "WHEAT OR MESLIN FLOUR",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -17,11 +17,11 @@
         },
         {
             "code": "11010000",
-            "description": "",
+            "description": "WHEAT OR MESLIN FLOUR",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -29,7 +29,7 @@
         },
         {
             "code": "1102",
-            "description": "",
+            "description": "CEREAL FLOURS OTHER THAN THAT OF WHEAT OR MESLIN",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -41,11 +41,11 @@
         },
         {
             "code": "11021000",
-            "description": "",
+            "description": "CEREAL FLOURS OTHER THAN THAT OF WHEAT OR MESLIN RYE FLOUR",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -53,11 +53,11 @@
         },
         {
             "code": "11022000",
-            "description": "",
+            "description": "CEREAL FLOURS OTHER THAN THAT OF WHEAT OR MESLIN MAIZE (CORN) FLOUR",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -65,11 +65,11 @@
         },
         {
             "code": "11023000",
-            "description": "",
+            "description": "CEREAL FLOURS OTHER THAN THAT OF WHEAT OR MESLIN RICE FLOUR",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -77,11 +77,11 @@
         },
         {
             "code": "110290",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -89,11 +89,11 @@
         },
         {
             "code": "11029000",
-            "description": "",
+            "description": "CEREAL FLOURS OTHER THAN THAT OF WHEAT OR MESLIN OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -101,11 +101,11 @@
         },
         {
             "code": "11029010",
-            "description": "",
+            "description": "Rye Flour and Rice Flour",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -113,11 +113,11 @@
         },
         {
             "code": "11029090",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -125,7 +125,7 @@
         },
         {
             "code": "1103",
-            "description": "",
+            "description": "CEREAL GROATS, MEAL AND PELLETS - GROATS AND MEAL :",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -137,11 +137,11 @@
         },
         {
             "code": "110311",
-            "description": "",
+            "description": "OF WHEAT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -149,11 +149,11 @@
         },
         {
             "code": "11031110",
-            "description": "",
+            "description": "CEREAL GROATS, MEAL AND PELLETS GROATS AND MEAL : OF WHEAT : GROAT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -161,11 +161,11 @@
         },
         {
             "code": "11031120",
-            "description": "",
+            "description": "CEREAL GROATS, MEAL AND PELLETS GROATS AND MEAL : OF WHEAT : MEAL",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -173,11 +173,11 @@
         },
         {
             "code": "110313",
-            "description": "",
+            "description": "CEREAL GROATS, MEAL AND PELLETS GROATS AND MEAL : OF MAIZE (CORN)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -185,11 +185,11 @@
         },
         {
             "code": "11031300",
-            "description": "",
+            "description": "CEREAL GROATS, MEAL AND PELLETS GROATS AND MEAL : OF MAIZE (CORN)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -197,11 +197,11 @@
         },
         {
             "code": "110319",
-            "description": "",
+            "description": "CEREAL GROATS, MEAL AND PELLETS GROATS AND MEAL : OF OTHER CEREALS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -209,11 +209,11 @@
         },
         {
             "code": "11031900",
-            "description": "",
+            "description": "CEREAL GROATS, MEAL AND PELLETS GROATS AND MEAL : OF OTHER CEREALS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -221,11 +221,11 @@
         },
         {
             "code": "110320",
-            "description": "",
+            "description": "CEREAL GROATS, MEAL AND PELLETS PELLETS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -233,11 +233,11 @@
         },
         {
             "code": "11032000",
-            "description": "",
+            "description": "CEREAL GROATS, MEAL AND PELLETS PELLETS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -245,7 +245,7 @@
         },
         {
             "code": "1104",
-            "description": "",
+            "description": "CEREAL GRAINS OTHERWISE WORKED (FOR EXAMPLE, HULLED, ROLLED, FLAKED, PEARLED, SLICED, OR KIBBLED), EXCEPT RICE OF HEADING 1006; GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND - ROLLED OR FLAKED GRAINS :",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -257,11 +257,11 @@
         },
         {
             "code": "110412",
-            "description": "",
+            "description": "CEREAL GRAINS OTHERWISE WORKED (FOR EXAMPLE, HULLED, ROLLED, FLAKED, PEARLED, SLICED, OR KIBBLED), EXCEPT RICE OF HEADING 1006; GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND ROLLED OR FLAKED GRAINS : OF OATS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -269,11 +269,11 @@
         },
         {
             "code": "11041200",
-            "description": "",
+            "description": "CEREAL GRAINS OTHERWISE WORKED (FOR EXAMPLE, HULLED, ROLLED, FLAKED, PEARLED, SLICED, OR KIBBLED), EXCEPT RICE OF HEADING 1006; GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND ROLLED OR FLAKED GRAINS : OF OATS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -281,11 +281,11 @@
         },
         {
             "code": "110419",
-            "description": "",
+            "description": "CEREAL GRAINS OTHERWISE WORKED (FOR EXAMPLE, HULLED, ROLLED, FLAKED, PEARLED, SLICED, OR KIBBLED), EXCEPT RICE OF HEADING 1006; GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND ROLLED OR FLAKED GRAINS : OF OTHER CEREALS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -293,11 +293,11 @@
         },
         {
             "code": "11041900",
-            "description": "",
+            "description": "CEREAL GRAINS OTHERWISE WORKED (FOR EXAMPLE, HULLED, ROLLED, FLAKED, PEARLED, SLICED, OR KIBBLED), EXCEPT RICE OF HEADING 1006; GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND ROLLED OR FLAKED GRAINS : OF OTHER CEREALS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -305,11 +305,11 @@
         },
         {
             "code": "110422",
-            "description": "",
+            "description": "CEREAL GRAINS OTHERWISE WORKED (FOR EXAMPLE, HULLED, ROLLED, FLAKED, PEARLED, SLICED, OR KIBBLED), EXCEPT RICE OF HEADING 1006; GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND OTHER WORKED GRAINS (FOR EXAMPLE, HULLED, PEARLED, SLICED OR KIBBLED) : OF OA",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -317,11 +317,11 @@
         },
         {
             "code": "11042200",
-            "description": "",
+            "description": "CEREAL GRAINS OTHERWISE WORKED (FOR EXAMPLE, HULLED, ROLLED, FLAKED, PEARLED, SLICED, OR KIBBLED), EXCEPT RICE OF HEADING 1006; GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND OTHER WORKED GRAINS (FOR EXAMPLE, HULLED, PEARLED, SLICED OR KIBBLED) : OF OA",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -329,11 +329,11 @@
         },
         {
             "code": "110423",
-            "description": "",
+            "description": "CEREAL GRAINS OTHERWISE WORKED (FOR EXAMPLE, HULLED, ROLLED, FLAKED, PEARLED, SLICED, OR KIBBLED), EXCEPT RICE OF HEADING 1006; GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND OTHER WORKED GRAINS (FOR EXAMPLE, HULLED, PEARLED, SLICED OR KIBBLED) : OF MAI",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -341,11 +341,11 @@
         },
         {
             "code": "11042300",
-            "description": "",
+            "description": "CEREAL GRAINS OTHERWISE WORKED (FOR EXAMPLE, HULLED, ROLLED, FLAKED, PEARLED, SLICED, OR KIBBLED), EXCEPT RICE OF HEADING 1006; GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND OTHER WORKED GRAINS (FOR EXAMPLE, HULLED, PEARLED, SLICED OR KIBBLED) : OF MAI",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -353,11 +353,11 @@
         },
         {
             "code": "110429",
-            "description": "",
+            "description": "CEREAL GRAINS OTHERWISE WORKED (FOR EXAMPLE, HULLED, ROLLED, FLAKED, PEARLED, SLICED, OR KIBBLED), EXCEPT RICE OF HEADING 1006; GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND OTHER WORKED GRAINS (FOR EXAMPLE, HULLED, PEARLED, SLICED OR KIBBLED) : OF OTH",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -365,11 +365,11 @@
         },
         {
             "code": "11042900",
-            "description": "",
+            "description": "CEREAL GRAINS OTHERWISE WORKED (FOR EXAMPLE, HULLED, ROLLED, FLAKED, PEARLED, SLICED, OR KIBBLED), EXCEPT RICE OF HEADING 1006; GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND OTHER WORKED GRAINS (FOR EXAMPLE, HULLED, PEARLED, SLICED OR KIBBLED) : OF OTH",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -377,11 +377,11 @@
         },
         {
             "code": "110430",
-            "description": "",
+            "description": "CEREAL GRAINS OTHERWISE WORKED (FOR EXAMPLE, HULLED, ROLLED, FLAKED, PEARLED, SLICED, OR KIBBLED), EXCEPT RICE OF HEADING 1006; GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -389,11 +389,11 @@
         },
         {
             "code": "11043000",
-            "description": "",
+            "description": "CEREAL GRAINS OTHERWISE WORKED (FOR EXAMPLE, HULLED, ROLLED, FLAKED, PEARLED, SLICED, OR KIBBLED), EXCEPT RICE OF HEADING 1006; GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND GERM OF CEREALS, WHOLE, ROLLED, FLAKED OR GROUND",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -401,7 +401,7 @@
         },
         {
             "code": "1105",
-            "description": "",
+            "description": "FLOUR, MEAL, POWDER, FLAKES, GRANULES AND PELLETS OF POTATOES",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -413,11 +413,11 @@
         },
         {
             "code": "110510",
-            "description": "",
+            "description": "FLOUR, MEAL, POWDER, FLAKES, GRANULES AND PELLETS OF POTATOES FLOUR, MEAL AND POWDER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -425,11 +425,11 @@
         },
         {
             "code": "11051000",
-            "description": "",
+            "description": "FLOUR, MEAL, POWDER, FLAKES, GRANULES AND PELLETS OF POTATOES FLOUR, MEAL AND POWDER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -437,11 +437,11 @@
         },
         {
             "code": "110520",
-            "description": "",
+            "description": "FLOUR, MEAL, POWDER, FLAKES, GRANULES AND PELLETS OF POTATOES FLAKES, GRANULES AND PELLETS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -449,11 +449,11 @@
         },
         {
             "code": "11052000",
-            "description": "",
+            "description": "FLOUR, MEAL, POWDER, FLAKES, GRANULES AND PELLETS OF POTATOES FLAKES, GRANULES AND PELLETS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -461,7 +461,7 @@
         },
         {
             "code": "1106",
-            "description": "",
+            "description": "FLOUR, MEAL AND POWDER OF THE DRIED LEGUMINOUS VEGETABLES OF HEADING 0713, OF SAGO OR OF ROOTS OR TUBERS OF HEADING 0714 OR OF THE PRODUCTS OF CHAPTER 8",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -473,142 +473,10 @@
         },
         {
             "code": "110610",
-            "description": "",
+            "description": "OF THE DRIED LEGUMINOUS VEGETABLES OF HEADING 0713",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "11061000",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "110620",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "11062010",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "11062020",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "11062090",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "110630",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "11063010",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "11063020",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "11063030",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "11063090",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null
-                }
-            ]
-        },
-        {
-            "code": "1107",
-            "description": "",
-            "rateHistory": [
-                {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
@@ -616,8 +484,146 @@
             ]
         },
         {
+            "code": "11061000",
+            "description": "FLOUR, MEAL AND POWDER OF THE DRIED LEGUMINOUS VEGETABLES OF HEADING 0713, OF SAGO OR OF ROOTS OR TUBERS OF HEADING 0714 OR OF THE PRODUCTS OF CHAPTER 8 OF THE DRIED LEGUMINOUS VEGETABLES OF HEADING 0713",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "110620",
+            "description": "OF SAGO OR OF ROOTS OR TUBERS OF HEADING 0714",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "11062010",
+            "description": "FLOUR, MEAL AND POWDER OF THE DRIED LEGUMINOUS VEGETABLES OF HEADING 0713, OF SAGO OR OF ROOTS OR TUBERS OF HEADING 0714 OR OF THE PRODUCTS OF CHAPTER 8 OF SAGO OR OF ROOTS OR TUBERS OF HEADING 0714 : OF SAGO",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "11062020",
+            "description": "FLOUR, MEAL AND POWDER OF THE DRIED LEGUMINOUS VEGETABLES OF HEADING 0713, OF SAGO OR OF ROOTS OR TUBERS OF HEADING 0714 OR OF THE PRODUCTS OF CHAPTER 8 OF SAGO OR OF ROOTS OR TUBERS OF HEADING 0714 : OF MANIOC (CASSAVA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "11062090",
+            "description": "FLOUR, MEAL AND POWDER OF THE DRIED LEGUMINOUS VEGETABLES OF HEADING 0713, OF SAGO OR OF ROOTS OR TUBERS OF HEADING 0714 OR OF THE PRODUCTS OF CHAPTER 8 OF SAGO OR OF ROOTS OR TUBERS OF HEADING 0714 : OF OTHER ROOTS AND TUBERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "110630",
+            "description": "OF THE PRODUCTS OF CHAPTER 8",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "11063010",
+            "description": "FLOUR, MEAL AND POWDER OF THE DRIED LEGUMINOUS VEGETABLES OF HEADING 0713, OF SAGO OR OF ROOTS OR TUBERS OF HEADING 0714 OR OF THE PRODUCTS OF CHAPTER 8 OF THE PRODUCTS OF CHAPTER 8 : OF TAMARIND",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "11063020",
+            "description": "FLOUR, MEAL AND POWDER OF THE DRIED LEGUMINOUS VEGETABLES OF HEADING 0713, OF SAGO OR OF ROOTS OR TUBERS OF HEADING 0714 OR OF THE PRODUCTS OF CHAPTER 8 OF THE PRODUCTS OF CHAPTER 8 : OF SINGODA",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "11063030",
+            "description": "FLOUR, MEAL AND POWDER OF THE DRIED LEGUMINOUS VEGETABLES OF HEADING 0713, OF SAGO OR OF ROOTS OR TUBERS OF HEADING 0714 OR OF THE PRODUCTS OF CHAPTER 8 OF THE PRODUCTS OF CHAPTER 8 : MANGO FLOUR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "11063090",
+            "description": "FLOUR, MEAL AND POWDER OF THE DRIED LEGUMINOUS VEGETABLES OF HEADING 0713, OF SAGO OR OF ROOTS OR TUBERS OF HEADING 0714 OR OF THE PRODUCTS OF CHAPTER 8 OF THE PRODUCTS OF CHAPTER 8 : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1107",
+            "description": "MALT, WHETHER OR NOT ROASTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
             "code": "110710",
-            "description": "",
+            "description": "MALT, WHETHER OR NOT ROASTED NOT ROASTED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -629,19 +635,25 @@
         },
         {
             "code": "11071000",
-            "description": "",
+            "description": "MALT, WHETHER OR NOT ROASTED NOT ROASTED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "110720",
-            "description": "",
+            "description": "MALT, WHETHER OR NOT ROASTED ROASTED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -653,31 +665,43 @@
         },
         {
             "code": "11072000",
-            "description": "",
+            "description": "MALT, WHETHER OR NOT ROASTED ROASTED",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "1108",
-            "description": "",
+            "description": "STARCHES; INULIN - STARCHES :",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "110811",
-            "description": "",
+            "description": "STARCHES; INULIN STARCHES : WHEAT STARCH",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -689,19 +713,25 @@
         },
         {
             "code": "11081100",
-            "description": "",
+            "description": "STARCHES; INULIN STARCHES : WHEAT STARCH",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "110812",
-            "description": "",
+            "description": "STARCHES; INULIN STARCHES : MAIZE (CORN) STARCH",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -713,19 +743,25 @@
         },
         {
             "code": "11081200",
-            "description": "",
+            "description": "STARCHES; INULIN STARCHES : MAIZE (CORN) STARCH",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "110813",
-            "description": "",
+            "description": "STARCHES; INULIN STARCHES : POTATO STARCH",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -737,19 +773,25 @@
         },
         {
             "code": "11081300",
-            "description": "",
+            "description": "STARCHES; INULIN STARCHES : POTATO STARCH",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "110814",
-            "description": "",
+            "description": "STARCHES; INULIN STARCHES : MANIOC (CASSAVA) STARCH",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -761,55 +803,79 @@
         },
         {
             "code": "11081400",
-            "description": "",
+            "description": "STARCHES; INULIN STARCHES : MANIOC (CASSAVA) STARCH",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "110819",
-            "description": "",
+            "description": "OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "11081910",
-            "description": "",
+            "description": "STARCHES; INULIN STARCHES : OTHER : SAGO",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "11081990",
-            "description": "",
+            "description": "STARCHES; INULIN STARCHES : OTHER : OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "110820",
-            "description": "",
+            "description": "STARCHES; INULIN INSULIN",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -821,19 +887,25 @@
         },
         {
             "code": "11082000",
-            "description": "",
+            "description": "STARCHES; INULIN INSULIN",
             "rateHistory": [
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "1109",
-            "description": "",
+            "description": "WHEAT GLUTEN, WHETHER OR NOT DRIED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -845,7 +917,7 @@
         },
         {
             "code": "110900",
-            "description": "",
+            "description": "WHEAT GLUTEN, WHETHER OR NOT DRIED",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -857,7 +929,7 @@
         },
         {
             "code": "11090000",
-            "description": "",
+            "description": "WHEAT GLUTEN, WHETHER OR NOT DRIED",
             "rateHistory": [
                 {
                     "ratePercent": 5,

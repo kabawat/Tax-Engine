@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "8801",
-            "description": "",
+            "description": "BALLOONS AND DIRIGIBLES, GLIDERS, HAND GLIDERS AND OTHER NON-POWERED AIRCRAFT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -17,7 +17,7 @@
         },
         {
             "code": "88010010",
-            "description": "",
+            "description": "BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT -BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT:--- GLIDERS AND HANG GLIDERS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -29,7 +29,7 @@
         },
         {
             "code": "88010020",
-            "description": "",
+            "description": "BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT-BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT: --BALLOONS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -41,7 +41,7 @@
         },
         {
             "code": "88010090",
-            "description": "",
+            "description": "BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT-BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT:---OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -53,7 +53,7 @@
         },
         {
             "code": "88011000",
-            "description": "",
+            "description": "BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT GLIDERS AND HANG GLIDERS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -65,7 +65,7 @@
         },
         {
             "code": "88019010",
-            "description": "",
+            "description": "BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT - OTHER: BALLOONS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -77,7 +77,7 @@
         },
         {
             "code": "88019090",
-            "description": "",
+            "description": "BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT - OTHER: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -89,23 +89,29 @@
         },
         {
             "code": "8802",
-            "description": "",
+            "description": "OTHER AIRCRAFT (FOR EXAMPLE, HELICOPTERS, AEROPLANES); SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES - HELICOPTER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
         },
         {
             "code": "880211",
-            "description": "",
+            "description": "OTHER AIRCRAFT (FOR EXAMPLE, HELICOPTERS, AEROPLANES); SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES - HELICOPTERS: OF AN UNLADEN WEIGHT NOT EXCEEDING 2,000 KG",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -113,11 +119,11 @@
         },
         {
             "code": "88021100",
-            "description": "",
+            "description": "OTHER AIRCRAFT (FOR EXAMPLE, HELICOPTERS, AEROPLANES); SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES - HELICOPTERS: OF AN UNLADEN WEIGHT NOT EXCEEDING 2,000 KG",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -125,11 +131,11 @@
         },
         {
             "code": "880212",
-            "description": "",
+            "description": "OTHER AIRCRAFT (FOR EXAMPLE, HELICOPTERS, AEROPLANES); SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES - HELICOPTERS: OF AN UNLADEN WEIGHT EXCEEDING 2,000 KG",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -137,11 +143,11 @@
         },
         {
             "code": "88021200",
-            "description": "",
+            "description": "OTHER AIRCRAFT (FOR EXAMPLE, HELICOPTERS, AEROPLANES); SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES - HELICOPTERS: OF AN UNLADEN WEIGHT EXCEEDING 2,000 KG",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -149,11 +155,11 @@
         },
         {
             "code": "88022000",
-            "description": "",
+            "description": "OTHER AIRCRAFT (FOR EXAMPLE, HELICOPTERS, AEROPLANES); SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES AEROPLANES AND OTHER AIRCRAFT, OF AN UNLADEN WEIGHT NOT EXCEEDING 2,000 KG",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -161,11 +167,11 @@
         },
         {
             "code": "88024000",
-            "description": "",
+            "description": "OTHER AIRCRAFT (FOR EXAMPLE, HELICOPTERS, AEROPLANES); SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES AEROPLANES AND OTHER AIRCRAFT, OF AN UNLADEN WEIGHT EXCEEDING 15,000 KG",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -197,11 +203,11 @@
         },
         {
             "code": "88031000",
-            "description": "",
+            "description": "PARTS OF GOODS OF HEADING 8801 OR 8802 - - PROPELLERS AND ROTORS AND PARTS THEREOF",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -221,11 +227,11 @@
         },
         {
             "code": "88032000",
-            "description": "",
+            "description": "PARTS OF GOODS OF HEADING 8801 OR 8802 - - UNDER-CARRIAGES AND PARTS THEREOF",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -245,11 +251,11 @@
         },
         {
             "code": "88033000",
-            "description": "",
+            "description": "PARTS OF GOODS OF HEADING 8801 OR 8802 - - OTHER PARTS OF AEROPLANES OR HELICOPTERS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -257,11 +263,11 @@
         },
         {
             "code": "880390",
-            "description": "",
+            "description": "PARTS OF GOODS OF HEADING 8801 OR 8802 - OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -269,11 +275,11 @@
         },
         {
             "code": "88039000",
-            "description": "",
+            "description": "PARTS OF GOODS OF HEADING 8801 OR 8802 - OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -281,7 +287,7 @@
         },
         {
             "code": "8804",
-            "description": "",
+            "description": "PARACHUTES (INCLUDING DIRIGIBLE PARACHUTES AND PARAGLIDERS) AND ROTOCHUTES; PARTS THEREOF AND ACCESSORIES THERETO",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -293,7 +299,7 @@
         },
         {
             "code": "88040010",
-            "description": "",
+            "description": "PARACHUTES (INCLUDING DIRIGIBLE PARACHUTES AND PARAGLIDERS) AND ROTOCHUTES; PARTS THEREOF AND ACCESSORIES THERETO - PARACHUTES (INCLUDING DIRIGIBLE PARACHUTES AND PARAGLIDERS) AND ROTOCHUTES; PARTS THEREOF AND ACCESSORIES THERETO: PARACHUTES (INCLUDING DI",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -305,7 +311,7 @@
         },
         {
             "code": "88040020",
-            "description": "",
+            "description": "PARACHUTES (INCLUDING DIRIGIBLE PARACHUTES AND PARAGLIDERS) AND ROTOCHUTES; PARTS THEREOF AND ACCESSORIES THERETO - PARACHUTES (INCLUDING DIRIGIBLE PARACHUTES AND PARAGLIDERS) AND ROTOCHUTES; PARTS THEREOF AND ACCESSORIES THERETO: ROTOCHUTES; PARTS AND AC",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -317,7 +323,7 @@
         },
         {
             "code": "8805",
-            "description": "",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -329,7 +335,7 @@
         },
         {
             "code": "88051010",
-            "description": "",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES - AIRCRAFT LAUNCHING GEAR AND PARTS THEREOF; DECK ARRESTOR OR SIMILAR GEAR AND PARTS THEREOF: AIRCRAFT LAUNCHING GEAR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -341,7 +347,7 @@
         },
         {
             "code": "88051020",
-            "description": "",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES - AIRCRAFT LAUNCHING GEAR AND PARTS THEREOF; DECK ARRESTOR OR SIMILAR GEAR AND PARTS THEREOF: DECK ARRESTOR OR SIMILAR GEAR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -353,7 +359,7 @@
         },
         {
             "code": "88051030",
-            "description": "",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES - AIRCRAFT LAUNCHING GEAR AND PARTS THEREOF; DECK ARRESTOR OR SIMILAR GEAR AND PARTS THEREOF: PART OF AIRCRAFT LAUNCHING GEAR AND DECK-ARRESTOR",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -365,7 +371,7 @@
         },
         {
             "code": "880521",
-            "description": "",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES - GROUND FLYING TRAINERS AND PARTS THEREOF: AIR COMBAT SIMULATORS AND PARTS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -377,7 +383,7 @@
         },
         {
             "code": "88052100",
-            "description": "",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES - GROUND FLYING TRAINERS AND PARTS THEREOF: AIR COMBAT SIMULATORS AND PARTS THEREOF",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -389,7 +395,7 @@
         },
         {
             "code": "880529",
-            "description": "",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES - GROUND FLYING TRAINERS AND PARTS THEREOF: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -401,7 +407,7 @@
         },
         {
             "code": "88052900",
-            "description": "",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES - GROUND FLYING TRAINERS AND PARTS THEREOF: OTHER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
