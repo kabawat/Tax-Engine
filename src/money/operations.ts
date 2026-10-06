@@ -68,9 +68,7 @@ function shouldRoundUp(
   }
 }
 
-/**
- * Scale-safe rounding via decimal digit inspection (avoids binary float * 10^n artifacts).
- */
+// Scale-safe rounding (avoids float * 10^n artifacts)
 export function roundAmount(
   value: number,
   precision: number = DEFAULT_PRECISION,

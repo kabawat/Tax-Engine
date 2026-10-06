@@ -14,7 +14,7 @@ export type StateCodeSource = (typeof StateCodeSource)[keyof typeof StateCodeSou
 export interface IndiaTaxConfig {
   readonly stateCodeSource?: StateCodeSource;
   readonly discountMode?: DiscountMode;
-  /** Custom or full HSN/SAC schedule. Defaults to starter schedule. */
+  // HSN/SAC schedule (defaults to full)
   readonly schedule?: IndiaScheduleIndex | readonly IndiaScheduleEntry[];
 }
 

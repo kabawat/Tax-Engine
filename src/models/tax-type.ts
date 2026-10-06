@@ -1,4 +1,3 @@
-/** Well-known tax types — illustrative, not exhaustive. */
 export const KnownTaxType = {
   GST: 'GST',
   VAT: 'VAT',
@@ -12,8 +11,4 @@ export const KnownTaxType = {
 
 export type KnownTaxType = (typeof KnownTaxType)[keyof typeof KnownTaxType];
 
-/**
- * Extensible tax type identifier.
- * Consumers may supply any string beyond the known set.
- */
 export type TaxType = KnownTaxType | (string & {});

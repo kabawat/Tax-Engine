@@ -35,7 +35,7 @@ export function validateDiscountInput(discount: DiscountInput): void {
   }
 }
 
-/** Compute monetary discount against `base` (pre-tax base or post-tax gross). */
+// Discount amount against base
 export function computeDiscountAmount(
   base: number,
   discount: DiscountInput,

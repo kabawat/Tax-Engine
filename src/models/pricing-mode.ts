@@ -1,4 +1,3 @@
-/** Whether the supplied amount includes or excludes tax. */
 export const PricingMode = {
   INCLUSIVE: 'INCLUSIVE',
   EXCLUSIVE: 'EXCLUSIVE',

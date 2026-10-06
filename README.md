@@ -143,36 +143,31 @@ Unregistered party (no GSTIN):
 seller: { state: 'KA' } // no GSTIN → not registered → no forward GST
 ```
 
-### Starter HSN / SAC
+### India HSN / SAC schedule
 
-By default India uses a small built-in starter set:
+`new Tax('IN')` defaults to the full India schedule (single source of truth).
+Lookups are chapter-sharded and lazy: only the HSN/SAC shards needed for a code are loaded into memory.
 
-| Code | Kind | Treatment | Rate |
-|------|------|-----------|------|
-| `8471` | HSN | TAXABLE | 18% |
-| `1001` | HSN | NIL_RATED | 0% |
-| `4901` | HSN | EXEMPT | 0% |
-| `2203` | HSN | NON_GST | — |
-| `0401` | HSN | ZERO_RATED | 0% |
-| `998314` | SAC | TAXABLE | 18% |
-| `996511` | SAC | TAXABLE | 5% |
-| `999799` | SAC | TAXABLE + RCM | 18% |
-
-Unknown HSN/SAC → `NO_RULE_FOUND`.
-
-### Full India schedule (opt-in)
-
-For broader HSN/SAC coverage:
+Apps that only need a subset pass codes via `pickIndiaSchedule` — rates, taxability, RCM, and effective dates always come from the full schedule:
 
 ```ts
 import Tax from 'tax-engine';
-import { INDIA_FULL_SCHEDULE_INDEX } from 'tax-engine/in/schedule';
+import {
+  INDIA_FULL_SCHEDULE_INDEX,
+  pickIndiaSchedule,
+} from 'tax-engine/in/schedule';
 
 const tax = new Tax('IN', {
   stateCodeSource: 'GSTIN',
-  schedule: INDIA_FULL_SCHEDULE_INDEX,
+  schedule: pickIndiaSchedule(INDIA_FULL_SCHEDULE_INDEX, {
+    hsn: ['8471', '1001'],
+    sac: ['998314'],
+  }),
 });
 ```
+
+Unknown codes in `pickIndiaSchedule` → `NO_RULE_FOUND` at selection time.
+Unknown HSN/SAC at calculate time → `NO_RULE_FOUND`.
 
 Rates may lag official CBIC notifications — verify before production use.
 

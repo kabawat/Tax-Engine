@@ -18,7 +18,7 @@ export function validateGstinFormat(gstin: string): string {
   return value;
 }
 
-/** Validate GSTIN and return normalized Indian state/UT code from first two digits. */
+// State/UT code from GSTIN prefix
 export function resolveStateCodeFromGSTIN(gstin: string): string {
   const value = validateGstinFormat(gstin);
   const digits = value.slice(0, 2);

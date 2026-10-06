@@ -15,11 +15,11 @@ import { StateCodeSource } from './parties.js';
 import { resolveIndiaParty } from './party-resolution.js';
 import { resolvePlaceOfSupply } from './place-of-supply/index.js';
 import {
-  INDIA_STARTER_SCHEDULE_INDEX,
   resolveScheduleEntry,
   type IndiaScheduleIndex,
   type IndiaScheduleEntry,
 } from './schedules/index.js';
+import { INDIA_FULL_SCHEDULE_INDEX } from './schedules/full.js';
 import { selectIndiaTaxHeads } from './tax-heads.js';
 import { carriesGstHeads } from './taxability.js';
 import { IndiaTaxability } from './types.js';
@@ -140,7 +140,7 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
   constructor(config: IndiaTaxConfig = {}) {
     this.stateCodeSource = config.stateCodeSource ?? StateCodeSource.STATE;
     this.discountMode = config.discountMode;
-    this.schedule = config.schedule ?? INDIA_STARTER_SCHEDULE_INDEX;
+    this.schedule = config.schedule ?? INDIA_FULL_SCHEDULE_INDEX;
   }
 
   calculate(input: IndiaTaxInput): TaxOutcome {

@@ -5,6 +5,9 @@ node_modules/
 dist/
 *.tsbuildinfo
 
+# Generated India schedule shards (rebuilt by npm run generate:schedule)
+src/countries/IN/schedules/generated/
+
 # Packages
 *.tgz
 

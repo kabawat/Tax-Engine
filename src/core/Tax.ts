@@ -25,7 +25,7 @@ export type SupportedCountry = (typeof SupportedCountry)[keyof typeof SupportedC
 export interface TaxConfig {
   readonly stateCodeSource?: StateCodeSource;
   readonly discountMode?: DiscountMode;
-  /** India only: custom/full HSN·SAC schedule index (opt-in full via `tax-engine/in/schedule`). */
+  // India: schedule index (default full; or pickIndiaSchedule subset)
   readonly schedule?: IndiaScheduleIndex | readonly IndiaScheduleEntry[];
 }
 

@@ -1,7 +1,7 @@
 import type { TaxRule } from '../models/tax-rule.js';
 import { jurisdictionSpecificity } from './match.js';
 
-/** Lexicographic compare independent of runtime locale. */
+// Locale-independent string compare
 export function compareRuleIds(left: string, right: string): number {
   if (left === right) {
     return 0;

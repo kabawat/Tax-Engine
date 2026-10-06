@@ -4,7 +4,6 @@ import type { CurrencyCode } from './money.js';
 import type { TaxRate } from './tax-rule.js';
 import type { TaxType } from './tax-type.js';
 
-/** A single applied tax line in the result breakdown. */
 export interface TaxLineItem {
   readonly ruleId: string;
   readonly taxName: string;
@@ -15,7 +14,6 @@ export interface TaxLineItem {
   readonly isCompound: boolean;
 }
 
-/** Complete tax calculation result. */
 export interface TaxResult {
   readonly originalAmount: Money;
   readonly taxableAmount: Money;

@@ -1,4 +1,3 @@
-/** Generic tax exemption claim supplied on tax input. */
 export interface Exemption {
   readonly id: string;
   readonly code?: string;

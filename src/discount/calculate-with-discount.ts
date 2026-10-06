@@ -106,10 +106,7 @@ function applyNoDiscountPath(
   };
 }
 
-/**
- * Shared line calculation with optional discount.
- * AFTER_TAX percentage uses post-tax gross (taxable + tax) as the base.
- */
+// Line calc with optional discount
 export function calculateLineWithDiscount(
   input: LineDiscountCalculationInput,
 ): LineDiscountCalculationResult {

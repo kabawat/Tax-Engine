@@ -1,4 +1,4 @@
-/** UTs that use UTGST (not SGST). DL/PY use SGST. */
+// UTs using UTGST (DL/PY use SGST)
 export const INDIA_UTGST_STATES = new Set<string>([
   'AN',
   'CH',

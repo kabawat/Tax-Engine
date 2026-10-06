@@ -17,12 +17,12 @@ export {
   SupplyKind,
 } from './types.js';
 export {
-  INDIA_STARTER_SCHEDULE,
-  INDIA_STARTER_SCHEDULE_INDEX,
   buildScheduleIndex,
   resolveScheduleEntry,
   scheduleLookupKey,
   hsnLookupCandidates,
+  pickIndiaSchedule,
+  type PickIndiaScheduleCodes,
   type IndiaScheduleEntry,
   type IndiaScheduleIndex,
   type IndiaScheduleRatePeriod,

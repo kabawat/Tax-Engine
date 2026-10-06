@@ -1,5 +1,5 @@
 import type { IndiaTaxability } from '../types.js';
-import { IndiaTaxability as Taxability } from '../types.js';
+import { TaxEngineError, TaxEngineErrorCode } from '../../../errors/TaxEngineError.js';
 
 export interface IndiaScheduleRatePeriod {
   readonly ratePercent: number;
@@ -9,7 +9,7 @@ export interface IndiaScheduleRatePeriod {
   readonly reverseCharge?: boolean;
 }
 
-/** Catalog entry (one code → rate history). */
+// One HSN/SAC code → rate history
 export interface IndiaScheduleEntry {
   readonly code: string;
   readonly kind: 'HSN' | 'SAC';
@@ -17,7 +17,7 @@ export interface IndiaScheduleEntry {
   readonly rateHistory: readonly IndiaScheduleRatePeriod[];
 }
 
-/** Date-resolved schedule row used by the calculation engine. */
+// Schedule row resolved for a calculation date
 export interface ResolvedIndiaScheduleEntry {
   readonly code: string;
   readonly kind: 'HSN' | 'SAC';
@@ -29,8 +29,20 @@ export interface ResolvedIndiaScheduleEntry {
   readonly reverseCharge?: boolean;
 }
 
-/** O(1) lookup index: key = `${kind}:${code}` → catalog entry. */
-export type IndiaScheduleIndex = ReadonlyMap<string, IndiaScheduleEntry>;
+// O(1) index: `${kind}:${code}` → entry (Map or lazy shards)
+export interface IndiaScheduleIndex {
+  readonly size: number;
+  get(key: string): IndiaScheduleEntry | undefined;
+  has(key: string): boolean;
+  forEach(
+    callbackfn: (value: IndiaScheduleEntry, key: string, map: IndiaScheduleIndex) => void,
+    thisArg?: unknown,
+  ): void;
+  entries(): IterableIterator<[string, IndiaScheduleEntry]>;
+  keys(): IterableIterator<string>;
+  values(): IterableIterator<IndiaScheduleEntry>;
+  [Symbol.iterator](): IterableIterator<[string, IndiaScheduleEntry]>;
+}
 
 export function scheduleLookupKey(kind: 'HSN' | 'SAC', code: string): string {
   return `${kind}:${code.trim()}`;
@@ -88,7 +100,7 @@ function pickRatePeriod(
   return undefined;
 }
 
-/** Build Map index from catalog entries (one entry per kind+code). */
+// Build Map index from catalog entries
 export function buildScheduleIndex(
   entries: readonly IndiaScheduleEntry[],
 ): IndiaScheduleIndex {
@@ -102,7 +114,7 @@ export function buildScheduleIndex(
   return map;
 }
 
-/** Candidate codes: exact, then HSN parents (8→6→4 and progressive truncate to 4). */
+// Exact code, then HSN parents (8→6→4…)
 export function hsnLookupCandidates(code: string): readonly string[] {
   const normalized = code.trim();
   const out: string[] = [normalized];
@@ -126,16 +138,12 @@ export function hsnLookupCandidates(code: string): readonly string[] {
   return out;
 }
 
-/**
- * Resolve schedule row by kind+code with O(1) Map lookup.
- * HSN falls back to longer→shorter parent codes when exact code is missing.
- * Picks the rateHistory period effective on calculationDate.
- */
+// Resolve by kind+code; HSN falls back to parent codes
 export function resolveScheduleEntry(
   code: string,
   kind: 'HSN' | 'SAC',
   calculationDate: string,
-  schedule: IndiaScheduleIndex | readonly IndiaScheduleEntry[] = INDIA_STARTER_SCHEDULE,
+  schedule: IndiaScheduleIndex | readonly IndiaScheduleEntry[],
 ): ResolvedIndiaScheduleEntry | undefined {
   const index = Array.isArray(schedule)
     ? buildScheduleIndex(schedule)
@@ -154,41 +162,62 @@ export function resolveScheduleEntry(
   return undefined;
 }
 
-function starterEntry(
-  code: string,
-  kind: 'HSN' | 'SAC',
-  description: string,
-  ratePercent: number,
-  taxability: IndiaTaxability,
-  reverseCharge?: boolean,
-): IndiaScheduleEntry {
-  return {
-    code,
-    kind,
-    description,
-    rateHistory: [
-      {
-        ratePercent,
-        taxability,
-        effectiveFrom: '2017-07-01',
-        effectiveTo: null,
-        ...(reverseCharge !== undefined ? { reverseCharge } : {}),
-      },
-    ],
-  };
+export interface PickIndiaScheduleCodes {
+  readonly hsn?: readonly string[];
+  readonly sac?: readonly string[];
 }
 
-/** Small built-in starter set (default for `new Tax('IN')` — keeps core package light). */
-export const INDIA_STARTER_SCHEDULE: readonly IndiaScheduleEntry[] = [
-  starterEntry('8471', 'HSN', 'Automatic data processing machines', 18, Taxability.TAXABLE),
-  starterEntry('1001', 'HSN', 'Wheat and meslin', 0, Taxability.NIL_RATED),
-  starterEntry('4901', 'HSN', 'Printed books', 0, Taxability.EXEMPT),
-  starterEntry('2203', 'HSN', 'Beer made from malt', 0, Taxability.NON_GST),
-  starterEntry('0401', 'HSN', 'Zero-rated sample', 0, Taxability.ZERO_RATED),
-  starterEntry('998314', 'SAC', 'IT consulting', 18, Taxability.TAXABLE),
-  starterEntry('996511', 'SAC', 'Road transport of goods', 5, Taxability.TAXABLE),
-  starterEntry('999799', 'SAC', 'Sample RCM service', 18, Taxability.TAXABLE, true),
-];
+function findScheduleHsnEntry(
+  schedule: IndiaScheduleIndex,
+  code: string,
+): IndiaScheduleEntry | undefined {
+  for (const candidate of hsnLookupCandidates(code)) {
+    const hit = schedule.get(scheduleLookupKey('HSN', candidate));
+    if (hit !== undefined) {
+      return hit;
+    }
+  }
+  return undefined;
+}
 
-export const INDIA_STARTER_SCHEDULE_INDEX: IndiaScheduleIndex =
-  buildScheduleIndex(INDIA_STARTER_SCHEDULE);
+// Subset full schedule by HSN/SAC codes (no filter → full schedule)
+export function pickIndiaSchedule(
+  fullSchedule: IndiaScheduleIndex,
+  codes: PickIndiaScheduleCodes = {},
+): IndiaScheduleIndex {
+  const { hsn, sac } = codes;
+  if (hsn === undefined && sac === undefined) {
+    return fullSchedule;
+  }
+
+  const out = new Map<string, IndiaScheduleEntry>();
+
+  if (hsn !== undefined) {
+    for (const raw of hsn) {
+      const entry = findScheduleHsnEntry(fullSchedule, raw);
+      if (entry === undefined) {
+        throw new TaxEngineError(`Unknown HSN code: ${raw.trim()}`, {
+          code: TaxEngineErrorCode.NO_RULE_FOUND,
+          details: { kind: 'HSN', code: raw.trim() },
+        });
+      }
+      out.set(scheduleLookupKey('HSN', entry.code), entry);
+    }
+  }
+
+  if (sac !== undefined) {
+    for (const raw of sac) {
+      const code = raw.trim();
+      const entry = fullSchedule.get(scheduleLookupKey('SAC', code));
+      if (entry === undefined) {
+        throw new TaxEngineError(`Unknown SAC code: ${code}`, {
+          code: TaxEngineErrorCode.NO_RULE_FOUND,
+          details: { kind: 'SAC', code },
+        });
+      }
+      out.set(scheduleLookupKey('SAC', entry.code), entry);
+    }
+  }
+
+  return out;
+}

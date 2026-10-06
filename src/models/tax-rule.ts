@@ -4,7 +4,6 @@ import type { Jurisdiction } from './jurisdiction.js';
 import type { TaxCategory } from './tax-category.js';
 import type { TaxType } from './tax-type.js';
 
-/** How a tax rate is expressed (percentage, fixed amount, etc.). */
 export const TaxRateBasis = {
   PERCENTAGE: 'PERCENTAGE',
   FIXED: 'FIXED',
@@ -17,28 +16,22 @@ export interface TaxRate {
   readonly basis: TaxRateBasis | (string & {});
 }
 
-/** Describes whether and how a tax compounds on other taxes. */
 export interface CompoundBehavior {
   readonly isCompound: boolean;
   readonly appliesOn?: string;
 }
 
-/** Configuration for determining the taxable base (data only, no evaluation). */
 export interface TaxableBaseConfig {
   readonly includePreviousTaxes?: boolean;
   readonly adjustments?: Readonly<Record<string, unknown>>;
 }
 
-/** Exemption configuration attached to a rule (data only, no evaluation). */
 export interface RuleExemptionConfig {
   readonly exemptions?: readonly Exemption[];
   readonly exemptCategories?: readonly string[];
 }
 
-/**
- * Generic tax rule domain model.
- * Rules are data — country-specific rules are supplied as configuration.
- */
+// Tax rule as data (country rules supplied as config)
 export interface TaxRule {
   readonly id: string;
   readonly name: string;

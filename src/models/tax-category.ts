@@ -1,5 +1,2 @@
-/**
- * Generic tax category identifier (e.g. "GENERAL", "LUXURY").
- * Country-specific categories are supplied as data, not hard-coded here.
- */
+// Tax category id (e.g. GENERAL, LUXURY)
 export type TaxCategory = string;

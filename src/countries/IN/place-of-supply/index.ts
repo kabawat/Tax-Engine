@@ -32,7 +32,7 @@ function requireState(state: string, field: string): string {
   return normalized;
 }
 
-/** Goods: PoS = buyer state. */
+// Goods PoS = buyer state
 export const goodsRecipientRule: PlaceOfSupplyRule = {
   id: 'goods.recipient-location',
   kind: SupplyKind.GOODS,
@@ -55,7 +55,7 @@ export const goodsRecipientRule: PlaceOfSupplyRule = {
   },
 };
 
-/** Services default: PoS = buyer state. */
+// Services PoS = buyer state
 export const servicesRecipientRule: PlaceOfSupplyRule = {
   id: 'services.recipient-location',
   kind: SupplyKind.SERVICES,
@@ -78,7 +78,7 @@ export const servicesRecipientRule: PlaceOfSupplyRule = {
   },
 };
 
-/** Sample special rule: SAC 996511 → PoS = seller state. */
+// SAC 996511 → PoS = seller state
 export const servicesPerformanceLocationSampleRule: PlaceOfSupplyRule = {
   id: 'services.performance-location.sample-996511',
   kind: SupplyKind.SERVICES,
