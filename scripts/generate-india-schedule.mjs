@@ -170,31 +170,60 @@ function main() {
     shardIds.push(shardId);
   }
 
-  const sacPath = path.join(SOURCE_DIR, 'sac/sac.json');
-  const sacFile = readJson(sacPath);
-  if (sacFile.kind !== 'SAC' || !Array.isArray(sacFile.entries)) {
-    fail('sac.json: expected SAC file with entries[]');
-  }
-  /** @type {unknown[]} */
-  const sacRows = [];
-  for (const entry of sacFile.entries) {
-    sourceRecordCount += 1;
-    const compact = toCompact(entry, 'SAC');
-    const code = /** @type {string} */ (compact[0]);
-    const key = `SAC:${code}`;
-    const existing = byKey.get(key);
-    if (existing) {
-      if (stableStringify(existing.compact) === stableStringify(compact)) {
-        duplicateIdentical += 1;
-        continue;
-      }
-      fail(`Conflicting duplicate SAC ${code}`);
+  const sacDir = path.join(SOURCE_DIR, 'sac');
+  const headingFiles = fs.existsSync(sacDir)
+    ? fs
+        .readdirSync(sacDir)
+        .filter((f) => f.startsWith('hd-') && f.endsWith('.json'))
+        .sort()
+    : [];
+
+  /** @type {string[]} */
+  const sacHeadings = [];
+
+  for (const fileName of headingFiles) {
+    const filePath = path.join(sacDir, fileName);
+    const headingFile = readJson(filePath);
+    if (headingFile.kind !== 'SAC' || !Array.isArray(headingFile.entries)) {
+      fail(`${fileName}: expected SAC heading with entries[]`);
     }
-    byKey.set(key, { shardId: 'sac', compact, source: 'sac.json' });
-    sacRows.push(compact);
+    const headingId = String(headingFile.heading).padStart(4, '0');
+    if (!/^\d{4}$/.test(headingId)) {
+      fail(`${fileName}: invalid heading ${headingFile.heading}`);
+    }
+    const shardId = `sac-${headingId}`;
+    /** @type {unknown[]} */
+    const rows = [];
+
+    for (const entry of headingFile.entries) {
+      sourceRecordCount += 1;
+      const compact = toCompact(entry, 'SAC');
+      const code = /** @type {string} */ (compact[0]);
+      if (!code.startsWith(headingId)) {
+        fail(`${fileName}: SAC ${code} does not belong to heading ${headingId}`);
+      }
+      const key = `SAC:${code}`;
+      const existing = byKey.get(key);
+      if (existing) {
+        if (stableStringify(existing.compact) === stableStringify(compact)) {
+          duplicateIdentical += 1;
+          continue;
+        }
+        fail(
+          `Conflicting duplicate SAC ${code} in ${existing.source} and ${fileName}`,
+        );
+      }
+      byKey.set(key, { shardId, compact, source: fileName });
+      rows.push(compact);
+    }
+
+    if (rows.length === 0) {
+      fail(`${fileName}: no entries after validation`);
+    }
+    writeShard(shardId, 'SAC', rows);
+    shardIds.push(shardId);
+    sacHeadings.push(headingId);
   }
-  writeShard('sac', 'SAC', sacRows);
-  shardIds.push('sac');
 
   const hsnCount = [...byKey.keys()].filter((k) => k.startsWith('HSN:')).length;
   const sacCount = [...byKey.keys()].filter((k) => k.startsWith('SAC:')).length;
@@ -238,6 +267,7 @@ export const INDIA_FULL_SCHEDULE_META = ${JSON.stringify(
       hsnCount,
       sacCount,
       chapters: chapterFiles.map((f) => f.replace(/^ch-|\.json$/g, '')),
+      sacHeadings,
     },
     null,
     2,

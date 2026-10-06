@@ -114,8 +114,8 @@ export function buildScheduleIndex(
   return map;
 }
 
-// Exact code, then HSN parents (8→6→4…)
-export function hsnLookupCandidates(code: string): readonly string[] {
+// Exact code, then parents (8→6→4… / length-1 down to 4) — shared by HSN + SAC
+export function scheduleLookupCandidates(code: string): readonly string[] {
   const normalized = code.trim();
   const out: string[] = [normalized];
   if (!/^\d+$/.test(normalized)) {
@@ -138,7 +138,15 @@ export function hsnLookupCandidates(code: string): readonly string[] {
   return out;
 }
 
-// Resolve by kind+code; HSN falls back to parent codes
+export function hsnLookupCandidates(code: string): readonly string[] {
+  return scheduleLookupCandidates(code);
+}
+
+export function sacLookupCandidates(code: string): readonly string[] {
+  return scheduleLookupCandidates(code);
+}
+
+// Resolve by kind+code; falls back to parent codes (HSN + SAC)
 export function resolveScheduleEntry(
   code: string,
   kind: 'HSN' | 'SAC',
@@ -149,12 +157,8 @@ export function resolveScheduleEntry(
     ? buildScheduleIndex(schedule)
     : (schedule as IndiaScheduleIndex);
 
-  if (kind === 'SAC') {
-    return pickRatePeriod(index.get(scheduleLookupKey('SAC', code)), calculationDate);
-  }
-
-  for (const candidate of hsnLookupCandidates(code)) {
-    const hit = pickRatePeriod(index.get(scheduleLookupKey('HSN', candidate)), calculationDate);
+  for (const candidate of scheduleLookupCandidates(code)) {
+    const hit = pickRatePeriod(index.get(scheduleLookupKey(kind, candidate)), calculationDate);
     if (hit !== undefined) {
       return hit;
     }
@@ -167,12 +171,13 @@ export interface PickIndiaScheduleCodes {
   readonly sac?: readonly string[];
 }
 
-function findScheduleHsnEntry(
+function findScheduleEntry(
   schedule: IndiaScheduleIndex,
+  kind: 'HSN' | 'SAC',
   code: string,
 ): IndiaScheduleEntry | undefined {
-  for (const candidate of hsnLookupCandidates(code)) {
-    const hit = schedule.get(scheduleLookupKey('HSN', candidate));
+  for (const candidate of scheduleLookupCandidates(code)) {
+    const hit = schedule.get(scheduleLookupKey(kind, candidate));
     if (hit !== undefined) {
       return hit;
     }
@@ -194,7 +199,7 @@ export function pickIndiaSchedule(
 
   if (hsn !== undefined) {
     for (const raw of hsn) {
-      const entry = findScheduleHsnEntry(fullSchedule, raw);
+      const entry = findScheduleEntry(fullSchedule, 'HSN', raw);
       if (entry === undefined) {
         throw new TaxEngineError(`Unknown HSN code: ${raw.trim()}`, {
           code: TaxEngineErrorCode.NO_RULE_FOUND,
@@ -207,12 +212,11 @@ export function pickIndiaSchedule(
 
   if (sac !== undefined) {
     for (const raw of sac) {
-      const code = raw.trim();
-      const entry = fullSchedule.get(scheduleLookupKey('SAC', code));
+      const entry = findScheduleEntry(fullSchedule, 'SAC', raw);
       if (entry === undefined) {
-        throw new TaxEngineError(`Unknown SAC code: ${code}`, {
+        throw new TaxEngineError(`Unknown SAC code: ${raw.trim()}`, {
           code: TaxEngineErrorCode.NO_RULE_FOUND,
-          details: { kind: 'SAC', code },
+          details: { kind: 'SAC', code: raw.trim() },
         });
       }
       out.set(scheduleLookupKey('SAC', entry.code), entry);

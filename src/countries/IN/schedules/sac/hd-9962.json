@@ -1,0 +1,19 @@
+{
+    "heading": "9962",
+    "kind": "SAC",
+    "count": 1,
+    "entries": [
+        {
+            "code": "996211",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

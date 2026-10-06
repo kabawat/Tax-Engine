@@ -13,6 +13,8 @@ export {
   resolveScheduleEntry,
   scheduleLookupKey,
   hsnLookupCandidates,
+  sacLookupCandidates,
+  scheduleLookupCandidates,
   pickIndiaSchedule,
   type PickIndiaScheduleCodes,
   type IndiaScheduleEntry,

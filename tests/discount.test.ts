@@ -20,14 +20,14 @@ function baseInput(discount?: {
   return {
     seller: { state: 'KA', gstin: KA_GSTIN },
     buyer: { state: 'KA', gstin: KA_GSTIN },
-    item: {
+    items: [{
       type: 'PRODUCT' as const,
       hsn: '8471',
       amount: { amount: 100, currency: 'INR' },
       quantity: 1,
       pricingMode: PricingMode.EXCLUSIVE,
       ...(discount !== undefined ? { discount } : {}),
-    },
+    }],
     calculationDate: DATE,
   };
 }
@@ -121,14 +121,14 @@ describe('discount calculations', () => {
     const result = new Tax('IN', { stateCodeSource: 'STATE' }).calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'KA', gstin: KA_GSTIN },
-      item: {
+      items: [{
         type: 'PRODUCT',
         hsn: '8471',
         amount: { amount: 118, currency: 'INR' },
         quantity: 1,
         pricingMode: PricingMode.INCLUSIVE,
         discount: { type: DiscountType.FIXED, value: 10, mode: DiscountMode.BEFORE_TAX },
-      },
+      }],
       calculationDate: DATE,
     });
     // extract taxable 100, discount 10 → taxable 90, tax 16.2, final 106.2
@@ -140,14 +140,14 @@ describe('discount calculations', () => {
     const result = new Tax('IN', { stateCodeSource: 'STATE' }).calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'MH', gstin: '27AABCU9603R1Z2' },
-      item: {
+      items: [{
         type: 'PRODUCT',
         hsn: '8471',
         amount: { amount: 100, currency: 'INR' },
         quantity: 1,
         pricingMode: PricingMode.EXCLUSIVE,
         discount: { type: DiscountType.FIXED, value: 8, mode: DiscountMode.AFTER_TAX },
-      },
+      }],
       calculationDate: DATE,
     });
     expect(result.taxes.map((t) => t.type)).toEqual([IndiaTaxHead.IGST]);

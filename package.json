@@ -40,6 +40,7 @@
     "build": "npm run generate:schedule && rm -rf dist && tsc -p tsconfig.build.json && node scripts/copy-schedule-shards.mjs",
     "typecheck": "npm run generate:schedule && tsc -p tsconfig.build.json --noEmit",
     "test": "npm run generate:schedule && vitest run",
+    "recheck:hsn": "bash scripts/recheck-hsn.sh",
     "bench:schedule": "npm run generate:schedule && npm run build && node scripts/bench-india-schedule.mjs",
     "manual-test": "npm run build && node examples/manual-test.mjs",
     "verify": "npm run typecheck && npm run test && npm run build && npm pack --dry-run",

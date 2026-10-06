@@ -70,7 +70,7 @@ describe('Tax constructor', () => {
     const india = new Tax('IN', { stateCodeSource: 'STATE' }).calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'KA', gstin: KA_GSTIN },
-      item: productItem(),
+      items: [productItem()],
       calculationDate: DATE,
     });
     expect(india.country).toBe('IN');
@@ -106,10 +106,15 @@ describe('resolveStateCodeFromGSTIN', () => {
     expect(resolveStateCodeFromGSTIN(MH_GSTIN)).toBe('MH');
   });
 
+  it('resolves LD (31) and LA (38)', () => {
+    expect(resolveStateCodeFromGSTIN('31AABCU9603R1Z2')).toBe('LD');
+    expect(resolveStateCodeFromGSTIN('38AABCU9603R1Z2')).toBe('LA');
+  });
+
   it('rejects invalid format and unknown state digits', () => {
     expectCode(() => resolveStateCodeFromGSTIN('BAD'), TaxEngineErrorCode.INVALID_INPUT);
     expectCode(
-      () => resolveStateCodeFromGSTIN('99AABCU9603R1Z2'),
+      () => resolveStateCodeFromGSTIN('98AABCU9603R1Z2'),
       TaxEngineErrorCode.INVALID_INPUT,
     );
   });
@@ -122,7 +127,7 @@ describe('India GSTIN mode', () => {
     const result = tax().calculate({
       seller: { gstin: KA_GSTIN },
       buyer: { gstin: KA_GSTIN },
-      item: productItem(),
+      items: [productItem()],
       calculationDate: DATE,
     });
     expect(result.taxes.map((t) => t.type)).toEqual([IndiaTaxHead.CGST, IndiaTaxHead.SGST]);
@@ -140,7 +145,7 @@ describe('India GSTIN mode', () => {
     const result = tax().calculate({
       seller: { gstin: KA_GSTIN },
       buyer: { gstin: MH_GSTIN },
-      item: productItem(),
+      items: [productItem()],
       calculationDate: DATE,
     });
     expect(result.taxes.map((t) => t.type)).toEqual([IndiaTaxHead.IGST]);
@@ -156,7 +161,7 @@ describe('India GSTIN mode', () => {
         tax().calculate({
           seller: { gstin: KA_GSTIN, state: 'MH' },
           buyer: { gstin: MH_GSTIN },
-          item: productItem(),
+          items: [productItem()],
           calculationDate: DATE,
         }),
       TaxEngineErrorCode.INVALID_INPUT,
@@ -167,7 +172,7 @@ describe('India GSTIN mode', () => {
     const result = tax().calculate({
       seller: { state: 'KA' },
       buyer: { gstin: MH_GSTIN },
-      item: productItem(),
+      items: [productItem()],
       calculationDate: DATE,
     });
     expect(result.taxes).toEqual([]);
@@ -184,7 +189,7 @@ describe('India GSTIN mode', () => {
         tax().calculate({
           seller: {},
           buyer: { gstin: MH_GSTIN },
-          item: productItem(),
+          items: [productItem()],
           calculationDate: DATE,
         }),
       TaxEngineErrorCode.INVALID_INPUT,
@@ -195,7 +200,7 @@ describe('India GSTIN mode', () => {
     const result = tax().calculate({
       seller: { gstin: KA_GSTIN },
       buyer: { state: 'KA' },
-      item: productItem(),
+      items: [productItem()],
       calculationDate: DATE,
     });
     expect(result.chargeMode).toBe(ChargeMode.FORWARD_CHARGE);
@@ -212,7 +217,7 @@ describe('India STATE mode', () => {
       tax().calculate({
         seller: { state: 'KA' },
         buyer: { state: 'KA' },
-        item: productItem(),
+        items: [productItem()],
         calculationDate: DATE,
       }).taxes,
     ).toEqual([]);
@@ -220,7 +225,7 @@ describe('India STATE mode', () => {
     const registered = tax().calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'KA' },
-      item: productItem(),
+      items: [productItem()],
       calculationDate: DATE,
     });
     expect(registered.taxes.map((t) => t.type)).toEqual([
@@ -232,7 +237,7 @@ describe('India STATE mode', () => {
       tax().calculate({
         seller: { state: 'KA' },
         buyer: { state: 'KA', gstin: KA_GSTIN },
-        item: productItem(),
+        items: [productItem()],
         calculationDate: DATE,
       }).taxes,
     ).toEqual([]);
@@ -240,7 +245,7 @@ describe('India STATE mode', () => {
     const both = tax().calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'KA', gstin: KA_GSTIN },
-      item: productItem(),
+      items: [productItem()],
       calculationDate: DATE,
     });
     expect(both.totalTax.amount).toBe(1800);
@@ -250,7 +255,7 @@ describe('India STATE mode', () => {
     const result = tax().calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'MH', gstin: MH_GSTIN },
-      item: productItem(),
+      items: [productItem()],
       calculationDate: DATE,
     });
     expect(result.taxes.map((t) => t.type)).toEqual([IndiaTaxHead.IGST]);
@@ -261,7 +266,7 @@ describe('India STATE mode', () => {
       tax().calculate({
         seller: { state: 'KA', gstin: KA_GSTIN },
         buyer: { state: 'KA', gstin: KA_GSTIN },
-        item: serviceItem(),
+        items: [serviceItem()],
         calculationDate: DATE,
       }).taxes.map((t) => t.type),
     ).toEqual([IndiaTaxHead.CGST, IndiaTaxHead.SGST]);
@@ -270,7 +275,7 @@ describe('India STATE mode', () => {
       tax().calculate({
         seller: { state: 'KA', gstin: KA_GSTIN },
         buyer: { state: 'MH', gstin: MH_GSTIN },
-        item: serviceItem(),
+        items: [serviceItem()],
         calculationDate: DATE,
       }).taxes.map((t) => t.type),
     ).toEqual([IndiaTaxHead.IGST]);
@@ -282,7 +287,7 @@ describe('India STATE mode', () => {
         tax().calculate({
           seller: { gstin: KA_GSTIN },
           buyer: { state: 'MH' },
-          item: productItem(),
+          items: [productItem()],
           calculationDate: DATE,
         }),
       TaxEngineErrorCode.INVALID_INPUT,
@@ -295,7 +300,7 @@ describe('India STATE mode', () => {
         tax().calculate({
           seller: { state: 'KA', gstin: MH_GSTIN },
           buyer: { state: 'MH' },
-          item: productItem(),
+          items: [productItem()],
           calculationDate: DATE,
         }),
       TaxEngineErrorCode.INVALID_INPUT,
@@ -306,7 +311,7 @@ describe('India STATE mode', () => {
     const result = tax().calculate({
       seller: { state: 'CH', gstin: CH_GSTIN },
       buyer: { state: 'CH', gstin: CH_GSTIN },
-      item: productItem(),
+      items: [productItem()],
       calculationDate: DATE,
     });
     expect(result.taxes.map((t) => t.type)).toEqual([
@@ -319,10 +324,10 @@ describe('India STATE mode', () => {
     const result = tax().calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'KA', gstin: KA_GSTIN },
-      item: productItem({
+      items: [productItem({
         amount: { amount: 11800, currency: 'INR' },
         pricingMode: PricingMode.INCLUSIVE,
-      }),
+      })],
       calculationDate: DATE,
     });
     expect(result.taxableAmount.amount).toBe(10000);
@@ -334,7 +339,7 @@ describe('India STATE mode', () => {
       tax().calculate({
         seller: { state: 'KA', gstin: KA_GSTIN },
         buyer: { state: 'KA' },
-        item: productItem({ hsn: '4901' }),
+        items: [productItem({ hsn: '4901' })],
         calculationDate: DATE,
       }).taxability,
     ).toBe(IndiaTaxability.EXEMPT);
@@ -344,7 +349,7 @@ describe('India STATE mode', () => {
         tax().calculate({
           seller: { state: 'KA', gstin: KA_GSTIN },
           buyer: { state: 'KA' },
-          item: productItem({ hsn: '999999' }),
+          items: [productItem({ hsn: '999999' })],
           calculationDate: DATE,
         }),
       TaxEngineErrorCode.NO_RULE_FOUND,
@@ -355,7 +360,7 @@ describe('India STATE mode', () => {
     const rcm = tax().calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'MH', gstin: MH_GSTIN },
-      item: serviceItem({ sac: '999799' }),
+      items: [serviceItem({ sac: '999799' })],
       calculationDate: DATE,
     });
     expect(rcm.chargeMode).toBe(ChargeMode.REVERSE_CHARGE);
@@ -366,11 +371,28 @@ describe('India STATE mode', () => {
         tax().calculate({
           seller: { state: 'KA', gstin: KA_GSTIN },
           buyer: { state: 'MH' },
-          item: serviceItem({ sac: '999799' }),
+          items: [serviceItem({ sac: '999799' })],
           calculationDate: DATE,
         }),
       TaxEngineErrorCode.UNSUPPORTED_CASE,
     );
+  });
+
+  it('calculates multiple items with document totals and lines', () => {
+    const result = tax().calculate({
+      seller: { state: 'KA', gstin: KA_GSTIN },
+      buyer: { state: 'MH', gstin: MH_GSTIN },
+      items: [
+        productItem({ amount: { amount: 10000, currency: 'INR' } }),
+        serviceItem({ amount: { amount: 2000, currency: 'INR' } }),
+      ],
+      calculationDate: DATE,
+    });
+    expect(result.lines).toHaveLength(2);
+    expect(result.totalTax.amount).toBe(2160);
+    expect(result.finalAmount.amount).toBe(14160);
+    expect(result.taxes.map((t) => t.type)).toEqual([IndiaTaxHead.IGST]);
+    expect(result.taxes[0]?.amount.amount).toBe(2160);
   });
 });
 

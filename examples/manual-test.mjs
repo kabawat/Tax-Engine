@@ -5,13 +5,13 @@ const tax = new Tax('IN', { stateCodeSource: 'GSTIN' });
 const result = tax.calculate({
   seller: { gstin: '29AABCU9603R1Z2' },
   buyer: { gstin: '27AABCU9603R1Z2' },
-  item: {
+  items: [{
     type: 'PRODUCT',
     hsn: '8471',
     amount: { amount: 10000, currency: 'INR' },
     quantity: 1,
     pricingMode: 'EXCLUSIVE',
-  },
+  }],
   calculationDate: '2026-04-01',
 });
 

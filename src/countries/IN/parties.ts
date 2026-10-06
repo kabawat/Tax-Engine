@@ -43,12 +43,13 @@ export interface IndiaItemInput {
   readonly pricingMode: PricingMode;
   readonly discount?: DiscountInput;
   readonly placeOfSupplyState?: string;
+  readonly deliveryState?: string;
 }
 
 export interface IndiaTaxInput {
   readonly seller: IndiaParty;
   readonly buyer: IndiaParty;
-  readonly item: IndiaItemInput;
+  readonly items: readonly IndiaItemInput[];
   readonly calculationDate: string;
   readonly documentType?: 'INVOICE' | 'CREDIT_NOTE' | 'DEBIT_NOTE' | 'ADVANCE';
 }

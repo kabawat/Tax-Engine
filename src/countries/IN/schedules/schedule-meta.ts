@@ -1,3 +1,8 @@
+export interface IndiaExcludedChapter {
+  readonly chapter: string;
+  readonly reason: string;
+}
+
 export interface IndiaFullScheduleMeta {
   readonly source: string;
   readonly license: string;
@@ -9,4 +14,6 @@ export interface IndiaFullScheduleMeta {
   readonly hsnSkippedNoRate: number;
   readonly sacDefaultRatePercent: number;
   readonly chapters?: readonly string[];
+  readonly sacHeadings?: readonly string[];
+  readonly excludedChapters?: readonly IndiaExcludedChapter[];
 }

@@ -2,15 +2,23 @@ import {
   ChargeMode,
   LiabilityParty,
   type CountryTaxCalculator,
+  type CountryTaxLine,
   type TaxOutcome,
 } from '../../core/country/types.js';
 import { calculateLineWithDiscount } from '../../discount/calculate-with-discount.js';
 import type { DiscountMode } from '../../discount/types.js';
 import { TaxEngineError, TaxEngineErrorCode } from '../../errors/TaxEngineError.js';
 import { PricingMode } from '../../models/pricing-mode.js';
+import type { Money } from '../../models/money.js';
 import { TaxRateBasis, type TaxRule } from '../../models/tax-rule.js';
+import { money, roundAmount, sumMoneyAmounts } from '../../money/operations.js';
 import { resolveChargeMode } from './charge-mode.js';
-import type { IndiaTaxConfig, IndiaTaxInput } from './parties.js';
+import type {
+  IndiaItemInput,
+  IndiaTaxConfig,
+  IndiaTaxInput,
+  ResolvedIndiaParty,
+} from './parties.js';
 import { StateCodeSource } from './parties.js';
 import { resolveIndiaParty } from './party-resolution.js';
 import { resolvePlaceOfSupply } from './place-of-supply/index.js';
@@ -46,6 +54,35 @@ function reject(message: string, details?: unknown): never {
   });
 }
 
+function validateIndiaItem(item: IndiaItemInput, index: number): void {
+  const field = (name: string) => `items[${index}].${name}`;
+
+  if (item.type !== 'PRODUCT' && item.type !== 'SERVICE') {
+    reject('item.type must be PRODUCT or SERVICE', { field: field('type') });
+  }
+
+  if (
+    item.pricingMode !== PricingMode.EXCLUSIVE &&
+    item.pricingMode !== PricingMode.INCLUSIVE
+  ) {
+    reject('item.pricingMode is invalid', { field: field('pricingMode') });
+  }
+
+  if (!Number.isFinite(item.amount.amount) || item.amount.amount < 0) {
+    reject('item.amount.amount must be a non-negative finite number', {
+      field: field('amount.amount'),
+    });
+  }
+  if (!item.amount.currency.trim()) {
+    reject('item.amount.currency is required', { field: field('amount.currency') });
+  }
+  if (!Number.isFinite(item.quantity) || item.quantity < 0) {
+    reject('item.quantity must be a non-negative finite number', {
+      field: field('quantity'),
+    });
+  }
+}
+
 function validateIndiaInput(input: IndiaTaxInput): void {
   if (!isValidIsoDate(input.calculationDate)) {
     reject('calculationDate must be a valid ISO date (YYYY-MM-DD)', {
@@ -53,29 +90,21 @@ function validateIndiaInput(input: IndiaTaxInput): void {
     });
   }
 
-  if (input.item.type !== 'PRODUCT' && input.item.type !== 'SERVICE') {
-    reject('item.type must be PRODUCT or SERVICE', { field: 'item.type' });
+  if (!Array.isArray(input.items) || input.items.length === 0) {
+    reject('items must be a non-empty array', { field: 'items' });
   }
 
-  if (
-    input.item.pricingMode !== PricingMode.EXCLUSIVE &&
-    input.item.pricingMode !== PricingMode.INCLUSIVE
-  ) {
-    reject('item.pricingMode is invalid', { field: 'item.pricingMode' });
+  for (let i = 0; i < input.items.length; i += 1) {
+    validateIndiaItem(input.items[i]!, i);
   }
 
-  if (!Number.isFinite(input.item.amount.amount) || input.item.amount.amount < 0) {
-    reject('item.amount.amount must be a non-negative finite number', {
-      field: 'item.amount.amount',
-    });
-  }
-  if (!input.item.amount.currency.trim()) {
-    reject('item.amount.currency is required', { field: 'item.amount.currency' });
-  }
-  if (!Number.isFinite(input.item.quantity) || input.item.quantity < 0) {
-    reject('item.quantity must be a non-negative finite number', {
-      field: 'item.quantity',
-    });
+  const currency = input.items[0]!.amount.currency.trim();
+  for (let i = 1; i < input.items.length; i += 1) {
+    if (input.items[i]!.amount.currency.trim() !== currency) {
+      reject('All items must use the same currency', {
+        field: `items[${i}].amount.currency`,
+      });
+    }
   }
 
   if (input.documentType !== undefined && input.documentType !== 'INVOICE') {
@@ -89,17 +118,21 @@ function validateIndiaInput(input: IndiaTaxInput): void {
   }
 }
 
-function resolveCodeKind(input: IndiaTaxInput): { code: string; kind: 'HSN' | 'SAC' } {
-  if (input.item.type === 'PRODUCT') {
-    if (!input.item.hsn || !input.item.hsn.trim()) {
-      reject('HSN is required for PRODUCT supplies', { field: 'item.hsn' });
+function resolveCodeKind(
+  item: IndiaItemInput,
+  index: number,
+): { code: string; kind: 'HSN' | 'SAC' } {
+  const field = (name: string) => `items[${index}].${name}`;
+  if (item.type === 'PRODUCT') {
+    if (!item.hsn || !item.hsn.trim()) {
+      reject('HSN is required for PRODUCT supplies', { field: field('hsn') });
     }
-    return { code: input.item.hsn.trim(), kind: 'HSN' };
+    return { code: item.hsn.trim(), kind: 'HSN' };
   }
-  if (!input.item.sac || !input.item.sac.trim()) {
-    reject('SAC is required for SERVICE supplies', { field: 'item.sac' });
+  if (!item.sac || !item.sac.trim()) {
+    reject('SAC is required for SERVICE supplies', { field: field('sac') });
   }
-  return { code: input.item.sac.trim(), kind: 'SAC' };
+  return { code: item.sac.trim(), kind: 'SAC' };
 }
 
 function toSyntheticRules(
@@ -131,6 +164,47 @@ function toOutcomeTaxes(
   }));
 }
 
+function sumMoney(values: readonly Money[], currency: string): Money {
+  return money(
+    roundAmount(sumMoneyAmounts(values.map((v) => v.amount))),
+    currency,
+  );
+}
+
+function mergeTaxes(lines: readonly TaxOutcome[], currency: string): CountryTaxLine[] {
+  const byKey = new Map<string, CountryTaxLine>();
+  for (const line of lines) {
+    for (const tax of line.taxes) {
+      const key = `${tax.type}:${tax.rate}`;
+      const existing = byKey.get(key);
+      if (existing === undefined) {
+        byKey.set(key, {
+          type: tax.type,
+          rate: tax.rate,
+          taxableBase: { ...tax.taxableBase },
+          amount: { ...tax.amount },
+          ...(tax.name !== undefined ? { name: tax.name } : {}),
+        });
+        continue;
+      }
+      byKey.set(key, {
+        ...existing,
+        taxableBase: money(
+          roundAmount(existing.taxableBase.amount + tax.taxableBase.amount),
+          currency,
+        ),
+        amount: money(roundAmount(existing.amount.amount + tax.amount.amount), currency),
+      });
+    }
+  }
+  return [...byKey.values()];
+}
+
+function sameOrMixed(values: readonly string[]): string {
+  const first = values[0]!;
+  return values.every((v) => v === first) ? first : 'MIXED';
+}
+
 export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
   readonly country = 'IN';
   private readonly stateCodeSource: StateCodeSource;
@@ -149,7 +223,61 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
     const seller = resolveIndiaParty(input.seller, 'seller', this.stateCodeSource);
     const buyer = resolveIndiaParty(input.buyer, 'buyer', this.stateCodeSource);
 
-    const { code, kind } = resolveCodeKind(input);
+    const lines = input.items.map((item, index) =>
+      this.calculateItem(input, seller, buyer, item, index),
+    );
+
+    if (lines.length === 1) {
+      return lines[0]!;
+    }
+
+    const currency = lines[0]!.currency;
+    return {
+      country: 'IN',
+      taxability: sameOrMixed(lines.map((l) => l.taxability)),
+      chargeMode: sameOrMixed(lines.map((l) => l.chargeMode)) as ChargeMode | 'MIXED',
+      liabilityParty: sameOrMixed(lines.map((l) => l.liabilityParty)) as
+        | typeof LiabilityParty[keyof typeof LiabilityParty]
+        | 'MIXED',
+      currency,
+      pricingMode: sameOrMixed(lines.map((l) => l.pricingMode)) as PricingMode | 'MIXED',
+      originalAmount: sumMoney(
+        lines.map((l) => l.originalAmount),
+        currency,
+      ),
+      taxableAmount: sumMoney(
+        lines.map((l) => l.taxableAmount),
+        currency,
+      ),
+      taxes: mergeTaxes(lines, currency),
+      totalTax: sumMoney(
+        lines.map((l) => l.totalTax),
+        currency,
+      ),
+      finalAmount: sumMoney(
+        lines.map((l) => l.finalAmount),
+        currency,
+      ),
+      lines,
+      details: {
+        supplierState: seller.state,
+        buyerState: buyer.state,
+        stateCodeSource: this.stateCodeSource,
+        supplierStateSource: seller.stateSource,
+        buyerStateSource: buyer.stateSource,
+        lineCount: lines.length,
+      },
+    };
+  }
+
+  private calculateItem(
+    input: IndiaTaxInput,
+    seller: ResolvedIndiaParty,
+    buyer: ResolvedIndiaParty,
+    item: IndiaItemInput,
+    index: number,
+  ): TaxOutcome {
+    const { code, kind } = resolveCodeKind(item, index);
     const schedule = resolveScheduleEntry(
       code,
       kind,
@@ -159,7 +287,7 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
     if (schedule === undefined) {
       throw new TaxEngineError(`No India GST schedule entry for ${kind} ${code}`, {
         code: TaxEngineErrorCode.NO_RULE_FOUND,
-        details: { kind, code, calculationDate: input.calculationDate },
+        details: { kind, code, calculationDate: input.calculationDate, itemIndex: index },
       });
     }
 
@@ -167,13 +295,13 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
     const placeOfSupply = resolvePlaceOfSupply({
       seller,
       buyer,
-      item: input.item,
+      item,
     });
 
     const charge = resolveChargeMode({ seller, buyer, schedule });
 
-    const currency = input.item.amount.currency;
-    const pricingMode = input.item.pricingMode;
+    const currency = item.amount.currency;
+    const pricingMode = item.pricingMode;
 
     const baseDetails = {
       placeOfSupply,
@@ -184,18 +312,19 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
       stateCodeSource: this.stateCodeSource,
       supplierStateSource: seller.stateSource,
       buyerStateSource: buyer.stateSource,
+      itemIndex: index,
     };
 
     const lineCalc = (rules: readonly TaxRule[]) =>
       calculateLineWithDiscount({
-        amount: input.item.amount.amount,
+        amount: item.amount.amount,
         currency,
-        quantity: input.item.quantity,
+        quantity: item.quantity,
         pricingMode,
         rules,
         calculationDate: input.calculationDate,
-        itemType: input.item.type,
-        ...(input.item.discount !== undefined ? { discount: input.item.discount } : {}),
+        itemType: item.type,
+        ...(item.discount !== undefined ? { discount: item.discount } : {}),
         ...(this.discountMode !== undefined
           ? { configDiscountMode: this.discountMode }
           : {}),
@@ -246,7 +375,7 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
     if (!carriesGstHeads(taxability)) {
       throw new TaxEngineError('Unsupported taxability for India GST calculation', {
         code: TaxEngineErrorCode.UNSUPPORTED_CASE,
-        details: { taxability },
+        details: { taxability, itemIndex: index },
       });
     }
 

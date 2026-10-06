@@ -21,6 +21,22 @@ export type PlaceOfSupplyRule = {
   readonly resolve: (ctx: PlaceOfSupplyContext) => PlaceOfSupplyResult | undefined;
 };
 
+type ServiceResolveMode = 'buyer' | 'seller' | 'delivery' | 'require_override';
+
+type ServiceFamilyRule = {
+  readonly id: string;
+  readonly prefixes: readonly string[];
+  readonly resolve: ServiceResolveMode;
+};
+
+const SERVICE_FAMILY_RULES: readonly ServiceFamilyRule[] = [
+  { id: 'services.immovable-property', prefixes: ['9972', '9954'], resolve: 'require_override' },
+  { id: 'services.performance-location', prefixes: ['9965'], resolve: 'seller' },
+  { id: 'services.events-location', prefixes: ['9963'], resolve: 'require_override' },
+  { id: 'services.goods-transport', prefixes: ['9967'], resolve: 'delivery' },
+  { id: 'services.oidar', prefixes: ['998434', '998439'], resolve: 'buyer' },
+];
+
 function requireState(state: string, field: string): string {
   const normalized = normalizeIndiaState(state);
   if (!normalized) {
@@ -32,19 +48,99 @@ function requireState(state: string, field: string): string {
   return normalized;
 }
 
-// Goods PoS = buyer state
-export const goodsRecipientRule: PlaceOfSupplyRule = {
+function explicitOverride(
+  ctx: PlaceOfSupplyContext,
+  kind: SupplyKindType,
+): PlaceOfSupplyResult | undefined {
+  if (!ctx.item.placeOfSupplyState) {
+    return undefined;
+  }
+  return {
+    state: requireState(ctx.item.placeOfSupplyState, 'item.placeOfSupplyState'),
+    kind,
+    ruleId: kind === SupplyKind.GOODS ? 'goods.explicit-override' : 'services.explicit-override',
+  };
+}
+
+function matchServiceFamily(sac: string): ServiceFamilyRule | undefined {
+  const code = sac.trim();
+  for (const rule of SERVICE_FAMILY_RULES) {
+    if (rule.prefixes.some((prefix) => code.startsWith(prefix))) {
+      return rule;
+    }
+  }
+  return undefined;
+}
+
+function resolveServiceFamily(
+  ctx: PlaceOfSupplyContext,
+  family: ServiceFamilyRule,
+): PlaceOfSupplyResult {
+  switch (family.resolve) {
+    case 'buyer':
+      return {
+        state: requireState(ctx.buyer.state, 'buyer.state'),
+        kind: SupplyKind.SERVICES,
+        ruleId: family.id,
+      };
+    case 'seller':
+      return {
+        state: requireState(ctx.seller.state, 'seller.state'),
+        kind: SupplyKind.SERVICES,
+        ruleId: family.id,
+      };
+    case 'delivery': {
+      const delivery = ctx.item.deliveryState?.trim();
+      if (delivery) {
+        return {
+          state: requireState(delivery, 'item.deliveryState'),
+          kind: SupplyKind.SERVICES,
+          ruleId: family.id,
+        };
+      }
+      throw new TaxEngineError(
+        `Place of supply for ${family.id} requires item.deliveryState or item.placeOfSupplyState`,
+        {
+          code: TaxEngineErrorCode.INVALID_INPUT,
+          details: { ruleId: family.id, sac: ctx.item.sac },
+        },
+      );
+    }
+    case 'require_override':
+      throw new TaxEngineError(
+        `Place of supply for ${family.id} requires item.placeOfSupplyState`,
+        {
+          code: TaxEngineErrorCode.INVALID_INPUT,
+          details: { ruleId: family.id, sac: ctx.item.sac },
+        },
+      );
+    default: {
+      const _exhaustive: never = family.resolve;
+      throw new TaxEngineError('Unknown place-of-supply resolve mode', {
+        code: TaxEngineErrorCode.UNSUPPORTED_CASE,
+        details: { mode: _exhaustive },
+      });
+    }
+  }
+}
+
+export const goodsPlaceOfSupplyRule: PlaceOfSupplyRule = {
   id: 'goods.recipient-location',
   kind: SupplyKind.GOODS,
   resolve(ctx) {
     if (ctx.item.type !== 'PRODUCT') {
       return undefined;
     }
-    if (ctx.item.placeOfSupplyState) {
+    const override = explicitOverride(ctx, SupplyKind.GOODS);
+    if (override) {
+      return override;
+    }
+    const delivery = ctx.item.deliveryState?.trim();
+    if (delivery) {
       return {
-        state: requireState(ctx.item.placeOfSupplyState, 'item.placeOfSupplyState'),
+        state: requireState(delivery, 'item.deliveryState'),
         kind: SupplyKind.GOODS,
-        ruleId: 'goods.explicit-override',
+        ruleId: 'goods.delivery-location',
       };
     }
     return {
@@ -55,20 +151,23 @@ export const goodsRecipientRule: PlaceOfSupplyRule = {
   },
 };
 
-// Services PoS = buyer state
-export const servicesRecipientRule: PlaceOfSupplyRule = {
+export const servicesPlaceOfSupplyRule: PlaceOfSupplyRule = {
   id: 'services.recipient-location',
   kind: SupplyKind.SERVICES,
   resolve(ctx) {
     if (ctx.item.type !== 'SERVICE') {
       return undefined;
     }
-    if (ctx.item.placeOfSupplyState) {
-      return {
-        state: requireState(ctx.item.placeOfSupplyState, 'item.placeOfSupplyState'),
-        kind: SupplyKind.SERVICES,
-        ruleId: 'services.explicit-override',
-      };
+    const override = explicitOverride(ctx, SupplyKind.SERVICES);
+    if (override) {
+      return override;
+    }
+    const sac = ctx.item.sac?.trim();
+    if (sac) {
+      const family = matchServiceFamily(sac);
+      if (family !== undefined) {
+        return resolveServiceFamily(ctx, family);
+      }
     }
     return {
       state: requireState(ctx.buyer.state, 'buyer.state'),
@@ -78,36 +177,12 @@ export const servicesRecipientRule: PlaceOfSupplyRule = {
   },
 };
 
-// SAC 996511 → PoS = seller state
-export const servicesPerformanceLocationSampleRule: PlaceOfSupplyRule = {
-  id: 'services.performance-location.sample-996511',
-  kind: SupplyKind.SERVICES,
-  resolve(ctx) {
-    if (ctx.item.type !== 'SERVICE') {
-      return undefined;
-    }
-    if (ctx.item.sac !== '996511') {
-      return undefined;
-    }
-    if (ctx.item.placeOfSupplyState) {
-      return {
-        state: requireState(ctx.item.placeOfSupplyState, 'item.placeOfSupplyState'),
-        kind: SupplyKind.SERVICES,
-        ruleId: 'services.explicit-override',
-      };
-    }
-    return {
-      state: requireState(ctx.seller.state, 'seller.state'),
-      kind: SupplyKind.SERVICES,
-      ruleId: this.id,
-    };
-  },
-};
+export const goodsRecipientRule = goodsPlaceOfSupplyRule;
+export const servicesRecipientRule = servicesPlaceOfSupplyRule;
 
 const DEFAULT_RULES: readonly PlaceOfSupplyRule[] = [
-  servicesPerformanceLocationSampleRule,
-  goodsRecipientRule,
-  servicesRecipientRule,
+  goodsPlaceOfSupplyRule,
+  servicesPlaceOfSupplyRule,
 ];
 
 export function resolvePlaceOfSupply(

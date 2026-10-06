@@ -1,13 +1,43 @@
 {
   "source": "QuantumByteStudios/gst-hsn-sac-codes",
   "license": "MIT",
-  "attribution": "HSN/SAC dataset adapted from https://github.com/QuantumByteStudios/gst-hsn-sac-codes (MIT). Rates may lag CBIC notifications \u2014 verify before production use.",
+  "attribution": "HSN/SAC dataset adapted from https://github.com/QuantumByteStudios/gst-hsn-sac-codes (MIT). Rates may lag CBIC notifications — verify before production use.",
   "effectiveFrom": "2017-07-01",
   "generatedAt": "2026-10-06T08:55:45.777623+00:00",
   "hsnCount": 12877,
   "sacCount": 568,
   "hsnSkippedNoRate": 40,
   "sacDefaultRatePercent": 18,
+  "excludedChapters": [
+    {
+      "chapter": "06",
+      "reason": "Source dataset has no GST rates (igst_rate null) for all chapter 06 codes"
+    },
+    {
+      "chapter": "29",
+      "reason": "Source dataset has no GST rates (igst_rate null) for all chapter 29 codes"
+    },
+    {
+      "chapter": "60",
+      "reason": "Source dataset has no GST rates (igst_rate null) for all chapter 60 codes"
+    },
+    {
+      "chapter": "61",
+      "reason": "Source dataset has no GST rates (igst_rate null) for all chapter 61 codes"
+    },
+    {
+      "chapter": "62",
+      "reason": "Source dataset has no GST rates (igst_rate null) for all chapter 62 codes"
+    },
+    {
+      "chapter": "63",
+      "reason": "Source dataset has no GST rates (igst_rate null) for all chapter 63 codes"
+    },
+    {
+      "chapter": "77",
+      "reason": "Unused HS chapter; not present in source dataset"
+    }
+  ],
   "chapters": [
     "01",
     "02",
@@ -100,5 +130,38 @@
     "96",
     "97",
     "98"
+  ],
+  "sacHeadings": [
+    "9954",
+    "9961",
+    "9962",
+    "9963",
+    "9964",
+    "9965",
+    "9966",
+    "9967",
+    "9968",
+    "9969",
+    "9971",
+    "9972",
+    "9973",
+    "9981",
+    "9982",
+    "9983",
+    "9984",
+    "9985",
+    "9986",
+    "9987",
+    "9988",
+    "9989",
+    "9991",
+    "9992",
+    "9993",
+    "9994",
+    "9995",
+    "9996",
+    "9997",
+    "9998",
+    "9999"
   ]
 }

@@ -49,11 +49,6 @@ describe('generate-india-schedule duplicate detection', () => {
         ],
       }),
     );
-    fs.writeFileSync(
-      path.join(schedules, 'sac/sac.json'),
-      JSON.stringify({ kind: 'SAC', count: 0, entries: [] }),
-    );
-
     const result = spawnSync(process.execPath, [GENERATOR], {
       encoding: 'utf8',
       env: {
@@ -105,11 +100,6 @@ describe('generate-india-schedule duplicate detection', () => {
         entries: [entry, { ...entry }],
       }),
     );
-    fs.writeFileSync(
-      path.join(schedules, 'sac/sac.json'),
-      JSON.stringify({ kind: 'SAC', count: 0, entries: [] }),
-    );
-
     const result = spawnSync(process.execPath, [GENERATOR], {
       encoding: 'utf8',
       env: {

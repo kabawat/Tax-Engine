@@ -28,16 +28,17 @@ export interface CountryTaxLine {
 export interface TaxOutcome {
   readonly country: string;
   readonly taxability: string;
-  readonly chargeMode: ChargeMode;
-  readonly liabilityParty: LiabilityParty;
+  readonly chargeMode: ChargeMode | 'MIXED';
+  readonly liabilityParty: LiabilityParty | 'MIXED';
   readonly currency: string;
-  readonly pricingMode: PricingMode;
+  readonly pricingMode: PricingMode | 'MIXED';
   readonly originalAmount: Money;
   readonly taxableAmount: Money;
   readonly taxes: readonly CountryTaxLine[];
   readonly totalTax: Money;
   readonly finalAmount: Money;
   readonly discount?: AppliedDiscount;
+  readonly lines?: readonly TaxOutcome[];
   readonly details?: Readonly<Record<string, unknown>>;
 }
 

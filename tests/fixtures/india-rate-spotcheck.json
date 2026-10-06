@@ -1,0 +1,28 @@
+{
+  "note": "Curated spot-checks against the shipped schedule for a fixed calculationDate. Not a full CBIC reconciliation.",
+  "calculationDate": "2026-04-01",
+  "entries": [
+    { "kind": "HSN", "code": "8471", "ratePercent": 18, "taxability": "TAXABLE" },
+    { "kind": "HSN", "code": "3915", "ratePercent": 18, "taxability": "TAXABLE" },
+    { "kind": "HSN", "code": "7113", "ratePercent": 3, "taxability": "TAXABLE" },
+    { "kind": "HSN", "code": "2201", "ratePercent": 5, "taxability": "TAXABLE" },
+    { "kind": "HSN", "code": "3004", "ratePercent": 5, "taxability": "TAXABLE" },
+    { "kind": "HSN", "code": "6403", "ratePercent": 5, "taxability": "TAXABLE" },
+    { "kind": "HSN", "code": "9403", "ratePercent": 5, "taxability": "TAXABLE" },
+    { "kind": "HSN", "code": "8703", "ratePercent": 40, "taxability": "TAXABLE" },
+    { "kind": "HSN", "code": "2402", "ratePercent": 40, "taxability": "TAXABLE" },
+    { "kind": "HSN", "code": "0101", "ratePercent": 0, "taxability": "NIL_RATED" },
+    { "kind": "HSN", "code": "1001", "ratePercent": 0, "taxability": "NIL_RATED" },
+    { "kind": "HSN", "code": "4901", "ratePercent": 0, "taxability": "EXEMPT" },
+    { "kind": "HSN", "code": "0401", "ratePercent": 0, "taxability": "ZERO_RATED" },
+    { "kind": "HSN", "code": "2203", "ratePercent": 0, "taxability": "NON_GST" },
+    { "kind": "SAC", "code": "998314", "ratePercent": 18, "taxability": "TAXABLE" },
+    { "kind": "SAC", "code": "996511", "ratePercent": 5, "taxability": "TAXABLE" },
+    { "kind": "SAC", "code": "999799", "ratePercent": 18, "taxability": "TAXABLE", "reverseCharge": true },
+    { "kind": "SAC", "code": "999210", "ratePercent": 0, "taxability": "EXEMPT" },
+    { "kind": "SAC", "code": "999220", "ratePercent": 0, "taxability": "EXEMPT" },
+    { "kind": "SAC", "code": "999231", "ratePercent": 0, "taxability": "EXEMPT" },
+    { "kind": "SAC", "code": "999311", "ratePercent": 0, "taxability": "EXEMPT" },
+    { "kind": "SAC", "code": "999312", "ratePercent": 0, "taxability": "EXEMPT" }
+  ]
+}

@@ -10,6 +10,7 @@ import {
   hsnLookupCandidates,
   pickIndiaSchedule,
   resolveScheduleEntry,
+  sacLookupCandidates,
   scheduleLookupKey,
 } from '../src/countries/IN/schedules/index.js';
 import {
@@ -54,6 +55,28 @@ describe('India schedule index', () => {
     ]);
     const entry = resolveScheduleEntry('84713010', 'HSN', DATE, index);
     expect(entry?.code).toBe('8471');
+  });
+
+  it('falls back SAC parents for longer codes on a custom index', () => {
+    expect(sacLookupCandidates('99831410')).toEqual(
+      expect.arrayContaining(['99831410', '998314', '9983']),
+    );
+    const index = buildScheduleIndex([
+      {
+        code: '9983',
+        kind: 'SAC',
+        rateHistory: [
+          {
+            ratePercent: 18,
+            taxability: IndiaTaxability.TAXABLE,
+            effectiveFrom: '2017-07-01',
+            effectiveTo: null,
+          },
+        ],
+      },
+    ]);
+    const entry = resolveScheduleEntry('99831410', 'SAC', DATE, index);
+    expect(entry?.code).toBe('9983');
   });
 
   it('builds index from custom entries', () => {
@@ -162,13 +185,13 @@ describe('pickIndiaSchedule', () => {
     const a = appA.calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'MH', gstin: MH_GSTIN },
-      item: {
+      items: [{
         type: 'PRODUCT',
         hsn: '8471',
         amount: { amount: 10000, currency: 'INR' },
         quantity: 1,
         pricingMode: PricingMode.EXCLUSIVE,
-      },
+      }],
       calculationDate: DATE,
     });
     expect(a.totalTax.amount).toBe(1800);
@@ -177,13 +200,13 @@ describe('pickIndiaSchedule', () => {
       appA.calculate({
         seller: { state: 'KA', gstin: KA_GSTIN },
         buyer: { state: 'KA', gstin: KA_GSTIN },
-        item: {
+        items: [{
           type: 'PRODUCT',
           hsn: '1001',
           amount: { amount: 1000, currency: 'INR' },
           quantity: 1,
           pricingMode: PricingMode.EXCLUSIVE,
-        },
+        }],
         calculationDate: DATE,
       }),
     ).toThrow(expect.objectContaining({ code: TaxEngineErrorCode.NO_RULE_FOUND }));
@@ -191,13 +214,13 @@ describe('pickIndiaSchedule', () => {
     const b = appB.calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'KA', gstin: KA_GSTIN },
-      item: {
+      items: [{
         type: 'PRODUCT',
         hsn: '1001',
         amount: { amount: 1000, currency: 'INR' },
         quantity: 1,
         pricingMode: PricingMode.EXCLUSIVE,
-      },
+      }],
       calculationDate: DATE,
     });
     expect(b.taxability).toBe(IndiaTaxability.NIL_RATED);
@@ -216,13 +239,13 @@ describe('India full schedule (default)', () => {
     const result = tax.calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'MH', gstin: MH_GSTIN },
-      item: {
+      items: [{
         type: 'PRODUCT',
         hsn: '7208',
         amount: { amount: 1000, currency: 'INR' },
         quantity: 1,
         pricingMode: PricingMode.EXCLUSIVE,
-      },
+      }],
       calculationDate: DATE,
     });
     expect(result.country).toBe('IN');
@@ -238,13 +261,13 @@ describe('India full schedule (default)', () => {
     const result = tax.calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'MH', gstin: MH_GSTIN },
-      item: {
+      items: [{
         type: 'PRODUCT',
         hsn: '847130',
         amount: { amount: 10000, currency: 'INR' },
         quantity: 1,
         pricingMode: PricingMode.EXCLUSIVE,
-      },
+      }],
       calculationDate: DATE,
     });
     expect(result.country).toBe('IN');
@@ -258,13 +281,13 @@ describe('India full schedule (default)', () => {
       tax.calculate({
         seller: { state: 'KA', gstin: KA_GSTIN },
         buyer: { state: 'KA', gstin: KA_GSTIN },
-        item: {
+        items: [{
           type: 'PRODUCT',
           hsn: '99999999',
           amount: { amount: 1000, currency: 'INR' },
           quantity: 1,
           pricingMode: PricingMode.EXCLUSIVE,
-        },
+        }],
         calculationDate: DATE,
       }),
     ).toThrow(

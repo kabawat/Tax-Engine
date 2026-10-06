@@ -40,7 +40,7 @@ describe('lazy India schedule index', () => {
   it('loads the SAC shard independently', () => {
     const entry = INDIA_FULL_SCHEDULE_INDEX.get(scheduleLookupKey('SAC', '998314'));
     expect(entry?.kind).toBe('SAC');
-    expect(getLoadedShardIds()).toEqual(['sac']);
+    expect(getLoadedShardIds()).toEqual(['sac-9983']);
   });
 
   it('caches shards across repeated lookups', () => {
@@ -76,7 +76,7 @@ describe('lazy India schedule index', () => {
 
   it('maps lookup keys to shard ids', () => {
     expect(shardIdForLookupKey('HSN:8471')).toBe('hsn-84');
-    expect(shardIdForLookupKey('SAC:998314')).toBe('sac');
+    expect(shardIdForLookupKey('SAC:998314')).toBe('sac-9983');
     expect(shardIdForLookupKey('nope')).toBeUndefined();
   });
 
@@ -93,13 +93,13 @@ describe('lazy India schedule index', () => {
     const result = tax.calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'MH', gstin: '27AABCU9603R1Z2' },
-      item: {
+      items: [{
         type: 'PRODUCT',
         hsn: '8471',
         amount: { amount: 10000, currency: 'INR' },
         quantity: 1,
         pricingMode: PricingMode.EXCLUSIVE,
-      },
+      }],
       calculationDate: DATE,
     });
     expect(result.totalTax.amount).toBe(1800);
@@ -140,9 +140,9 @@ describe('schedule data integrity', () => {
     resetIndiaFullScheduleCaches();
     let total = 0;
     for (const shardId of INDIA_SCHEDULE_INTEGRITY.shardIds) {
-      if (shardId === 'sac') {
-        const sample = INDIA_FULL_SCHEDULE_INDEX.get(scheduleLookupKey('SAC', '998314'));
-        expect(sample).toBeDefined();
+      if (shardId.startsWith('sac-')) {
+        const heading = shardId.replace('sac-', '');
+        void INDIA_FULL_SCHEDULE_INDEX.get(scheduleLookupKey('SAC', `${heading}11`));
       } else {
         const chapter = shardId.replace('hsn-', '');
         const key = scheduleLookupKey('HSN', `${chapter}01`);

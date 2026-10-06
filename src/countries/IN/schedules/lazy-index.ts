@@ -103,7 +103,11 @@ function loadShard(shardId: string): Map<string, IndiaScheduleEntry> {
 
 export function shardIdForLookupKey(key: string): string | undefined {
   if (key.startsWith('SAC:')) {
-    return 'sac';
+    const code = key.slice(4).trim();
+    if (code.length < 4 || !/^\d{4}/.test(code)) {
+      return undefined;
+    }
+    return `sac-${code.slice(0, 4)}`;
   }
   if (key.startsWith('HSN:')) {
     const code = key.slice(4).trim();
