@@ -3,6 +3,7 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import type { IndiaScheduleEntry, IndiaScheduleRatePeriod } from './index.js';
 import { scheduleLookupKey } from './index.js';
+import { sortedRateHistoryDesc } from './rate-history.js';
 import {
   INDIA_SCHEDULE_INTEGRITY,
   INDIA_SCHEDULE_SHARD_IDS,
@@ -39,33 +40,26 @@ const shardCache = new Map<string, Map<string, IndiaScheduleEntry>>();
 const shardLoadState = new Map<string, 'loading' | 'ready'>();
 const SHARD_ID_SET = new Set<string>(INDIA_SCHEDULE_SHARD_IDS);
 
-function compareEffectiveFromDesc(
-  a: IndiaScheduleRatePeriod,
-  b: IndiaScheduleRatePeriod,
-): number {
-  return a.effectiveFrom < b.effectiveFrom ? 1 : a.effectiveFrom > b.effectiveFrom ? -1 : 0;
+function inflateRate(rate: CompactRate): IndiaScheduleRatePeriod {
+  const period: IndiaScheduleRatePeriod = {
+    ratePercent: rate[0],
+    taxability: rate[1],
+    effectiveFrom: rate[2],
+    effectiveTo: rate[3],
+  };
+  if (rate.length >= 5 && rate[4] !== undefined) {
+    return { ...period, reverseCharge: rate[4] };
+  }
+  return period;
 }
 
 function inflateRow(kind: 'HSN' | 'SAC', row: CompactRow): IndiaScheduleEntry {
   const [code, description, rates] = row;
-  const rateHistory: IndiaScheduleRatePeriod[] = rates.map((rate) => {
-    const period: IndiaScheduleRatePeriod = {
-      ratePercent: rate[0],
-      taxability: rate[1],
-      effectiveFrom: rate[2],
-      effectiveTo: rate[3],
-    };
-    if (rate.length >= 5 && rate[4] !== undefined) {
-      return { ...period, reverseCharge: rate[4] };
-    }
-    return period;
-  });
-  rateHistory.sort(compareEffectiveFromDesc);
   return {
     code,
     kind,
     ...(description !== null ? { description } : {}),
-    rateHistory,
+    rateHistory: sortedRateHistoryDesc(rates.map(inflateRate)),
   };
 }
 

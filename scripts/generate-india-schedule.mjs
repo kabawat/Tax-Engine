@@ -34,24 +34,36 @@ function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, 'utf8'));
 }
 
+const ISO_DATE_PATTERN = /^\d{4}-\d{2}-\d{2}$/;
+
 function normalizeDescription(value) {
   if (value === undefined || value === null) return undefined;
   const trimmed = String(value).trim();
   return trimmed === '' ? undefined : trimmed;
 }
 
-// Compact row: [code, description|null, rates[]]
-function toCompact(entry, kind) {
-  if (!entry || typeof entry.code !== 'string' || !entry.code.trim()) {
-    fail(`Invalid ${kind} entry: missing code`);
-  }
-  const code = entry.code.trim();
-  if (!Array.isArray(entry.rateHistory) || entry.rateHistory.length === 0) {
+function isIsoDate(value) {
+  if (!ISO_DATE_PATTERN.test(value)) return false;
+  const [year, month, day] = value.split('-').map(Number);
+  const date = new Date(year, month - 1, day);
+  return (
+    date.getFullYear() === year &&
+    date.getMonth() === month - 1 &&
+    date.getDate() === day
+  );
+}
+
+function periodsOverlap(a, b) {
+  const aEnd = a.effectiveTo ?? '9999-12-31';
+  const bEnd = b.effectiveTo ?? '9999-12-31';
+  return a.effectiveFrom <= bEnd && b.effectiveFrom <= aEnd;
+}
+
+function assertRateHistoryIntegrity(kind, code, history) {
+  if (!Array.isArray(history) || history.length === 0) {
     fail(`${kind} ${code}: rateHistory required`);
   }
-  /** @type {unknown[]} */
-  const rates = [];
-  for (const period of entry.rateHistory) {
+  for (const period of history) {
     if (
       typeof period.ratePercent !== 'number' ||
       !Number.isFinite(period.ratePercent) ||
@@ -62,6 +74,53 @@ function toCompact(entry, kind) {
     ) {
       fail(`${kind} ${code}: invalid rateHistory period`);
     }
+    if (!isIsoDate(period.effectiveFrom)) {
+      fail(`${kind} ${code}: invalid effectiveFrom ${period.effectiveFrom}`);
+    }
+    if (period.effectiveTo !== null) {
+      if (!isIsoDate(period.effectiveTo)) {
+        fail(`${kind} ${code}: invalid effectiveTo ${period.effectiveTo}`);
+      }
+      if (period.effectiveFrom > period.effectiveTo) {
+        fail(
+          `${kind} ${code}: effectiveFrom ${period.effectiveFrom} > effectiveTo ${period.effectiveTo}`,
+        );
+      }
+    }
+    if (
+      period.reverseCharge !== undefined &&
+      typeof period.reverseCharge !== 'boolean'
+    ) {
+      fail(`${kind} ${code}: reverseCharge must be boolean when set`);
+    }
+  }
+  const sorted = [...history].sort((a, b) =>
+    a.effectiveFrom < b.effectiveFrom ? -1 : a.effectiveFrom > b.effectiveFrom ? 1 : 0,
+  );
+  for (let i = 1; i < sorted.length; i += 1) {
+    const prev = sorted[i - 1];
+    const curr = sorted[i];
+    if (prev.effectiveFrom === curr.effectiveFrom) {
+      fail(`${kind} ${code}: duplicate effectiveFrom ${curr.effectiveFrom}`);
+    }
+    if (periodsOverlap(prev, curr)) {
+      fail(
+        `${kind} ${code}: overlapping periods ${prev.effectiveFrom}..${prev.effectiveTo} and ${curr.effectiveFrom}..${curr.effectiveTo}`,
+      );
+    }
+  }
+}
+
+// Compact row: [code, description|null, rates[]]
+function toCompact(entry, kind) {
+  if (!entry || typeof entry.code !== 'string' || !entry.code.trim()) {
+    fail(`Invalid ${kind} entry: missing code`);
+  }
+  const code = entry.code.trim();
+  assertRateHistoryIntegrity(kind, code, entry.rateHistory);
+  /** @type {unknown[]} */
+  const rates = [];
+  for (const period of entry.rateHistory) {
     /** @type {(string|number|boolean|null)[]} */
     const row = [
       period.ratePercent,
@@ -73,8 +132,6 @@ function toCompact(entry, kind) {
       row.push(true);
     } else if (period.reverseCharge === false) {
       row.push(false);
-    } else if (period.reverseCharge !== undefined) {
-      fail(`${kind} ${code}: reverseCharge must be boolean when set`);
     }
     rates.push(row);
   }

@@ -16,6 +16,7 @@ export {
   sacLookupCandidates,
   scheduleLookupCandidates,
   pickIndiaSchedule,
+  assertRateHistoryIntegrity,
   type PickIndiaScheduleCodes,
   type IndiaScheduleEntry,
   type IndiaScheduleIndex,

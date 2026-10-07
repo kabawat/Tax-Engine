@@ -1,5 +1,10 @@
 export { IndiaTaxProvider } from './provider.js';
 export { IndiaGSTEngine } from './engine.js';
+export { StateCodeSource as StateCodeSources } from './parties.js';
+export { resolveIndiaParty } from './party-resolution.js';
+export { resolveStateCodeFromGSTIN } from './gstin.js';
+export { selectIndiaTaxHeads } from './tax-heads.js';
+
 export type {
   IndiaTaxInput,
   IndiaParty,
@@ -8,7 +13,7 @@ export type {
   ResolvedIndiaParty,
   StateCodeSource,
 } from './parties.js';
-export { StateCodeSource as StateCodeSources } from './parties.js';
+
 export {
   IndiaTaxHead,
   IndiaTaxability,
@@ -16,6 +21,7 @@ export {
   IndiaCustomerType,
   SupplyKind,
 } from './types.js';
+
 export {
   buildScheduleIndex,
   resolveScheduleEntry,
@@ -24,14 +30,31 @@ export {
   sacLookupCandidates,
   scheduleLookupCandidates,
   pickIndiaSchedule,
+  assertRateHistoryIntegrity,
   type PickIndiaScheduleCodes,
   type IndiaScheduleEntry,
   type IndiaScheduleIndex,
   type IndiaScheduleRatePeriod,
   type ResolvedIndiaScheduleEntry,
 } from './schedules/index.js';
-export { resolvePlaceOfSupply } from './place-of-supply/index.js';
-export { selectIndiaTaxHeads } from './tax-heads.js';
-export { INDIA_UTGST_STATES, isUnionTerritoryWithUtgst } from './states.js';
-export { resolveStateCodeFromGSTIN } from './gstin.js';
-export { resolveIndiaParty } from './party-resolution.js';
+
+export {
+  resolvePlaceOfSupply,
+  matchServiceFamily,
+  createDefaultPlaceOfSupplyRules,
+  createGoodsPlaceOfSupplyRule,
+  createServicesPlaceOfSupplyRule,
+  DEFAULT_SERVICE_FAMILY_RULES,
+  type PlaceOfSupplyRule,
+  type PlaceOfSupplyResult,
+  type PlaceOfSupplyContext,
+  type ServiceFamilyRule,
+  type ServiceResolveMode,
+} from './place-of-supply/index.js';
+
+export {
+  INDIA_UTGST_STATES,
+  INDIA_PLACE_OF_SUPPLY_STATES,
+  isUnionTerritoryWithUtgst,
+  isKnownIndiaState,
+} from './states.js';

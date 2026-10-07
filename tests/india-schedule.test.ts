@@ -6,6 +6,7 @@ import Tax, {
   TaxEngineErrorCode,
 } from '../src/index.js';
 import {
+  assertRateHistoryIntegrity,
   buildScheduleIndex,
   hsnLookupCandidates,
   pickIndiaSchedule,
@@ -121,6 +122,74 @@ describe('India schedule index', () => {
     ]);
     expect(resolveScheduleEntry('01012100', 'HSN', '2025-09-21', index)?.ratePercent).toBe(12);
     expect(resolveScheduleEntry('01012100', 'HSN', '2025-09-22', index)?.ratePercent).toBe(5);
+  });
+
+  it('does not inherit parent rate when child entry exists but date misses', () => {
+    const index = buildScheduleIndex([
+      {
+        code: '8471',
+        kind: 'HSN',
+        rateHistory: [
+          {
+            ratePercent: 18,
+            taxability: IndiaTaxability.TAXABLE,
+            effectiveFrom: '2017-07-01',
+            effectiveTo: null,
+          },
+        ],
+      },
+      {
+        code: '84713010',
+        kind: 'HSN',
+        rateHistory: [
+          {
+            ratePercent: 12,
+            taxability: IndiaTaxability.TAXABLE,
+            effectiveFrom: '2020-01-01',
+            effectiveTo: '2020-12-31',
+          },
+        ],
+      },
+    ]);
+    expect(resolveScheduleEntry('84713010', 'HSN', '2019-06-01', index)).toBeUndefined();
+    expect(resolveScheduleEntry('84713010', 'HSN', '2020-06-01', index)?.ratePercent).toBe(12);
+    expect(resolveScheduleEntry('84719999', 'HSN', '2019-06-01', index)?.ratePercent).toBe(18);
+  });
+
+  it('rejects overlapping or invalid rateHistory in buildScheduleIndex', () => {
+    expect(() =>
+      buildScheduleIndex([
+        {
+          code: '9999',
+          kind: 'HSN',
+          rateHistory: [
+            {
+              ratePercent: 12,
+              taxability: IndiaTaxability.TAXABLE,
+              effectiveFrom: '2017-07-01',
+              effectiveTo: '2020-12-31',
+            },
+            {
+              ratePercent: 18,
+              taxability: IndiaTaxability.TAXABLE,
+              effectiveFrom: '2020-12-01',
+              effectiveTo: null,
+            },
+          ],
+        },
+      ]),
+    ).toThrow(expect.objectContaining({ code: TaxEngineErrorCode.INVALID_INPUT }));
+
+    expect(() =>
+      assertRateHistoryIntegrity([
+        {
+          ratePercent: 12,
+          taxability: IndiaTaxability.TAXABLE,
+          effectiveFrom: '2020-01-01',
+          effectiveTo: '2019-01-01',
+        },
+      ]),
+    ).toThrow(expect.objectContaining({ code: TaxEngineErrorCode.INVALID_INPUT }));
   });
 });
 
@@ -304,18 +373,20 @@ describe('HSN dataset integrity', () => {
       if (entry.kind !== 'HSN') continue;
       expect(seenCodes.has(entry.code)).toBe(false);
       seenCodes.add(entry.code);
-      expect(entry.rateHistory.length).toBeGreaterThan(0);
-      // rateHistory is sorted by effectiveFrom descending
-      for (let i = 0; i < entry.rateHistory.length; i++) {
-        const period = entry.rateHistory[i]!;
+      expect(() =>
+        assertRateHistoryIntegrity(entry.rateHistory, {
+          kind: entry.kind,
+          code: entry.code,
+        }),
+      ).not.toThrow();
+      for (const period of entry.rateHistory) {
         expect(period.ratePercent).toBeGreaterThanOrEqual(0);
-        expect(period.effectiveFrom).toMatch(/^\d{4}-\d{2}-\d{2}$/);
-        if (i === 0) {
-          expect(period.effectiveTo).toBeNull();
-        } else {
-          expect(period.effectiveTo).toMatch(/^\d{4}-\d{2}-\d{2}$/);
-          expect(period.effectiveFrom <= period.effectiveTo!).toBe(true);
-        }
+      }
+      // Lazy/full index keeps rateHistory sorted by effectiveFrom descending
+      for (let i = 1; i < entry.rateHistory.length; i++) {
+        expect(
+          entry.rateHistory[i - 1]!.effectiveFrom >= entry.rateHistory[i]!.effectiveFrom,
+        ).toBe(true);
       }
     }
   });
@@ -335,5 +406,25 @@ describe('HSN dataset integrity', () => {
     );
     expect(beforeChange?.ratePercent).toBe(12);
     expect(afterChange?.ratePercent).toBe(5);
+  });
+
+  it('resolves taxability changes across effective dates', () => {
+    const before = resolveScheduleEntry('0202', 'HSN', '2017-11-14', INDIA_FULL_SCHEDULE_INDEX);
+    const after = resolveScheduleEntry('0202', 'HSN', '2017-11-15', INDIA_FULL_SCHEDULE_INDEX);
+    expect(before?.taxability).toBe(IndiaTaxability.NIL_RATED);
+    expect(before?.ratePercent).toBe(0);
+    expect(after?.taxability).toBe(IndiaTaxability.TAXABLE);
+    expect(after?.ratePercent).toBe(5);
+  });
+
+  it('keeps future open-ended rates selectable', () => {
+    const farFuture = resolveScheduleEntry(
+      '8471',
+      'HSN',
+      '2099-01-01',
+      INDIA_FULL_SCHEDULE_INDEX,
+    );
+    expect(farFuture?.ratePercent).toBe(18);
+    expect(farFuture?.effectiveTo).toBeNull();
   });
 });

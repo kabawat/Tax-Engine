@@ -58,6 +58,15 @@ export const GSTIN_STATE_CODES: Readonly<Record<string, string>> = {
   '99': 'OTH', // Centre Jurisdiction
 };
 
+// State/UT codes for PoS (excludes OTH / centre jurisdiction)
+export const INDIA_PLACE_OF_SUPPLY_STATES: ReadonlySet<string> = new Set(
+  Object.values(GSTIN_STATE_CODES).filter((code) => code !== 'OTH'),
+);
+
+export function isKnownIndiaState(state: string): boolean {
+  return INDIA_PLACE_OF_SUPPLY_STATES.has(normalizeIndiaState(state));
+}
+
 export function stateFromGstin(gstin: string): string | undefined {
   const code = gstin.slice(0, 2);
   return GSTIN_STATE_CODES[code];

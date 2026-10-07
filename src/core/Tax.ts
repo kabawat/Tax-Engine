@@ -1,18 +1,23 @@
 import type { CountryTaxCalculator, TaxOutcome } from '../core/country/types.js';
 import { TaxEngineError, TaxEngineErrorCode } from '../errors/TaxEngineError.js';
-import { IndiaTaxProvider } from '../countries/IN/provider.js';
-import type { IndiaTaxConfig, IndiaTaxInput } from '../countries/IN/parties.js';
-import { UaeTaxProvider } from '../countries/AE/provider.js';
-import type { UaeTaxInput } from '../countries/AE/provider.js';
-import { UsTaxProvider } from '../countries/US/provider.js';
-import type { UsTaxInput } from '../countries/US/provider.js';
 import type { DiscountMode } from '../discount/types.js';
 import { DiscountMode as DiscountModes } from '../discount/types.js';
-import type { StateCodeSource } from '../countries/IN/parties.js';
+import { IndiaTaxProvider } from '../countries/IN/provider.js';
+import type {
+  IndiaTaxConfig,
+  IndiaTaxInput,
+  StateCodeSource,
+} from '../countries/IN/parties.js';
+import type { PlaceOfSupplyRule } from '../countries/IN/place-of-supply/index.js';
+import type { ServiceFamilyRule } from '../countries/IN/place-of-supply/service-family-rules.js';
 import type {
   IndiaScheduleEntry,
   IndiaScheduleIndex,
 } from '../countries/IN/schedules/index.js';
+import { UaeTaxProvider } from '../countries/AE/provider.js';
+import type { UaeTaxInput } from '../countries/AE/provider.js';
+import { UsTaxProvider } from '../countries/US/provider.js';
+import type { UsTaxInput } from '../countries/US/provider.js';
 
 export const SupportedCountry = {
   IN: 'IN',
@@ -20,13 +25,18 @@ export const SupportedCountry = {
   US: 'US',
 } as const;
 
-export type SupportedCountry = (typeof SupportedCountry)[keyof typeof SupportedCountry];
+export type SupportedCountry =
+  (typeof SupportedCountry)[keyof typeof SupportedCountry];
 
 export interface TaxConfig {
   readonly stateCodeSource?: StateCodeSource;
   readonly discountMode?: DiscountMode;
   // India: schedule index (default full; or pickIndiaSchedule subset)
   readonly schedule?: IndiaScheduleIndex | readonly IndiaScheduleEntry[];
+  // India: override SAC-family PoS table (ignored when placeOfSupplyRules is set)
+  readonly serviceFamilyRules?: readonly ServiceFamilyRule[];
+  // India: full PoS rule list override
+  readonly placeOfSupplyRules?: readonly PlaceOfSupplyRule[];
 }
 
 export type TaxCalculateInput = IndiaTaxInput | UaeTaxInput | UsTaxInput;
@@ -48,6 +58,48 @@ function validateConfig(config: TaxConfig): void {
   }
 }
 
+function toIndiaConfig(config: TaxConfig): IndiaTaxConfig {
+  const indiaConfig: IndiaTaxConfig = {};
+
+  if (config.stateCodeSource !== undefined) {
+    Object.assign(indiaConfig, { stateCodeSource: config.stateCodeSource });
+  }
+  if (config.discountMode !== undefined) {
+    Object.assign(indiaConfig, { discountMode: config.discountMode });
+  }
+  if (config.schedule !== undefined) {
+    Object.assign(indiaConfig, { schedule: config.schedule });
+  }
+  if (config.serviceFamilyRules !== undefined) {
+    Object.assign(indiaConfig, { serviceFamilyRules: config.serviceFamilyRules });
+  }
+  if (config.placeOfSupplyRules !== undefined) {
+    Object.assign(indiaConfig, { placeOfSupplyRules: config.placeOfSupplyRules });
+  }
+
+  return indiaConfig;
+}
+
+function createCalculator(
+  country: SupportedCountry,
+  config: TaxConfig,
+): CountryTaxCalculator {
+  if (country === 'IN') {
+    return new IndiaTaxProvider(toIndiaConfig(config)).createCalculator();
+  }
+
+  const discountOnly =
+    config.discountMode !== undefined
+      ? { discountMode: config.discountMode }
+      : {};
+
+  if (country === 'AE') {
+    return new UaeTaxProvider(discountOnly).createCalculator();
+  }
+
+  return new UsTaxProvider(discountOnly).createCalculator();
+}
+
 export class Tax {
   declare readonly country: SupportedCountry;
   private readonly calculator: CountryTaxCalculator;
@@ -55,6 +107,7 @@ export class Tax {
 
   constructor(country: string, config: TaxConfig = {}) {
     validateConfig(config);
+
     const code = normalizeCountry(country);
     if (code !== 'IN' && code !== 'AE' && code !== 'US') {
       throw new TaxEngineError(`Unsupported country: ${country}`, {
@@ -69,31 +122,9 @@ export class Tax {
       enumerable: true,
       configurable: false,
     });
+
     this.config = Object.freeze({ ...config });
-
-    const indiaConfig: IndiaTaxConfig = {
-      ...(config.stateCodeSource !== undefined
-        ? { stateCodeSource: config.stateCodeSource }
-        : {}),
-      ...(config.discountMode !== undefined ? { discountMode: config.discountMode } : {}),
-      ...(config.schedule !== undefined ? { schedule: config.schedule } : {}),
-    };
-
-    if (code === 'IN') {
-      this.calculator = new IndiaTaxProvider(indiaConfig).createCalculator();
-    } else if (code === 'AE') {
-      this.calculator = new UaeTaxProvider({
-        ...(config.discountMode !== undefined
-          ? { discountMode: config.discountMode }
-          : {}),
-      }).createCalculator();
-    } else {
-      this.calculator = new UsTaxProvider({
-        ...(config.discountMode !== undefined
-          ? { discountMode: config.discountMode }
-          : {}),
-      }).createCalculator();
-    }
+    this.calculator = createCalculator(code, config);
   }
 
   calculate(input: TaxCalculateInput): TaxOutcome {

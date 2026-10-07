@@ -21,7 +21,11 @@ import type {
 } from './parties.js';
 import { StateCodeSource } from './parties.js';
 import { resolveIndiaParty } from './party-resolution.js';
-import { resolvePlaceOfSupply } from './place-of-supply/index.js';
+import {
+  createDefaultPlaceOfSupplyRules,
+  resolvePlaceOfSupply,
+  type PlaceOfSupplyRule,
+} from './place-of-supply/index.js';
 import {
   resolveScheduleEntry,
   type IndiaScheduleIndex,
@@ -210,11 +214,15 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
   private readonly stateCodeSource: StateCodeSource;
   private readonly discountMode: DiscountMode | undefined;
   private readonly schedule: IndiaScheduleIndex | readonly IndiaScheduleEntry[];
+  private readonly placeOfSupplyRules: readonly PlaceOfSupplyRule[];
 
   constructor(config: IndiaTaxConfig = {}) {
     this.stateCodeSource = config.stateCodeSource ?? StateCodeSource.STATE;
     this.discountMode = config.discountMode;
     this.schedule = config.schedule ?? INDIA_FULL_SCHEDULE_INDEX;
+    this.placeOfSupplyRules =
+      config.placeOfSupplyRules ??
+      createDefaultPlaceOfSupplyRules(config.serviceFamilyRules);
   }
 
   calculate(input: IndiaTaxInput): TaxOutcome {
@@ -292,11 +300,14 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
     }
 
     const taxability = schedule.taxability;
-    const placeOfSupply = resolvePlaceOfSupply({
-      seller,
-      buyer,
-      item,
-    });
+    const placeOfSupply = resolvePlaceOfSupply(
+      {
+        seller,
+        buyer,
+        item,
+      },
+      this.placeOfSupplyRules,
+    );
 
     const charge = resolveChargeMode({ seller, buyer, schedule });
 
