@@ -17,6 +17,7 @@ import {
   sumMoneyAmounts,
   toMinorUnits,
 } from '../../money/operations.js';
+import { IndiaTaxHead } from './types.js';
 import type { TaxHeadSpec } from './tax-heads.js';
 
 const PRECISION = 2;
@@ -26,6 +27,7 @@ export interface IndiaGstLineAmountsInput {
   readonly quantity: number;
   readonly currency: string;
   readonly pricingMode: PricingMode;
+  // Combined GST rate only (IGST / CGST+SGST total); cess is a separate head
   readonly totalRatePercent: number;
   readonly heads: readonly TaxHeadSpec[];
   readonly discount?: DiscountInput;
@@ -40,6 +42,23 @@ export interface IndiaGstLineAmountsResult {
   readonly roundingDifference: Money;
   readonly finalAmount: Money;
   readonly discount?: AppliedDiscount;
+}
+
+function cessRateFromHeads(heads: readonly TaxHeadSpec[]): number {
+  return heads
+    .filter((h) => h.type === IndiaTaxHead.CESS)
+    .reduce((sum, h) => sum + h.ratePercent, 0);
+}
+
+function cessAmountFromTaxes(taxes: readonly CountryTaxLine[]): number {
+  return roundAmount(
+    sumMoneyAmounts(
+      taxes
+        .filter((t) => t.type === IndiaTaxHead.CESS)
+        .map((t) => t.amount.amount),
+    ),
+    PRECISION,
+  );
 }
 
 function buildHeads(
@@ -80,8 +99,10 @@ function exclusiveOnTaxable(
   finalAmountOverride?: number,
   discount?: AppliedDiscount,
 ): IndiaGstLineAmountsResult {
-  const totalTax = roundAmount((taxableAmount * totalRatePercent) / 100, PRECISION);
   const taxes = buildHeads(taxableAmount, heads, currency);
+  const gstTotal = roundAmount((taxableAmount * totalRatePercent) / 100, PRECISION);
+  const cessAmount = cessAmountFromTaxes(taxes);
+  const totalTax = roundAmount(gstTotal + cessAmount, PRECISION);
   const finalAmount =
     finalAmountOverride !== undefined
       ? roundAmount(finalAmountOverride, PRECISION)
@@ -129,6 +150,32 @@ function solveInclusiveTaxable(
   return { taxableAmount, totalTax };
 }
 
+function extractRate(gstRatePercent: number, heads: readonly TaxHeadSpec[]): number {
+  return gstRatePercent + cessRateFromHeads(heads);
+}
+
+function inclusiveOnGross(
+  gross: number,
+  gstRatePercent: number,
+  heads: readonly TaxHeadSpec[],
+  currency: string,
+  originalAmount: Money,
+): IndiaGstLineAmountsResult {
+  const { taxableAmount, totalTax } = solveInclusiveTaxable(
+    gross,
+    extractRate(gstRatePercent, heads),
+  );
+  const taxes = buildHeads(taxableAmount, heads, currency);
+  return {
+    originalAmount,
+    taxableAmount: money(taxableAmount, currency),
+    taxes,
+    totalTax: money(totalTax, currency),
+    roundingDifference: roundingDifferenceFrom(totalTax, taxes, currency),
+    finalAmount: money(gross, currency),
+  };
+}
+
 function zeroTaxResult(
   lineAmount: number,
   currency: string,
@@ -161,14 +208,15 @@ export function calculateIndiaGstLineAmounts(
   const heads = input.heads;
   const R = input.totalRatePercent;
 
-  if (heads.length === 0 || R === 0) {
+  // Empty heads → no tax lines (NIL/EXEMPT/NON_GST). TAXABLE@0 keeps zero-rate heads.
+  if (heads.length === 0) {
     if (input.discount === undefined) {
       return zeroTaxResult(lineAmount, currency, input.pricingMode);
     }
   }
 
   if (input.discount === undefined) {
-    if (heads.length === 0 || R === 0) {
+    if (heads.length === 0) {
       return zeroTaxResult(lineAmount, currency, input.pricingMode);
     }
 
@@ -176,24 +224,19 @@ export function calculateIndiaGstLineAmounts(
       return exclusiveOnTaxable(lineAmount, R, heads, currency, originalAmount);
     }
 
-    const { taxableAmount, totalTax } = solveInclusiveTaxable(lineAmount, R);
-    const taxes = buildHeads(taxableAmount, heads, currency);
-    return {
-      originalAmount,
-      taxableAmount: money(taxableAmount, currency),
-      taxes,
-      totalTax: money(totalTax, currency),
-      roundingDifference: roundingDifferenceFrom(totalTax, taxes, currency),
-      finalAmount: money(lineAmount, currency),
-    };
+    return inclusiveOnGross(lineAmount, R, heads, currency, originalAmount);
   }
 
   const mode = resolveDiscountMode(input.discount.mode, input.configDiscountMode);
 
   if (mode === DiscountMode.BEFORE_TAX) {
     let preTaxBase: number;
-    if (input.pricingMode === PricingMode.INCLUSIVE && heads.length > 0 && R !== 0) {
-      preTaxBase = solveInclusiveTaxable(lineAmount, R).taxableAmount;
+    if (
+      input.pricingMode === PricingMode.INCLUSIVE &&
+      heads.length > 0 &&
+      extractRate(R, heads) !== 0
+    ) {
+      preTaxBase = solveInclusiveTaxable(lineAmount, extractRate(R, heads)).taxableAmount;
     } else {
       preTaxBase = lineAmount;
     }
@@ -212,7 +255,7 @@ export function calculateIndiaGstLineAmounts(
       amount: money(discountAmount, currency),
     };
 
-    if (heads.length === 0 || R === 0) {
+    if (heads.length === 0) {
       return zeroTaxResult(lineAmount, currency, input.pricingMode, discount, taxable);
     }
 
@@ -229,19 +272,10 @@ export function calculateIndiaGstLineAmounts(
 
   // AFTER_TAX
   let taxed: IndiaGstLineAmountsResult;
-  if (heads.length === 0 || R === 0) {
+  if (heads.length === 0) {
     taxed = zeroTaxResult(lineAmount, currency, input.pricingMode);
   } else if (input.pricingMode === PricingMode.INCLUSIVE) {
-    const { taxableAmount, totalTax } = solveInclusiveTaxable(lineAmount, R);
-    const taxes = buildHeads(taxableAmount, heads, currency);
-    taxed = {
-      originalAmount,
-      taxableAmount: money(taxableAmount, currency),
-      taxes,
-      totalTax: money(totalTax, currency),
-      roundingDifference: roundingDifferenceFrom(totalTax, taxes, currency),
-      finalAmount: money(lineAmount, currency),
-    };
+    taxed = inclusiveOnGross(lineAmount, R, heads, currency, originalAmount);
   } else {
     taxed = exclusiveOnTaxable(lineAmount, R, heads, currency, originalAmount);
   }

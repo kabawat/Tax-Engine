@@ -32,3 +32,18 @@ export function selectIndiaTaxHeads(options: {
 
   return [{ type: IndiaTaxHead.IGST, ratePercent: total }];
 }
+
+// Append ad-valorem CESS when schedule cessRatePercent > 0 (GST heads unchanged)
+export function withIndiaCessHead(
+  heads: readonly TaxHeadSpec[],
+  cessRatePercent: number | undefined,
+): readonly TaxHeadSpec[] {
+  if (
+    cessRatePercent === undefined ||
+    !Number.isFinite(cessRatePercent) ||
+    cessRatePercent <= 0
+  ) {
+    return heads;
+  }
+  return [...heads, { type: IndiaTaxHead.CESS, ratePercent: cessRatePercent }];
+}

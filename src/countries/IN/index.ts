@@ -3,7 +3,12 @@ export { IndiaGSTEngine } from './engine.js';
 export { StateCodeSource as StateCodeSources } from './parties.js';
 export { resolveIndiaParty } from './party-resolution.js';
 export { resolveStateCodeFromGSTIN } from './gstin.js';
-export { selectIndiaTaxHeads } from './tax-heads.js';
+export { selectIndiaTaxHeads, withIndiaCessHead } from './tax-heads.js';
+export {
+  carriesGstHeads,
+  isNilExemptOrNonGst,
+  resolveTaxability,
+} from './taxability.js';
 
 export type {
   IndiaTaxInput,

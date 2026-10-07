@@ -106,6 +106,28 @@ const tax = new Tax('IN', {
 
 Rates may lag CBIC — verify before production use.
 
+### Taxability
+
+Classification comes from the HSN/SAC schedule (`taxability` on the effective rate period). `calculate()` does not accept a caller override; use `validateIndiaGstRate({ taxability })` to assert a match.
+
+| Kind | Meaning | Tax heads |
+|------|---------|-----------|
+| `TAXABLE` | GST supply at schedule slab | CGST+SGST/UTGST or IGST; optional `CESS` |
+| `NIL_RATED` | Nil-rated GST supply | `taxes: []` |
+| `EXEMPT` | Exempt supply | `taxes: []` |
+| `NON_GST` | Outside GST | `taxes: []` |
+| `ZERO_RATED` | Zero-rated label in schedule | `taxes: []` (charge mode still resolved) |
+
+`TAXABLE` at `ratePercent: 0` (custom schedule) emits zero-amount GST heads — not the same as NIL/EXEMPT/NON_GST empty `taxes`.
+
+### Cess
+
+Ad-valorem only via optional schedule `cessRatePercent` on **TAXABLE** periods. Bundled schedule rows currently omit cess; set it on custom/`pickIndiaSchedule` data when known. `totalTax` includes cess; heads are not adjusted for `roundingDifference`. Fixed/quantity cess is not supported.
+
+### Rounding
+
+For multi-head GST, `totalTax` is the combined GST (plus cess when present). Per-head amounts are rounded independently. `roundingDifference = totalTax - sum(taxes.amount)` — usually ±0.01 for CGST+SGST; apps choose how to post it.
+
 ---
 
 ## UAE / US

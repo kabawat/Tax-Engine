@@ -35,8 +35,8 @@ import {
 } from './schedules/index.js';
 import { INDIA_FULL_SCHEDULE_INDEX } from './schedules/full.js';
 import { assertResolvedIndiaRate } from './validate-gst-rate.js';
-import { selectIndiaTaxHeads } from './tax-heads.js';
-import { carriesGstHeads } from './taxability.js';
+import { selectIndiaTaxHeads, withIndiaCessHead } from './tax-heads.js';
+import { carriesGstHeads, isNilExemptOrNonGst } from './taxability.js';
 import { IndiaTaxability } from './types.js';
 
 const ISO_DATE_PATTERN = /^\d{4}-\d{2}-\d{2}$/;
@@ -328,11 +328,7 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
           : {}),
       });
 
-    if (
-      taxability === IndiaTaxability.EXEMPT ||
-      taxability === IndiaTaxability.NIL_RATED ||
-      taxability === IndiaTaxability.NON_GST
-    ) {
+    if (isNilExemptOrNonGst(taxability)) {
       const computed = noTaxLine();
       return {
         country: 'IN',
@@ -402,11 +398,14 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
       };
     }
 
-    const heads = selectIndiaTaxHeads({
-      supplierState: seller.state,
-      placeOfSupplyState: placeOfSupply.state,
-      totalRatePercent: schedule.ratePercent,
-    });
+    const heads = withIndiaCessHead(
+      selectIndiaTaxHeads({
+        supplierState: seller.state,
+        placeOfSupplyState: placeOfSupply.state,
+        totalRatePercent: schedule.ratePercent,
+      }),
+      schedule.cessRatePercent,
+    );
 
     if (heads.length === 0) {
       throw new TaxEngineError('Unable to determine India GST tax heads', {

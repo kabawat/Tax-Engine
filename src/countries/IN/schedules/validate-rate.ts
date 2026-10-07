@@ -122,6 +122,24 @@ export function assertResolvedIndiaRate(
     );
   }
 
+  // Ad-valorem cess is only valid on TAXABLE schedule rows
+  if (
+    resolved.cessRatePercent !== undefined &&
+    taxability !== IndiaTaxability.TAXABLE
+  ) {
+    reject(
+      `cessRatePercent is only allowed for TAXABLE rows (got ${taxability})`,
+      TaxEngineErrorCode.INVALID_TAX_RATE,
+      {
+        ...details,
+        cessRatePercent: resolved.cessRatePercent,
+        taxability,
+        code: resolved.code,
+        kind: resolved.kind,
+      },
+    );
+  }
+
   return resolved;
 }
 
