@@ -32,7 +32,17 @@ export {
   resolveTaxability,
 } from './countries/IN/taxability.js';
 export { selectIndiaTaxHeads, withIndiaCessHead } from './countries/IN/tax-heads.js';
-export { resolveStateCodeFromGSTIN } from './countries/IN/gstin.js';
+export {
+  validateGSTIN,
+  parseGSTIN,
+  getStateFromGSTIN,
+  isValidGSTIN,
+  normalizeGstin,
+  gstinChecksumDigit,
+  resolveStateCodeFromGSTIN,
+  validateGstinFormat,
+  type ParsedGstin,
+} from './countries/IN/gstin.js';
 export type { UaeTaxInput } from './countries/AE/provider.js';
 export type { UsTaxInput } from './countries/US/provider.js';
 

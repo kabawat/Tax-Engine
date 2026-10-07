@@ -9,9 +9,9 @@ import Tax, {
 } from '../src/index.js';
 
 const DATE = '2026-04-01';
-const KA_GSTIN = '29AABCU9603R1Z2';
-const MH_GSTIN = '27AABCU9603R1Z2';
-const CH_GSTIN = '04AABCU9603R1Z2';
+const KA_GSTIN = '29AABCU9603R1ZJ';
+const MH_GSTIN = '27AABCU9603R1ZN';
+const CH_GSTIN = '04AABCU9603R1ZV';
 
 function tax() {
   return new Tax('IN', { stateCodeSource: StateCodeSources.STATE });

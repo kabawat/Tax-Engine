@@ -14,8 +14,10 @@ export function resolveChargeMode(options: {
   readonly seller: ResolvedIndiaParty;
   readonly buyer: ResolvedIndiaParty;
   readonly schedule: ResolvedIndiaScheduleEntry;
+  // Caller/app decides RCM; package does not detect 9(3)/9(4)/9(5)
+  readonly reverseCharge?: boolean;
 }): ChargeDecision {
-  const { seller, buyer, schedule } = options;
+  const { seller, buyer, schedule, reverseCharge } = options;
 
   if (seller.taxpayerType === IndiaTaxpayerType.COMPOSITION) {
     throw new TaxEngineError('Composition scheme supplies are not supported yet', {
@@ -31,10 +33,15 @@ export function resolveChargeMode(options: {
     });
   }
 
-  if (schedule.reverseCharge === true) {
+  // Explicit caller flag, else schedule reverseCharge (backward compatible)
+  const isReverseCharge =
+    reverseCharge === true ||
+    (reverseCharge !== false && schedule.reverseCharge === true);
+
+  if (isReverseCharge) {
     if (!buyer.gstRegistered) {
       throw new TaxEngineError(
-        'Reverse charge schedule entry requires a registered recipient',
+        'Reverse charge requires a registered recipient (buyer GSTIN)',
         {
           code: TaxEngineErrorCode.UNSUPPORTED_CASE,
           details: { code: schedule.code },

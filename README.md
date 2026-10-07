@@ -32,8 +32,8 @@ import Tax from 'tax-engine';
 const tax = new Tax('IN', { stateCodeSource: 'GSTIN' });
 
 const result = tax.calculate({
-  seller: { gstin: '29AABCU9603R1Z2' },
-  buyer: { gstin: '27AABCU9603R1Z2' },
+  seller: { gstin: '29AABCU9603R1ZJ' },
+  buyer: { gstin: '27AABCU9603R1ZN' },
   items: [
     {
       type: 'PRODUCT',
@@ -82,6 +82,19 @@ new Tax('IN', { stateCodeSource: 'STATE' }) // use seller.state / buyer.state (d
 | Registration | GSTIN present → registered |
 | GSTIN vs `state` | mismatch → `INVALID_INPUT` |
 | `items` | non-empty array, same currency |
+| `reverseCharge: true` | Caller RCM context → `REVERSE_CHARGE` / buyer liability; same tax heads/math (no 9(3)/9(4)/9(5) detection) |
+
+### GSTIN utilities
+
+```ts
+import { validateGSTIN, parseGSTIN, getStateFromGSTIN } from 'tax-engine';
+
+validateGSTIN('29aabcu9603r1zj'); // → '29AABCU9603R1ZJ' (trim, case, format, state, checksum)
+parseGSTIN('29AABCU9603R1ZJ');    // state, PAN, entity fields, …
+getStateFromGSTIN('29AABCU9603R1ZJ'); // → 'KA'
+```
+
+Offline only (no GST portal API). Invalid format/state/checksum → `INVALID_INPUT`.
 
 ### Place of supply
 

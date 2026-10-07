@@ -4,8 +4,8 @@ import { createDefaultPlaceOfSupplyRules, matchServiceFamily, resolvePlaceOfSupp
 import { DEFAULT_SERVICE_FAMILY_RULES } from '../src/countries/IN/place-of-supply/service-family-rules.js';
 
 const DATE = '2026-04-01';
-const KA_GSTIN = '29AABCU9603R1Z2';
-const MH_GSTIN = '27AABCU9603R1Z2';
+const KA_GSTIN = '29AABCU9603R1ZJ';
+const MH_GSTIN = '27AABCU9603R1ZN';
 
 function party(state: string, gstin: string) {
   return { state, gstin };
@@ -335,8 +335,8 @@ describe('India place of supply', () => {
 
   it('UT place of supply uses UTGST with CGST', () => {
     const result = tax().calculate({
-      seller: { state: 'CH', gstin: '04AABCU9603R1Z2' },
-      buyer: { state: 'CH', gstin: '04AABCU9603R1Z2' },
+      seller: { state: 'CH', gstin: '04AABCU9603R1ZV' },
+      buyer: { state: 'CH', gstin: '04AABCU9603R1ZV' },
       items: [{
         type: 'PRODUCT',
         hsn: '8471',

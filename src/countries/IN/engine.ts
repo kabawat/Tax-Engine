@@ -297,7 +297,18 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
       this.placeOfSupplyRules,
     );
 
-    const charge = resolveChargeMode({ seller, buyer, schedule });
+    const reverseChargeFlag =
+      item.reverseCharge !== undefined
+        ? item.reverseCharge
+        : input.reverseCharge;
+    const charge = resolveChargeMode({
+      seller,
+      buyer,
+      schedule,
+      ...(reverseChargeFlag !== undefined
+        ? { reverseCharge: reverseChargeFlag }
+        : {}),
+    });
 
     const currency = item.amount.currency;
     const pricingMode = item.pricingMode;

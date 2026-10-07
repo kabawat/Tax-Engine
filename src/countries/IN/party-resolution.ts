@@ -1,5 +1,5 @@
 import { TaxEngineError, TaxEngineErrorCode } from '../../errors/TaxEngineError.js';
-import { hasGstin, resolveStateCodeFromGSTIN, validateGstinFormat } from './gstin.js';
+import { getStateFromGSTIN, hasGstin, validateGSTIN } from './gstin.js';
 import type {
   IndiaParty,
   ResolvedIndiaParty,
@@ -54,8 +54,8 @@ export function resolveIndiaParty(
 
   if (stateCodeSource === Source.GSTIN) {
     if (gstinPresent) {
-      const gstin = validateGstinFormat(party.gstin!);
-      const gstinState = resolveStateCodeFromGSTIN(gstin);
+      const gstin = validateGSTIN(party.gstin!);
+      const gstinState = getStateFromGSTIN(gstin);
       if (providedState !== undefined && providedState !== gstinState) {
         reject('GSTIN state does not match provided state', {
           field: role,
@@ -97,8 +97,8 @@ export function resolveIndiaParty(
   }
 
   if (gstinPresent) {
-    const gstin = validateGstinFormat(party.gstin!);
-    const gstinState = resolveStateCodeFromGSTIN(gstin);
+    const gstin = validateGSTIN(party.gstin!);
+    const gstinState = getStateFromGSTIN(gstin);
     if (gstinState !== providedState) {
       reject('GSTIN state does not match provided state', {
         field: role,

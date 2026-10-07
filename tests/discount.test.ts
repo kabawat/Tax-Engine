@@ -10,7 +10,7 @@ import Tax, {
 } from '../src/index.js';
 
 const DATE = '2026-04-01';
-const KA_GSTIN = '29AABCU9603R1Z2';
+const KA_GSTIN = '29AABCU9603R1ZJ';
 
 function baseInput(discount?: {
   type: 'FIXED' | 'PERCENTAGE';
@@ -139,7 +139,7 @@ describe('discount calculations', () => {
   it('IGST with AFTER_TAX discount', () => {
     const result = new Tax('IN', { stateCodeSource: 'STATE' }).calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
-      buyer: { state: 'MH', gstin: '27AABCU9603R1Z2' },
+      buyer: { state: 'MH', gstin: '27AABCU9603R1ZN' },
       items: [{
         type: 'PRODUCT',
         hsn: '8471',

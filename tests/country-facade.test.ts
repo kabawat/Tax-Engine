@@ -12,9 +12,9 @@ import Tax, {
 } from '../src/index.js';
 
 const DATE = '2026-04-01';
-const KA_GSTIN = '29AABCU9603R1Z2';
-const MH_GSTIN = '27AABCU9603R1Z2';
-const CH_GSTIN = '04AABCU9603R1Z2';
+const KA_GSTIN = '29AABCU9603R1ZJ';
+const MH_GSTIN = '27AABCU9603R1ZN';
+const CH_GSTIN = '04AABCU9603R1ZV';
 
 function productItem(overrides: Record<string, unknown> = {}) {
   return {
@@ -107,14 +107,14 @@ describe('resolveStateCodeFromGSTIN', () => {
   });
 
   it('resolves LD (31) and LA (38)', () => {
-    expect(resolveStateCodeFromGSTIN('31AABCU9603R1Z2')).toBe('LD');
-    expect(resolveStateCodeFromGSTIN('38AABCU9603R1Z2')).toBe('LA');
+    expect(resolveStateCodeFromGSTIN('31AABCU9603R1ZY')).toBe('LD');
+    expect(resolveStateCodeFromGSTIN('38AABCU9603R1ZK')).toBe('LA');
   });
 
   it('rejects invalid format and unknown state digits', () => {
     expectCode(() => resolveStateCodeFromGSTIN('BAD'), TaxEngineErrorCode.INVALID_INPUT);
     expectCode(
-      () => resolveStateCodeFromGSTIN('98AABCU9603R1Z2'),
+      () => resolveStateCodeFromGSTIN('98AABCU9603R1ZE'),
       TaxEngineErrorCode.INVALID_INPUT,
     );
   });

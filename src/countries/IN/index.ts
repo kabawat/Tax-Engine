@@ -2,7 +2,17 @@ export { IndiaTaxProvider } from './provider.js';
 export { IndiaGSTEngine } from './engine.js';
 export { StateCodeSource as StateCodeSources } from './parties.js';
 export { resolveIndiaParty } from './party-resolution.js';
-export { resolveStateCodeFromGSTIN } from './gstin.js';
+export {
+  validateGSTIN,
+  parseGSTIN,
+  getStateFromGSTIN,
+  isValidGSTIN,
+  normalizeGstin,
+  gstinChecksumDigit,
+  resolveStateCodeFromGSTIN,
+  validateGstinFormat,
+  type ParsedGstin,
+} from './gstin.js';
 export { selectIndiaTaxHeads, withIndiaCessHead } from './tax-heads.js';
 export {
   carriesGstHeads,

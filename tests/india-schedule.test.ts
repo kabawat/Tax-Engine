@@ -21,8 +21,8 @@ import {
 } from '../src/countries/IN/schedules/full.js';
 
 const DATE = '2026-04-01';
-const KA_GSTIN = '29AABCU9603R1Z2';
-const MH_GSTIN = '27AABCU9603R1Z2';
+const KA_GSTIN = '29AABCU9603R1ZJ';
+const MH_GSTIN = '27AABCU9603R1ZN';
 
 describe('India schedule index', () => {
   it('resolves codes from the full schedule via Map', () => {

@@ -50,6 +50,7 @@ export interface IndiaItemInput {
   readonly discount?: DiscountInput;
   readonly placeOfSupplyState?: string;
   readonly deliveryState?: string;
+  readonly reverseCharge?: boolean;
 }
 
 export interface IndiaTaxInput {
@@ -58,4 +59,5 @@ export interface IndiaTaxInput {
   readonly items: readonly IndiaItemInput[];
   readonly calculationDate: string;
   readonly documentType?: 'INVOICE' | 'CREDIT_NOTE' | 'DEBIT_NOTE' | 'ADVANCE';
+  readonly reverseCharge?: boolean;
 }

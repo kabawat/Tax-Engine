@@ -16,7 +16,7 @@ import {
 } from '../src/countries/IN/schedules/full.js';
 
 const DATE = '2026-04-01';
-const KA_GSTIN = '29AABCU9603R1Z2';
+const KA_GSTIN = '29AABCU9603R1ZJ';
 
 describe('lazy India schedule index', () => {
   beforeEach(() => {
@@ -92,7 +92,7 @@ describe('lazy India schedule index', () => {
     const tax = new Tax('IN', { stateCodeSource: 'STATE' });
     const result = tax.calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
-      buyer: { state: 'MH', gstin: '27AABCU9603R1Z2' },
+      buyer: { state: 'MH', gstin: '27AABCU9603R1ZN' },
       items: [{
         type: 'PRODUCT',
         hsn: '8471',
