@@ -17,6 +17,7 @@ export interface IndiaScheduleRatePeriod {
   readonly effectiveFrom: string;
   readonly effectiveTo: string | null;
   readonly reverseCharge?: boolean;
+  readonly cessRatePercent?: number;
 }
 
 // One HSN/SAC code → rate history
@@ -37,6 +38,7 @@ export interface ResolvedIndiaScheduleEntry {
   readonly effectiveFrom: string;
   readonly effectiveTo: string | null;
   readonly reverseCharge?: boolean;
+  readonly cessRatePercent?: number;
 }
 
 // O(1) index: kind:code → entry (Map or lazy shards)
@@ -76,6 +78,9 @@ function toResolvedEntry(
     effectiveTo: period.effectiveTo,
     ...(period.reverseCharge !== undefined
       ? { reverseCharge: period.reverseCharge }
+      : {}),
+    ...(period.cessRatePercent !== undefined
+      ? { cessRatePercent: period.cessRatePercent }
       : {}),
   };
 }

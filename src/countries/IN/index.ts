@@ -23,20 +23,26 @@ export {
 } from './types.js';
 
 export {
-  buildScheduleIndex,
+  assertRateHistoryIntegrity,
+  scheduleLookupCandidates,
   resolveScheduleEntry,
-  scheduleLookupKey,
   hsnLookupCandidates,
   sacLookupCandidates,
-  scheduleLookupCandidates,
+  buildScheduleIndex,
+  scheduleLookupKey,
   pickIndiaSchedule,
-  assertRateHistoryIntegrity,
-  type PickIndiaScheduleCodes,
   type IndiaScheduleEntry,
   type IndiaScheduleIndex,
+  type PickIndiaScheduleCodes,
   type IndiaScheduleRatePeriod,
   type ResolvedIndiaScheduleEntry,
 } from './schedules/index.js';
+
+export {
+  validateIndiaGstRate,
+  assertResolvedIndiaRate,
+  type ValidateIndiaGstRateInput,
+} from './validate-gst-rate.js';
 
 export {
   resolvePlaceOfSupply,

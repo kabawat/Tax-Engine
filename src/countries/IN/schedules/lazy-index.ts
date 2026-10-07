@@ -16,12 +16,14 @@ const SHARDS_DIR = path.join(
   'shards',
 );
 
+// Compact: [rate, taxability, from, to, reverseCharge?, cessRatePercent?]
 type CompactRate = readonly [
   ratePercent: number,
   taxability: IndiaScheduleRatePeriod['taxability'],
   effectiveFrom: string,
   effectiveTo: string | null,
-  reverseCharge?: boolean,
+  reverseCharge?: boolean | null,
+  cessRatePercent?: number | null,
 ];
 
 type CompactRow = readonly [
@@ -47,10 +49,14 @@ function inflateRate(rate: CompactRate): IndiaScheduleRatePeriod {
     effectiveFrom: rate[2],
     effectiveTo: rate[3],
   };
-  if (rate.length >= 5 && rate[4] !== undefined) {
-    return { ...period, reverseCharge: rate[4] };
+  const withFlags: IndiaScheduleRatePeriod = { ...period };
+  if (rate.length >= 5 && (rate[4] === true || rate[4] === false)) {
+    Object.assign(withFlags, { reverseCharge: rate[4] });
   }
-  return period;
+  if (rate.length >= 6 && typeof rate[5] === 'number') {
+    Object.assign(withFlags, { cessRatePercent: rate[5] });
+  }
+  return withFlags;
 }
 
 function inflateRow(kind: 'HSN' | 'SAC', row: CompactRow): IndiaScheduleEntry {

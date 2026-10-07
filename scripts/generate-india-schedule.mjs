@@ -18,7 +18,7 @@ const TAXABILITIES = new Set([
   'ZERO_RATED',
 ]);
 
-/** @typedef {{ ratePercent: number, taxability: string, effectiveFrom: string, effectiveTo: string | null, reverseCharge?: boolean }} RatePeriod */
+/** @typedef {{ ratePercent: number, taxability: string, effectiveFrom: string, effectiveTo: string | null, reverseCharge?: boolean, cessRatePercent?: number }} RatePeriod */
 /** @typedef {{ code: string, description?: string, rateHistory: RatePeriod[] }} SourceEntry */
 
 function fail(message) {
@@ -93,6 +93,15 @@ function assertRateHistoryIntegrity(kind, code, history) {
     ) {
       fail(`${kind} ${code}: reverseCharge must be boolean when set`);
     }
+    if (period.cessRatePercent !== undefined) {
+      if (
+        typeof period.cessRatePercent !== 'number' ||
+        !Number.isFinite(period.cessRatePercent) ||
+        period.cessRatePercent < 0
+      ) {
+        fail(`${kind} ${code}: cessRatePercent must be a non-negative finite number`);
+      }
+    }
   }
   const sorted = [...history].sort((a, b) =>
     a.effectiveFrom < b.effectiveFrom ? -1 : a.effectiveFrom > b.effectiveFrom ? 1 : 0,
@@ -128,10 +137,19 @@ function toCompact(entry, kind) {
       period.effectiveFrom,
       period.effectiveTo,
     ];
-    if (period.reverseCharge === true) {
-      row.push(true);
-    } else if (period.reverseCharge === false) {
-      row.push(false);
+    const hasRcm = period.reverseCharge !== undefined;
+    const hasCess = period.cessRatePercent !== undefined;
+    if (hasRcm || hasCess) {
+      if (period.reverseCharge === true) {
+        row.push(true);
+      } else if (period.reverseCharge === false) {
+        row.push(false);
+      } else {
+        row.push(null);
+      }
+      if (hasCess) {
+        row.push(period.cessRatePercent);
+      }
     }
     rates.push(row);
   }

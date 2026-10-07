@@ -1,25 +1,31 @@
 export {
   INDIA_FULL_SCHEDULE,
-  INDIA_FULL_SCHEDULE_INDEX,
   INDIA_FULL_SCHEDULE_META,
+  INDIA_FULL_SCHEDULE_INDEX,
   INDIA_SCHEDULE_INTEGRITY,
-  resetIndiaFullScheduleCaches,
   getLoadedShardIds,
+  resetIndiaFullScheduleCaches,
   type IndiaFullScheduleMeta,
 } from '../countries/IN/schedules/full.js';
 
 export {
-  buildScheduleIndex,
+  assertRateHistoryIntegrity,
+  scheduleLookupCandidates,
   resolveScheduleEntry,
-  scheduleLookupKey,
   hsnLookupCandidates,
   sacLookupCandidates,
-  scheduleLookupCandidates,
+  buildScheduleIndex,
+  scheduleLookupKey,
   pickIndiaSchedule,
-  assertRateHistoryIntegrity,
-  type PickIndiaScheduleCodes,
-  type IndiaScheduleEntry,
   type IndiaScheduleIndex,
+  type IndiaScheduleEntry,
+  type PickIndiaScheduleCodes,
   type IndiaScheduleRatePeriod,
   type ResolvedIndiaScheduleEntry,
 } from '../countries/IN/schedules/index.js';
+
+export {
+  validateIndiaGstRate,
+  assertResolvedIndiaRate,
+  type ValidateIndiaGstRateInput,
+} from '../countries/IN/validate-gst-rate.js';

@@ -32,6 +32,7 @@ import {
   type IndiaScheduleEntry,
 } from './schedules/index.js';
 import { INDIA_FULL_SCHEDULE_INDEX } from './schedules/full.js';
+import { assertResolvedIndiaRate } from './validate-gst-rate.js';
 import { selectIndiaTaxHeads } from './tax-heads.js';
 import { carriesGstHeads } from './taxability.js';
 import { IndiaTaxability } from './types.js';
@@ -286,18 +287,24 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
     index: number,
   ): TaxOutcome {
     const { code, kind } = resolveCodeKind(item, index);
-    const schedule = resolveScheduleEntry(
+    const resolved = resolveScheduleEntry(
       code,
       kind,
       input.calculationDate,
       this.schedule,
     );
-    if (schedule === undefined) {
+    if (resolved === undefined) {
       throw new TaxEngineError(`No India GST schedule entry for ${kind} ${code}`, {
         code: TaxEngineErrorCode.NO_RULE_FOUND,
         details: { kind, code, calculationDate: input.calculationDate, itemIndex: index },
       });
     }
+    const schedule = assertResolvedIndiaRate(resolved, {
+      kind,
+      code,
+      calculationDate: input.calculationDate,
+      itemIndex: index,
+    });
 
     const taxability = schedule.taxability;
     const placeOfSupply = resolvePlaceOfSupply(
