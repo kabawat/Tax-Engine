@@ -104,6 +104,10 @@ export class UaeTaxCalculator implements CountryTaxCalculator<UaeTaxInput> {
         name: line.taxName,
       })),
       totalTax: result.totalTax,
+      roundingDifference: {
+        amount: 0,
+        currency: result.originalAmount.currency,
+      },
       finalAmount: result.finalAmount,
       ...(result.discount !== undefined ? { discount: result.discount } : {}),
       details: { limitedSupport: true },

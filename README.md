@@ -130,6 +130,7 @@ Sample-limited (`details.limitedSupport: true`).
   currency: string
   pricingMode: 'EXCLUSIVE' | 'INCLUSIVE' | 'MIXED'
   originalAmount / taxableAmount / totalTax / finalAmount: Money
+  roundingDifference: Money  // totalTax - sum(taxes.amount); heads not adjusted
   taxes: Array<{ type, rate, taxableBase, amount, name? }>
   lines?: TaxOutcome[]   // India, when items.length > 1
   details?: object

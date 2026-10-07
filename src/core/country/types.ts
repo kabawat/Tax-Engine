@@ -36,6 +36,7 @@ export interface TaxOutcome {
   readonly taxableAmount: Money;
   readonly taxes: readonly CountryTaxLine[];
   readonly totalTax: Money;
+  readonly roundingDifference: Money;
   readonly finalAmount: Money;
   readonly discount?: AppliedDiscount;
   readonly lines?: readonly TaxOutcome[];

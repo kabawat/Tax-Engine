@@ -5,14 +5,16 @@ import {
   type CountryTaxLine,
   type TaxOutcome,
 } from '../../core/country/types.js';
-import { calculateLineWithDiscount } from '../../discount/calculate-with-discount.js';
 import type { DiscountMode } from '../../discount/types.js';
 import { TaxEngineError, TaxEngineErrorCode } from '../../errors/TaxEngineError.js';
 import { PricingMode } from '../../models/pricing-mode.js';
 import type { Money } from '../../models/money.js';
-import { TaxRateBasis, type TaxRule } from '../../models/tax-rule.js';
 import { money, roundAmount, sumMoneyAmounts } from '../../money/operations.js';
 import { resolveChargeMode } from './charge-mode.js';
+import {
+  calculateIndiaGstLineAmounts,
+  computeRoundingDifference,
+} from './gst-line-amounts.js';
 import type {
   IndiaItemInput,
   IndiaTaxConfig,
@@ -140,35 +142,6 @@ function resolveCodeKind(
   return { code: item.sac.trim(), kind: 'SAC' };
 }
 
-function toSyntheticRules(
-  heads: readonly { type: string; ratePercent: number }[],
-): TaxRule[] {
-  return heads.map((head, index) => ({
-    id: `in-${head.type.toLowerCase()}-${index}`,
-    name: head.type,
-    taxType: head.type,
-    rate: { value: head.ratePercent, basis: TaxRateBasis.PERCENTAGE },
-    category: 'GENERAL',
-    jurisdiction: { country: 'IN' },
-    effective: { effectiveFrom: '2017-07-01' },
-    priority: index + 1,
-    compound: { isCompound: false },
-    taxableBase: {},
-  }));
-}
-
-function toOutcomeTaxes(
-  taxes: ReturnType<typeof calculateLineWithDiscount>['taxes'],
-): TaxOutcome['taxes'] {
-  return taxes.map((line) => ({
-    type: String(line.taxType),
-    rate: line.rate.value,
-    taxableBase: line.taxableBase,
-    amount: line.taxAmount,
-    name: line.taxName,
-  }));
-}
-
 function sumMoney(values: readonly Money[], currency: string): Money {
   return money(
     roundAmount(sumMoneyAmounts(values.map((v) => v.amount))),
@@ -210,6 +183,10 @@ function sameOrMixed(values: readonly string[]): string {
   return values.every((v) => v === first) ? first : 'MIXED';
 }
 
+function zeroRounding(currency: string): Money {
+  return money(0, currency);
+}
+
 export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
   readonly country = 'IN';
   private readonly stateCodeSource: StateCodeSource;
@@ -241,6 +218,12 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
     }
 
     const currency = lines[0]!.currency;
+    const taxes = mergeTaxes(lines, currency);
+    const totalTax = sumMoney(
+      lines.map((l) => l.totalTax),
+      currency,
+    );
+
     return {
       country: 'IN',
       taxability: sameOrMixed(lines.map((l) => l.taxability)),
@@ -258,11 +241,9 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
         lines.map((l) => l.taxableAmount),
         currency,
       ),
-      taxes: mergeTaxes(lines, currency),
-      totalTax: sumMoney(
-        lines.map((l) => l.totalTax),
-        currency,
-      ),
+      taxes,
+      totalTax,
+      roundingDifference: computeRoundingDifference(totalTax, taxes),
       finalAmount: sumMoney(
         lines.map((l) => l.finalAmount),
         currency,
@@ -333,15 +314,14 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
       itemIndex: index,
     };
 
-    const lineCalc = (rules: readonly TaxRule[]) =>
-      calculateLineWithDiscount({
+    const noTaxLine = () =>
+      calculateIndiaGstLineAmounts({
         amount: item.amount.amount,
-        currency,
         quantity: item.quantity,
+        currency,
         pricingMode,
-        rules,
-        calculationDate: input.calculationDate,
-        itemType: item.type,
+        totalRatePercent: 0,
+        heads: [],
         ...(item.discount !== undefined ? { discount: item.discount } : {}),
         ...(this.discountMode !== undefined
           ? { configDiscountMode: this.discountMode }
@@ -353,7 +333,7 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
       taxability === IndiaTaxability.NIL_RATED ||
       taxability === IndiaTaxability.NON_GST
     ) {
-      const computed = lineCalc([]);
+      const computed = noTaxLine();
       return {
         country: 'IN',
         taxability,
@@ -365,6 +345,7 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
         taxableAmount: computed.taxableAmount,
         taxes: [],
         totalTax: computed.totalTax,
+        roundingDifference: zeroRounding(currency),
         finalAmount: computed.finalAmount,
         ...(computed.discount !== undefined ? { discount: computed.discount } : {}),
         details: baseDetails,
@@ -372,7 +353,7 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
     }
 
     if (taxability === IndiaTaxability.ZERO_RATED) {
-      const computed = lineCalc([]);
+      const computed = noTaxLine();
       return {
         country: 'IN',
         taxability,
@@ -384,6 +365,7 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
         taxableAmount: computed.taxableAmount,
         taxes: [],
         totalTax: computed.totalTax,
+        roundingDifference: zeroRounding(currency),
         finalAmount: computed.finalAmount,
         ...(computed.discount !== undefined ? { discount: computed.discount } : {}),
         details: baseDetails,
@@ -398,7 +380,7 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
     }
 
     if (!charge.levyTax) {
-      const computed = lineCalc([]);
+      const computed = noTaxLine();
       return {
         country: 'IN',
         taxability: IndiaTaxability.TAXABLE,
@@ -410,6 +392,7 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
         taxableAmount: computed.taxableAmount,
         taxes: [],
         totalTax: computed.totalTax,
+        roundingDifference: zeroRounding(currency),
         finalAmount: computed.finalAmount,
         ...(computed.discount !== undefined ? { discount: computed.discount } : {}),
         details: {
@@ -432,7 +415,18 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
       });
     }
 
-    const computed = lineCalc(toSyntheticRules(heads));
+    const computed = calculateIndiaGstLineAmounts({
+      amount: item.amount.amount,
+      quantity: item.quantity,
+      currency,
+      pricingMode,
+      totalRatePercent: schedule.ratePercent,
+      heads,
+      ...(item.discount !== undefined ? { discount: item.discount } : {}),
+      ...(this.discountMode !== undefined
+        ? { configDiscountMode: this.discountMode }
+        : {}),
+    });
 
     return {
       country: 'IN',
@@ -443,8 +437,9 @@ export class IndiaGSTEngine implements CountryTaxCalculator<IndiaTaxInput> {
       pricingMode,
       originalAmount: computed.originalAmount,
       taxableAmount: computed.taxableAmount,
-      taxes: toOutcomeTaxes(computed.taxes),
+      taxes: computed.taxes,
       totalTax: computed.totalTax,
+      roundingDifference: computed.roundingDifference,
       finalAmount: computed.finalAmount,
       ...(computed.discount !== undefined ? { discount: computed.discount } : {}),
       details: {
