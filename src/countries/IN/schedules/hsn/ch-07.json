@@ -836,12 +836,6 @@
             "description": "VEGETABLES (UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER), FROZEN",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2019-01-01",
@@ -1057,12 +1051,6 @@
             "code": "0711",
             "description": "VEGETABLES PROVISIONALLY PRESERVED (FOR EXAMPLE, BY SULPHUR DIOXIDE GAS, IN BRINE, IN SULPHUR WATER OR IN OTHER PRESERVATIVE SOLUTIONS), BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",

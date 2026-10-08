@@ -1394,12 +1394,6 @@
             "description": "MEAT AND EDIBLEMEAT OFFAL, SALTED, INBRINE, DRIED OR SMOKED;EDIBLE FLOURS AND MEALS OF MEAT OR MEAT OFFAL-OTHER, INCLUDING EDIBLE FLOURS AND MEALS OF MEAT OR MEAT OFFAL : OF WHALES, DOLPHINS AND PORPOISES(MAMMALS OF THE ORDER CATECEA); OF MANATEES AND DUG",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",

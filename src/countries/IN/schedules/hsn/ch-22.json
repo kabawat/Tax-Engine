@@ -8,8 +8,8 @@
             "description": "Drinking water packed in 20 litres bottle",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2018-01-24"
                 },
@@ -131,7 +131,7 @@
         },
         {
             "code": "2202",
-            "description": "WATERS, INCLUDING MINERAL WATERS AND AERATED WATERS, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR FLAVOURED, AND OTHER NON-ALCOHOLIC BEVERAGES, NOT INCLUDING FRUIT OR VEGETABLE JUICES OF HEADING 2009",
+            "description": "Carbonated Beverages of Fruit Drink or Carbonated Beverages\nwith Fruit Juice.",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -158,12 +158,6 @@
             "description": "WATERS, INCLUDING MINERAL WATERS ANDAERATED WATERS, CONTAINING ADDED SUGAROR OTHER SWEETENING MATTER OR FLAVOURED,AND OTHER NON - ALCOHOLIC BEVERAGES, NOTINCLUDING FRUIT OR VEGETABLE JUICES OFHEADING 2009 - WATERS, INCLUDING MINERAL WATERS AND AERATEDWATE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -181,12 +175,6 @@
             "code": "22021020",
             "description": "WATERS, INCLUDING MINERAL WATERS ANDAERATED WATERS, CONTAINING ADDED SUGAROR OTHER SWEETENING MATTER OR FLAVOURED,AND OTHER NON - ALCOHOLIC BEVERAGES, NOTINCLUDING FRUIT OR VEGETABLE JUICES OFHEADING 2009 - WATERS, INCLUDING MINERAL WATERS AND AERATEDWATE",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
@@ -206,12 +194,6 @@
             "description": "WATERS, INCLUDING MINERAL WATERS ANDAERATED WATERS, CONTAINING ADDED SUGAROR OTHER SWEETENING MATTER OR FLAVOURED,AND OTHER NON - ALCOHOLIC BEVERAGES, NOTINCLUDING FRUIT OR VEGETABLE JUICES OFHEADING 2009 - WATERS, INCLUDING MINERAL WATERS AND AERATEDWATE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -229,12 +211,6 @@
             "code": "22029010",
             "description": "WATERS, INCLUDING MINERAL WATERS ANDAERATED WATERS, CONTAINING ADDED SUGAROR OTHER SWEETENING MATTER OR FLAVOURED,AND OTHER NON - ALCOHOLIC BEVERAGES, NOTINCLUDING FRUIT OR VEGETABLE JUICES OFHEADING 2009 - OTHER : SOYA MILK DRINKS, WHETHER OR NOT SWEETEN",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
@@ -254,12 +230,6 @@
             "description": "WATERS, INCLUDING MINERAL WATERS ANDAERATED WATERS, CONTAINING ADDED SUGAROR OTHER SWEETENING MATTER OR FLAVOURED,AND OTHER NON - ALCOHOLIC BEVERAGES, NOTINCLUDING FRUIT OR VEGETABLE JUICES OFHEADING 2009 - OTHER : FRUIT PULP OR FRUIT JUICE BASED DRINKS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -277,12 +247,6 @@
             "code": "22029030",
             "description": "WATERS, INCLUDING MINERAL WATERS ANDAERATED WATERS, CONTAINING ADDED SUGAROR OTHER SWEETENING MATTER OR FLAVOURED,AND OTHER NON - ALCOHOLIC BEVERAGES, NOTINCLUDING FRUIT OR VEGETABLE JUICES OFHEADING 2009 - OTHER : BEVERAGES CONTAINING MILK",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
@@ -302,12 +266,6 @@
             "description": "OTHER NON-ALCOHOLIC BEVERAGES [OTHER THAN TENDER COCONUT WATER]",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -323,14 +281,8 @@
         },
         {
             "code": "220299",
-            "description": "OTHER",
+            "description": "OTHER (Other non-alcoholic beverages)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
@@ -365,7 +317,7 @@
         },
         {
             "code": "22029920",
-            "description": "FRUIT PULP OR FRUIT JUICE BASED DRINKS",
+            "description": "FRUIT PULP OR FRUIT JUICE BASED DRINKS(other than\nCarbonated Beverages of Fruit Drink or Carbonated\nBeverages with Fruit Juice)",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -401,14 +353,8 @@
         },
         {
             "code": "22029990",
-            "description": "WATERS, INCLUDING MINERAL WATERS AND AERATED WATERS, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR FLAVOURED, AND OTHER NON-ALCOHOLIC BEVERAGES, NOT INCLUDING FRUIT OR VEGETABLE JUICES OF HEADING 2009(Other non-alcoholic beverages [other than tender coconut water and caffeinated beverages])",
+            "description": "WATERS, INCLUDING MINERAL WATERS AND AERATED WATERS, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR FLAVOURED, AND OTHER NON-ALCOHOLIC BEVERAGES, NOT INCLUDING FRUIT OR VEGETABLE JUICES OF HEADING 2009(Caffeinated Beverages)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",

@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "999111",
-            "description": "",
+            "description": "OVERALL GOVERNMENT PUBLIC SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -17,7 +17,7 @@
         },
         {
             "code": "999112",
-            "description": "",
+            "description": "PUBLIC ADMINISTRATIVE SERVICES RELATED TO THE PROVISION OF EDUCATIONAL, HEALTH CARE, CULTURAL AND OTHER SOCIAL SERVICES, EXCLUDING SOCIAL SECURITY SERVICE.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -29,7 +29,7 @@
         },
         {
             "code": "999113",
-            "description": "",
+            "description": "PUBLIC ADMINISTRATIVE SERVICES RELATED TO THE MORE EFFICIENT OPERATION OF BUSINESS.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -41,7 +41,7 @@
         },
         {
             "code": "999119",
-            "description": "",
+            "description": "OTHER ADMINISTRATIVE SERVICES OF THE GOVERNMENT N.E.C.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -53,7 +53,7 @@
         },
         {
             "code": "999121",
-            "description": "",
+            "description": "PUBLIC ADMINISTRATIVE SERVICES RELATED TO EXTERNAL AFFAIRS, DIPLOMATIC AND CONSULAR SERVICES ABROAD.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -65,7 +65,7 @@
         },
         {
             "code": "999122",
-            "description": "",
+            "description": "SERVICES RELATED TO FOREIGN ECONOMIC AID",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -77,7 +77,7 @@
         },
         {
             "code": "999123",
-            "description": "",
+            "description": "SERVICES RELATED TO FOREIGN MILITARY AID",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -89,7 +89,7 @@
         },
         {
             "code": "999124",
-            "description": "",
+            "description": "MILITARY DEFENCE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -101,7 +101,7 @@
         },
         {
             "code": "999125",
-            "description": "",
+            "description": "CIVIL DEFENCE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -113,7 +113,7 @@
         },
         {
             "code": "999126",
-            "description": "",
+            "description": "POLICE AND FIRE PROTECTION SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -125,7 +125,7 @@
         },
         {
             "code": "999127",
-            "description": "",
+            "description": "PUBLIC ADMINISTRATIVE SERVICES RELATED TO LAW COURTS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -137,7 +137,7 @@
         },
         {
             "code": "999128",
-            "description": "",
+            "description": "ADMINISTRATIVE SERVICES RELATED TO THE DETENTION OR REHABILITATION OF CRIMINALS.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -149,7 +149,7 @@
         },
         {
             "code": "999129",
-            "description": "",
+            "description": "PUBLIC ADMINISTRATIVE SERVICES RELATED TO OTHER PUBLIC ORDER AND SAFETY AFFAIRS N.E.C.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -161,7 +161,7 @@
         },
         {
             "code": "999131",
-            "description": "",
+            "description": "ADMINISTRATIVE SERVICES RELATED TO SICKNESS, MATERNITY OR TEMPORARY DISABLEMENT BENEFIT SCHEMES.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -173,7 +173,7 @@
         },
         {
             "code": "999132",
-            "description": "",
+            "description": "ADMINISTRATIVE SERVICES RELATED TO GOVERNMENT EMPLOYEE PENSION SCHEMES; OLD-AGE DISABILITY OR SURVIVORS' BENEFIT SCHEMES, OTHER THAN FOR GOVERNMENT EMPLOYEES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -185,7 +185,7 @@
         },
         {
             "code": "999133",
-            "description": "",
+            "description": "ADMINISTRATIVE SERVICES RELATED TO UNEMPLOYMENT COMPENSATION BENEFIT SCHEMES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -197,7 +197,7 @@
         },
         {
             "code": "999134",
-            "description": "",
+            "description": "ADMINISTRATIVE SERVICES RELATED TO FAMILY AND CHILD ALLOWANCE PROGRAMMES",
             "rateHistory": [
                 {
                     "ratePercent": 18,

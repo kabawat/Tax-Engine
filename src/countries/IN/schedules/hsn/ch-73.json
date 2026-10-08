@@ -3734,7 +3734,7 @@
             "description": "Kerosene burners, kerosene stoves and wood burning stoves of iron or steel",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
@@ -4052,12 +4052,6 @@
             "description": "RADIATORS FOR CENTRAL HEATING, NOT ELECTRICALLY HEATED, AND PARTS THEREOF, OF IRON OR STEEL; AIR HEATERS AND HOT AIR DISTRIBUTORS (INCLUDING DISTRIBUTORS WHICH CAN ALSO DISTRIBUTE FRESH OR CONDITIONED AIR), NOT ELECTRICALLY HEATED, INCORPORATING A MOTORDR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4069,12 +4063,6 @@
             "code": "732211",
             "description": "RADIATORS FOR CENTRAL HEATING, NOT ELECTRICALLY HEATED, AND PARTS THEREOF, OF IRON OR STEEL; AIR HEATERS AND HOT AIR DISTRIBUTORS (INCLUDING DISTRIBUTORS WHICH CAN ALSO DISTRIBUTE FRESH OR CONDITIONED AIR), NOT ELECTRICALLY HEATED, INCORPORATING A MOTOR-D",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4088,12 +4076,6 @@
             "description": "RADIATORS FOR CENTRAL HEATING, NOT ELECTRICALLY HEATED, AND PARTS THEREOF, OF IRON OR STEEL; AIR HEATERS AND HOT AIR DISTRIBUTORS (INCLUDING DISTRIBUTORS WHICH CAN ALSO DISTRIBUTE FRESH OR CONDITIONED AIR), NOT ELECTRICALLY HEATED, INCORPORATING A MOTOR-D",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4105,12 +4087,6 @@
             "code": "732219",
             "description": "RADIATORS FOR CENTRAL HEATING, NOT ELECTRICALLY HEATED, AND PARTS THEREOF, OF IRON OR STEEL; AIR HEATERS AND HOT AIR DISTRIBUTORS (INCLUDING DISTRIBUTORS WHICH CAN ALSO DISTRIBUTE FRESH OR CONDITIONED AIR), NOT ELECTRICALLY HEATED, INCORPORATING A MOTOR-D",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4124,12 +4100,6 @@
             "description": "RADIATORS FOR CENTRAL HEATING, NOT ELECTRICALLY HEATED, AND PARTS THEREOF, OF IRON OR STEEL; AIR HEATERS AND HOT AIR DISTRIBUTORS (INCLUDING DISTRIBUTORS WHICH CAN ALSO DISTRIBUTE FRESH OR CONDITIONED AIR), NOT ELECTRICALLY HEATED, INCORPORATING A MOTOR-D",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4141,12 +4111,6 @@
             "code": "732290",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4160,12 +4124,6 @@
             "description": "RADIATORS FOR CENTRAL HEATING, NOT ELECTRICALLY HEATED, AND PARTS THEREOF, OF IRON OR STEEL; AIR HEATERS AND HOT AIR DISTRIBUTORS (INCLUDING DISTRIBUTORS WHICH CAN ALSO DISTRIBUTE FRESH OR CONDITIONED AIR), NOT ELECTRICALLY HEATED, INCORPORATING A MOTOR-D",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4177,12 +4135,6 @@
             "code": "73229090",
             "description": "RADIATORS FOR CENTRAL HEATING, NOT ELECTRICALLY HEATED, AND PARTS THEREOF, OF IRON OR STEEL; AIR HEATERS AND HOT AIR DISTRIBUTORS (INCLUDING DISTRIBUTORS WHICH CAN ALSO DISTRIBUTE FRESH OR CONDITIONED AIR), NOT ELECTRICALLY HEATED, INCORPORATING A MOTOR-D",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4418,12 +4370,6 @@
             "description": "SANITARY WARE AND PARTS THEREOF, OF IRON OR STEEL",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-01-24"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-01-25",
@@ -4435,12 +4381,6 @@
             "code": "732410",
             "description": "SANITARY WARE AND PARTS THEREOF, OF IRON OR STEEL - SINKS AND WASH BASINS, OF STAINLESS STEEL",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-01-24"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4454,12 +4394,6 @@
             "description": "SANITARY WARE AND PARTS THEREOF, OF IRON OR STEEL - SINKS AND WASH BASINS, OF STAINLESS STEEL",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-01-24"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-01-25",
@@ -4471,12 +4405,6 @@
             "code": "732421",
             "description": "SANITARY WARE AND PARTS THEREOF, OF IRON OR STEEL - BATHS : OF CAST IRON, WHETHER OR NOT ENAMELLED",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-01-24"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4490,12 +4418,6 @@
             "description": "SANITARY WARE AND PARTS THEREOF, OF IRON OR STEEL - BATHS : OF CAST IRON, WHETHER OR NOT ENAMELLED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-01-24"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-01-25",
@@ -4507,12 +4429,6 @@
             "code": "732429",
             "description": "SANITARY WARE AND PARTS THEREOF, OF IRON OR STEEL - BATHS : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-01-24"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4526,12 +4442,6 @@
             "description": "SANITARY WARE AND PARTS THEREOF, OF IRON OR STEEL - BATHS : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-01-24"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-01-25",
@@ -4544,12 +4454,6 @@
             "description": "SANITARY WARE AND PARTS THEREOF, OF IRON OR STEEL - OTHER, INCLUDING PARTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-01-24"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-01-25",
@@ -4561,12 +4465,6 @@
             "code": "73249000",
             "description": "SANITARY WARE AND PARTS THEREOF, OF IRON OR STEEL - OTHER, INCLUDING PARTS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-01-24"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",

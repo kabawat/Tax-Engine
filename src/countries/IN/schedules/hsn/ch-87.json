@@ -8,7 +8,7 @@
             "description": "TRACTORS (OTHER THAN TRACTORS OF HEADING 8709)(tractors)",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
+                    "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
@@ -353,6 +353,12 @@
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -1895,7 +1901,7 @@
         },
         {
             "code": "870370",
-            "description": "OTHER VEHICLES, WITH BOTH COMPRESSION-IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-DIESEL) AND ELECTRIC MOTOR AS MOTORS FOR PROPULSION, CAPABLE OF BEING CHARGED BY PLUGGING TO EXTERNAL SOURCE OF ELECTRIC POWER",
+            "description": "OTHER VEHICLES, WITH BOTH COMPRESSION-IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-DIESEL) AND ELECTRIC MOTOR AS MOTORS FOR PROPULSION, CAPABLE OF BEING CHARGED BY PLUGGING TO EXTERNAL SOURCE OF ELECTRIC POWER/Motor vehicles with both compression-ignition internal combustion\npiston engine [diesel-or semi diesel] and electric motor as motors for\npropulsion, of engine capacity not exceeding 1500 cc and of length not\nexceeding 4000 mm",
             "rateHistory": [
                 {
                     "ratePercent": 28,
@@ -2060,7 +2066,7 @@
             "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
@@ -2546,12 +2552,6 @@
             "description": "SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RADIOL",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -2563,12 +2563,6 @@
             "code": "870510",
             "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2582,12 +2576,6 @@
             "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -2599,12 +2587,6 @@
             "code": "870520",
             "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2618,12 +2600,6 @@
             "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -2635,12 +2611,6 @@
             "code": "870530",
             "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2654,12 +2624,6 @@
             "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -2671,12 +2635,6 @@
             "code": "870540",
             "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2690,12 +2648,6 @@
             "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -2708,12 +2660,6 @@
             "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -2725,12 +2671,6 @@
             "code": "87059000",
             "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3074,12 +3014,6 @@
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 BUMPERS AND PARTS THEREOF FOR TRACTORS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-08-18",
@@ -3176,12 +3110,6 @@
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - BRAKES AND SERVO-BRAKES ; PARTS THEREOF",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-08-18",
@@ -3193,12 +3121,6 @@
             "code": "87083000",
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - BRAKES AND SERVO-BRAKES ; PARTS THEREOF",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3218,12 +3140,6 @@
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - GEAR BOXES AND PARTS THEREOF",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-08-18",
@@ -3235,12 +3151,6 @@
             "code": "87084000",
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - GEAR BOXES AND PARTS THEREOF",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3260,12 +3170,6 @@
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - ROAD WHEELS AND PARTS AND ACCESSORIES THEREOF",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-08-18",
@@ -3277,12 +3181,6 @@
             "code": "87087000",
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - ROAD WHEELS AND PARTS AND ACCESSORIES THEREOF",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3302,12 +3200,6 @@
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- RADIATORS AND PARTS THEREOF",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-08-18",
@@ -3319,12 +3211,6 @@
             "code": "87089100",
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- RADIATORS AND PARTS THEREOF",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3344,12 +3230,6 @@
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- SILENCERS (MUFFLERS) AND EXHAUST PIPES; PARTS THEREOF",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-08-18",
@@ -3361,12 +3241,6 @@
             "code": "87089200",
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- SILENCERS (MUFFLERS) AND EXHAUST PIPES; PARTS THEREOF",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3386,12 +3260,6 @@
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- CLUTCHES AND PARTS THEREOF",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-08-18",
@@ -3403,12 +3271,6 @@
             "code": "87089300",
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- CLUTCHES AND PARTS THEREOF",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3458,12 +3320,6 @@
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-08-18",
@@ -3475,12 +3331,6 @@
             "code": "87089900",
             "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-08-17"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3500,12 +3350,6 @@
             "description": "WORKS TRUCKS, SELF-PROPELLED, NOT FITTED WITH LIFTING OR HANDLING EQUIPMENT, OF THE TYPE USED IN FACTORIES, WAREHOUSES, DOCK AREAS OR AIRPORTS FOR SHORT DISTANCE TRANSPORT OF GOODS; TRACTORS OF THE TYPE USED ON RAILWAY STATION PLATFORMS; PARTS OF THE FORE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -3517,12 +3361,6 @@
             "code": "870911",
             "description": "WORKS TRUCKS, SELF-PROPELLED, NOT FITTED WITH LIFTING OR HANDLING EQUIPMENT, OF THE TYPE USED IN FACTORIES, WAREHOUSES, DOCK AREAS OR AIRPORTS FOR SHORT DISTANCE TRANSPORT OF GOODS; TRACTORS OF THE TYPE USED ON RAILWAY STATION PLATFORMS; PARTS OF THE FORE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3536,12 +3374,6 @@
             "description": "WORKS TRUCKS, SELF-PROPELLED, NOT FITTED WITH LIFTING OR HANDLING EQUIPMENT, OF THE TYPE USED IN FACTORIES, WAREHOUSES, DOCK AREAS OR AIRPORTS FOR SHORT DISTANCE TRANSPORT OF GOODS; TRACTORS OF THE TYPE USED ON RAILWAY STATION PLATFORMS; PARTS OF THE FORE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -3553,12 +3385,6 @@
             "code": "870919",
             "description": "WORKS TRUCKS, SELF-PROPELLED, NOT FITTED WITH LIFTING OR HANDLING EQUIPMENT, OF THE TYPE USED IN FACTORIES, WAREHOUSES, DOCK AREAS OR AIRPORTS FOR SHORT DISTANCE TRANSPORT OF GOODS; TRACTORS OF THE TYPE USED ON RAILWAY STATION PLATFORMS; PARTS OF THE FORE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3572,12 +3398,6 @@
             "description": "WORKS TRUCKS, SELF-PROPELLED, NOT FITTED WITH LIFTING OR HANDLING EQUIPMENT, OF THE TYPE USED IN FACTORIES, WAREHOUSES, DOCK AREAS OR AIRPORTS FOR SHORT DISTANCE TRANSPORT OF GOODS; TRACTORS OF THE TYPE USED ON RAILWAY STATION PLATFORMS; PARTS OF THE FORE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -3589,12 +3409,6 @@
             "code": "870990",
             "description": "WORKS TRUCKS, SELF-PROPELLED, NOT FITTED WITH LIFTING OR HANDLING EQUIPMENT, OF THE TYPE USED IN FACTORIES, WAREHOUSES, DOCK AREAS OR AIRPORTS FOR SHORT DISTANCE TRANSPORT OF GOODS; TRACTORS OF THE TYPE USED ON RAILWAY STATION PLATFORMS; PARTS OF THE FORE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3608,12 +3422,6 @@
             "description": "WORKS TRUCKS, SELF-PROPELLED, NOT FITTED WITH LIFTING OR HANDLING EQUIPMENT, OF THE TYPE USED IN FACTORIES, WAREHOUSES, DOCK AREAS OR AIRPORTS FOR SHORT DISTANCE TRANSPORT OF GOODS; TRACTORS OF THE TYPE USED ON RAILWAY STATION PLATFORMS; PARTS OF THE FORE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -3625,12 +3433,6 @@
             "code": "8710",
             "description": "TANKS AND OTHER ARMOURED FIGHTING VEHICLES, MOTORISED, WHETHER OR NOT FITTED WITH WEAPONS, AND PARTS OF SUCH VEHICLES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -3650,12 +3452,6 @@
             "description": "TANKS AND OTHER ARMOURED FIGHTING VEHICLES, MOTORISED, WHETHER OR NOT FITTED WITH WEAPONS, AND PARTS OF SUCH VEHICLES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3671,7 +3467,7 @@
         },
         {
             "code": "8711",
-            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS;",
+            "description": "Motorcycles of engine capacity (including mopeds) and cycles fitted\nwith an auxiliary motor, with or without side-cars, of an engine\ncapacity not exceeding 350cc; side cars",
             "rateHistory": [
                 {
                     "ratePercent": 28,
@@ -4334,12 +4130,6 @@
             "description": "OF CARRIAGES FOR DISABLED PERSONS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -4784,12 +4574,6 @@
             "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4801,12 +4585,6 @@
             "code": "871610",
             "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF TRAILERS AND SEMI-TRAILERS OF THE CARAVAN TYPE, FOR HOUSING OR CAMPING",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4820,12 +4598,6 @@
             "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF TRAILERS AND SEMI-TRAILERS OF THE CARAVAN TYPE, FOR HOUSING OR CAMPING",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4837,12 +4609,6 @@
             "code": "871631",
             "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER TRAILERS AND SEMI-TRAILERS FOR THE TRANSPORT OF GOODS : TANKER TRAILERS AND TANKER SEMI-TRAILERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4856,12 +4622,6 @@
             "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER TRAILERS AND SEMI-TRAILERS FOR THE TRANSPORT OF GOODS : TANKER TRAILERS AND TANKER SEMI-TRAILERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4873,12 +4633,6 @@
             "code": "871639",
             "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER TRAILERS AND SEMI-TRAILERS FOR THE TRANSPORT OF GOODS : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4892,12 +4646,6 @@
             "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER TRAILERS AND SEMI-TRAILERS FOR THE TRANSPORT OF GOODS : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4910,12 +4658,6 @@
             "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER TRAILERS AND SEMI-TRAILERS FOR THE TRANSPORT OF GOODS : OTHER TRAILERS AND SEMI-TRAILERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4927,12 +4669,6 @@
             "code": "87164000",
             "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER TRAILERS AND SEMI-TRAILERS FOR THE TRANSPORT OF GOODS : OTHER TRAILERS AND SEMI-TRAILERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4964,12 +4700,6 @@
             "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER VEHICLES HAND PROPELLED VEHICLES (E.G. HAND CARTS, RICKSHAWS AND THE LIKE)",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4987,12 +4717,6 @@
             "code": "87168020",
             "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER VEHICLES ANIMAL DRAWN VEHICLES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -5012,12 +4736,6 @@
             "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER VEHICLES OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -5036,12 +4754,6 @@
             "description": "PARTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -5054,12 +4766,6 @@
             "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF PARTS : PARTS AND ACCESSORIES OF TRAILERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -5071,12 +4777,6 @@
             "code": "87169090",
             "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF PARTS OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",

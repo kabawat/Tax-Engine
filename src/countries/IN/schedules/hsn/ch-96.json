@@ -5,14 +5,8 @@
     "entries": [
         {
             "code": "9601",
-            "description": "Worked corals other than articles of coral",
+            "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING)",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -23,6 +17,12 @@
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -31,12 +31,6 @@
             "code": "960110",
             "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING) WORKED IVORY AND ARTICLES OF IVORY",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -49,12 +43,6 @@
             "code": "96011000",
             "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING) WORKED IVORY AND ARTICLES OF IVORY",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -74,12 +62,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
@@ -97,12 +79,6 @@
             "code": "96019010",
             "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING) - OTHER : WORKED TORTOISE-SHELL AND ARTICLES THEREOF",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -122,12 +98,6 @@
             "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING) - OTHER : WORKED MOTHER-OF-PEARL AND ARTICLES THEREOF",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
@@ -145,12 +115,6 @@
             "code": "96019030",
             "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING) - OTHER : WORKED BONE (EXCLUDING WHALE BONE) AND ARTICLES THEREOF",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -170,12 +134,6 @@
             "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING) - OTHER : WORKED HORN, CORAL AND OTHER ANIMAL CARVING MATERIAL AND ARTIC",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
@@ -193,12 +151,6 @@
             "code": "96019090",
             "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING) - OTHER : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -218,12 +170,6 @@
             "description": "WORKED VEGETABLE OR MINERAL CARVING MATERIAL AND ARTICLES OF THESE MATERIALS MOULDED OR CARVED ARTICLES OF WAX, OF STEARIN, OF NATURAL GUMS OR NATURAL RESINS OR OF MODELLING PASTES, AND OTHER MOULDED OR CARVED ARTICLES, NOT ELSEWHERE SPECIFIED OR INCLUDED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -241,12 +187,6 @@
             "code": "96020010",
             "description": "WORKED VEGETABLE OR MINERAL CARVING MATERIAL AND ARTICLES OF THESE MATERIALS MOULDED OR CARVED ARTICLES OF WAX, OF STEARIN, OF NATURAL GUMS OR NATURAL RESINS OR OF MODELLING PASTES, AND OTHER MOULDED OR CARVED ARTICLES, NOT ELSEWHERE SPECIFIED OR INCLUDED",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -266,12 +206,6 @@
             "description": "WORKED VEGETABLE OR MINERAL CARVING MATERIAL AND ARTICLES OF THESE MATERIALS MOULDED OR CARVED ARTICLES OF WAX, OF STEARIN, OF NATURAL GUMS OR NATURAL RESINS OR OF MODELLING PASTES, AND OTHER MOULDED OR CARVED ARTICLES, NOT ELSEWHERE SPECIFIED OR INCLUDED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -289,12 +223,6 @@
             "code": "96020040",
             "description": "WORKED VEGETABLE OR MINERAL CARVING MATERIAL AND ARTICLES OF THESE MATERIALS MOULDED OR CARVED ARTICLES OF WAX, OF STEARIN, OF NATURAL GUMS OR NATURAL RESINS OR OF MODELLING PASTES, AND OTHER MOULDED OR CARVED ARTICLES, NOT ELSEWHERE SPECIFIED OR INCLUDED",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -314,12 +242,6 @@
             "description": "WORKED VEGETABLE OR MINERAL CARVING MATERIAL AND ARTICLES OF THESE MATERIALS MOULDED OR CARVED ARTICLES OF WAX, OF STEARIN, OF NATURAL GUMS OR NATURAL RESINS OR OF MODELLING PASTES, AND OTHER MOULDED OR CARVED ARTICLES, NOT ELSEWHERE SPECIFIED OR INCLUDED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -338,8 +260,8 @@
             "description": "Broomsticks [other than brooms consisting of twigs or other vegetable materials bound together, with or without handles]",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2017-09-21"
                 },
@@ -770,12 +692,6 @@
             "description": "SLIDE FASTENERS AND PARTS THEREOF - SLIDE FASTENERS",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -793,12 +709,6 @@
             "code": "960711",
             "description": "FITTED WITH CHAIN SCOOPS OF BASE METAL",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -818,12 +728,6 @@
             "description": "SLIDE FASTENERS AND PARTS THEREOF - SLIDE FASTENERS : - FITTED WITH CHAIN SCOOPS OF BASE METAL : ZIP FASTENERS",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -841,12 +745,6 @@
             "code": "96071190",
             "description": "SLIDE FASTENERS AND PARTS THEREOF - SLIDE FASTENERS : - FITTED WITH CHAIN SCOOPS OF BASE METAL : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -866,12 +764,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -889,12 +781,6 @@
             "code": "96071910",
             "description": "SLIDE FASTENERS AND PARTS THEREOF - SLIDE FASTENERS : - OTHER : ZIP FASTENERS",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -914,12 +800,6 @@
             "description": "SLIDE FASTENERS AND PARTS THEREOF - SLIDE FASTENERS : - OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -938,12 +818,6 @@
             "description": "SLIDE FASTENERS AND PARTS THEREOF PARTS",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -955,12 +829,6 @@
             "code": "96072000",
             "description": "SLIDE FASTENERS AND PARTS THEREOF PARTS",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -982,7 +850,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -994,7 +862,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1006,7 +874,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1018,7 +886,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1030,7 +898,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1042,7 +910,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1054,7 +922,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1066,7 +934,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1078,7 +946,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1090,7 +958,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1102,7 +970,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1114,7 +982,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1126,7 +994,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1138,7 +1006,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1150,7 +1018,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1162,7 +1030,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1174,7 +1042,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1186,7 +1054,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1198,7 +1066,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1210,7 +1078,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1222,7 +1090,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1234,7 +1102,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1246,7 +1114,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1258,7 +1126,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1270,7 +1138,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1282,7 +1150,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1294,7 +1162,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1306,7 +1174,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1318,7 +1186,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1330,7 +1198,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1342,7 +1210,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1354,7 +1222,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2021-10-01",
                     "effectiveTo": null
                 }
             ]
@@ -1592,12 +1460,6 @@
             "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
@@ -1609,12 +1471,6 @@
             "code": "961310",
             "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - POCKET LIGHTERS, GAS FUELLED, NON-REFILLABLE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1628,12 +1484,6 @@
             "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - POCKET LIGHTERS, GAS FUELLED, NON-REFILLABLE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
@@ -1645,12 +1495,6 @@
             "code": "961320",
             "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - POCKET LIGHTERS, GAS FUELLED, REFILLABLE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1664,12 +1508,6 @@
             "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - POCKET LIGHTERS, GAS FUELLED, REFILLABLE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
@@ -1681,12 +1519,6 @@
             "code": "961380",
             "description": "OTHER LIGHTERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1700,12 +1532,6 @@
             "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - OTHER LIGHTERS:ELECTRONIC",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
@@ -1717,12 +1543,6 @@
             "code": "96138090",
             "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - OTHER LIGHTERS:OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1736,12 +1556,6 @@
             "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - PARTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
@@ -1753,12 +1567,6 @@
             "code": "96139000",
             "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - PARTS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1952,12 +1760,6 @@
             "description": "SCENT SPRAYS AND SIMILAR TOILET SPRAYS, AND MOUNTS AND HEADS THEREFOR; POWDER-PUFFS AND PADS FOR THE APPLICATION OF COSMETICS OR TOILET PREPARATIONS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -1969,12 +1771,6 @@
             "code": "96161010",
             "description": "SCENT SPRAYS AND SIMILAR TOILET SPRAYS, AND MOUNTS AND HEADS THEREFOR; POWDER-PUFFS AND PADS FOR THE APPLICATION OF COSMETICS OR TOILET PREPARATIONS - SCENT SPRAYS AND SIMILAR TOILET SPRAYS, AND MOUNTS AND HEADS THEREFOR : SCENT SPRAYS AND SIMILAR TOILET",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1988,12 +1784,6 @@
             "description": "SCENT SPRAYS AND SIMILAR TOILET SPRAYS, AND MOUNTS AND HEADS THEREFOR; POWDER-PUFFS AND PADS FOR THE APPLICATION OF COSMETICS OR TOILET PREPARATIONS - SCENT SPRAYS AND SIMILAR TOILET SPRAYS, AND MOUNTS AND HEADS THEREFOR : MOUNTS AND HEADS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -2005,12 +1795,6 @@
             "code": "9617",
             "description": "VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2024,12 +1808,6 @@
             "description": "VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS: - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WIT",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2041,12 +1819,6 @@
             "code": "96170012",
             "description": "VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS: - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WIT",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2060,12 +1832,6 @@
             "description": "VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS: - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WIT",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2077,12 +1843,6 @@
             "code": "96170019",
             "description": "VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS: - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WIT",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2096,12 +1856,6 @@
             "description": "VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS: PARTS (OTHER THAN GLASS INNERS)",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2114,12 +1868,6 @@
             "description": "TAILORS' DUMMIES AND OTHER LAY FIGURES; AUTOMATA AND OTHER ANIMATED DISPLAYS, USED FOR SHOP WINDOW DRESSING",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2131,12 +1879,6 @@
             "code": "96180000",
             "description": "TAILORS' DUMMIES AND OTHER LAY FIGURES; AUTOMATA AND OTHER ANIMATED DISPLAYS, USED FOR SHOP WINDOW DRESSING",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2162,12 +1904,6 @@
             "description": "SANITARY TOWELS 9PADS) OR SANITARY NAPKINS",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2018-07-27",
@@ -2179,12 +1915,6 @@
             "code": "96190020",
             "description": "TAMPONS",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
@@ -2200,7 +1930,7 @@
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": "2025-09-21"
                 },
                 {
@@ -2218,7 +1948,7 @@
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": "2025-09-21"
                 },
                 {
@@ -2236,7 +1966,7 @@
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2018-07-27",
                     "effectiveTo": "2025-09-21"
                 },
                 {

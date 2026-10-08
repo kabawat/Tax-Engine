@@ -5,12 +5,18 @@
     "entries": [
         {
             "code": "3301",
-            "description": "ESSENTIAL OILS (TERPENELESS OR NOT), INCLUDING CONCRETES AND ABSOLUTES; RESINOIDS; EXTRACTED OLEORESINS; CONCENTRATES OF ESSENTIAL OILS IN FATS, IN FIXED OILS, IN WAXES OR THE LIKE, OBTAINED B Y ENFLEURAGE O R MACERATION ; TERPENIC BY-PRODUCTS OF THE DETE",
+            "description": "Following goods made from other than natural menthol,\nnamely:\na. Menthol and menthol crystals\nb. Peppermint (Mentha oil)\nc. Fractionated/ de-terpinated mentha oil (DTMO)\nd. De-mentholised oil(DMO)\ne. Spearmint oil\nf. Mentha piperita oil",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -1100,12 +1106,6 @@
             "description": "PERFUMES AND TOILET WATERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1117,12 +1117,6 @@
             "code": "330300",
             "description": "PERFUMES AND TOILET WATERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1136,12 +1130,6 @@
             "description": "PERFUMES AND TOILET WATERS - PERFUMES AND TOILET WATERS: EAU-DE-COLOGNE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1153,12 +1141,6 @@
             "code": "33030020",
             "description": "PERFUMES AND TOILET WATERS - PERFUMES AND TOILET WATERS: ROSE WATER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1172,12 +1154,6 @@
             "description": "PERFUMES AND TOILET WATERS - PERFUMES AND TOILET WATERS: KEORA WATER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1189,12 +1165,6 @@
             "code": "33030050",
             "description": "PERFUMES AND TOILET WATERS - PERFUMES AND TOILET WATERS: PERFUMES CONTAINING SPIRIT",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1208,12 +1178,6 @@
             "description": "PERFUMES AND TOILET WATERS - PERFUMES AND TOILET WATERS: SPIRITUOUS TOILET PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1226,12 +1190,6 @@
             "description": "PERFUMES AND TOILET WATERS - PERFUMES AND TOILET WATERS: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1241,7 +1199,7 @@
         },
         {
             "code": "3304",
-            "description": "KAJAL [OTHER THAN KAJAL PENCIL STICKS], KUMKUM, BINDI, SINDUR, ALTA",
+            "description": "BEAUTY OR MAKE-UP PREPARATIONS AND PREPARATIONS FOR THE CARE OF THE SKIN (OTHER THAN MEDICAMENTS), INCLUDING SUNSCREEN OR SUN TAN PREPARATIONS; MANICURE OR PEDICURE PREPARATIONS [OTHER THAN KAJAL, KUMKUM, BINDI, SINDUR, ALTA]",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -1268,12 +1226,6 @@
             "description": "BEAUTY OR MAKE-UP PREPARATIONS AND PREPARATIONS FOR THE CARE OF THE SKIN (OTHER THAN MEDICAMENTS), INCLUDING SUNSCREEN OR SUNTAN PREPARATIONS; MANICURE OR PEDICURE PREPARATIONS LIP MAKE-UP PREPARATIONS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1285,12 +1237,6 @@
             "code": "33041000",
             "description": "BEAUTY OR MAKE-UP PREPARATIONS AND PREPARATIONS FOR THE CARE OF THE SKIN (OTHER THAN MEDICAMENTS), INCLUDING SUNSCREEN OR SUNTAN PREPARATIONS; MANICURE OR PEDICURE PREPARATIONS LIP MAKE-UP PREPARATIONS",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1352,12 +1298,6 @@
             "description": "BEAUTY OR MAKE-UP PREPARATIONS AND PREPARATIONS FOR THE CARE OF THE SKIN (OTHER THAN MEDICAMENTS), INCLUDING SUNSCREEN OR SUNTAN PREPARATIONS; MANICURE OR PEDICURE PREPARATIONS MANICURE OR PEDICURE PREPARATIONS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1369,12 +1309,6 @@
             "code": "33043000",
             "description": "BEAUTY OR MAKE-UP PREPARATIONS AND PREPARATIONS FOR THE CARE OF THE SKIN (OTHER THAN MEDICAMENTS), INCLUDING SUNSCREEN OR SUNTAN PREPARATIONS; MANICURE OR PEDICURE PREPARATIONS MANICURE OR PEDICURE PREPARATIONS",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1394,12 +1328,6 @@
             "description": "POWDERS, WHETHER OR NOT COMPRESSED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1417,12 +1345,6 @@
             "code": "33049110",
             "description": "BEAUTY OR MAKE-UP PREPARATIONS AND PREPARATIONS FOR THE CARE OF THE SKIN (OTHER THAN MEDICAMENTS), INCLUDING SUNSCREEN OR SUNTAN PREPARATIONS; MANICURE OR PEDICURE PREPARATIONS OTHER: POWDERS, WHETHER OR NOT COMPRESSED: FACE POWDERS",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1442,12 +1364,6 @@
             "description": "BEAUTY OR MAKE-UP PREPARATIONS AND PREPARATIONS FOR THE CARE OF THE SKIN (OTHER THAN MEDICAMENTS), INCLUDING SUNSCREEN OR SUNTAN PREPARATIONS; MANICURE OR PEDICURE PREPARATIONS OTHER: POWDERS, WHETHER OR NOT COMPRESSED: TALCUM POWDERS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1465,12 +1381,6 @@
             "code": "33049190",
             "description": "BEAUTY OR MAKE-UP PREPARATIONS AND PREPARATIONS FOR THE CARE OF THE SKIN (OTHER THAN MEDICAMENTS), INCLUDING SUNSCREEN OR SUNTAN PREPARATIONS; MANICURE OR PEDICURE PREPARATIONS OTHER: POWDERS, WHETHER OR NOT COMPRESSED: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1490,12 +1400,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1513,12 +1417,6 @@
             "code": "33049910",
             "description": "BEAUTY OR MAKE-UP PREPARATIONS AND PREPARATIONS FOR THE CARE OF THE SKIN (OTHER THAN MEDICAMENTS), INCLUDING SUNSCREEN OR SUNTAN PREPARATIONS; MANICURE OR PEDICURE PREPARATIONS OTHER: OTHER: FACE CREAMS",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1538,12 +1436,6 @@
             "description": "BEAUTY OR MAKE-UP PREPARATIONS AND PREPARATIONS FOR THE CARE OF THE SKIN (OTHER THAN MEDICAMENTS), INCLUDING SUNSCREEN OR SUNTAN PREPARATIONS; MANICURE OR PEDICURE PREPARATIONS OTHER: OTHER NAIL POLISH OR LACQUERS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1561,12 +1453,6 @@
             "code": "33049930",
             "description": "BEAUTY OR MAKE-UP PREPARATIONS AND PREPARATIONS FOR THE CARE OF THE SKIN (OTHER THAN MEDICAMENTS), INCLUDING SUNSCREEN OR SUNTAN PREPARATIONS; MANICURE OR PEDICURE PREPARATIONS OTHER: OTHER MOISTURISING LOTION",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1634,12 +1520,6 @@
             "description": "BEAUTY OR MAKE-UP PREPARATIONS AND PREPARATIONS FOR THE CARE OF THE SKIN (OTHER THAN MEDICAMENTS), INCLUDING SUNSCREEN OR SUNTAN PREPARATIONS; MANICURE OR PEDICURE PREPARATIONS OTHER: OTHER OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 28,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1655,7 +1535,7 @@
         },
         {
             "code": "3305",
-            "description": "MEHENDI PASTE IN CONES",
+            "description": "PREPARATIONS FOR USE ON THE HAIR",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -1682,12 +1562,6 @@
             "description": "SHAMPOOS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1705,12 +1579,6 @@
             "code": "33051010",
             "description": "PREPARATIONS FOR USE ON THE HAIR SHAMPOOS: CONTAINING SPIRIT",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1730,12 +1598,6 @@
             "description": "PREPARATIONS FOR USE ON THE HAIR SHAMPOOS: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1754,12 +1616,6 @@
             "description": "PREPARATIONS FOR USE ON THE HAIR PREPARATIONS FOR PERMANENT WAVING OR STRAIGHTENING",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1771,12 +1627,6 @@
             "code": "33052000",
             "description": "PREPARATIONS FOR USE ON THE HAIR PREPARATIONS FOR PERMANENT WAVING OR STRAIGHTENING",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1796,12 +1646,6 @@
             "description": "PREPARATIONS FOR USE ON THE HAIR HAIR LACQUERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1813,12 +1657,6 @@
             "code": "33053000",
             "description": "PREPARATIONS FOR USE ON THE HAIR HAIR LACQUERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1838,12 +1676,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1861,12 +1693,6 @@
             "code": "33059011",
             "description": "PREPARATIONS FOR USE ON THE HAIR OTHER: HAIR OIL: PERFUMED",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1886,12 +1712,6 @@
             "description": "PREPARATIONS FOR USE ON THE HAIR OTHER: HAIR OIL: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1909,12 +1729,6 @@
             "code": "33059020",
             "description": "PREPARATIONS FOR USE ON THE HAIR OTHER: BRILLIANTINES (SPIRITUOUS)",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1934,12 +1748,6 @@
             "description": "PREPARATIONS FOR USE ON THE HAIR OTHER: HAIR CREAM",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1957,12 +1765,6 @@
             "code": "33059040",
             "description": "PREPARATIONS FOR USE ON THE HAIR OTHER: HAIR DYES (NATURAL, HERBAL OR SYNTHETIC)",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1982,12 +1784,6 @@
             "description": "PREPARATIONS FOR USE ON THE HAIR OTHER: HAIR FIXERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2005,12 +1801,6 @@
             "code": "33059090",
             "description": "PREPARATIONS FOR USE ON THE HAIR OTHER: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2030,12 +1820,6 @@
             "description": "PREPARATIONS FOR ORAL OR DENTAL HYGIENE, INCLUDING DENTURE FIXATIVE PASTES AND POWDERS; YARN USED TO CLEAN BETWEEN THE TEETH (DENTAL FLOSS), IN INDIVIDUAL RETAIL PACKAGES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2054,12 +1838,6 @@
             "description": "DENTIFRICES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2075,7 +1853,7 @@
         },
         {
             "code": "33061010",
-            "description": "PREPARATIONS FOR ORAL OR DENTAL HYGIENE, INCLUDING DENTURE FIXATIVE PASTES AND POWDERS; YARN USED TO CLEAN BETWEEN THE TEETH (DENTAL FLOSS), IN INDIVIDUAL RETAIL PACKAGES DENTIFRICES: IN POWDER",
+            "description": "PREPARATIONS FOR ORAL OR DENTAL HYGIENE, INCLUDING DENTURE FIXATIVE PASTES AND POWDERS; YARN USED TO CLEAN BETWEEN THE TEETH (DENTAL FLOSS), IN INDIVIDUAL RETAIL PACKAGES DENTIFRICES: IN POWDER TOOTH POWDER",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -2096,12 +1874,6 @@
             "description": "PREPARATIONS FOR ORAL OR DENTAL HYGIENE, INCLUDING DENTURE FIXATIVE PASTES AND POWDERS; YARN USED TO CLEAN BETWEEN THE TEETH (DENTAL FLOSS), IN INDIVIDUAL RETAIL PACKAGES DENTIFRICES: IN PASTE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2119,12 +1891,6 @@
             "code": "33061090",
             "description": "PREPARATIONS FOR ORAL OR DENTAL HYGIENE, INCLUDING DENTURE FIXATIVE PASTES AND POWDERS; YARN USED TO CLEAN BETWEEN THE TEETH (DENTAL FLOSS), IN INDIVIDUAL RETAIL PACKAGES DENTIFRICES: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2144,12 +1910,6 @@
             "description": "PREPARATIONS FOR ORAL OR DENTAL HYGIENE, INCLUDING DENTURE FIXATIVE PASTES AND POWDERS; YARN USED TO CLEAN BETWEEN THE TEETH (DENTAL FLOSS), IN INDIVIDUAL RETAIL PACKAGES YARN USED TO CLEAN BETWEEN THE TEETH (DENTAL FLOSS)",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2161,12 +1921,6 @@
             "code": "33062000",
             "description": "PREPARATIONS FOR ORAL OR DENTAL HYGIENE, INCLUDING DENTURE FIXATIVE PASTES AND POWDERS; YARN USED TO CLEAN BETWEEN THE TEETH (DENTAL FLOSS), IN INDIVIDUAL RETAIL PACKAGES YARN USED TO CLEAN BETWEEN THE TEETH (DENTAL FLOSS)",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2186,12 +1940,6 @@
             "description": "PREPARATIONS FOR ORAL OR DENTAL HYGIENE, INCLUDING DENTURE FIXATIVE PASTES AND POWDERS; YARN USED TO CLEAN BETWEEN THE TEETH (DENTAL FLOSS), IN INDIVIDUAL RETAIL PACKAGES OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2203,12 +1951,6 @@
             "code": "33069000",
             "description": "PREPARATIONS FOR ORAL OR DENTAL HYGIENE, INCLUDING DENTURE FIXATIVE PASTES AND POWDERS; YARN USED TO CLEAN BETWEEN THE TEETH (DENTAL FLOSS), IN INDIVIDUAL RETAIL PACKAGES OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2228,12 +1970,6 @@
             "description": "PRE - S H AV E , S H AV I N G O R AFTER- SHAVE PREPARATIONS, PERSONAL DEODORANTS, BATH PREPARATIONS , DEPILATORIES AND OTHER PERFUMERY, COSMETIC OR TOILET PREPARATIONS, NOT ELSEWHERE SPECIFIED OR INCLUDED, PREPARED ROOM DEODORISERS, WHETHER OR NOT PERFUME",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2251,12 +1987,6 @@
             "code": "330710",
             "description": "PRE-SHAVE, SHAVING OR AFTER-SHAVE PREPARATIONS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2276,12 +2006,6 @@
             "description": "PRE-SHAVE, SHAVING OR AFTER-SHAVE PREPARATIONS, PERSONAL DEODORANTS, BATH PREPARATIONS, DEPILATORIES AND OTHER PERFUMERY, COSMETIC OR TOILET PREPARATIONS, NOT ELSEWHERE SPECIFIED OR INCLUDED, PREPARED ROOM DEODORISERS, WHETHER OR NOT PERFUMED OR HAVING DI",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2299,12 +2023,6 @@
             "code": "33071090",
             "description": "PRE-SHAVE, SHAVING OR AFTER-SHAVE PREPARATIONS, PERSONAL DEODORANTS, BATH PREPARATIONS, DEPILATORIES AND OTHER PERFUMERY, COSMETIC OR TOILET PREPARATIONS, NOT ELSEWHERE SPECIFIED OR INCLUDED, PREPARED ROOM DEODORISERS, WHETHER OR NOT PERFUMED OR HAVING DI",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2324,12 +2042,6 @@
             "description": "PRE-SHAVE, SHAVING OR AFTER-SHAVE PREPARATIONS, PERSONAL DEODORANTS, BATH PREPARATIONS, DEPILATORIES AND OTHER PERFUMERY, COSMETIC OR TOILET PREPARATIONS, NOT ELSEWHERE SPECIFIED OR INCLUDED, PREPARED ROOM DEODORISERS, WHETHER OR NOT PERFUMED OR HAVING DI",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2341,12 +2053,6 @@
             "code": "33072000",
             "description": "PRE-SHAVE, SHAVING OR AFTER-SHAVE PREPARATIONS, PERSONAL DEODORANTS, BATH PREPARATIONS, DEPILATORIES AND OTHER PERFUMERY, COSMETIC OR TOILET PREPARATIONS, NOT ELSEWHERE SPECIFIED OR INCLUDED, PREPARED ROOM DEODORISERS, WHETHER OR NOT PERFUMED OR HAVING DI",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2366,12 +2072,6 @@
             "description": "PERFUMED BATH SALTS AND OTHER BATH PREPARATIONS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2389,12 +2089,6 @@
             "code": "33073010",
             "description": "PRE-SHAVE, SHAVING OR AFTER-SHAVE PREPARATIONS, PERSONAL DEODORANTS, BATH PREPARATIONS, DEPILATORIES AND OTHER PERFUMERY, COSMETIC OR TOILET PREPARATIONS, NOT ELSEWHERE SPECIFIED OR INCLUDED, PREPARED ROOM DEODORISERS, WHETHER OR NOT PERFUMED OR HAVING DI",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2414,12 +2108,6 @@
             "description": "PRE-SHAVE, SHAVING OR AFTER-SHAVE PREPARATIONS, PERSONAL DEODORANTS, BATH PREPARATIONS, DEPILATORIES AND OTHER PERFUMERY, COSMETIC OR TOILET PREPARATIONS, NOT ELSEWHERE SPECIFIED OR INCLUDED, PREPARED ROOM DEODORISERS, WHETHER OR NOT PERFUMED OR HAVING DI",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2435,18 +2123,18 @@
         },
         {
             "code": "33074100",
-            "description": "PRE-SHAVE, SHAVING OR AFTER-SHAVE PREPARATIONS, PERSONAL DEODORANTS, BATH PREPARATIONS, DEPILATORIES AND OTHER PERFUMERY, COSMETIC OR TOILET PREPARATIONS, NOT ELSEWHERE SPECIFIED OR INCLUDED, PREPARED ROOM DEODORISERS, WHETHER OR NOT PERFUMED OR HAVING DI",
+            "description": "Odoriferous preparations which operate by burning (other\nthan agarbattis, lobhan, dhoop batti, dhoop, sambhrani)",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -2455,12 +2143,6 @@
             "code": "330749",
             "description": "PRE-SHAVE, SHAVING OR AFTER-SHAVE PREPARATIONS, PERSONAL DEODORANTS, BATH PREPARATIONS, DEPILATORIES AND OTHER PERFUMERY, COSMETIC OR TOILET PREPARATIONS, NOT ELSEWHERE SPECIFIED OR INCLUDED, PREPARED ROOM DEODORISERS, WHETHER OR NOT PERFUMED OR HAVING DI",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2473,12 +2155,6 @@
             "code": "33074900",
             "description": "PRE-SHAVE, SHAVING OR AFTER-SHAVE PREPARATIONS, PERSONAL DEODORANTS, BATH PREPARATIONS, DEPILATORIES AND OTHER PERFUMERY, COSMETIC OR TOILET PREPARATIONS, NOT ELSEWHERE SPECIFIED OR INCLUDED, PREPARED ROOM DEODORISERS, WHETHER OR NOT PERFUMED OR HAVING DI",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2498,12 +2174,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2521,12 +2191,6 @@
             "code": "33079010",
             "description": "PRE-SHAVE, SHAVING OR AFTER-SHAVE PREPARATIONS, PERSONAL DEODORANTS, BATH PREPARATIONS, DEPILATORIES AND OTHER PERFUMERY, COSMETIC OR TOILET PREPARATIONS, NOT ELSEWHERE SPECIFIED OR INCLUDED, PREPARED ROOM DEODORISERS, WHETHER OR NOT PERFUMED OR HAVING DI",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2546,12 +2210,6 @@
             "description": "PRE-SHAVE, SHAVING OR AFTER-SHAVE PREPARATIONS, PERSONAL DEODORANTS, BATH PREPARATIONS, DEPILATORIES AND OTHER PERFUMERY, COSMETIC OR TOILET PREPARATIONS, NOT ELSEWHERE SPECIFIED OR INCLUDED, PREPARED ROOM DEODORISERS, WHETHER OR NOT PERFUMED OR HAVING DI",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2569,12 +2227,6 @@
             "code": "33079090",
             "description": "PRE-SHAVE, SHAVING OR AFTER-SHAVE PREPARATIONS, PERSONAL DEODORANTS, BATH PREPARATIONS, DEPILATORIES AND OTHER PERFUMERY, COSMETIC OR TOILET PREPARATIONS, NOT ELSEWHERE SPECIFIED OR INCLUDED, PREPARED ROOM DEODORISERS, WHETHER OR NOT PERFUMED OR HAVING DI",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",

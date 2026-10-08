@@ -8,12 +8,6 @@
             "description": "IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON PYRITES - IRON ORES AND CONCENTRATES, OTHER THAN ROASTED IRON PYRITES :",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -25,12 +19,6 @@
             "code": "260111",
             "description": "NON-AGGLOMERATED",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -44,12 +32,6 @@
             "description": "---IRON ORE LUMPS (60% FE OR MORE)---60% FE OR MORE BUT BELOW 62% FE",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -61,12 +43,6 @@
             "code": "26011112",
             "description": "---IRON ORE LUMPS (60% FE OR MORE)---62% FE OR MORE BUT BELOW 62% FE",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -80,12 +56,6 @@
             "description": "---IRON ORE LUMPS (60% FE OR MORE)--- ABOVE 65% FE",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -97,12 +67,6 @@
             "code": "26011121",
             "description": "---IRON ORE LUMPS (60% FE OR MORE)--- BELOW 55% FE",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -116,12 +80,6 @@
             "description": "---IRON ORE LUMPS (60% FE OR MORE)--- 55% FE OR MORE BUT BELOW 58% FE",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -133,12 +91,6 @@
             "code": "26011129",
             "description": "---IRON ORE LUMPS (60% FE OR MORE)--- 58% FE OR MORE BUT BELOW 60% FE",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -152,12 +104,6 @@
             "description": "---IRON ORE LUMPS (60% FE OR MORE)--- 62% FE OR MORE BUT BELOW 65% FE",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -169,12 +115,6 @@
             "code": "26011139",
             "description": "---IRON ORE LUMPS (60% FE OR MORE)--- ABOVE 65% FE",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -188,12 +128,6 @@
             "description": "---IRON ORE LUMPS (60% FE OR MORE)--- BELOW 55% FE",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -205,12 +139,6 @@
             "code": "26011142",
             "description": "---IRON ORE LUMPS (60% FE OR MORE)--- 55% FE OR MORE BUT BELOW 58% FE",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -224,12 +152,6 @@
             "description": "---IRON ORE LUMPS (60% FE OR MORE)--- 58% FE OR MORE BUT BELOW 60% FE",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -241,12 +163,6 @@
             "code": "26011149",
             "description": "---IRON ORE LUMPS (60% FE OR MORE)--- 58% FE OR MORE BUT BELOW 62% FE",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -260,12 +176,6 @@
             "description": "IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON PYRITES - IRON ORES AND CONCENTRATES, OTHER THAN ROASTED IRON PYRITES : NON-AGGLOMERATED : IRON ORE CONCENTRATES",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -277,12 +187,6 @@
             "code": "26011190",
             "description": "IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON PYRITES - IRON ORES AND CONCENTRATES, OTHER THAN ROASTED IRON PYRITES : NON-AGGLOMERATED : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -296,12 +200,6 @@
             "description": "AGGLOMERATED",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -313,12 +211,6 @@
             "code": "26011210",
             "description": "IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON PYRITES - IRON ORES AND CONCENTRATES, OTHER THAN ROASTED IRON PYRITES : AGGLOMERATED : IRON ORE PELLETS",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -332,12 +224,6 @@
             "description": "IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON PYRITES - IRON ORES AND CONCENTRATES, OTHER THAN ROASTED IRON PYRITES : AGGLOMERATED : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -349,12 +235,6 @@
             "code": "260120",
             "description": "IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON PYRITES ROASTED IRON PYRITES",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -368,12 +248,6 @@
             "description": "IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON PYRITES ROASTED IRON PYRITES",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -385,12 +259,6 @@
             "code": "2602",
             "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -404,12 +272,6 @@
             "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -421,12 +283,6 @@
             "code": "26020010",
             "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -440,12 +296,6 @@
             "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -457,12 +307,6 @@
             "code": "26020030",
             "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -476,12 +320,6 @@
             "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -493,12 +331,6 @@
             "code": "26020050",
             "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -512,12 +344,6 @@
             "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -529,12 +355,6 @@
             "code": "26020070",
             "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -548,12 +368,6 @@
             "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -565,12 +379,6 @@
             "code": "2603",
             "description": "COPPER ORES AND CONCENTRATES",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -584,12 +392,6 @@
             "description": "COPPER ORES AND CONCENTRATES",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -601,12 +403,6 @@
             "code": "26030000",
             "description": "COPPER ORES AND CONCENTRATES",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -620,12 +416,6 @@
             "description": "NICKEL ORES AND CONCENTRATES",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -637,12 +427,6 @@
             "code": "260400",
             "description": "NICKEL ORES AND CONCENTRATES",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -656,12 +440,6 @@
             "description": "NICKEL ORES AND CONCENTRATES",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -673,12 +451,6 @@
             "code": "2605",
             "description": "COBALT ORES AND CONCENTRATES",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -692,12 +464,6 @@
             "description": "COBALT ORES AND CONCENTRATES",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -709,12 +475,6 @@
             "code": "26050000",
             "description": "COBALT ORES AND CONCENTRATES",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -728,12 +488,6 @@
             "description": "ALUMINIUM ORES AND CONCENTRATES",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -745,12 +499,6 @@
             "code": "260600",
             "description": "ALUMINIUM ORES AND CONCENTRATES",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -764,12 +512,6 @@
             "description": "ALUMINIUM ORES AND CONCENTRATES - ALUMINIUM ORES AND CONCENTRATES: BAUXITE (NATURAL), NOT CALCINED",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -781,12 +523,6 @@
             "code": "26060020",
             "description": "ALUMINIUM ORES AND CONCENTRATES - ALUMINIUM ORES AND CONCENTRATES: BAUXITE (NATURAL), CALCINED",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -800,12 +536,6 @@
             "description": "ALUMINIUM ORES AND CONCENTRATES - ALUMINIUM ORES AND CONCENTRATES: OTHER ALUMINIUM ORES AND CONCENTRATES",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -817,12 +547,6 @@
             "code": "2607",
             "description": "LEAD ORES AND CONCENTRATES",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -836,12 +560,6 @@
             "description": "LEAD ORES AND CONCENTRATES",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -853,12 +571,6 @@
             "code": "26070000",
             "description": "LEAD ORES AND CONCENTRATES",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -872,12 +584,6 @@
             "description": "ZINC ORES AND CONCENTRATES",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -889,12 +595,6 @@
             "code": "260800",
             "description": "ZINC ORES AND CONCENTRATES",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -908,12 +608,6 @@
             "description": "ZINC ORES AND CONCENTRATES",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -925,12 +619,6 @@
             "code": "2609",
             "description": "TIN ORES AND CONCENTRATES",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -944,12 +632,6 @@
             "description": "TIN ORES AND CONCENTRATES",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -961,12 +643,6 @@
             "code": "26090000",
             "description": "TIN ORES AND CONCENTRATES",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -980,12 +656,6 @@
             "description": "CHROMIUM ORES AND CONCENTRATES",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -997,12 +667,6 @@
             "code": "261000",
             "description": "CHROMIUM ORES AND CONCENTRATES",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1016,12 +680,6 @@
             "description": "CHROMIUM ORES AND CONCENTRATES - CHROMIUM ORES AND CONCENTRATES: CHROME ORE LUMPS, CONTAINING 47% CR2O3 AND ABOVE",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -1033,12 +691,6 @@
             "code": "26100020",
             "description": "CHROMIUM ORES AND CONCENTRATES - CHROMIUM ORES AND CONCENTRATES: CHROME ORE LUMPS, CONTAINING 40% OR MORE BUT LESS THAN 47% CR2O3",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1052,12 +704,6 @@
             "description": "CHROMIUM ORES AND CONCENTRATES - CHROMIUM ORES AND CONCENTRATES: CHROME ORE LUMPS BELOW 40% CR2O3",
             "rateHistory": [
                 {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -1069,12 +715,6 @@
             "code": "26100090",
             "description": "CHROMIUM ORES AND CONCENTRATES - CHROMIUM ORES AND CONCENTRATES: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 5,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",

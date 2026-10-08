@@ -5,11 +5,11 @@
     "entries": [
         {
             "code": "1701",
-            "description": "CANE OR BEET SUGAR AND CHEMICALLY PURE SUCROSE, IN SOLID FORM - RAW SUGAR NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER :",
+            "description": "Jaggery of all types including Cane Jaggery (gur), Palmyra Jaggery, pre-packaged and labelled; Khandsari Sugar, pre-packaged and labelled”;",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2022-07-17"
                 },
@@ -134,12 +134,6 @@
             "description": "CANE OR BEET SUGAR AND CHEMICALLY PURE SUCROSE, IN SOLID FORM - OTHER : REFINED SUGAR CONTAINING ADDED FLAVOURING OR COLOURING MATTER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -157,12 +151,6 @@
             "code": "170199",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -203,10 +191,10 @@
         },
         {
             "code": "1702",
-            "description": "Palmyra sugar, mishri, batasha, bura, [akar, khadisakar, harda, sakariya, gatta, kuliya, elaichidana, lukumdana, chikkis like puffed rice chikki, peanut chikki, sesame chikki,  tilchikki, tilpatti, tilrevdi, sugar makhana, groundnut sweets,gajak, khaja, khajuli, anarsa",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL - LACTOSE AND LACTOSE SYRUP",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2022-07-17"
@@ -215,6 +203,12 @@
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2022-07-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -847,12 +841,6 @@
             "code": "17049020",
             "description": "SUGAR CONFECTIONARY (INCLUDING WHITE CHOCOLATE), NOT CONTAINING COCOA - OTHER : BOILED SWEETS, WHETHER OR NOT FILLED",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-01-24"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",

@@ -308,12 +308,6 @@
             "description": "FRAMES AND MOUNTINGS FOR SPECTACLES, GOGGLES OR THE LIKE, AND PARTS THEREOF - FRAMES AND MOUNTINGS",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -332,12 +326,6 @@
             "description": "FRAMES AND MOUNTINGS FOR SPECTACLES, GOGGLES OR THE LIKE, AND PARTS THEREOF - FRAMES AND MOUNTINGS: OF PLASTICS",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -349,12 +337,6 @@
             "code": "90031100",
             "description": "FRAMES AND MOUNTINGS FOR SPECTACLES, GOGGLES OR THE LIKE, AND PARTS THEREOF - FRAMES AND MOUNTINGS: OF PLASTICS",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -374,12 +356,6 @@
             "description": "FRAMES AND MOUNTINGS FOR SPECTACLES, GOGGLES OR THE LIKE, AND PARTS THEREOF - FRAMES AND MOUNTINGS: OF OTHER MATERIALS",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -391,12 +367,6 @@
             "code": "90031900",
             "description": "FRAMES AND MOUNTINGS FOR SPECTACLES, GOGGLES OR THE LIKE, AND PARTS THEREOF - FRAMES AND MOUNTINGS: OF OTHER MATERIALS",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -416,12 +386,6 @@
             "description": "FRAMES AND MOUNTINGS FOR SPECTACLES, GOGGLES OR THE LIKE, AND PARTS THEREOF PARTS",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -433,12 +397,6 @@
             "code": "90039000",
             "description": "FRAMES AND MOUNTINGS FOR SPECTACLES, GOGGLES OR THE LIKE, AND PARTS THEREOF PARTS",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -458,7 +416,7 @@
             "description": "Spectacles, corrective [other than goggles for correcting vision]",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
@@ -548,12 +506,6 @@
             "description": "BINOCULARS, MONOCULARS, OTHER OPTICAL TELESCOPES, AND MOUNTINGS THEREFOR; OTHER ASTRONOMICAL INSTRUMENTS AND MOUNTINGS THEREFOR, BUT NOT INCLUDING INSTRUMENTS FOR RADIO-ASTRONOMY",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -565,12 +517,6 @@
             "code": "900510",
             "description": "BINOCULARS, MONOCULARS, OTHER OPTICAL TELESCOPES, AND MOUNTINGS THEREFOR; OTHER ASTRONOMICAL INSTRUMENTS AND MOUNTINGS THEREFOR, BUT NOT INCLUDING INSTRUMENTS FOR RADIO-ASTRONOMY BINOCULARS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -584,12 +530,6 @@
             "description": "BINOCULARS, MONOCULARS, OTHER OPTICAL TELESCOPES, AND MOUNTINGS THEREFOR; OTHER ASTRONOMICAL INSTRUMENTS AND MOUNTINGS THEREFOR, BUT NOT INCLUDING INSTRUMENTS FOR RADIO-ASTRONOMY BINOCULARS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -601,12 +541,6 @@
             "code": "900580",
             "description": "OTHER INSTRUMENTS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -620,12 +554,6 @@
             "description": "BINOCULARS, MONOCULARS, OTHER OPTICAL TELESCOPES, AND MOUNTINGS THEREFOR; OTHER ASTRONOMICAL INSTRUMENTS AND MOUNTINGS THEREFOR, BUT NOT INCLUDING INSTRUMENTS FOR RADIO-ASTRONOMY - OTHER INSTRUMENTS: MONOCULAR AND REFRACTING TELESCOPES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -637,12 +565,6 @@
             "code": "90058020",
             "description": "BINOCULARS, MONOCULARS, OTHER OPTICAL TELESCOPES, AND MOUNTINGS THEREFOR; OTHER ASTRONOMICAL INSTRUMENTS AND MOUNTINGS THEREFOR, BUT NOT INCLUDING INSTRUMENTS FOR RADIO-ASTRONOMY - OTHER INSTRUMENTS: ASTRONOMICAL INSTRUMENTS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -656,12 +578,6 @@
             "description": "BINOCULARS, MONOCULARS, OTHER OPTICAL TELESCOPES, AND MOUNTINGS THEREFOR; OTHER ASTRONOMICAL INSTRUMENTS AND MOUNTINGS THEREFOR, BUT NOT INCLUDING INSTRUMENTS FOR RADIO-ASTRONOMY - OTHER INSTRUMENTS: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -673,12 +589,6 @@
             "code": "900590",
             "description": "PARTS AND ACCESSORIES (INCLUDING MOUNTINGS)",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -692,12 +602,6 @@
             "description": "BINOCULARS, MONOCULARS, OTHER OPTICAL TELESCOPES, AND MOUNTINGS THEREFOR; OTHER ASTRONOMICAL INSTRUMENTS AND MOUNTINGS THEREFOR, BUT NOT INCLUDING INSTRUMENTS FOR RADIO-ASTRONOMY PARTS AND ACCESSORIES (INCLUDING MOUNTINGS): OF BINOCULAR OR TELESCOPES OF H",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -709,12 +613,6 @@
             "code": "90059020",
             "description": "BINOCULARS, MONOCULARS, OTHER OPTICAL TELESCOPES, AND MOUNTINGS THEREFOR; OTHER ASTRONOMICAL INSTRUMENTS AND MOUNTINGS THEREFOR, BUT NOT INCLUDING INSTRUMENTS FOR RADIO-ASTRONOMY PARTS AND ACCESSORIES (INCLUDING MOUNTINGS): MOUNTINGS FOR ASTRONOMICAL INST",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -728,12 +626,6 @@
             "description": "BINOCULARS, MONOCULARS, OTHER OPTICAL TELESCOPES, AND MOUNTINGS THEREFOR; OTHER ASTRONOMICAL INSTRUMENTS AND MOUNTINGS THEREFOR, BUT NOT INCLUDING INSTRUMENTS FOR RADIO-ASTRONOMY PARTS AND ACCESSORIES (INCLUDING MOUNTINGS): OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -745,12 +637,6 @@
             "code": "9006",
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -764,12 +650,6 @@
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 CAMERAS OF A KIND USED FOR PREPARING PRINTING PLATES OR CYLINDERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -781,12 +661,6 @@
             "code": "90061000",
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 CAMERAS OF A KIND USED FOR PREPARING PRINTING PLATES OR CYLINDERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -800,12 +674,6 @@
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 CAMERAS OF A KIND USED FOR RECORDING DOCUMENTS ON MICROFILM, MICROFICHE OR OTHER MICROFORMS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -817,12 +685,6 @@
             "code": "900630",
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 CAMERAS SPECIALLY DESIGNED FOR UNDERWATER USE, FOR AERIAL SURVEY OR FOR MEDICAL OR SURGICAL EXAMINATION OF INTE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -836,12 +698,6 @@
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 CAMERAS SPECIALLY DESIGNED FOR UNDERWATER USE, FOR AERIAL SURVEY OR FOR MEDICAL OR SURGICAL EXAMINATION OF INTE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -853,12 +709,6 @@
             "code": "900640",
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 INSTANT PRINT CAMERAS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -872,12 +722,6 @@
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 INSTANT PRINT CAMERAS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -889,12 +733,6 @@
             "code": "90065100",
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - OTHER CAMERAS: WITH A THROUGH-THE-LENS VIEW-FINDER [SINGLE LENS REFLEX (SLR)] FOR ROLL FILM OF A WIDTH NOT EX",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -908,12 +746,6 @@
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - OTHER CAMERAS: OTHER, FOR ROLL FILM OF A WIDTH LESS THAN 35 MM",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -925,12 +757,6 @@
             "code": "90065200",
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - OTHER CAMERAS: OTHER, FOR ROLL FILM OF A WIDTH LESS THAN 35 MM",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -944,12 +770,6 @@
             "description": "OTHER, FOR ROLL FILM OF A WIDTH OF 35 MM",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -961,12 +781,6 @@
             "code": "90065310",
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - OTHER CAMERAS: - OTHER, FOR ROLL FILM OF A WIDTH OF 35 MM: FIXED FOCUS 35 MM CAMERAS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -980,12 +794,6 @@
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - OTHER CAMERAS: - OTHER, FOR ROLL FILM OF A WIDTH OF 35 MM: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -997,12 +805,6 @@
             "code": "900659",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1016,12 +818,6 @@
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - OTHER CAMERAS: - OTHER: FIXED FOCUS 110 MM CAMERAS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1033,12 +829,6 @@
             "code": "90065990",
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - OTHER CAMERAS: - OTHER: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1052,12 +842,6 @@
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASHBULBS: DISCHARGE LAMP (ELECTRONIC\") FLASHLIGHT APPARATUS\"",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1069,12 +853,6 @@
             "code": "90066100",
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASHBULBS: DISCHARGE LAMP (ELECTRONIC\") FLASHLIGHT APPARATUS\"",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1088,12 +866,6 @@
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASHBULBS: FLASHBULBS, FLASHCUBES AND THE LIKE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1105,12 +877,6 @@
             "code": "900669",
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASHBULBS: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1124,12 +890,6 @@
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASHBULBS: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1141,12 +901,6 @@
             "code": "900691",
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - PARTS AND ACCESSORIES: FOR CAMERAS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1160,12 +914,6 @@
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - PARTS AND ACCESSORIES: FOR CAMERAS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1177,12 +925,6 @@
             "code": "900699",
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - PARTS AND ACCESSORIES: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1196,12 +938,6 @@
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539 - PARTS AND ACCESSORIES: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1213,12 +949,6 @@
             "code": "9007",
             "description": "CINEMATOGRAPHIC CAMERAS AND PROJECTORS, WHETHER OR NOT INCORPORATING SOUND RECORDING OR REPRODUCING APPARATUS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1232,12 +962,6 @@
             "description": "CAMERAS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1249,12 +973,6 @@
             "code": "90071010",
             "description": "FOR FILM OF LESS THAN 16 MM WIDTH OR FOR DOUBLE- 8 MM FILM",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1268,12 +986,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1285,12 +997,6 @@
             "code": "900720",
             "description": "PROJECTORS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1304,12 +1010,6 @@
             "description": "CINEMATOGRAPHIC CAMERAS AND PROJECTORS, WHETHER OR NOT INCORPORATING SOUND RECORDING OR REPRODUCING APPARATUS - PROJECTORS: FOR FILM OF LESS THAN 16 MM WIDTH",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1321,12 +1021,6 @@
             "code": "90072090",
             "description": "CINEMATOGRAPHIC CAMERAS AND PROJECTORS, WHETHER OR NOT INCORPORATING SOUND RECORDING OR REPRODUCING APPARATUS - PROJECTORS: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1340,12 +1034,6 @@
             "description": "CINEMATOGRAPHIC CAMERAS AND PROJECTORS, WHETHER OR NOT INCORPORATING SOUND RECORDING OR REPRODUCING APPARATUS - PARTS AND ACCESSORIES: FOR CAMERAS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1357,12 +1045,6 @@
             "code": "90079200",
             "description": "CINEMATOGRAPHIC CAMERAS AND PROJECTORS, WHETHER OR NOT INCORPORATING SOUND RECORDING OR REPRODUCING APPARATUS - PARTS AND ACCESSORIES: FOR PROJECTORS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1376,12 +1058,6 @@
             "description": "IMAGE PROJECTORS, OTHER THAN CINEMATOGRAPHIC; PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) ENLARGERS AND REDUCERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1393,12 +1069,6 @@
             "code": "900850",
             "description": "PROJECTORS, ENLARGERS AND REDUCERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1412,12 +1082,6 @@
             "description": "SLIDE PROJECTORS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1429,12 +1093,6 @@
             "code": "90085020",
             "description": "MICROFILM, MICROFICHE OR OTHER MICROFORM READERS, WHETHER OR NOT CAPABLE OF PRODUCING COPIES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1448,12 +1106,6 @@
             "description": "OTHER IMAGE PROJECTORS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1465,12 +1117,6 @@
             "code": "90085040",
             "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) ENLARGERS AND REDUCERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1484,12 +1130,6 @@
             "description": "IMAGE PROJECTORS, OTHER THAN CINEMATOGRAPHIC; PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) ENLARGERS AND REDUCERS PARTS AND ACCESSORIES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1501,12 +1141,6 @@
             "code": "9010",
             "description": "APPARATUS AND EQUIPMENT FOR PHOTOGRAPHIC (INCLUDING CINEMATOGRAPHIC) LABORATORIES NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; NEGATOSCOPES; PROJECTION SCREENS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1520,12 +1154,6 @@
             "description": "APPARATUS AND EQUIPMENT FOR PHOTOGRAPHIC (INCLUDING CINEMATOGRAPHIC) LABORATORIES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; NEGATOSCOPES; PROJECTION SCREENS - APPARATUS AND EQUIPMENT FOR AUTOMATICALLY DEVELOPING PHOTOGRAPHIC (INCLUDING CINEMAT",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1537,12 +1165,6 @@
             "code": "90106000",
             "description": "APPARATUS AND EQUIPMENT FOR PHOTOGRAPHIC (INCLUDING CINEMATOGRAPHIC) LABORATORIES (INCLUDING APPARATUS FOR THE PROJECTION OR DRAWING OF CIRCUIT PATTERNS ON SENSITISED SEMICONDUCTOR MATERIALS), NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; NEGATOSCO",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1556,12 +1178,6 @@
             "description": "APPARATUS AND EQUIPMENT FOR PHOTOGRAPHIC (INCLUDING CINEMATOGRAPHIC) LABORATORIES (INCLUDING APPARATUS FOR THE PROJECTION OR DRAWING OF CIRCUIT PATTERNS ON SENSITISED SEMICONDUCTOR MATERIALS), NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; NEGATOSCO",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1573,12 +1189,6 @@
             "code": "9011",
             "description": "COMPOUND OPTICAL MICROSCOPES, INCLUDING THOSE FOR PHOTOMICRO-GRAPHY, CINEPHOTOMICROGRAPHY OR MICROPROJECTION",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1592,12 +1202,6 @@
             "description": "COMPOUND OPTICAL MICROSCOPES, INCLUDING THOSE FOR PHOTOMICRO-GRAPHY, CINEPHOTOMICROGRAPHY OR MICROPROJECTION - STEREOSCOPIC MICROSCOPES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1609,12 +1213,6 @@
             "code": "90118000",
             "description": "COMPOUND OPTICAL MICROSCOPES, INCLUDING THOSE FOR PHOTOMICRO-GRAPHY, CINEPHOTOMICROGRAPHY OR MICROPROJECTION - OTHER MICROSCOPES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1628,12 +1226,6 @@
             "description": "COMPOUND OPTICAL MICROSCOPES, INCLUDING THOSE FOR PHOTOMICRO-GRAPHY, CINEPHOTOMICROGRAPHY OR MICROPROJECTION - PARTS AND ACCESSORIES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1645,12 +1237,6 @@
             "code": "9012",
             "description": "MICROSCOPES OTHER THAN OPTICAL MICROSCOPES; DIFFRACTION APPARATUS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1664,12 +1250,6 @@
             "description": "MICROSCOPES OTHER THAN OPTICAL MICROSCOPES; DIFFRACTION APPARATUS - MICROSCOPES OTHER THAN OPTICAL MICROSCOPES; DIFFRACTION APPARATUS: ELECTRON MICROSCOPES FITTED WITH EQUIPMENT SPECIFICALLY DESIGNED FOR THE HANDLING AND TRANSPORT OF SEMICONDUCTOR WAFERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1681,12 +1261,6 @@
             "code": "90121090",
             "description": "MICROSCOPES OTHER THAN OPTICAL MICROSCOPES; DIFFRACTION APPARATUS - MICROSCOPES OTHER THAN OPTICAL MICROSCOPES; DIFFRACTION APPARATUS: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1700,12 +1274,6 @@
             "description": "MICROSCOPES OTHER THAN OPTICAL MICROSCOPES; DIFFRACTION APPARATUS PARTS AND ACCESSORIES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1717,12 +1285,6 @@
             "code": "9013",
             "description": "LIQUID CRYSTAL DEVICES NOT CONSTITUTING ARTICLES PROVIDED FOR MORE SPECIFICALLY IN OTHER HEADINGS; LASERS, OTHER THAN LASER DIODES; OTHER OPTICAL APPLIANCES AND INSTRUMENTS, NOT SPECIFIED OR INCLUDED ELSE WHERE IN THIS CHAPTER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1736,12 +1298,6 @@
             "description": "TELESCOPIC SIGHTS FOR FITTING TO ARMS; PERISCOPES; TELESCOPES DESIGNED TO FORM PARTS OF MACHINES, APPLIANCES, INSTRUMENTS OR APPARATUS OF THIS CHAPTER OR SECTION XVI",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1753,12 +1309,6 @@
             "code": "90131010",
             "description": "LIQUID CRYSTAL DEVICES NOT CONSTITUTING ARTICLES PROVIDED FOR MORE SPECIFICALLY IN OTHER HEADINGS; LASERS, OTHER THAN LASER DIODES; OTHER OPTICAL APPLIANCES AND INSTRUMENTS, NOT SPECIFIED OR INCLUDED ELSE WHERE IN THIS CHAPTER - TELESCOPIC SIGHTS FOR FIT",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1772,12 +1322,6 @@
             "description": "LIQUID CRYSTAL DEVICES NOT CONSTITUTING ARTICLES PROVIDED FOR MORE SPECIFICALLY IN OTHER HEADINGS; LASERS, OTHER THAN LASER DIODES; OTHER OPTICAL APPLIANCES AND INSTRUMENTS, NOT SPECIFIED OR INCLUDED ELSE WHERE IN THIS CHAPTER - TELESCOPIC SIGHTS FOR FITT",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1789,12 +1333,6 @@
             "code": "90131090",
             "description": "LIQUID CRYSTAL DEVICES NOT CONSTITUTING ARTICLES PROVIDED FOR MORE SPECIFICALLY IN OTHER HEADINGS; LASERS, OTHER THAN LASER DIODES; OTHER OPTICAL APPLIANCES AND INSTRUMENTS, NOT SPECIFIED OR INCLUDED ELSE WHERE IN THIS CHAPTER - TELESCOPIC SIGHTS FOR FITT",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1808,12 +1346,6 @@
             "description": "LIQUID CRYSTAL DEVICES NOT CONSTITUTING ARTICLES PROVIDED FOR MORE SPECIFICALLY IN OTHER HEADINGS; LASERS, OTHER THAN LASER DIODES; OTHER OPTICAL APPLIANCES AND INSTRUMENTS, NOT SPECIFIED OR INCLUDED ELSE WHERE IN THIS CHAPTER LASERS, OTHER THAN LASER DIO",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1825,12 +1357,6 @@
             "code": "90132000",
             "description": "LIQUID CRYSTAL DEVICES NOT CONSTITUTING ARTICLES PROVIDED FOR MORE SPECIFICALLY IN OTHER HEADINGS; LASERS, OTHER THAN LASER DIODES; OTHER OPTICAL APPLIANCES AND INSTRUMENTS, NOT SPECIFIED OR INCLUDED ELSE WHERE IN THIS CHAPTER LASERS, OTHER THAN LASER DIO",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1844,12 +1370,6 @@
             "description": "OTHER DEVICES, APPLIANCES AND INSTRUMENTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1861,12 +1381,6 @@
             "code": "90138010",
             "description": "LIQUID CRYSTAL DEVICES NOT CONSTITUTING ARTICLES PROVIDED FOR MORE SPECIFICALLY IN OTHER HEADINGS; LASERS, OTHER THAN LASER DIODES; OTHER OPTICAL APPLIANCES AND INSTRUMENTS, NOT SPECIFIED OR INCLUDED ELSE WHERE IN THIS CHAPTER - OTHER DEVICES, APPLIANCES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1880,12 +1394,6 @@
             "description": "LIQUID CRYSTAL DEVICES NOT CONSTITUTING ARTICLES PROVIDED FOR MORE SPECIFICALLY IN OTHER HEADINGS; LASERS, OTHER THAN LASER DIODES; OTHER OPTICAL APPLIANCES AND INSTRUMENTS, NOT SPECIFIED OR INCLUDED ELSE WHERE IN THIS CHAPTER - OTHER DEVICES, APPLIANCES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1897,12 +1405,6 @@
             "code": "901390",
             "description": "PARTS AND ACCESSORIES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1916,12 +1418,6 @@
             "description": "LIQUID CRYSTAL DEVICES NOT CONSTITUTING ARTICLES PROVIDED FOR MORE SPECIFICALLY IN OTHER HEADINGS; LASERS, OTHER THAN LASER DIODES; OTHER OPTICAL APPLIANCES AND INSTRUMENTS, NOT SPECIFIED OR INCLUDED ELSE WHERE IN THIS CHAPTER - PARTS AND ACCESSORIES: FOR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1933,12 +1429,6 @@
             "code": "90139090",
             "description": "LIQUID CRYSTAL DEVICES NOT CONSTITUTING ARTICLES PROVIDED FOR MORE SPECIFICALLY IN OTHER HEADINGS; LASERS, OTHER THAN LASER DIODES; OTHER OPTICAL APPLIANCES AND INSTRUMENTS, NOT SPECIFIED OR INCLUDED ELSE WHERE IN THIS CHAPTER-PARTS AND ACCESSORIES: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1952,12 +1442,6 @@
             "description": "DIRECTION FINDING COMPASSES; OTHER NAVIGATIONAL INSTRUMENTS AND APPLIANCES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1969,12 +1453,6 @@
             "code": "901410",
             "description": "DIRECTION FINDING COMPASSES; OTHER NAVIGATIONAL INSTRUMENTS AND APPLIANCES DIRECTION FINDING COMPASSES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1988,12 +1466,6 @@
             "description": "DIRECTION FINDING COMPASSES; OTHER NAVIGATIONAL INSTRUMENTS AND APPLIANCES DIRECTION FINDING COMPASSES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2005,12 +1477,6 @@
             "code": "901480",
             "description": "OTHER INSTRUMENTS AND APPLIANCES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2024,12 +1490,6 @@
             "description": "DIRECTION FINDING COMPASSES; OTHER NAVIGATIONAL INSTRUMENTS AND APPLIANCES - OTHER INSTRUMENTS AND APPLIANCES: ECHO SOUNDING INSTRUMENT",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2041,12 +1501,6 @@
             "code": "90148020",
             "description": "DIRECTION FINDING COMPASSES; OTHER NAVIGATIONAL INSTRUMENTS AND APPLIANCES - OTHER INSTRUMENTS AND APPLIANCES: SEXTANTS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2060,12 +1514,6 @@
             "description": "DIRECTION FINDING COMPASSES; OTHER NAVIGATIONAL INSTRUMENTS AND APPLIANCES - OTHER INSTRUMENTS AND APPLIANCES: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2077,12 +1525,6 @@
             "code": "901490",
             "description": "DIRECTION FINDING COMPASSES; OTHER NAVIGATIONAL INSTRUMENTS AND APPLIANCES PARTS AND ACCESSORIES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2096,12 +1538,6 @@
             "description": "DIRECTION FINDING COMPASSES; OTHER NAVIGATIONAL INSTRUMENTS AND APPLIANCES PARTS AND ACCESSORIES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2113,12 +1549,6 @@
             "code": "9015",
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2132,12 +1562,6 @@
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS RANGEFINDERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2149,12 +1573,6 @@
             "code": "90151000",
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS RANGEFINDERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2168,12 +1586,6 @@
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS THEODOLITIES AND TACHYMETERS (TACHEOMETERS)",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2185,12 +1597,6 @@
             "code": "90152000",
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS THEODOLITIES AND TACHYMETERS (TACHEOMETERS)",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2204,12 +1610,6 @@
             "description": "LEVELS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2221,12 +1621,6 @@
             "code": "90153010",
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS - LEVELS: DUMPY LEVELS OR ENGINEER'S LEVELS OR BUILDERS LEVELS (NOT A",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2240,12 +1634,6 @@
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS - LEVELS: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2257,12 +1645,6 @@
             "code": "901540",
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS PHOTOGRAMMETRICAL SURVEYING INSTRUMENTS AND APPLIANCES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2276,12 +1658,6 @@
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS PHOTOGRAMMETRICAL SURVEYING INSTRUMENTS AND APPLIANCES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2293,12 +1669,6 @@
             "code": "901580",
             "description": "OTHER INSTRUMENTS AND APPLIANCES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2312,12 +1682,6 @@
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS - OTHER INSTRUMENTS AND APPLIANCES: HYDROGRAPHIC INSTRUMENTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2329,12 +1693,6 @@
             "code": "90158020",
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS - OTHER INSTRUMENTS AND APPLIANCES: METEOROLOGICAL INSTRUMENTS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2348,12 +1706,6 @@
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS - OTHER INSTRUMENTS AND APPLIANCES: GEOPHYSICAL INSTRUMENTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2365,12 +1717,6 @@
             "code": "90158090",
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS - OTHER INSTRUMENTS AND APPLIANCES: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2384,12 +1730,6 @@
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS PARTS AND ACCESSORIES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2401,12 +1741,6 @@
             "code": "90159000",
             "description": "SURVEYING (INCLUDING PHOTOGRAMMETRICAL SURVEYING), HYDROGRAPHIC, OCEANOGRAPHIC, HYDROLOGICAL, METEOROLOGICAL OR GEOPHYSICAL INSTRUMENTS AND APPLIANCES, EXCLUDING COMPASSES; RANGEFINDERS PARTS AND ACCESSORIES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3731,7 +3065,7 @@
         },
         {
             "code": "9019",
-            "description": "MECHANO-THERAPY APPLIANCES; MASSAGE APPARATUS; PSYCHOLOGICAL APTITUDE-TESTING APPARATUS; OZONE THERAPY, OXYGEN THERAPY, AEROSOL THERAPY, ARTIFICIAL RESPIRATION OR OTHER THERAPEUTIC RESPIRATION APPARATUS",
+            "description": "Air diving, rebreather sets, diving systems, components and\naccessories",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -3839,7 +3173,7 @@
         },
         {
             "code": "9020",
-            "description": "OTHER BREATHING APPLIANCES AND GAS MASKS, EXCLUDING PROTECTIVE MASKS HAVING NEITHER MECHANICAL PARTS NOR REPLACEABLE FILTERS",
+            "description": "Air diving, rebreather sets, diving systems, components and\naccessories",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -3875,7 +3209,7 @@
         },
         {
             "code": "9021",
-            "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY TO COMPENSATE FOR A DEFECT O",
+            "description": "Orthopaedic appliances, such as crutches, surgical belts, and trusses; Splints and other fracture appliances; artificial parts of the body; other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability; intraocular lens [other than hearing aids]”;",
             "rateHistory": [
                 {
                     "ratePercent": 0,
@@ -3896,12 +3230,6 @@
             "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY, TO COMPENSATE FOR A DEFECT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2022-07-18",
@@ -3913,12 +3241,6 @@
             "code": "90211000",
             "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY, TO COMPENSATE FOR A DEFECT",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3932,12 +3254,6 @@
             "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY, TO COMPENSATE FOR A DEFECT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2022-07-18",
@@ -3949,12 +3265,6 @@
             "code": "90212100",
             "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY, TO COMPENSATE FOR A DEFECT",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3968,12 +3278,6 @@
             "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY, TO COMPENSATE FOR A DEFECT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2022-07-18",
@@ -3985,12 +3289,6 @@
             "code": "90212900",
             "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY, TO COMPENSATE FOR A DEFECT",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -4004,12 +3302,6 @@
             "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY, TO COMPENSATE FOR A DEFECT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2022-07-18",
@@ -4021,12 +3313,6 @@
             "code": "90213100",
             "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY, TO COMPENSATE FOR A DEFECT",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -4040,12 +3326,6 @@
             "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY, TO COMPENSATE FOR A DEFECT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2022-07-18",
@@ -4057,12 +3337,6 @@
             "code": "90213900",
             "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY, TO COMPENSATE FOR A DEFECT",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -4076,12 +3350,6 @@
             "description": "HEARING AIDS, EXCLUDING PARTS AND ACCESSORIES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2022-07-18",
@@ -4093,12 +3361,6 @@
             "code": "90214090",
             "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY, TO COMPENSATE FOR A DEFECT",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -4112,12 +3374,6 @@
             "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY, TO COMPENSATE FOR A DEFECT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2022-07-18",
@@ -4129,12 +3385,6 @@
             "code": "902190",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -4148,12 +3398,6 @@
             "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY, TO COMPENSATE FOR A DEFECT",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2022-07-18",
@@ -4165,12 +3409,6 @@
             "code": "90219090",
             "description": "ORTHOPAEDIC APPLIANCES, INCLUDING CRUTCHES, SURGICAL BELTS AND TRUSSES; SPLINTS AND OTHER FRACTURE APPLIANCES; ARTIFICIAL PARTS OF THE BODY; HEARING AIDS AND OTHER APPLIANCES WHICH ARE WORN OR CARRIED, OR IMPLANTED IN THE BODY, TO COMPENSATE FOR A DEFECT",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2022-07-17"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -4208,12 +3446,6 @@
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4225,12 +3457,6 @@
             "code": "90221200",
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4244,12 +3470,6 @@
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4261,12 +3481,6 @@
             "code": "90221300",
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4280,12 +3494,6 @@
             "description": "OTHER, FOR MEDICAL, SURGICAL OR VETERINARY USES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4297,12 +3505,6 @@
             "code": "90221410",
             "description": "14 APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATOR",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4316,12 +3518,6 @@
             "description": "14 APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATOR",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4333,12 +3529,6 @@
             "code": "90221490",
             "description": "14 APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATOR",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4352,12 +3542,6 @@
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4369,12 +3553,6 @@
             "code": "90221900",
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4388,12 +3566,6 @@
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4405,12 +3577,6 @@
             "code": "90222100",
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4424,12 +3590,6 @@
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4441,12 +3601,6 @@
             "code": "90222900",
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4460,12 +3614,6 @@
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4477,12 +3625,6 @@
             "code": "90223000",
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4496,12 +3638,6 @@
             "description": "OTHER, INCLUDING PARTS AND ACCESSORIES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4513,12 +3649,6 @@
             "code": "90229010",
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4532,12 +3662,6 @@
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4549,12 +3673,6 @@
             "code": "90229030",
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4568,12 +3686,6 @@
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4585,12 +3697,6 @@
             "code": "90229090",
             "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA OR GAMMA RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS, X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS,",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4604,12 +3710,6 @@
             "description": "INSTRUMENTS, APPARATUS AND MODELS, DESIGNED FOR DEMONSTRATIONAL PURPOSES (FOR EXAMPLE, IN EDUCATION OR EXHIBITIONS), UNSUITABLE FOR OTHER USES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4621,12 +3721,6 @@
             "code": "902300",
             "description": "INSTRUMENTS, APPARATUS AND MODELS, DESIGNED FOR DEMONSTRATIONAL PURPOSES (FOR EXAMPLE, IN EDUCATION OR EXHIBITIONS), UNSUITABLE FOR OTHER USES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4640,12 +3734,6 @@
             "description": "INSTRUMENTS, APPARATUS AND MODELS, DESIGNED FOR DEMONSTRATIONAL PURPOSES (FOR EXAMPLE, IN EDUCATION OR EXHIBITIONS), UNSUITABLE FOR OTHER USES - INSTRUMENTS, APPARATUS AND MODELS, DESIGNED FOR DEMONSTRATIONAL PURPOSES (FOR EXAMPLE, IN EDUCATION OR EXHIBI",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4657,12 +3745,6 @@
             "code": "90230090",
             "description": "INSTRUMENTS, APPARATUS AND MODELS, DESIGNED FOR DEMONSTRATIONAL PURPOSES (FOR EXAMPLE, IN EDUCATION OR EXHIBITIONS), UNSUITABLE FOR OTHER USES - INSTRUMENTS, APPARATUS AND MODELS, DESIGNED FOR DEMONSTRATIONAL PURPOSES (FOR EXAMPLE, IN EDUCATION OR EXHIBIT",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",

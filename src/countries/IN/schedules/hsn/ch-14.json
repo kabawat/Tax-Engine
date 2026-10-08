@@ -104,12 +104,6 @@
             "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-01-24"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-01-25",
@@ -121,12 +115,6 @@
             "code": "140420",
             "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED COTTON LINTERS",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -140,12 +128,6 @@
             "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED COTTON LINTERS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -157,12 +139,6 @@
             "code": "140490",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -176,15 +152,15 @@
             "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER : BIDI WRAPPER LEAVES (TENDU)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
                 },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-11-15",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -193,12 +169,6 @@
             "code": "14049021",
             "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER : SOAP-NUTS : POWDER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -212,12 +182,6 @@
             "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER : SOAP-NUTS : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -229,12 +193,6 @@
             "code": "14049030",
             "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER : HARD SEEDS, PIPS, HULLS AND NUTS, OF A KIND USED PRIMARILY FOR CARVING",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -289,12 +247,6 @@
             "code": "14049070",
             "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER : RUDRAKSHA SEEDS",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",

@@ -590,12 +590,6 @@
             "description": "RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
@@ -607,12 +601,6 @@
             "code": "47071000",
             "description": "RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD - UNBLEACHED KRAFT PAPER OR PAPERBOARD OR CORRUGATED PAPER OR PAPERBOARD",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -626,12 +614,6 @@
             "description": "RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD - OTHER, INCLUDING UNSORTED WASTE AND SCRAP",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
@@ -643,12 +625,6 @@
             "code": "47079000",
             "description": "RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD - OTHER, INCLUDING UNSORTED WASTE AND SCRAP",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",

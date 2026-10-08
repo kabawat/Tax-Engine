@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "9503",
-            "description": "Toy balloons made of natural rubber latex",
+            "description": "TRICYCLES, SCOOTERS, PEDAL CARS AND SIMILAR RECREATIONAL MODELS, WORKING OR NOT PUZZLES OF ALLKINDS\" WHEELED TOYS; DOLLS' CARRIAGES; DOLLS; OTHER TOYS; REDUCED-SIZE (SCALE\") MODELS AND SIMILAR(other than Electronic toys)/Handicraft- Dolls or other toys made of wood or metal or textile\nmaterial [incl wooden toys of sawantwadi, Channapatna toys, Thanjavur\ndoll)",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -17,6 +17,12 @@
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -110,12 +116,6 @@
             "description": "ARTICLES FOR FUNFAIR, TABLE OR PARLOUR GAMES, INCLUDING PINTABLES, BILLIARDS, SPECIAL TABLES FOR CASINO GAMES AND AUTOMATIC BOWLING ALLEY EQUIPMENT- ARTICLES AND ACCESSORIES FOR BILLIARDS OF ALL KINDS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -127,12 +127,6 @@
             "code": "95043000",
             "description": "ARTICLES FOR FUNFAIR, TABLE OR PARLOUR GAMES, INCLUDING PINTABLES, BILLIARDS, SPECIAL TABLES FOR CASINO GAMES AND AUTOMATIC BOWLING ALLEY EQUIPMENT - OTHER GAMES, OPERATED BY COINS, BANK NOTES, BANK CARDS, TOKENS OR BY OTHER MEANS OF PAYMENT, OTHER THAN B",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -146,12 +140,6 @@
             "description": "ARTICLES FOR FUNFAIR, TABLE OR PARLOUR GAMES, INCLUDING PINTABLES, BILLIARDS, SPECIAL TABLES FOR CASINO GAMES AND AUTOMATIC BOWLING ALLEY EQUIPMENT - PLAYING CARDS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -163,12 +151,6 @@
             "code": "95045000",
             "description": "VIDEO GAME CONSOLES AND MACHINES OTHER THAN SUB-HEADING 9504 30",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -193,12 +175,6 @@
             "code": "95049010",
             "description": "ARTICLES FOR FUNFAIR, TABLE OR PARLOUR GAMES, INCLUDING PINTABLES, BILLIARDS, SPECIAL TABLES FOR CASINO GAMES AND AUTOMATIC BOWLING ALLEY EQUIPMENT - OTHER : CHESS SET, ALL TYPES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -230,12 +206,6 @@
             "description": "ARTICLES FOR FUNFAIR, TABLE OR PARLOUR GAMES, INCLUDING PINTABLES, BILLIARDS, SPECIAL TABLES FOR CASINO GAMES AND AUTOMATIC BOWLING ALLEY EQUIPMENT - OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -247,12 +217,6 @@
             "code": "9505",
             "description": "FESTIVE, CARNIVAL OR OTHER ENTERTAINMENT ARTICLES, INCLUDING CONJURING TRICKS AND NOVELTY JOKES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -266,12 +230,6 @@
             "description": "FESTIVE, CARNIVAL OR OTHER ENTERTAINMENT ARTICLES, INCLUDING CONJURING TRICKS AND NOVELTY JOKES - ARTICLES FOR CHRISTMAS FESTIVITIES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -283,12 +241,6 @@
             "code": "95051000",
             "description": "FESTIVE, CARNIVAL OR OTHER ENTERTAINMENT ARTICLES, INCLUDING CONJURING TRICKS AND NOVELTY JOKES - ARTICLES FOR CHRISTMAS FESTIVITIES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -302,12 +254,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -319,12 +265,6 @@
             "code": "95059010",
             "description": "FESTIVE, CARNIVAL OR OTHER ENTERTAINMENT ARTICLES, INCLUDING CONJURING TRICKS AND NOVELTY JOKES - OTHER : MAGICAL EQUIPMENTS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -338,12 +278,6 @@
             "description": "FESTIVE, CARNIVAL OR OTHER ENTERTAINMENT ARTICLES, INCLUDING CONJURING TRICKS AND NOVELTY JOKES - OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -356,7 +290,7 @@
             "description": "Sports goods other than articles and equipments for general physical exercise",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
@@ -947,7 +881,7 @@
         },
         {
             "code": "9507",
-            "description": "Fishing hooks",
+            "description": "FISHING RODS, FISH-HOOKS AND OTHER LINE FISHING TACKLE; FISH LANDING NETS, BUTTERFLY NETS AND SIMILAR NETS; DECOY BIRDS\" (OTHER THAN THOSE OF HEADING 9208 OR 9705) AND SIMILAR HUNTING OR SHOOTING REQUISITES\"",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -959,6 +893,12 @@
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -1112,12 +1052,6 @@
             "description": "ROUNDABOUTS, SWINGS, SHOOTING GALLERIES AND OTHER FAIRGROUND AMUSEMENTS; TRAVELLING CIRCUSES, TRAVELLING MENAGERIES AND TRAVELLING THEATRES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1129,12 +1063,6 @@
             "code": "950810",
             "description": "ROUNDABOUTS, SWINGS, SHOOTING GALLERIES AND OTHER FAIRGROUND AMUSEMENTS; TRAVELLING CIRCUSES, TRAVELLING MENAGERIES AND TRAVELLING THEATRES TRAVELLING CIRCUSES AND TRAVELLING MENAGERIES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1148,12 +1076,6 @@
             "description": "ROUNDABOUTS, SWINGS, SHOOTING GALLERIES AND OTHER FAIRGROUND AMUSEMENTS; TRAVELLING CIRCUSES, TRAVELLING MENAGERIES AND TRAVELLING THEATRES TRAVELLING CIRCUSES AND TRAVELLING MENAGERIES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1166,12 +1088,6 @@
             "description": "ROUNDABOUTS, SWINGS, SHOOTING GALLERIES AND OTHER FAIRGROUND AMUSEMENTS; TRAVELLING CIRCUSES, TRAVELLING MENAGERIES AND TRAVELLING THEATRES OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1183,12 +1099,6 @@
             "code": "95089000",
             "description": "ROUNDABOUTS, SWINGS, SHOOTING GALLERIES AND OTHER FAIRGROUND AMUSEMENTS; TRAVELLING CIRCUSES, TRAVELLING MENAGERIES AND TRAVELLING THEATRES OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",

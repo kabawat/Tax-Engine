@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "996711",
-            "description": "",
+            "description": "CONTAINER HANDLING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -17,7 +17,7 @@
         },
         {
             "code": "996712",
-            "description": "",
+            "description": "CUSTOMS HOUSE AGENT SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -29,7 +29,7 @@
         },
         {
             "code": "996713",
-            "description": "",
+            "description": "CLEARING AND FORWARDING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -41,7 +41,7 @@
         },
         {
             "code": "996719",
-            "description": "",
+            "description": "OTHER CARGO AND BAGGAGE HANDLING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -53,7 +53,7 @@
         },
         {
             "code": "996721",
-            "description": "",
+            "description": "REFRIGERATED STORAGE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -65,7 +65,7 @@
         },
         {
             "code": "996722",
-            "description": "",
+            "description": "BULK LIQUID OR GAS STORAGE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -77,7 +77,7 @@
         },
         {
             "code": "996729",
-            "description": "",
+            "description": "OTHER STORAGE AND WAREHOUSING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -89,7 +89,7 @@
         },
         {
             "code": "996731",
-            "description": "",
+            "description": "RAILWAY PUSHING OR TOWING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -101,7 +101,7 @@
         },
         {
             "code": "996739",
-            "description": "",
+            "description": "OTHER SUPPORTING SERVICES FOR RAILWAY TRANSPORT N.E.C.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -113,7 +113,7 @@
         },
         {
             "code": "996741",
-            "description": "",
+            "description": "BUS STATION SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -125,7 +125,7 @@
         },
         {
             "code": "996742",
-            "description": "",
+            "description": "OPERATION SERVICES OF NATIONAL HIGHWAYS, STATE HIGHWAYS, EXPRESSWAYS, ROADS & STREETS; BRIDGES AND TUNNEL OPERATION SERVICES.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -137,7 +137,7 @@
         },
         {
             "code": "996743",
-            "description": "",
+            "description": "PARKING LOT SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -149,7 +149,7 @@
         },
         {
             "code": "996744",
-            "description": "",
+            "description": "TOWING SERVICES FOR COMMERCIAL AND PRIVATE VEHICLES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -161,7 +161,7 @@
         },
         {
             "code": "996749",
-            "description": "",
+            "description": "OTHER SUPPORTING SERVICES FOR ROAD TRANSPORT N.E.C.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -173,7 +173,7 @@
         },
         {
             "code": "996751",
-            "description": "",
+            "description": "PORT AND WATERWAY OPERATION SERVICES (EXCL. CARGO HANDLING) SUCH AS OPERATION SERVICES OF PORTS, DOCKS, LIGHT HOUSES, LIGHT SHIPS ETC",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -185,7 +185,7 @@
         },
         {
             "code": "996752",
-            "description": "",
+            "description": "PILOTAGE AND BERTHING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -197,7 +197,7 @@
         },
         {
             "code": "996753",
-            "description": "",
+            "description": "VESSEL SALVAGE AND REFLOATING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -209,7 +209,7 @@
         },
         {
             "code": "996759",
-            "description": "",
+            "description": "OTHER SUPPORTING SERVICES FOR WATER TRANSPORT N.E.C.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -221,7 +221,7 @@
         },
         {
             "code": "996761",
-            "description": "",
+            "description": "AIRPORT OPERATION SERVICES (EXCL. CARGO HANDLING)",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -233,7 +233,7 @@
         },
         {
             "code": "996762",
-            "description": "",
+            "description": "AIR TRAFFIC CONTROL SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -245,7 +245,7 @@
         },
         {
             "code": "996763",
-            "description": "",
+            "description": "OTHER SUPPORTING SERVICES FOR AIR TRANSPORT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -257,7 +257,7 @@
         },
         {
             "code": "996764",
-            "description": "",
+            "description": "SUPPORTING SERVICES FOR SPACE TRANSPORT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -269,7 +269,7 @@
         },
         {
             "code": "996791",
-            "description": "",
+            "description": "GOODS TRANSPORT AGENCY SERVICES FOR ROAD TRANSPORT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -281,7 +281,7 @@
         },
         {
             "code": "996792",
-            "description": "",
+            "description": "GOODS TRANSPORT AGENCY SERVICES FOR OTHER MODES OF TRANSPORT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -293,7 +293,7 @@
         },
         {
             "code": "996793",
-            "description": "",
+            "description": "OTHER GOODS TRANSPORT SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -305,7 +305,7 @@
         },
         {
             "code": "996799",
-            "description": "",
+            "description": "OTHER SUPPORTING TRANSPORT SERVICES N.E.C",
             "rateHistory": [
                 {
                     "ratePercent": 18,

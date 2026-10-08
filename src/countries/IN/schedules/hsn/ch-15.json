@@ -1814,7 +1814,7 @@
             "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
@@ -2015,12 +2015,18 @@
         },
         {
             "code": "1517",
-            "description": "Edible mixtures or preparations of  vegetable fats or vegetable oils or of fractions of different vegetable fats or vegetable oils of this Chapter, other than edible fats or oils or their fractions of heading 1516",
+            "description": "MARGARINE; EDIBLE MIXTURE OR PREPARATIONS OF ANIMAL OR VEGETABLE FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, OTHER THAN EDIBLE FATS OR OILS OR THEIR FRACTIONS OF HEADING 1516",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -2219,10 +2225,10 @@
         },
         {
             "code": "1518",
-            "description": "Vegetable fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, BOILED, OXIDISED, DEHYDRATED, SULPHURISED, BLOWN, POLYMERISED BY HEAT IN VACUUM OR IN INERT GAS OR OTHERWISE CHEMICALLY MODIFIED, EXCLUDING THOSE OF HEADING 1516 ; INEDIBLE MIXTURES OR PREPARATIONS OF",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"

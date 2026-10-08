@@ -1144,7 +1144,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1156,7 +1156,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1168,7 +1168,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1180,7 +1180,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1192,7 +1192,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1204,7 +1204,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1216,7 +1216,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1240,7 +1240,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1252,7 +1252,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1264,7 +1264,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1276,7 +1276,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1288,7 +1288,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1312,7 +1312,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1324,7 +1324,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1336,7 +1336,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1348,7 +1348,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1360,7 +1360,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1372,7 +1372,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1384,7 +1384,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1396,7 +1396,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -1532,12 +1532,6 @@
             "description": "FISH FILLETS AND OTHER FISH MEAT(WHETHER OR NOT MINCED), FRESH,CHILLED OR FROZEN- FROZEN FILLETS:-- OTHER: --- HILSA",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1549,12 +1543,6 @@
             "code": "03042920",
             "description": "FISH FILLETS AND OTHER FISH MEAT(WHETHER OR NOT MINCED), FRESH,CHILLED OR FROZEN- FROZEN FILLETS: --OTHER: --- SHARK",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1568,12 +1556,6 @@
             "description": "FISH FILLETS AND OTHER FISH MEAT(WHETHER OR NOT MINCED), FRESH,CHILLED OR FROZEN- FROZEN FILLETS: --OTHER:--- SEER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1585,12 +1567,6 @@
             "code": "03042940",
             "description": "FISH FILLETS AND OTHER FISH MEAT(WHETHER OR NOT MINCED), FRESH,CHILLED OR FROZEN- FROZEN FILLETS: --OTHER --- TUNA",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1604,12 +1580,6 @@
             "description": "FISH FILLETS AND OTHER FISH MEAT(WHETHER OR NOT MINCED), FRESH,CHILLED OR FROZEN - FROZEN FILLETS: --OTHER: --- CUTTLEFISH",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1621,12 +1591,6 @@
             "code": "03042990",
             "description": "FISH FILLETS AND OTHER FISH MEAT(WHETHER OR NOT MINCED), FRESH,CHILLED OR FROZEN- FROZEN FILLETS: --OTHER: --- OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1640,12 +1604,6 @@
             "description": "TILAPIAS(OREOCHROMIS SPP.P",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1657,12 +1615,6 @@
             "code": "03043200",
             "description": "CATFISH (PANGASIUS SPP., SILURUS SPP., CLARIAS SPP., ICTALURUS SPP.)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1676,12 +1628,6 @@
             "description": "NILE PERCH (LATES NILOTICUS)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1693,12 +1639,6 @@
             "code": "03043900",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1712,12 +1652,6 @@
             "description": "PACIFIC SALMON(ONCORHYNCHUS NERKA, ONCORHYNCHUS GORBUSCHA, ONCORHYNCHUSKETA, ONCORHYNCHUS TSCHAWYTSCHA,ONCORHYNCHUS KISUTCH, ONCORHYNCHUSMASOU AND ONCORHYNCHUS RHODURUS),ATLANTIC SALMON (SALMO SALAR) AND DANUBE SALMON (HUCHO HUCHO)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1729,12 +1663,6 @@
             "code": "03044200",
             "description": "TROUT (SALMO TRUTTA, ONCORHYNCHUS MYKISS, ONCORHYNCHUS CLARKI,ONCORHYNCHUS AGUABONITA,ONCORHYNCHUS GILAE, ONCORHYNCHUS APACHE ANDONCORHYNCHUS CHRYSOGASTER)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1748,12 +1676,6 @@
             "description": "SWORDFISH (XIPHIAS GLADIUS)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1765,12 +1687,6 @@
             "code": "03044600",
             "description": "TOOTHFISH (DISSOSTICHUS SPP.)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1820,12 +1736,6 @@
             "description": "HILSA",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1837,12 +1747,6 @@
             "code": "03044930",
             "description": "SEER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1856,12 +1760,6 @@
             "description": "TUNA",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1873,12 +1771,6 @@
             "code": "03044990",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1892,12 +1784,6 @@
             "description": "SALMONIDAE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1909,12 +1795,6 @@
             "code": "03045300",
             "description": "FISH OF THE FAMILIES BREGMACEROLIDAE, EUCLICHTHYIDAE, GADIDAE, MACROURIDAE, MELANONIDAE, MERLUCCIIDAE, MORIDAE AND MURAENOLEPIDIDAE",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1928,12 +1808,6 @@
             "description": "SWORDFISH (XIPHIAS GLADIUS)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1945,12 +1819,6 @@
             "code": "03045500",
             "description": "TOOTHFISH (DISSOSTICHUS SPP.)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2000,12 +1868,6 @@
             "description": "HILSA",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2017,12 +1879,6 @@
             "code": "03045930",
             "description": "SEER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2036,12 +1892,6 @@
             "description": "TUNA",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2053,12 +1903,6 @@
             "code": "03045990",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2072,12 +1916,6 @@
             "description": "TILAPIAS(OREOCHROMIA SPP.)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2089,12 +1927,6 @@
             "code": "03046200",
             "description": "CATFISH (PANGASIUS SPP., SILURUS SPP., CLARIAS SPP., ICTALURUS SPP.)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2108,12 +1940,6 @@
             "description": "NILE PERCH (LATES NILOTICUS)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2125,12 +1951,6 @@
             "code": "03046900",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2144,12 +1964,6 @@
             "description": "COD (GADUS MORHUA, GADUS OGAS, GADUS MACROCEPHALUS)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2161,12 +1975,6 @@
             "code": "03047200",
             "description": "HADDOCK (MELANOGRAMMUS AEGLEFINUS)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2180,12 +1988,6 @@
             "description": "COALFISH (POLLACHIUS VIRENS)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2197,12 +1999,6 @@
             "code": "03047400",
             "description": "HAKE (MERLUCCIUS SPP., UROPHYCIS SPP.)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2216,12 +2012,6 @@
             "description": "ALASKA POLLACK(THERAGRA CHALCORRAMMA)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2233,12 +2023,6 @@
             "code": "03047900",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2252,12 +2036,6 @@
             "description": "TROUT (SALMO TRUTTA, ONCORHYNCHUS MYKISS, ONCORHYNCHUS CLARKI,ONCORHYNCHUS AGUABONITA,ONCORHYNCHUS GILAE, ONCORHYNCHUS APACHE ANDONCORHYNCHUS CHRYSOGASTER)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2269,12 +2047,6 @@
             "code": "03048400",
             "description": "SWORDFISH (XIPHIAS GLADIUS)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2288,12 +2060,6 @@
             "description": "TOOTHFISH (DISSOSTICHUS SPP.)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2305,12 +2071,6 @@
             "code": "03048600",
             "description": "HERRINGS (CLUPEA HARENGUS, CLUPEA PALLASII)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2384,12 +2144,6 @@
             "description": "HILSA",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2401,12 +2155,6 @@
             "code": "03048930",
             "description": "SEER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2432,12 +2180,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2449,12 +2191,6 @@
             "code": "03049100",
             "description": "FISH FILLETS AND OTHER FISH MEAT(WHETHER OR NOT MINCED), FRESH,CHILLED OR FROZEN- OTHER: --SWORDFISH (XIPHIAS GLADIUS)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2468,12 +2204,6 @@
             "description": "FISH FILLETS AND OTHER FISH MEAT(WHETHER OR NOT MINCED), FRESH,CHILLED OR FROZEN- OTHER: --TOOTHFISH (DISSOSTICHUS SPP.)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2485,12 +2215,6 @@
             "code": "03049300",
             "description": "TILAPIAS (OREOCHROMIS SPP) ,CATFISH (PANGALASIUS SPP.,SILURUS SPP.,CLARIAS SPP., ICTALURUS SPP.) CARP(CYPRINUS CARPIO, CARASSIUS CARASSIUS, CTENPHARYNGODON IDELLUS, HYPOPHTHALMICHTHYS SPP., CIRRHINUS, MYLOPHARYNGODON PICEUS) , EELS(ANGUILLA SPP.),NILE PER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2504,12 +2228,6 @@
             "description": "ALASKA POLLACK(THERAGRA CHALCORRAMMA)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2521,12 +2239,6 @@
             "code": "03049500",
             "description": "FISH OF THE FAMILIES BREGMACEROLIDAE, EUCLICHTHYIDAE, GADIDAE, MACROURIDAE, MELANONIDAE, MERLUCCIIDAE, MORIDAE AND MURAENOLEPIDIDAE , OTHER THAN ALASKA POLLACK(THERAGRA CHALCORRAMMA)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2564,12 +2276,6 @@
             "description": "FISH FILLETS AND OTHER FISH MEAT(WHETHER OR NOT MINCED), FRESH,CHILLED OR FROZEN- OTHER : -- OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2602,7 +2308,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2614,7 +2320,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2626,7 +2332,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2638,7 +2344,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2650,7 +2356,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2662,7 +2368,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2674,7 +2380,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2686,7 +2392,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2705,12 +2411,18 @@
         },
         {
             "code": "030559",
-            "description": "Other",
+            "description": "FISH AND CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES~Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process~Other:",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2722,7 +2434,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2734,7 +2446,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2746,7 +2458,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2758,7 +2470,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2770,7 +2482,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2782,7 +2494,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2794,7 +2506,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2818,7 +2530,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2830,7 +2542,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2842,7 +2554,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2854,7 +2566,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2866,7 +2578,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2878,7 +2590,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2890,7 +2602,7 @@
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2017-11-15",
                     "effectiveTo": null
                 }
             ]
@@ -2930,12 +2642,6 @@
             "description": "CRUSTACEANS, WHETHER IN SHELL OR NOT,LIVE, FRESH, CHILLED, FROZEN, DRIED, SALTEDOR IN BRINE; CRUSTACEANS, IN SHELL, COOKEDBY STEAMING OR BY BOILING IN WATER,WHETHER OR NOT CHILLED, FROZEN, DRIED,SALTED OR IN BRINE; FLOURS, MEALS ANDPELLETS, OF CRUSTACEANS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2947,12 +2653,6 @@
             "code": "03061290",
             "description": "CRUSTACEANS, WHETHER IN SHELL OR NOT,LIVE, FRESH, CHILLED, FROZEN, DRIED, SALTEDOR IN BRINE; CRUSTACEANS, IN SHELL, COOKEDBY STEAMING OR BY BOILING IN WATER,WHETHER OR NOT CHILLED, FROZEN, DRIED,SALTED OR IN BRINE; FLOURS, MEALS ANDPELLETS, OF CRUSTACEANS",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -2966,12 +2666,6 @@
             "description": "CRUSTACEANS, WHETHER IN SHELL OR NOT,LIVE, FRESH, CHILLED, FROZEN, DRIED, SALTEDOR IN BRINE; CRUSTACEANS, IN SHELL, COOKEDBY STEAMING OR BY BOILING IN WATER,WHETHER OR NOT CHILLED, FROZEN, DRIED,SALTED OR IN BRINE; FLOURS, MEALS ANDPELLETS, OF CRUSTACEANS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2983,12 +2677,6 @@
             "code": "03061500",
             "description": "NORWAY LOBSTERS(NEPHOPS NORVEGICUS)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3014,12 +2702,6 @@
             "description": "ACCELERATED FREEZE DRIED(AFD)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3031,12 +2713,6 @@
             "code": "03061690",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3062,12 +2738,6 @@
             "description": "ACCELERATED FREEZE DRIED(AFD)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3079,12 +2749,6 @@
             "code": "03061719",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3098,12 +2762,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3115,12 +2773,6 @@
             "code": "03062200",
             "description": "CRUSTACEANS, WHETHER IN SHELL OR NOT,LIVE, FRESH, CHILLED, FROZEN, DRIED, SALTEDOR IN BRINE; CRUSTACEANS, IN SHELL, COOKEDBY STEAMING OR BY BOILING IN WATER,WHETHER OR NOT CHILLED, FROZEN, DRIED,SALTED OR IN BRINE; FLOURS, MEALS ANDPELLETS, OF CRUSTACEANS",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3134,12 +2786,6 @@
             "description": "CRUSTACEANS, WHETHER IN SHELL OR NOT,LIVE, FRESH, CHILLED, FROZEN, DRIED, SALTEDOR IN BRINE; CRUSTACEANS, IN SHELL, COOKEDBY STEAMING OR BY BOILING IN WATER,WHETHER OR NOT CHILLED, FROZEN, DRIED,SALTED OR IN BRINE; FLOURS, MEALS ANDPELLETS, OF CRUSTACEANS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3151,12 +2797,6 @@
             "code": "03062500",
             "description": "NORWAY LOBSTERS(NEPHOPS NORVEGICUS)",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3170,12 +2810,6 @@
             "description": "COLD-WATER SHRIMPS AND PRAWNS (PANDALUS SPP, CRANGON CRANGON)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3187,12 +2821,6 @@
             "code": "030627",
             "description": "POWDERED",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3206,12 +2834,6 @@
             "description": "POWDERED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3223,12 +2845,6 @@
             "code": "03062790",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3416,12 +3032,6 @@
             "description": "LIVE, FRESH OR CHILLED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3446,12 +3056,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3463,12 +3067,6 @@
             "code": "03072100",
             "description": "MOLLUSCS, WHETHER IN SHELL OR NOT, LIVE,FRESH, CHILLED, FROZEN, DRIED, SALTED OR INBRINE; AQUATIC INVERTEBRATES OTHER THANCRUSTACEANS AND MOLLUSCS, LIVE, FRESH,CHILLED, FROZEN, DRIED, SALTED OR IN BRINE;FLOURS, MEALS AND PELLETS OF AQUATICINVERTEBRATES OT",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3494,12 +3092,6 @@
             "description": "MOLLUSCS, WHETHER IN SHELL OR NOT, LIVE,FRESH, CHILLED, FROZEN, DRIED, SALTED OR INBRINE; AQUATIC INVERTEBRATES OTHER THAN CRUSTACEANS AND MOLLUSCS, LIVE, FRESH,CHILLED, FROZEN, DRIED, SALTED OR IN BRINE;FLOURS, MEALS AND PELLETS OF AQUATICINVERTEBRATES O",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3511,12 +3103,6 @@
             "code": "03073100",
             "description": "MOLLUSCS, WHETHER IN SHELL OR NOT, LIVE,FRESH, CHILLED, FROZEN, DRIED, SALTED OR INBRINE; AQUATIC INVERTEBRATES OTHER THAN CRUSTACEANS AND MOLLUSCS, LIVE, FRESH,CHILLED, FROZEN, DRIED, SALTED OR IN BRINE;FLOURS, MEALS AND PELLETS OF AQUATICINVERTEBRATES O",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3554,12 +3140,6 @@
             "description": "MOLLUSCS, WHETHER IN SHELL OR NOT, LIVE,FRESH, CHILLED, FROZEN, DRIED, SALTED OR INBRINE; AQUATIC INVERTEBRATES OTHER THAN CRUSTACEANS AND MOLLUSCS, LIVE, FRESH,CHILLED, FROZEN, DRIED, SALTED OR IN BRINE;FLOURS, MEALS AND PELLETS OF AQUATICINVERTEBRATES O",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3572,12 +3152,6 @@
             "description": "MOLLUSCS, WHETHER IN SHELL OR NOT, LIVE,FRESH, CHILLED, FROZEN, DRIED, SALTED OR INBRINE; AQUATIC INVERTEBRATES OTHER THAN CRUSTACEANS AND MOLLUSCS, LIVE, FRESH,CHILLED, FROZEN, DRIED, SALTED OR IN BRINE;FLOURS, MEALS AND PELLETS OF AQUATICINVERTEBRATES O",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3589,12 +3163,6 @@
             "code": "03074110",
             "description": "MOLLUSCS, WHETHER IN SHELL OR NOT, LIVE,FRESH, CHILLED, FROZEN, DRIED, SALTED OR INBRINE; AQUATIC INVERTEBRATES OTHER THAN CRUSTACEANS AND MOLLUSCS, LIVE, FRESH,CHILLED, FROZEN, DRIED, SALTED OR IN BRINE;FLOURS, MEALS AND PELLETS OF AQUATICINVERTEBRATES O",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3677,12 +3245,18 @@
         },
         {
             "code": "03074330",
-            "description": "Squid tubes",
+            "description": "FISH AND CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES~Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process~Frozen:~Squid tubes",
             "rateHistory": [
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
                     "effectiveTo": null
                 }
             ]
@@ -3704,12 +3278,6 @@
             "description": "INVERTEBRATES OTHER THAN CRUSTACEANS AND MOLLUSCS, LIVE, FRESH,CHILLED, FROZEN, DRIED, SALTED OR IN BRINE;FLOURS, MEALS AND PELLETS OF AQUATICINVERTEBRATES OTHER THAN CRUSTACEANS,FIT FOR HUMAN CONSUMPTIONCUTTLE FISH (SEPIA OFFICINALIS, ROSSIAMACROSOMA, SE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3722,12 +3290,6 @@
             "description": "INVERTEBRATES OTHER THAN CRUSTACEANS AND MOLLUSCS, LIVE, FRESH,CHILLED, FROZEN, DRIED, SALTED OR IN BRINE;FLOURS, MEALS AND PELLETS OF AQUATICINVERTEBRATES OTHER THAN CRUSTACEANS,FIT FOR HUMAN CONSUMPTIONCUTTLE FISH (SEPIA OFFICINALIS, ROSSIAMACROSOMA, SE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3739,12 +3301,6 @@
             "code": "03074930",
             "description": "INVERTEBRATES OTHER THAN CRUSTACEANS AND MOLLUSCS, LIVE, FRESH,CHILLED, FROZEN, DRIED, SALTED OR IN BRINE;FLOURS, MEALS AND PELLETS OF AQUATICINVERTEBRATES OTHER THAN CRUSTACEANS,FIT FOR HUMAN CONSUMPTIONCUTTLE FISH (SEPIA OFFICINALIS, ROSSIAMACROSOMA, SE",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3770,12 +3326,6 @@
             "description": "INVERTEBRATES OTHER THAN CRUSTACEANS AND MOLLUSCS, LIVE, FRESH,CHILLED, FROZEN, DRIED, SALTED OR IN BRINE;FLOURS, MEALS AND PELLETS OF AQUATICINVERTEBRATES OTHER THAN CRUSTACEANS,FIT FOR HUMAN CONSUMPTIONCUTTLE FISH (SEPIA OFFICINALIS, ROSSIAMACROSOMA, SE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3787,12 +3337,6 @@
             "code": "03075100",
             "description": "CHILLED, FROZEN, DRIED, SALTED OR IN BRINE;FLOURS, MEALS AND PELLETS OF AQUATICINVERTEBRATES OTHER THAN CRUSTACEANS,FIT FOR HUMAN CONSUMPTIONOCTOPUS (OCTOPUS SPP.) LIVE, FRESH OR CHILLED",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3818,12 +3362,6 @@
             "description": "CHILLED, FROZEN, DRIED, SALTED OR IN BRINE;FLOURS, MEALS AND PELLETS OF AQUATICINVERTEBRATES OTHER THAN CRUSTACEANS,FIT FOR HUMAN CONSUMPTIONOCTOPUS (OCTOPUS SPP.) OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3836,12 +3374,6 @@
             "description": "CHILLED, FROZEN, DRIED, SALTED OR IN BRINE;FLOURS, MEALS AND PELLETS OF AQUATICINVERTEBRATES OTHER THAN CRUSTACEANS,FIT FOR HUMAN CONSUMPTION SNAILS, OTHER THAN SEA SNAILS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3853,12 +3385,6 @@
             "code": "03077100",
             "description": "LIVE, FRESH OR CHILLED",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3884,12 +3410,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3901,12 +3421,6 @@
             "code": "03078100",
             "description": "LIVE, FRESH OR CHILLED",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3980,12 +3494,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3997,12 +3505,6 @@
             "code": "03079100",
             "description": "CHILLED, FROZEN, DRIED, SALTED OR IN BRINE;FLOURS, MEALS AND PELLETS OF AQUATICINVERTEBRATES OTHER THAN CRUSTACEANS,FIT FOR HUMAN CONSUMPTIONOTHER, INCLUDING FLOURS, MEALS AND PELLETS,OF AQUATIC INVERTEBRATES OTHER THANCRUSTACEANS, FIT FOR HUMAN CONSUMPTI",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -4027,12 +3529,6 @@
             "code": "03079900",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -4064,12 +3560,6 @@
             "description": "LIVE, FRESH OR CHILLED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4094,12 +3584,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4111,12 +3595,6 @@
             "code": "03082100",
             "description": "LIVE, FRESH OR CHILLED",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -4142,12 +3620,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4172,12 +3644,6 @@
             "description": "LIVE, FRESH OR CHILLED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4190,12 +3656,6 @@
             "description": "DRIED, SALTED OR FROZEN",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -4207,12 +3667,6 @@
             "code": "03089000",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",

@@ -41,6 +41,7 @@
     "typecheck": "npm run generate:schedule && tsc -p tsconfig.build.json --noEmit",
     "test": "npm run generate:schedule && vitest run",
     "recheck:hsn": "bash scripts/recheck-hsn.sh",
+    "sync:schedule:clear": "node scripts/sync-schedule-from-clear.mjs",
     "bench:schedule": "npm run generate:schedule && npm run build && node scripts/bench-india-schedule.mjs",
     "manual-test": "npm run build && node examples/manual-test.mjs",
     "verify": "npm run typecheck && npm run test && npm run build && npm pack --dry-run",

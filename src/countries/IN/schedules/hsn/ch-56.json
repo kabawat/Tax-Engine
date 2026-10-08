@@ -98,12 +98,6 @@
             "description": "WADDING OF TEXTILE MATERIALS AND ARTICLES THEREOF; TEXTILE FIBRES, NOT EXCEEDING 5 MM IN LENGTH (FLOCK), TEXTILE DUST AND MILL NEPS - WADDING; OTHER ARTICLES OF WADDING : OF MAN-MADE FIBRES",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-01-24"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-01-25",
@@ -115,12 +109,6 @@
             "code": "56012200",
             "description": "WADDING OF TEXTILE MATERIALS AND ARTICLES THEREOF; TEXTILE FIBRES, NOT EXCEEDING 5 MM IN LENGTH (FLOCK), TEXTILE DUST AND MILL NEPS - WADDING; OTHER ARTICLES OF WADDING : OF MAN-MADE FIBRES",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-01-24"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -794,15 +782,15 @@
             "description": "METALLISED YARN, WHETHER OR NOT GIMPED BEING TEXTILE YARN, OR STRIP OR THE LIKE OF HEADING 5404 OR 5405, COMBINED WITH METAL IN THE FORM OF THREAD, STRIP OR POWDER OR COVERED WITH METAL - METALLISED YARN, WHETHER OR NOT GIMPED, BEING TEXTILE YARN, OR STRI",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": "2025-09-21"
                 },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-10-13",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -953,7 +941,7 @@
         },
         {
             "code": "5607",
-            "description": "Jute twine, coir cordage or ropes,Coir articles",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF SISAL OR OTHER TEXTILE FIBRES OF THE GENUS AGAVE",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -965,6 +953,12 @@
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -1292,12 +1286,6 @@
             "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OF MAN-MADE TEXTILE MATERIALS",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1309,12 +1297,6 @@
             "code": "560811",
             "description": "MADE UP FISHING NETS",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1328,12 +1310,6 @@
             "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OF MAN-MADE TEXTILE MATERIALS : - MADE UP FISHING NETS : MADE UP FISHING NETS OF NYLON",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1345,12 +1321,6 @@
             "code": "56081190",
             "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OF MAN-MADE TEXTILE MATERIALS : - MADE UP FISHING NETS : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1364,12 +1334,6 @@
             "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OF MAN-MADE TEXTILE MATERIALS : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1381,12 +1345,6 @@
             "code": "56081900",
             "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OF MAN-MADE TEXTILE MATERIALS : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1400,12 +1358,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1417,12 +1369,6 @@
             "code": "56089010",
             "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OTHER : OF COTTON",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1436,12 +1382,6 @@
             "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OTHER : OF JUTE",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1454,12 +1394,6 @@
             "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1469,7 +1403,7 @@
         },
         {
             "code": "5609",
-            "description": "Products of coir,Coir articles",
+            "description": "ARTICLES OF YARN, STRIP OR THE LIKE OF HEADING 5404 OR 5405, TWINE, CORDAGE, ROPE OR CABLES, NOT ELSEWHERE SPECIFIED OR INCLUDED",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -1481,6 +1415,12 @@
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]

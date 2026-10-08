@@ -11,6 +11,12 @@
                     "ratePercent": 0,
                     "taxability": "ZERO_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "ZERO_RATED",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -224,12 +230,6 @@
             "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTEROTHER : NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER : CONDENSED MILK",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -284,12 +284,6 @@
             "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTEROTHER : OTHER : CONDENSED MILK",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -317,11 +311,11 @@
         },
         {
             "code": "0403",
-            "description": "BUTTER MILK, CURDLED MILK AND CREAM, YOGURT, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM, WHETHER OR NOT CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR FLAVOURED OR CONTAINING ADDED FRUIT, NUTS OR COCOA",
+            "description": "Curd, Lassi, Butter milk, pre-packaged and labelled”",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2022-07-17"
                 },
@@ -623,6 +617,12 @@
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]

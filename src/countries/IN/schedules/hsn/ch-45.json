@@ -74,12 +74,6 @@
             "description": "NATURAL CORK, DEBACKED OR ROUGHLY SQUARED, OR IN RECTANGULAR (INCLUDING SQUARE) BLOCKS, PLATES, SHEETS OR STRIP (INCLUDING SHARP-EDGED BLANKS FOR CORKS OR STOPPERS)",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2019-01-01",
@@ -92,12 +86,6 @@
             "description": "NATURAL CORK, DEBACKED OR ROUGHLY SQUARED, OR IN RECTANGULAR (INCLUDING SQUARE) BLOCKS, PLATES, SHEETS OR STRIP (INCLUDING SHARP-EDGED BLANKS FOR CORKS OR STOPPERS)",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -109,12 +97,6 @@
             "code": "45020000",
             "description": "NATURAL CORK, DEBACKED OR ROUGHLY SQUARED, OR IN RECTANGULAR (INCLUDING SQUARE) BLOCKS, PLATES, SHEETS OR STRIP (INCLUDING SHARP-EDGED BLANKS FOR CORKS OR STOPPERS)",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -134,12 +116,6 @@
             "description": "ARTICLES OF NATURAL CORK",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -158,12 +134,6 @@
             "description": "ARTICLES OF NATURAL CORK - CORKS AND STOPPERS",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -175,12 +145,6 @@
             "code": "45031000",
             "description": "ARTICLES OF NATURAL CORK - CORKS AND STOPPERS",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -200,12 +164,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -223,12 +181,6 @@
             "code": "45039010",
             "description": "ARTICLES OF NATURAL CORK - OTHER : SHUTTLECOCK CORK BOTTOM",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -248,12 +200,6 @@
             "description": "ARTICLES OF NATURAL CORK - OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -271,12 +217,6 @@
             "code": "4504",
             "description": "AGGLOMERATED CORK (WITH OR WITHOUT A BINDING SUBSTANCE) AND ARTICLES OF AGGLOMERATED CORK",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -296,12 +236,6 @@
             "description": "AGGLOMERATED CORK (WITH OR WITHOUT A BINDING SUBSTANCE) AND ARTICLES OF AGGLOMERATED CORK - BLOCKS, PLATES, SHEETS AND STRIP; TILES OF ANY SHAPE; SOLID CYLINDERS, INCLUDING DISCS : SHEETS",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -319,12 +253,6 @@
             "code": "45041020",
             "description": "AGGLOMERATED CORK (WITH OR WITHOUT A BINDING SUBSTANCE) AND ARTICLES OF AGGLOMERATED CORK - BLOCKS, PLATES, SHEETS AND STRIP; TILES OF ANY SHAPE; SOLID CYLINDERS, INCLUDING DISCS : SLABS",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -344,12 +272,6 @@
             "description": "AGGLOMERATED CORK (WITH OR WITHOUT A BINDING SUBSTANCE) AND ARTICLES OF AGGLOMERATED CORK - BLOCKS, PLATES, SHEETS AND STRIP; TILES OF ANY SHAPE; SOLID CYLINDERS, INCLUDING DISCS : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -368,12 +290,6 @@
             "description": "AGGLOMERATED CORK (WITH OR WITHOUT A BINDING SUBSTANCE) AND ARTICLES OF AGGLOMERATED CORK - OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -385,12 +301,6 @@
             "code": "45049000",
             "description": "AGGLOMERATED CORK (WITH OR WITHOUT A BINDING SUBSTANCE) AND ARTICLES OF AGGLOMERATED CORK - OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",

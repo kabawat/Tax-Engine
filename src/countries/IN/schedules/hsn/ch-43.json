@@ -284,12 +284,6 @@
             "description": "ARTICLES OF APPAREL, CLOTHING ACCESSORIES AND OTHER ARTICLES OF FURSKIN",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -301,12 +295,6 @@
             "code": "430310",
             "description": "ARTICLES OF APPAREL AND CLOTHING ACCESSORIES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -320,12 +308,6 @@
             "description": "ARTICLES OF APPAREL, CLOTHING ACCESSORIES AND OTHER ARTICLES OF FURSKIN - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES: OF WILD ANIMALS COVERED UNDER THE WILD LIFE (PROTECTION) ACT, 1972",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -337,12 +319,6 @@
             "code": "43031020",
             "description": "ARTICLES OF APPAREL, CLOTHING ACCESSORIES AND OTHER ARTICLES OF FURSKIN - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES: OF ANIMALS COVERED UNDER CONVENTION ON INTERNATIONAL TRADE OF ENDANGERED SPECIES (CITES), OTHER THAN THOSE OF TARIFF ITEM 4303 10 10",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -356,12 +332,6 @@
             "description": "ARTICLES OF APPAREL, CLOTHING ACCESSORIES AND OTHER ARTICLES OF FURSKIN - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -373,12 +343,6 @@
             "code": "430390",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -392,12 +356,6 @@
             "description": "ARTICLES OF APPAREL, CLOTHING ACCESSORIES AND OTHER ARTICLES OF FURSKIN - OTHER: OF WILD ANIMALS COVERED UNDER THE WILD LIFE (PROTECTION) ACT, 1972",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -409,12 +367,6 @@
             "code": "43039090",
             "description": "ARTICLES OF APPAREL, CLOTHING ACCESSORIES AND OTHER ARTICLES OF FURSKIN - OTHER: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",

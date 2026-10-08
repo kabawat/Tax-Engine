@@ -185,11 +185,11 @@
         },
         {
             "code": "3002",
-            "description": "HUMAN BLOOD AND ITS COMPONENTS",
+            "description": "ANIMAL OR HUMAN BLOOD VACCINES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
                 },
@@ -206,8 +206,8 @@
             "description": "HUMAN BLOOD; ANIMAL BLOOD PREPARED FOR THERAPEUTIC, PROPHYLACTIC OR DIAGNOSTIC USES; ANTISERA AND OTHER BLOOD FRACTIONS AND MODIFIED IMMUNOLOGICAL PRODUCTS, WHETHER OR NOT OBTAINED BY MEANS OF BIOTECHNOLOGICAL PROCESSES; VACCINES, TOXINS, CULTURES OF MICR",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
                 },
@@ -278,8 +278,8 @@
             "description": "HUMAN BLOOD; ANIMAL BLOOD PREPARED FOR THERAPEUTIC, PROPHYLACTIC OR DIAGNOSTIC USES; ANTISERA AND OTHER BLOOD FRACTIONS AND MODIFIED IMMUNOLOGICAL PRODUCTS, WHETHER OR NOT OBTAINED BY MEANS OF BIOTECHNOLOGICAL PROCESSES; VACCINES, TOXINS, CULTURES OF MICR",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
                 },
@@ -482,8 +482,8 @@
             "description": "HUMAN BLOOD; ANIMAL BLOOD PREPARED FOR THERAPEUTIC, PROPHYLACTIC OR DIAGNOSTIC USES; ANTISERA AND OTHER BLOOD FRACTIONS AND MODIFIED IMMUNOLOGICAL PRODUCTS, WHETHER OR NOT OBTAINED BY MEANS OF BIOTECHNOLOGICAL PROCESSES; VACCINES, TOXINS, CULTURES OF MICR",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
                 },
@@ -644,8 +644,8 @@
             "description": "HUMAN BLOOD; ANIMAL BLOOD PREPARED FOR THERAPEUTIC, PROPHYLACTIC OR DIAGNOSTIC USES; ANTISERA AND OTHER BLOOD FRACTIONS AND MODIFIED IMMUNOLOGICAL PRODUCTS, WHETHER OR NOT OBTAINED BY MEANS OF BIOTECHNOLOGICAL PROCESSES; VACCINES, TOXINS, CULTURES OF MICR",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
                 },
@@ -4121,11 +4121,11 @@
         },
         {
             "code": "3006",
-            "description": "ALL TYPES OF CONTRACEPTIVES",
+            "description": "PHARMACEUTICAL GOODS SPECIFIED IN NOTE 4 TO THIS CHAPTER [I.E. STERILE SURGICAL CATGUT, SIMILAR STERILE SUTURE MATERIALS (INCLUDING STERILE ABSORBABLE SURGICAL OR DENTAL YARNS) AND STERILE TISSUE ADHESIVES FOR SURGICAL WOUND CLOSURE; STERILE LAMINARIA AND STERILE LAMINARIA TENTS; STERILE ABSORBABLE SURGICAL OR DENTAL HAEMOSTATICS; STERILE SURGICAL OR DENATAL ADHESION BARRIERS, WHETHER OR NOT ABSORBABLE; WASTE PHARMACEUTICALS] [OTHER THAN CONTRACEPTIVES]",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2022-07-17"
                 },
@@ -4133,6 +4133,12 @@
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2022-07-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]

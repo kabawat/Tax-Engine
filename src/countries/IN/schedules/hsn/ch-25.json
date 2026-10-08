@@ -104,12 +104,6 @@
             "description": "SULPHUR OF ALL KINDS, OTHER THAN SUBLIMED SULPHUR, PRECIPITATED SULPHUR AND COLLODIAL SULPHUR",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -122,12 +116,6 @@
             "description": "SULPHUR OF ALL KINDS, OTHER THAN SUBLIMED SULPHUR, PRECIPITATED SULPHUR AND COLLODIAL SULPHUR - SULPHUR OF ALL KINDS, OTHER THAN SUBLIMED SULPHUR, PRECIPITATED SULPHUR AND COLLODIAL SULPHUR: SULPHUR RECOVERED AS BY-PRODUCT IN REFINING OF CRUDE OIL",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -139,12 +127,6 @@
             "code": "25030090",
             "description": "SULPHUR OF ALL KINDS, OTHER THAN SUBLIMED SULPHUR, PRECIPITATED SULPHUR AND COLLODIAL SULPHUR - SULPHUR OF ALL KINDS, OTHER THAN SUBLIMED SULPHUR, PRECIPITATED SULPHUR AND COLLODIAL SULPHUR: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1298,12 +1280,6 @@
             "description": "MARBLE, TRAVERTINE, ECAUSSINE AND OTHER CALCAREOUS MONUMENTAL OR BUILDING STONE OF AN APPARENT SPECIFIC GRAVITY OF 2.5 OR MORE, AND ALABASTER, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INC",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -1315,12 +1291,6 @@
             "code": "25151100",
             "description": "MARBLE, TRAVERTINE, ECAUSSINE AND OTHER CALCAREOUS MONUMENTAL OR BUILDING STONE OF AN APPARENT SPECIFIC GRAVITY OF 2.5 OR MORE, AND ALABASTER, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INC",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -1352,12 +1322,6 @@
             "description": "MARBLE, TRAVERTINE, ECAUSSINE AND OTHER CALCAREOUS MONUMENTAL OR BUILDING STONE OF AN APPARENT SPECIFIC GRAVITY OF 2.5 OR MORE, AND ALABASTER, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INC",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1369,12 +1333,6 @@
             "code": "25151290",
             "description": "MARBLE, TRAVERTINE, ECAUSSINE AND OTHER CALCAREOUS MONUMENTAL OR BUILDING STONE OF AN APPARENT SPECIFIC GRAVITY OF 2.5 OR MORE, AND ALABASTER, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INC",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1412,7 +1370,7 @@
             "description": "GRANITE BLOCKS",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
@@ -1453,12 +1411,6 @@
             "code": "25161200",
             "description": "GRANITE, PORPHYRY, BASALT, SANDSTONE AND OTHER MONUMENTAL OR BUILDING STONE, WHETHER OR NOT ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE - GRANITE : MERELY CUT, BY SAWING OR OTHERWIS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",

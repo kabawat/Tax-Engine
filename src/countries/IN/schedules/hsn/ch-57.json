@@ -143,6 +143,12 @@
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -182,15 +188,15 @@
             "description": "FLOOR COVERINGS OF COCONUT FIBRES (COIR)",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": "2025-09-21"
                 },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-10-13",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -1361,6 +1367,12 @@
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -1796,7 +1808,7 @@
             "description": "Coir mats, matting, floor\ncovering and handloom durries",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"

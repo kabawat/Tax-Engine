@@ -134,12 +134,6 @@
             "description": "WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING CROPS AND THE LIKE",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -151,12 +145,6 @@
             "code": "66020000",
             "description": "WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING CROPS AND THE LIKE",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",

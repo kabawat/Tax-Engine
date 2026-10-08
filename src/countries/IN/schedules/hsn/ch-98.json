@@ -149,10 +149,10 @@
         },
         {
             "code": "9804",
-            "description": "Drugs or medicines including their salts and esters and diagnostic test kits specified at S.No.180 above and Formulations specified at S.No.181 above, intended for personal use.",
+            "description": "Other Drugs and medicines intended for personal use",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"

@@ -68,12 +68,6 @@
             "description": "ANIMAL OR VEGETABLE FERTILISERS, WHETHER OR NOT MIXED TOGETHER OR CHEMICALLY TREATED; FERTILISERS PRODUCED BY THE MIXING OR CHEMICAL TREATMENT OF ANIMAL OR VEGETABLE PRODUCTS ANIMAL OR VEGETABLE FERTILISERS, WHETHER OR NOT MIXED TOGETHER OR CHEMICALLY TRE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
@@ -83,7 +77,7 @@
         },
         {
             "code": "3102",
-            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS, OTHER THAN THOSE WHICH ARE CLEARLY NOT TO BE USED AS FERTILIZERS",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, NITROGENOUS, WHICH ARE CLEARLY NOT TO BE USED AS FERTILIZERS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -299,7 +293,7 @@
         },
         {
             "code": "3103",
-            "description": "MINERAL OR CHEMICAL FERTILISERS, PHOSPHATIC, OTHER THAN THOSE WHICH ARE CLEARLY NOT TO BE USED AS FERTILIZERS",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, PHOSPHATIC, WHICH ARE CLEARLY NOT TO BE USED AS FERTILIZERS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -383,7 +377,7 @@
         },
         {
             "code": "3104",
-            "description": "MINERAL OR CHEMICAL FERTILISERS, PHOSPHATIC, OTHER THAN THOSE WHICH ARE CLEARLY NOT TO BE USED AS FERTILIZERS",
+            "description": "MINERAL OR CHEMICAL FERTILISERS, PHOSPHATIC, WHICH ARE CLEARLY NOT TO BE USED AS FERTILIZERS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -479,7 +473,7 @@
         },
         {
             "code": "3105",
-            "description": "MINERAL OR CHEMICAL FERTILISERS CONTAINING TWO OR THREE OF THE FERTILISING ELEMENTS NITROGEN, PHOSPHORUS AND POTASSIUM; OTHER FERTILISERS; GOODS OF THIS CHAPTER IN TABLETS OR SIMILAR FORMS OR IN PACKAGES OF A GROSS WEIGHT NOT EXCEEDING 10 KG; OTHER THAN THOSE WHICH ARE CLEARLY NOT TO BE USED AS FERTILIZERS",
+            "description": "MINERAL OR CHEMICAL FERTILISERS CONTAINING TWO OR THREE OF THE FERTILISING ELEMENTS NITROGEN, PHOSPHORUS AND POTASSIUM; OTHER FERTILISERS; GOODS OF THIS CHAPTER IN TABLETS OR SIMILAR FORMS OR IN PACKAGES OF A GROSS WEIGHT NOT EXCEEDING 10 KG, WHICH ARE CLEARLY NOT TO BE USED AS FERTILIZERS",
             "rateHistory": [
                 {
                     "ratePercent": 18,

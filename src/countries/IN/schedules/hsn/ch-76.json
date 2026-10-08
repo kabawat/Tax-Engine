@@ -1457,7 +1457,7 @@
         },
         {
             "code": "7615",
-            "description": "All goods [other than table, kitchen or other household articles, of aluminium; Utensils]",
+            "description": "TABLE, KITCHEN OR OTHER HOUSEHOLD ARTICLES AND PARTS THEREOF, OF ALUMINIUM; POT SCOURERS AND SCOURING OR POLISHING PADS, GLOVES AND THE LIKE, OF ALUMINIUM; SANITARY WARE AND PARTS THEREOF, OF ALUMINIUM",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -1502,12 +1502,6 @@
             "description": "SOLAR COLLECTORS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1537,12 +1531,6 @@
             "code": "76151029",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",

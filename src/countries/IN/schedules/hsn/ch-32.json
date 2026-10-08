@@ -125,7 +125,7 @@
         },
         {
             "code": "3202",
-            "description": "ENZYMATIC PREPARATIONS FOR PRE-TANNIN",
+            "description": "SYNTHETIC ORGANIC TANNING SUBSTANCES; INORGANIC TANNING SUBSTANCES; TANNING PREPARATIONS, WHETHER OR NOT CONTAINING NATURAL TANNING SUBSTANCES (OTHER THAN ENZYMATIC PREPARATIONS FOR PRE-TANNING",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -3644,12 +3644,6 @@
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON-AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -3661,12 +3655,6 @@
             "code": "320810",
             "description": "BASED ON POLYESTERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3680,12 +3668,6 @@
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON POLYESTERS : ENAMELS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -3697,12 +3679,6 @@
             "code": "32081020",
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON POLYESTERS : LACQUERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3716,12 +3692,6 @@
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON POLYESTERS : VARNISHES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -3733,12 +3703,6 @@
             "code": "32081090",
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON POLYESTERS : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3752,12 +3716,6 @@
             "description": "BASED ON ACRYLIC OR VINYL POLYMERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -3769,12 +3727,6 @@
             "code": "32082010",
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON ACRYLIC OR VINYL POLYMER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3788,12 +3740,6 @@
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON ACRYLIC OR VINYL POLYMER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -3805,12 +3751,6 @@
             "code": "32082030",
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON ACRYLIC OR VINYL POLYMER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3824,12 +3764,6 @@
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - BASED ON ACRYLIC OR VINYL POLYMER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -3841,12 +3775,6 @@
             "code": "320890",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3860,12 +3788,6 @@
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : BASED ON CELLULOSE NITRA",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -3877,12 +3799,6 @@
             "code": "32089019",
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : BASED ON CELLULOSE NITRA",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3896,12 +3812,6 @@
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : ENAMELS : SYNTHETIC ENAME",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -3913,12 +3823,6 @@
             "code": "32089022",
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : ENAMELS : SYNTHETIC ENAME",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3932,12 +3836,6 @@
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : ENAMELS : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -3949,12 +3847,6 @@
             "code": "32089030",
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : LACQUERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3968,12 +3860,6 @@
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : VARNISHES : INSULATING VA",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -3985,12 +3871,6 @@
             "code": "32089049",
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : VARNISHES : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4004,12 +3884,6 @@
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : SLIP AGENTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4021,12 +3895,6 @@
             "code": "32089090",
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN A NON - AQUEOUS MEDIUM; SOLUTIONS AS DEFINED IN NOTE 4 TO THIS CHAPTER - OTHER : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4040,12 +3908,6 @@
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN AN AQUEOUS MEDIUM",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4057,12 +3919,6 @@
             "code": "320910",
             "description": "BASED ON ACRYLIC OR VINYL POLYMERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4076,12 +3932,6 @@
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN AN AQUEOUS MEDIUM - BASED ON ACRYLIC OR VINYL POLYMERS : ACRYLIC EMULSION",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4093,12 +3943,6 @@
             "code": "32091090",
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN AN AQUEOUS MEDIUM - BASED ON ACRYLIC OR VINYL POLYMERS : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4112,12 +3956,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4129,12 +3967,6 @@
             "code": "32099010",
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN AN AQUEOUS MEDIUM - OTHER : DISPERSION PAINTS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4148,12 +3980,6 @@
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN AN AQUEOUS MEDIUM - OTHER : EMULSION PAINTS NOT ELSEWHERE SPECIFIED OR INCLUDED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4165,12 +3991,6 @@
             "code": "32099090",
             "description": "PAINTS AND VARNISHES (INCLUDING ENAMELS AND LACQUERS) BASED ON SYNTHETIC POLYMERS OR CHEMICALLY MODIFIED NATURAL POLYMERS, DISPERSED OR DISSOLVED IN AN AQUEOUS MEDIUM - OTHER : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4184,12 +4004,6 @@
             "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4201,12 +4015,6 @@
             "code": "321000",
             "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4220,12 +4028,6 @@
             "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER - OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FIN",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4237,12 +4039,6 @@
             "code": "32100012",
             "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER - OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FIN",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4256,12 +4052,6 @@
             "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER - OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FIN",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4273,12 +4063,6 @@
             "code": "32100020",
             "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER - OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FIN",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4292,12 +4076,6 @@
             "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER - OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FIN",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4310,12 +4088,6 @@
             "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER - OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FIN",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4327,12 +4099,6 @@
             "code": "32100090",
             "description": "OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FINISHING LEATHER - OTHER PAINTS AND VARNISHES (INCLUDING ENAMELS, LACQUERS AND DISTEMPERS); PREPARED WATER PIGMENTS OF A KIND USED FOR FIN",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4454,12 +4220,6 @@
             "description": "ARTISTS, STUDENTS OR SIGNBOARD PAINTERS COLOURS, MODIFIYING TINTS, AMUSEMENT COLOURS AND THE LIKE, IN TABLETS, TUBES, JARS, BOTTLES, PANS OR IN SIMILAR FORMS OR PACKINGS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
@@ -4471,12 +4231,6 @@
             "code": "321310",
             "description": "ARTISTS, STUDENTS,OR SIGNBOARD PAINTER,COLOURS, MODIFIYING TINTS, AMUSEMENT COLOURS AND THE LIKE, IN TABLETS, TUBES, JARS, BOTTLES, PANS OR IN SIMILAR FORMS OR PACKINGS - COLOURS IN SETS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4490,12 +4244,6 @@
             "description": "ARTISTS, STUDENTS,OR SIGNBOARD PAINTER,COLOURS, MODIFIYING TINTS, AMUSEMENT COLOURS AND THE LIKE, IN TABLETS, TUBES, JARS, BOTTLES, PANS OR IN SIMILAR FORMS OR PACKINGS - COLOURS IN SETS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
@@ -4507,12 +4255,6 @@
             "code": "321390",
             "description": "ARTISTS, STUDENTS OR SIGNBOARD PAINTERS COLOURS, MODIFIYING TINTS, AMUSEMENT COLOURS AND THE LIKE, IN TABLETS, TUBES, JARS, BOTTLES, PANS OR IN SIMILAR FORMS OR PACKINGS -OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4526,12 +4268,6 @@
             "description": "ARTISTS, STUDENTS OR SIGNBOARD PAINTERS COLOURS, MODIFIYING TINTS, AMUSEMENT COLOURS AND THE LIKE, IN TABLETS, TUBES, JARS, BOTTLES, PANS OR IN SIMILAR FORMS OR PACKINGS -OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
@@ -4543,12 +4279,6 @@
             "code": "3214",
             "description": "GLAZIERS PUTTY, GRAFTING PUTTY, RESIN CEMENTS, CAULKING COMPOUNDS AND OTHER MASTICS; PAINTERS FILLINGS; NON-REFRACTORY SURFACING PREPARTIONS FOR FACADES, INDOOR WALLS, FLOORS, CEILINGS OR THE LIKE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4562,12 +4292,6 @@
             "description": "GLAZIERS PUTTY, GRAFTING PUTTY, RESIN CEMENTS, CAULKING COMPOUNDS AND OTHER MASTICS; PAINTERS FILLINGS; NON - REFRACTORY SURFACING PREPARTIONS FOR FACADES, INDOOR WALLS, FLOORS, CEILINGS OR THE LIKE- GLAZIERS PUTTY, GRAFTING PUTTY, RESIN CEMENTS, CAULKING",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4579,12 +4303,6 @@
             "code": "321490",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4598,12 +4316,6 @@
             "description": "GLAZIERS PUTTY, GRAFTING PUTTY, RESIN CEMENTS, CAULKING COMPOUNDS AND OTHER MASTICS; PAINTERS FILLINGS; NON - REFRACTORY SURFACING PREPARTIONS FOR FACADES, INDOOR WALLS, FLOORS, CEILINGS OR THE LIKE - OTHER : NON - REFRACTORY SURFACING PREPARATIONS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4616,12 +4328,6 @@
             "description": "GLAZIERS PUTTY, GRAFTING PUTTY, RESIN CEMENTS, CAULKING COMPOUNDS AND OTHER MASTICS; PAINTERS FILLINGS; NON - REFRACTORY SURFACING PREPARTIONS FOR FACADES, INDOOR WALLS, FLOORS, CEILINGS OR THE LIKE - OTHER : RESIN CEMENT",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
@@ -4633,12 +4339,6 @@
             "code": "32149090",
             "description": "GLAZIERS PUTTY, GRAFTING PUTTY, RESIN CEMENTS, CAULKING COMPOUNDS AND OTHER MASTICS; PAINTERS FILLINGS; NON - REFRACTORY SURFACING PREPARTIONS FOR FACADES, INDOOR WALLS, FLOORS, CEILINGS OR THE LIKE - OTHER : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-07-26"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4654,7 +4354,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4666,7 +4366,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4678,7 +4378,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4690,7 +4390,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4702,7 +4402,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4714,7 +4414,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4726,7 +4426,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4738,7 +4438,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4750,7 +4450,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4762,7 +4462,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4774,7 +4474,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4786,7 +4486,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4798,7 +4498,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4810,7 +4510,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4822,7 +4522,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4834,7 +4534,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4846,7 +4546,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4858,7 +4558,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]
@@ -4870,7 +4570,7 @@
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
+                    "effectiveFrom": "2022-07-18",
                     "effectiveTo": null
                 }
             ]

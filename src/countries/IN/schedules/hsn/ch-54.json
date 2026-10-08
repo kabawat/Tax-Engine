@@ -8,12 +8,6 @@
             "description": "SEWING THREAD OF MAN-MADE FILAMENTS, WHETHER OR NOT PUT UP FOR RETAIL SALE",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
@@ -32,12 +26,6 @@
             "description": "SEWING THREAD OF MAN-MADE FILAMENTS, WHETHER OR NOT PUT UP FOR RETAIL SALE OF SYNTHETIC FILAMENTS",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
@@ -49,12 +37,6 @@
             "code": "54011000",
             "description": "SEWING THREAD OF MAN-MADE FILAMENTS, WHETHER OR NOT PUT UP FOR RETAIL SALE OF SYNTHETIC FILAMENTS",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -74,12 +56,6 @@
             "description": "SEWING THREAD OF MAN-MADE FILAMENTS, WHETHER OR NOT PUT UP FOR RETAIL SALE OF ARTIFICIAL FILAMENTS",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
@@ -91,12 +67,6 @@
             "code": "54012000",
             "description": "SEWING THREAD OF MAN-MADE FILAMENTS, WHETHER OR NOT PUT UP FOR RETAIL SALE OF ARTIFICIAL FILAMENTS",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",

@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "999711",
-            "description": "",
+            "description": "COIN-OPERATED LAUNDRY SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -17,7 +17,7 @@
         },
         {
             "code": "999712",
-            "description": "",
+            "description": "DRY-CLEANING SERVICES (INCLUDING FUR PRODUCT CLEANING SERVICES)",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -29,7 +29,7 @@
         },
         {
             "code": "999713",
-            "description": "",
+            "description": "OTHER TEXTILE CLEANING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -41,7 +41,7 @@
         },
         {
             "code": "999714",
-            "description": "",
+            "description": "PRESSING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -53,7 +53,7 @@
         },
         {
             "code": "999715",
-            "description": "",
+            "description": "DYEING AND COLOURING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -65,7 +65,7 @@
         },
         {
             "code": "999719",
-            "description": "",
+            "description": "OTHER WASHING, CLEANING AND DYEING SERVICES N.E.C",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -77,7 +77,7 @@
         },
         {
             "code": "999721",
-            "description": "",
+            "description": "HAIRDRESSING AND BARBERS SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -89,7 +89,7 @@
         },
         {
             "code": "999722",
-            "description": "",
+            "description": "COSMETIC TREATMENT (INCLUDING COSMETIC/PLASTIC SURGERY), MANICURING AND PEDICURING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -101,7 +101,7 @@
         },
         {
             "code": "999723",
-            "description": "",
+            "description": "PHYSICAL WELL-BEING SERVICES INCLUDING HEALTH CLUB & FITNESS CENTRE",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -113,7 +113,7 @@
         },
         {
             "code": "999729",
-            "description": "",
+            "description": "OTHER BEAUTY TREATMENT SERVICES N.E.C.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -125,7 +125,7 @@
         },
         {
             "code": "999731",
-            "description": "",
+            "description": "CEMETERIES AND CREMATION SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -137,7 +137,7 @@
         },
         {
             "code": "999732",
-            "description": "",
+            "description": "UNDERTAKING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -149,7 +149,7 @@
         },
         {
             "code": "999791",
-            "description": "",
+            "description": "SERVICES INVOLVING COMMERCIAL USE OR EXPLOITATION OF ANY EVENT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -161,7 +161,7 @@
         },
         {
             "code": "999792",
-            "description": "",
+            "description": "AGREEING TO DO AN ACT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -173,7 +173,7 @@
         },
         {
             "code": "999793",
-            "description": "",
+            "description": "AGREEING TO REFRAIN FROM DOING AN ACT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -185,7 +185,7 @@
         },
         {
             "code": "999794",
-            "description": "",
+            "description": "AGREEING TO TOLERATE AN ACT",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -197,7 +197,7 @@
         },
         {
             "code": "999795",
-            "description": "",
+            "description": "CONDUCT OF RELIGIOUS CEREMONIES/RITUALS BY PERSONS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -209,14 +209,13 @@
         },
         {
             "code": "999799",
-            "description": "",
+            "description": "OTHER SERVICES N.E.C.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
-                    "effectiveTo": null,
-                    "reverseCharge": true
+                    "effectiveTo": null
                 }
             ]
         }

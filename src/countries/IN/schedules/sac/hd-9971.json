@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "997111",
-            "description": "",
+            "description": "CENTRAL BANKING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -17,7 +17,7 @@
         },
         {
             "code": "997112",
-            "description": "",
+            "description": "DEPOSIT SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -29,7 +29,7 @@
         },
         {
             "code": "997113",
-            "description": "",
+            "description": "CREDIT-GRANTING SERVICES INCLUDING STAND-BY COMMITMENT, GUARANTEES & SECURITIES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -41,7 +41,7 @@
         },
         {
             "code": "997114",
-            "description": "",
+            "description": "FINANCIAL LEASING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -53,7 +53,7 @@
         },
         {
             "code": "997119",
-            "description": "",
+            "description": "OTHER FINANCIAL SERVICES (EXCEPT INVESTMENT BANKING, INSURANCE SERVICES AND PENSION SERVICES)",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -65,7 +65,7 @@
         },
         {
             "code": "997120",
-            "description": "",
+            "description": "INVESTMENT BANKING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -77,7 +77,7 @@
         },
         {
             "code": "997131",
-            "description": "",
+            "description": "PENSION SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -89,7 +89,7 @@
         },
         {
             "code": "997132",
-            "description": "",
+            "description": "LIFE INSURANCE SERVICES (EXCLUDING REINSURANCE SERVICES)",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -101,7 +101,7 @@
         },
         {
             "code": "997133",
-            "description": "",
+            "description": "ACCIDENT AND HEALTH INSURANCE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -113,7 +113,7 @@
         },
         {
             "code": "997134",
-            "description": "",
+            "description": "MOTOR VEHICLE INSURANCE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -125,7 +125,7 @@
         },
         {
             "code": "997135",
-            "description": "",
+            "description": "MARINE, AVIATION, AND OTHER TRANSPORT INSURANCE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -137,7 +137,7 @@
         },
         {
             "code": "997136",
-            "description": "",
+            "description": "FREIGHT INSURANCE SERVICES & TRAVEL INSURANCE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -149,7 +149,7 @@
         },
         {
             "code": "997137",
-            "description": "",
+            "description": "OTHER PROPERTY INSURANCE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -161,7 +161,7 @@
         },
         {
             "code": "997139",
-            "description": "",
+            "description": "OTHER NON-LIFE INSURANCE SERVICES (EXCLUDING REINSURANCE SERVICES)",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -173,7 +173,7 @@
         },
         {
             "code": "997141",
-            "description": "",
+            "description": "LIFE REINSURANCE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -185,7 +185,7 @@
         },
         {
             "code": "997142",
-            "description": "",
+            "description": "ACCIDENT AND HEALTH REINSURANCE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -197,7 +197,7 @@
         },
         {
             "code": "997143",
-            "description": "",
+            "description": "MOTOR VEHICLE REINSURANCE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -209,7 +209,7 @@
         },
         {
             "code": "997144",
-            "description": "",
+            "description": "MARINE, AVIATION AND OTHER TRANSPORT REINSURANCE SER",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -221,7 +221,7 @@
         },
         {
             "code": "997145",
-            "description": "",
+            "description": "SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -233,7 +233,7 @@
         },
         {
             "code": "997146",
-            "description": "",
+            "description": "FREIGHT REINSURANCE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -245,7 +245,7 @@
         },
         {
             "code": "997147",
-            "description": "",
+            "description": "OTHER PROPERTY REINSURANCE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -257,7 +257,7 @@
         },
         {
             "code": "997149",
-            "description": "",
+            "description": "OTHER NON-LIFE REINSURANCE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -269,7 +269,7 @@
         },
         {
             "code": "997151",
-            "description": "",
+            "description": "SERVICES RELATED TO INVESTMENT BANKING SUCH AS MERGERS & ACQUISITION SERVICES, CORPORATE FINANCE & VENTURE CAPITAL SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -281,7 +281,7 @@
         },
         {
             "code": "997152",
-            "description": "",
+            "description": "BROKERAGE AND RELATED SECURITIES AND COMMODITIES SERVICES INCLUDING COMMODITY EXCHANGE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -293,7 +293,7 @@
         },
         {
             "code": "997153",
-            "description": "",
+            "description": "PORTFOLIO MANAGEMENT SERVICES EXCEPT PENSION FUNDS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -305,7 +305,7 @@
         },
         {
             "code": "997154",
-            "description": "",
+            "description": "TRUST AND CUSTODY SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -317,7 +317,7 @@
         },
         {
             "code": "997155",
-            "description": "",
+            "description": "SERVICES RELATED TO THE ADMINISTRATION OF FINANCIAL MARKETS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -329,7 +329,7 @@
         },
         {
             "code": "997156",
-            "description": "",
+            "description": "FINANCIAL CONSULTANCY SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -341,7 +341,7 @@
         },
         {
             "code": "997157",
-            "description": "",
+            "description": "FOREIGN EXCHANGE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -353,7 +353,7 @@
         },
         {
             "code": "997158",
-            "description": "",
+            "description": "FINANCIAL TRANSACTIONS PROCESSING AND CLEARING HOUSE SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -365,7 +365,7 @@
         },
         {
             "code": "997159",
-            "description": "",
+            "description": "OTHER SERVICES AUXILIARY TO FINANCIAL SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -377,7 +377,7 @@
         },
         {
             "code": "997161",
-            "description": "",
+            "description": "INSURANCE BROKERAGE AND AGENCY SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -389,7 +389,7 @@
         },
         {
             "code": "997162",
-            "description": "",
+            "description": "INSURANCE CLAIMS ADJUSTMENT SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -401,7 +401,7 @@
         },
         {
             "code": "997163",
-            "description": "",
+            "description": "ACTUARIAL SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -413,7 +413,7 @@
         },
         {
             "code": "997164",
-            "description": "",
+            "description": "PENSION FUND MANAGEMENT SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -425,7 +425,7 @@
         },
         {
             "code": "997169",
-            "description": "",
+            "description": "OTHER SERVICES AUXILIARY TO INSURANCE AND PENSIONS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -437,7 +437,7 @@
         },
         {
             "code": "997171",
-            "description": "",
+            "description": "SERVICES OF HOLDING EQUITY OF SUBSIDIARY COMPANIES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -449,7 +449,7 @@
         },
         {
             "code": "997172",
-            "description": "",
+            "description": "SERVICES OF HOLDING SECURITIES AND OTHER ASSETS OF TRUSTS AND FUNDS AND SIMILAR FINANCIAL ENTITIES",
             "rateHistory": [
                 {
                     "ratePercent": 18,

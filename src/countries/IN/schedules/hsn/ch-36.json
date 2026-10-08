@@ -68,12 +68,6 @@
             "description": "PREPARED EXPLOSIVES, OTHER THAN PROPELLANT POWDERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -85,12 +79,6 @@
             "code": "360200",
             "description": "PREPARED EXPLOSIVES, OTHER THAN PROPELLANT POWDERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -104,12 +92,6 @@
             "description": "PREPARED EXPLOSIVES, OTHER THAN PROPELLANT POWDERS PREPARED EXPLOSIVES, OTHER THAN PROPELLANT POWDERS: INDUSTRIAL EXPLOSIVES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -121,12 +103,6 @@
             "code": "36020090",
             "description": "PREPARED EXPLOSIVES, OTHER THAN PROPELLANT POWDERS PREPARED EXPLOSIVES, OTHER THAN PROPELLANT POWDERS: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -260,12 +236,6 @@
             "description": "FIREWORKS, SIGNALLING FLARES, RAIN ROCKETS, FOG SIGNALS AND OTHER PYROTECHNIC ARTICLES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -277,12 +247,6 @@
             "code": "360410",
             "description": "FIREWORKS, SIGNALLING FLARES, RAIN ROCKETS, FOG SIGNALS AND OTHER PYROTECHNIC ARTICLES FIREWORKS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -296,12 +260,6 @@
             "description": "FIREWORKS, SIGNALLING FLARES, RAIN ROCKETS, FOG SIGNALS AND OTHER PYROTECHNIC ARTICLES FIREWORKS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -313,12 +271,6 @@
             "code": "360490",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -332,12 +284,6 @@
             "description": "FIREWORKS, SIGNALLING FLARES, RAIN ROCKETS, FOG SIGNALS AND OTHER PYROTECHNIC ARTICLES OTHER: SHIP SIGNALS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -349,12 +295,6 @@
             "code": "36049090",
             "description": "FIREWORKS, SIGNALLING FLARES, RAIN ROCKETS, FOG SIGNALS AND OTHER PYROTECHNIC ARTICLES OTHER: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -368,12 +308,6 @@
             "description": "MATCHES, OTHER THAN PYROTECHNIC ARTICLES OF HEADING 3604",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2020-03-31"
-                },
-                {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2020-04-01",
@@ -386,12 +320,6 @@
             "description": "MATCHES, OTHER THAN PYROTECHNIC ARTICLES OF HEADING 3604",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2020-03-31"
-                },
-                {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2020-04-01",
@@ -403,12 +331,6 @@
             "code": "36050010",
             "description": "MATCHES, OTHER THAN PYROTECHNIC ARTICLES OF HEADING 3604 MATCHES, OTHER THAN PYROTECHNIC ARTICLES OF HEADING 3604: SAFETY MATCHES",
             "rateHistory": [
-                {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2020-03-31"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -428,12 +350,6 @@
             "description": "MATCHES, OTHER THAN PYROTECHNIC ARTICLES OF HEADING 3604 MATCHES, OTHER THAN PYROTECHNIC ARTICLES OF HEADING 3604: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2020-03-31"
-                },
-                {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",
                     "effectiveFrom": "2020-04-01",
@@ -445,12 +361,6 @@
             "code": "3606",
             "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -464,12 +374,6 @@
             "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER LIQUID OR LIQUEFIED GAS FUELS IN CONTAINERS OF A KIND USED FOR FILLING OR REFILLING CIGARETTE OR SIMILAR LIGHTERS AND OF A CAPA",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -481,12 +385,6 @@
             "code": "36061000",
             "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER LIQUID OR LIQUEFIED GAS FUELS IN CONTAINERS OF A KIND USED FOR FILLING OR REFILLING CIGARETTE OR SIMILAR LIGHTERS AND OF A CAPA",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -500,12 +398,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -517,12 +409,6 @@
             "code": "36069010",
             "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER OTHER: COMBUSTIBLE PREPARATIONS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -536,12 +422,6 @@
             "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER OTHER: OTHER: FERROCERIUM, IN ALL FORMS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -553,12 +433,6 @@
             "code": "36069092",
             "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER OTHER: OTHER: PYROPHORIC ALLOYS, IN ALL FORMS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -572,12 +446,6 @@
             "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER OTHER: OTHER: DNPT (DINITROSO PENTA METHYLENE TETRAMINE)",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -589,12 +457,6 @@
             "code": "36069099",
             "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER OTHER: OTHER: OTHERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",

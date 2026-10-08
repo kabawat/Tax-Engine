@@ -656,12 +656,6 @@
             "description": "WASTE, PARINGS AND SCRAP OF RUBBER (OTHER THAN HARD RUBBER) AND POWDERS AND GRANULES OBTAINED THEREFROM",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
@@ -1721,10 +1715,10 @@
         },
         {
             "code": "4011",
-            "description": "PNEUMATIC TYRES OR INNER TUBES, OF RUBBER, OF A KIND USED ON / IN BICYCLES, CYCLE -RICKSHAWS AND THREE WHEELED POWERED CYCLE RICKSHAWS",
+            "description": "REAR TRACTOR TYRES AND REAR TRACTOR TYRE TUBES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
@@ -2054,12 +2048,6 @@
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - RETREADED TYRES :",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -2071,12 +2059,6 @@
             "code": "40121100",
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - RETREADED TYRES : OF A KIND USED ON MOTOR CARS (INCLUDING STATION WAGONS AND RACING CARS)",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2090,12 +2072,6 @@
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - RETREADED TYRES : OF A KIND USED ON BUSES OR LORRIES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -2107,12 +2083,6 @@
             "code": "40121200",
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - RETREADED TYRES : OF A KIND USED ON BUSES OR LORRIES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2126,12 +2096,6 @@
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - RETREADED TYRES : OF A KIND USED ON AIRCRAFT",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -2143,12 +2107,6 @@
             "code": "40121300",
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - RETREADED TYRES : OF A KIND USED ON AIRCRAFT",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2162,12 +2120,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -2179,12 +2131,6 @@
             "code": "40121910",
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - RETREADED TYRES : - OTHER : FOR TWO WHEELERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2198,12 +2144,6 @@
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - RETREADED TYRES : - OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -2215,12 +2155,6 @@
             "code": "401220",
             "description": "USED PNEUMATIC TYRES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2234,12 +2168,6 @@
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - USED PNEUMATIC TYRES : FOR PASSENGER AUTOMOBILE VEHICLES, INCLUDING TWO WHEELERS, THREE WHEELERS AND PERSONAL TYPE VEHICLES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -2251,12 +2179,6 @@
             "code": "40122090",
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - USED PNEUMATIC TYRES : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2270,12 +2192,6 @@
             "description": "OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -2287,12 +2203,6 @@
             "code": "40129010",
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - OTHER : SOLID RUBBER TYRES FOR MOTOR VEHICLES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2306,12 +2216,6 @@
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - OTHER : SOLID RUBBER TYRES FOR OTHER VEHICLES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -2323,12 +2227,6 @@
             "code": "40129030",
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - OTHER : TYRES WITH METAL FRAMEWORK",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2342,12 +2240,6 @@
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - OTHER : - TYRE FLAPS : OF A KIND USED IN TWO-WHEELED AND THREE-WHEELED MOTOR VEHICLES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -2359,12 +2251,6 @@
             "code": "40129049",
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - OTHER : - TYRE FLAPS : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2378,12 +2264,6 @@
             "description": "T RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - OTHER : YRE TREADS, INTERCHANGEABLE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -2396,12 +2276,6 @@
             "description": "RETREADED OR USED PNEUMATIC TYRES OF RUBBER, SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER - OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2018-12-31"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2019-01-01",
@@ -2411,7 +2285,7 @@
         },
         {
             "code": "4013",
-            "description": "PNEUMATIC TYRES OR INNER TUBES, OF RUBBER, OF A KIND USED ON / IN BICYCLES, CYCLE -RICKSHAWS AND THREE WHEELED POWERED CYCLE RICKSHAWS",
+            "description": "INNER TUBES OF RUBBER [OTHER THAN OF A KIND USED ON/IN BICYCLES, CYCLE-RICKSHAWS AND THREE WHEELED POWERED CYCLE RICKSHAWS; AND REAR TRACTOR TYRE TUBES]",
             "rateHistory": [
                 {
                     "ratePercent": 5,
@@ -2432,12 +2306,6 @@
             "description": "INNER TUBES, OF RUBBER - OF A KIND USED ON MOTOR CARS (INCLUDING STATION WAGONS AND RACING CARS), BUSES OR LORRIES : FOR MOTOR CARS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2449,12 +2317,6 @@
             "code": "40131020",
             "description": "INNER TUBES, OF RUBBER - OF A KIND USED ON MOTOR CARS (INCLUDING STATION WAGONS AND RACING CARS), BUSES OR LORRIES : FOR LORRIES AND BUSES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2504,12 +2366,6 @@
             "description": "INNER TUBES, OF RUBBER - OTHER : FOR AIRCRAFT",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2521,12 +2377,6 @@
             "code": "40139020",
             "description": "INNER TUBES, OF RUBBER - OTHER : FOR MOTOR CYCLE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2540,12 +2390,6 @@
             "description": "INNER TUBES, OF RUBBER - OTHER : FOR OFF THE ROAD VEHICLES, NOT ELSEWHERE SPECIFIED OR INCLUDED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2558,12 +2402,6 @@
             "description": "INNER TUBES, OF RUBBER - OTHER : - FOR TRACTORS : REAR TYRES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2575,12 +2413,6 @@
             "code": "40139049",
             "description": "INNER TUBES, OF RUBBER - OTHER : - FOR TRACTORS : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2621,11 +2453,11 @@
         },
         {
             "code": "4014",
-            "description": "Condoms and contraceptives",
+            "description": "Nipples of feeding bottles",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
                 },
@@ -2918,12 +2750,6 @@
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER OF CELLULAR RUBBER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2935,12 +2761,6 @@
             "code": "40161000",
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER OF CELLULAR RUBBER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -2954,12 +2774,6 @@
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : FLOOR COVERINGS AND MATS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -2971,12 +2785,6 @@
             "code": "40169100",
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : FLOOR COVERINGS AND MATS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3020,12 +2828,6 @@
             "description": "GASKETS, WASHERS AND OTHER SEALS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3037,12 +2839,6 @@
             "code": "40169310",
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : GASKETS, WASHERS AND OTHER SEALS : PATCHES FOR PUNCTURE REPAIR OF SELF-VULCANISING RUBBER OR A RUBBER BACKING",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3056,12 +2852,6 @@
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : GASKETS, WASHERS AND OTHER SEALS : RUBBER RINGS (O-RING)",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3073,12 +2863,6 @@
             "code": "40169330",
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : GASKETS, WASHERS AND OTHER SEALS : RUBBER SEALS (OIL SEALS AND THE LIKE)",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3092,12 +2876,6 @@
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : GASKETS, WASHERS AND OTHER SEALS : GASKETS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3109,12 +2887,6 @@
             "code": "40169350",
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : GASKETS, WASHERS AND OTHER SEALS : WASHERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3128,12 +2900,6 @@
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : GASKETS, WASHERS AND OTHER SEALS : PLUGS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3145,12 +2911,6 @@
             "code": "40169390",
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : GASKETS, WASHERS AND OTHER SEALS : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3164,12 +2924,6 @@
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : BOAT OR DOCK FENDERS, WHETHER OR NOT INFLATABLE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3181,12 +2935,6 @@
             "code": "40169400",
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : BOAT OR DOCK FENDERS, WHETHER OR NOT INFLATABLE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3200,12 +2948,6 @@
             "description": "OTHER INFLATABLE ARTICLES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3217,12 +2959,6 @@
             "code": "40169510",
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : OTHER INFLATABLE ARTICLES : AIR MATTRESSES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3236,12 +2972,6 @@
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : OTHER INFLATABLE ARTICLES : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3253,12 +2983,6 @@
             "code": "401699",
             "description": "OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3272,12 +2996,6 @@
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : OTHER : RUBBER COTS FOR TEXTILE INDUSTRY",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3289,12 +3007,6 @@
             "code": "40169920",
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : OTHER : RUBBER BANDS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -3314,12 +3026,6 @@
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : OTHER : RUBBER THREADS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
@@ -3337,12 +3043,6 @@
             "code": "40169940",
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : OTHER : RUBBER BLANKETS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -3362,12 +3062,6 @@
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : OTHER : RUBBER CUSHIONS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
@@ -3385,12 +3079,6 @@
             "code": "40169960",
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : OTHER : RUBBER BUSHES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -3410,12 +3098,6 @@
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : OTHER : EAR PLUG",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3427,12 +3109,6 @@
             "code": "40169980",
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : OTHER : STOPPERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3446,12 +3122,6 @@
             "description": "OTHER ARTICLES OF VULCANISED RUBBER OTHER THAN HARD RUBBER - OTHER : OTHER : OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3461,14 +3131,8 @@
         },
         {
             "code": "4017",
-            "description": "WASTE OR SCRAP OF HARD RUBBER",
+            "description": "HARD RUBBER (FOR EXAMPLE EBONITE) IN ALL FORMS, OTHER THAN WASTE AND SCRAP; ARTICLES OF HARD RUBBER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -3488,12 +3152,6 @@
             "description": "HARD RUBBER (FOR EXAMPLE, EBONITE) IN ALL FORMS, INCLUDING WASTE AND SCRAP; ARTICLES OF HARD RUBBER - HARD RUBBER (FOR EXAMPLE, EBONITE) IN ALL FORMS, INCLUDING WASTE AND SCRAP; ARTICLES OF HARD RUBBER : PLATES, SHEETS, RODS AND TUBES OF EBONITE AND VULCA",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
@@ -3512,12 +3170,6 @@
             "description": "HARD RUBBER (FOR EXAMPLE, EBONITE) IN ALL FORMS, INCLUDING WASTE AND SCRAP; ARTICLES OF HARD RUBBER - HARD RUBBER (FOR EXAMPLE, EBONITE) IN ALL FORMS, INCLUDING WASTE AND SCRAP; ARTICLES OF HARD RUBBER : SCRAP, WASTE AND POWDER OF HARDENED RUBBER (EBONITE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3529,12 +3181,6 @@
             "code": "40170030",
             "description": "HARD RUBBER (FOR EXAMPLE, EBONITE) IN ALL FORMS, INCLUDING WASTE AND SCRAP; ARTICLES OF HARD RUBBER - HARD RUBBER (FOR EXAMPLE, EBONITE) IN ALL FORMS, INCLUDING WASTE AND SCRAP; ARTICLES OF HARD RUBBER : PRINTERS ROLLERS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3548,12 +3194,6 @@
             "description": "HARD RUBBER (FOR EXAMPLE, EBONITE) IN ALL FORMS, INCLUDING WASTE AND SCRAP; ARTICLES OF HARD RUBBER - HARD RUBBER (FOR EXAMPLE, EBONITE) IN ALL FORMS, INCLUDING WASTE AND SCRAP; ARTICLES OF HARD RUBBER : TEXTILE ROLLERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3566,12 +3206,6 @@
             "description": "HARD RUBBER (FOR EXAMPLE, EBONITE) IN ALL FORMS, INCLUDING WASTE AND SCRAP; ARTICLES OF HARD RUBBER - HARD RUBBER (FOR EXAMPLE, EBONITE) IN ALL FORMS, INCLUDING WASTE AND SCRAP; ARTICLES OF HARD RUBBER : TYPEWRITERS AND CYCLOSTYLING ROLLERS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3583,12 +3217,6 @@
             "code": "40170090",
             "description": "HARD RUBBER (FOR EXAMPLE, EBONITE) IN ALL FORMS, INCLUDING WASTE AND SCRAP; ARTICLES OF HARD RUBBER - HARD RUBBER (FOR EXAMPLE, EBONITE) IN ALL FORMS, INCLUDING WASTE AND SCRAP; ARTICLES OF HARD RUBBER : OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",

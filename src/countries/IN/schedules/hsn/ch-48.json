@@ -53,7 +53,7 @@
         },
         {
             "code": "4802",
-            "description": "UNCOATED PAPER AND PAPERBOARD, OF A KIND USED FOR WRITING, PRINTING OR OTHER GRAPHIC PURPOSES, AND NON-PERFORATED PUNCH CARD AND PUNCH TAPE PAPER, IN ROLLS OR RECTANGULAR (INCLUDING SQUARE) SHEETS OF ANY SIZE, OTHER THAN PAPER OF HEADING 4801 OR 4803; HAN",
+            "description": "Uncoated paper and paperboard used for exercise book, graph book, laboratory notebook and notebooks",
             "rateHistory": [
                 {
                     "ratePercent": 12,
@@ -2243,6 +2243,12 @@
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -3374,12 +3380,6 @@
             "description": "WALLPAPER AND SIMILAR WALL COVERINGS; WINDOW TRANSPARENCIES OF PAPER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3416,12 +3416,6 @@
             "description": "WALLPAPER AND SIMILAR WALL COVERINGS; WINDOW TRANSPARENCIES OF PAPER - WALLPAPER AND SIMILAR WALL COVERINGS, CONSISTING OF PAPER COATED OR COVERED, ON THE FACE SIDE, WITH A GRAINED, EMBOSSED, COLOURED, DESIGN-PRINTED OR OTHERWISE DECORATED LAYER OF PLASTI",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3433,12 +3427,6 @@
             "code": "48142000",
             "description": "WALLPAPER AND SIMILAR WALL COVERINGS; WINDOW TRANSPARENCIES OF PAPER - WALLPAPER AND SIMILAR WALL COVERINGS, CONSISTING OF PAPER COATED OR COVERED, ON THE FACE SIDE, WITH A GRAINED, EMBOSSED, COLOURED, DESIGN-PRINTED OR OTHERWISE DECORATED LAYER OF PLASTI",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3452,12 +3440,6 @@
             "description": "WALLPAPER AND SIMILAR WALL COVERINGS; WINDOW TRANSPARENCIES OF PAPER - WALLPAPER AND SIMILAR WALL COVERINGS, CONSISTING OF PAPER COVERED, ON THE FACE SIDE, WITH PLAITING MATERIAL, WHETHER OR NOT BOUND TOGETHER IN PARALLEL STRANDS OR WOVEN",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3470,12 +3452,6 @@
             "description": "WALLPAPER AND SIMILAR WALL COVERINGS; WINDOW TRANSPARENCIES OF PAPER - OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -3487,12 +3463,6 @@
             "code": "48149000",
             "description": "WALLPAPER AND SIMILAR WALL COVERINGS; WINDOW TRANSPARENCIES OF PAPER - OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3854,12 +3824,6 @@
             "description": "CARTONS, BOXES, CASES, BAGS AND OTHER PACKING CONTAINERS, OF PAPER, PAPERBOARD, CELLULOSE WADDING OR WEBS OF CELLULOSE FIBRES; BOX FILES, LETTER TRAYS, AND SIMILAR ARTICLES, OF PAPER OR PAPERBOARD OF A KIND USED IN OFFICES, SHOPS OR THE LIKE",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -3869,14 +3833,8 @@
         },
         {
             "code": "481910",
-            "description": "CARTONS, BOXES AND CASES, OF CORRUGATED PAPER OR PAPERBOARD",
+            "description": "Cartons, boxes and cases of,-\n\nCorrugated paper or paper boards; or\nNon-corrugated paper or paper board",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3896,12 +3854,6 @@
             "description": "CARTONS, BOXES, CASES, BAGS AND OTHER PACKING CONTAINERS, OF PAPER, PAPERBOARD, CELLULOSE WADDING OR WEBS OF CELLULOSE FIBRES; BOX FILES, LETTER TRAYS, AND SIMILAR ARTICLES, OF PAPER OR PAPERBOARD OF A KIND USED IN OFFICES, SHOPS OR THE LIKE 4819 10 CARTO",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -3913,12 +3865,6 @@
             "code": "48191090",
             "description": "CARTONS, BOXES, CASES, BAGS AND OTHER PACKING CONTAINERS, OF PAPER, PAPERBOARD, CELLULOSE WADDING OR WEBS OF CELLULOSE FIBRES; BOX FILES, LETTER TRAYS, AND SIMILAR ARTICLES, OF PAPER OR PAPERBOARD OF A KIND USED IN OFFICES, SHOPS OR THE LIKE 4819 10 CARTO",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3932,12 +3878,6 @@
             "description": "CARTONS, BOXES, CASES, BAGS AND OTHER PACKING CONTAINERS, OF PAPER, PAPERBOARD, CELLULOSE WADDING OR WEBS OF CELLULOSE FIBRES; BOX FILES, LETTER TRAYS, AND SIMILAR ARTICLES, OF PAPER OR PAPERBOARD OF A KIND USED IN OFFICES, SHOPS OR THE LIKE- FOLDING CART",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -3949,12 +3889,6 @@
             "code": "48192020",
             "description": "CARTONS, BOXES, CASES, BAGS AND OTHER PACKING CONTAINERS, OF PAPER, PAPERBOARD, CELLULOSE WADDING OR WEBS OF CELLULOSE FIBRES; BOX FILES, LETTER TRAYS, AND SIMILAR ARTICLES, OF PAPER OR PAPERBOARD OF A KIND USED IN OFFICES, SHOPS OR THE LIKE- FOLDING CART",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -3968,12 +3902,6 @@
             "description": "CARTONS, BOXES, CASES, BAGS AND OTHER PACKING CONTAINERS, OF PAPER, PAPERBOARD, CELLULOSE WADDING OR WEBS OF CELLULOSE FIBRES; BOX FILES, LETTER TRAYS, AND SIMILAR ARTICLES, OF PAPER OR PAPERBOARD OF A KIND USED IN OFFICES, SHOPS OR THE LIKE- FOLDING CART",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -3985,12 +3913,6 @@
             "code": "481930",
             "description": "CARTONS, BOXES, CASES, BAGS AND OTHER PACKING CONTAINERS, OF PAPER, PAPERBOARD, CELLULOSE WADDING OR WEBS OF CELLULOSE FIBRES; BOX FILES, LETTER TRAYS, AND SIMILAR ARTICLES, OF PAPER OR PAPERBOARD OF A KIND USED IN OFFICES, SHOPS OR THE LIKE - SACKS AND B",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4004,12 +3926,6 @@
             "description": "CARTONS, BOXES, CASES, BAGS AND OTHER PACKING CONTAINERS, OF PAPER, PAPERBOARD, CELLULOSE WADDING OR WEBS OF CELLULOSE FIBRES; BOX FILES, LETTER TRAYS, AND SIMILAR ARTICLES, OF PAPER OR PAPERBOARD OF A KIND USED IN OFFICES, SHOPS OR THE LIKE - SACKS AND B",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -4021,12 +3937,6 @@
             "code": "481940",
             "description": "CARTONS, BOXES, CASES, BAGS AND OTHER PACKING CONTAINERS, OF PAPER, PAPERBOARD, CELLULOSE WADDING OR WEBS OF CELLULOSE FIBRES; BOX FILES, LETTER TRAYS, AND SIMILAR ARTICLES, OF PAPER OR PAPERBOARD OF A KIND USED IN OFFICES, SHOPS OR THE LIKE - OTHER SACKS",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4040,12 +3950,6 @@
             "description": "CARTONS, BOXES, CASES, BAGS AND OTHER PACKING CONTAINERS, OF PAPER, PAPERBOARD, CELLULOSE WADDING OR WEBS OF CELLULOSE FIBRES; BOX FILES, LETTER TRAYS, AND SIMILAR ARTICLES, OF PAPER OR PAPERBOARD OF A KIND USED IN OFFICES, SHOPS OR THE LIKE - OTHER SACKS",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -4057,12 +3961,6 @@
             "code": "481950",
             "description": "OTHER PACKING CONTAINERS, INCLUDING RECORD SLEEVES",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4076,12 +3974,6 @@
             "description": "CARTONS, BOXES, CASES, BAGS AND OTHER PACKING CONTAINERS, OF PAPER, PAPERBOARD, CELLULOSE WADDING OR WEBS OF CELLULOSE FIBRES; BOX FILES, LETTER TRAYS, AND SIMILAR ARTICLES, OF PAPER OR PAPERBOARD OF A KIND USED IN OFFICES, SHOPS OR THE LIKE - OTHER PACKI",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -4094,12 +3986,6 @@
             "description": "CARTONS, BOXES, CASES, BAGS AND OTHER PACKING CONTAINERS, OF PAPER, PAPERBOARD, CELLULOSE WADDING OR WEBS OF CELLULOSE FIBRES; BOX FILES, LETTER TRAYS, AND SIMILAR ARTICLES, OF PAPER OR PAPERBOARD OF A KIND USED IN OFFICES, SHOPS OR THE LIKE - OTHER PACKI",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2021-10-01",
@@ -4111,12 +3997,6 @@
             "code": "48196000",
             "description": "CARTONS, BOXES, CASES, BAGS AND OTHER PACKING CONTAINERS, OF PAPER, PAPERBOARD, CELLULOSE WADDING OR WEBS OF CELLULOSE FIBRES; BOX FILES, LETTER TRAYS, AND SIMILAR ARTICLES, OF PAPER OR PAPERBOARD OF A KIND USED IN OFFICES, SHOPS OR THE LIKE - BOX FILES,",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2021-09-30"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -4481,10 +4361,10 @@
         },
         {
             "code": "4823",
-            "description": "Kites, Paper mache articles,Articles made of paper mache",
+            "description": "Paper pulp moulded trays",
             "rateHistory": [
                 {
-                    "ratePercent": 18,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"

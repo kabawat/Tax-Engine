@@ -8,12 +8,6 @@
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -25,12 +19,6 @@
             "code": "940110",
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF SEATS OF A KIND USED FOR AIRCRAFT",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -44,12 +32,6 @@
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF SEATS OF A KIND USED FOR AIRCRAFT",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -61,12 +43,6 @@
             "code": "940120",
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF SEATS OF A KIND USED FOR MOTOR VEHICLES",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -80,12 +56,6 @@
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF SEATS OF A KIND USED FOR MOTOR VEHICLES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -97,12 +67,6 @@
             "code": "940130",
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF SWIVEL SEATS AND VARIABLE HEIGHT ADJUSTMENT",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -116,12 +80,6 @@
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF SWIVEL SEATS AND VARIABLE HEIGHT ADJUSTMENT",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -133,12 +91,6 @@
             "code": "940151",
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF -SEATS OF CANE, OSIER, BAMBOO OR SIMILAR MATERIALS: -- OF BAMBOO OR RATTAN",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -152,12 +104,6 @@
             "description": "OF BAMBOO",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -169,12 +115,6 @@
             "code": "94015300",
             "description": "OF RATTAN",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -188,12 +128,6 @@
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF - SEATS OF CANE, OSIER, BAMBOO OR SIMILAR MATERIALS: -- OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -205,12 +139,6 @@
             "code": "94015900",
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF - SEATS OF CANE, OSIER, BAMBOO OR SIMILAR MATERIALS: -- OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -224,12 +152,6 @@
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF - OTHER SEATS, WITH WOODEN FRAMES: UPHOLSTERED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -241,12 +163,6 @@
             "code": "94016100",
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF - OTHER SEATS, WITH WOODEN FRAMES: UPHOLSTERED",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -260,12 +176,6 @@
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF - OTHER SEATS, WITH WOODEN FRAMES: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -277,12 +187,6 @@
             "code": "94016900",
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF - OTHER SEATS, WITH WOODEN FRAMES: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -296,12 +200,6 @@
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF - OTHER SEATS, WITH METAL FRAMES: UPHOLSTERED",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -313,12 +211,6 @@
             "code": "94017100",
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF - OTHER SEATS, WITH METAL FRAMES: UPHOLSTERED",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -332,12 +224,6 @@
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF - OTHER SEATS, WITH METAL FRAMES: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -349,12 +235,6 @@
             "code": "94017900",
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF - OTHER SEATS, WITH METAL FRAMES: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -368,12 +248,6 @@
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF OTHER SEATS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -385,12 +259,6 @@
             "code": "94018000",
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF OTHER SEATS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -428,12 +296,6 @@
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF PARTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -445,12 +307,6 @@
             "code": "94019000",
             "description": "SEATS (OTHER THAN THOSE OF HEADING 9402), WHETHER OR NOT CONVERTIBLE INTO BEDS, AND PARTS THEREOF PARTS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -560,13 +416,7 @@
             "description": "Furniture wholly made of bamboo, cane or rattan",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
-                    "ratePercent": 12,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
                     "effectiveTo": "2025-09-21"
@@ -584,12 +434,6 @@
             "description": "METAL FURNITURE OF A KIND USED IN OFFICES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -601,12 +445,6 @@
             "code": "94031010",
             "description": "OTHER FURNITURE AND PARTS THEREOF - METAL FURNITURE OF A KIND USED IN OFFICES: OF STEEL",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -620,12 +458,6 @@
             "description": "OTHER FURNITURE AND PARTS THEREOF - METAL FURNITURE OF A KIND USED IN OFFICES: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -637,12 +469,6 @@
             "code": "940320",
             "description": "OTHER METAL FURNITURE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -656,12 +482,6 @@
             "description": "OTHER FURNITURE AND PARTS THEREOF - OTHER METAL FURNITURE:OF STEEL",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -673,12 +493,6 @@
             "code": "94032090",
             "description": "OTHER FURNITURE AND PARTS THEREOF - OTHER METAL FURNITURE:OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -692,12 +506,6 @@
             "description": "WOODEN FURNITURE OF A KIND USED IN OFFICES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -709,12 +517,6 @@
             "code": "94033010",
             "description": "OTHER FURNITURE AND PARTS THEREOF - WOODEN FURNITURE OF A KIND USED IN OFFICES:CABINETWARE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -728,12 +530,6 @@
             "description": "OTHER FURNITURE AND PARTS THEREOF - WOODEN FURNITURE OF A KIND USED IN OFFICES: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -745,12 +541,6 @@
             "code": "940340",
             "description": "OTHER FURNITURE AND PARTS THEREOF - WOODEN FURNITURE OF A KIND USED IN THE KITCHEN",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -764,12 +554,6 @@
             "description": "OTHER FURNITURE AND PARTS THEREOF - WOODEN FURNITURE OF A KIND USED IN THE KITCHEN",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -781,12 +565,6 @@
             "code": "940350",
             "description": "WOODEN FURNITURE OF A KIND USED IN THE BED ROOM",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -800,12 +578,6 @@
             "description": "OTHER FURNITURE AND PARTS THEREOF - - WOODEN FURNITURE OF A KIND USED IN THE BED ROOM: BED STEAD",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -817,12 +589,6 @@
             "code": "94035090",
             "description": "OTHER FURNITURE AND PARTS THEREOF - - WOODEN FURNITURE OF A KIND USED IN THE BED ROOM: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -836,12 +602,6 @@
             "description": "OTHER FURNITURE AND PARTS THEREOF -OTHER WOODEN FURNITURE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -853,12 +613,6 @@
             "code": "94036000",
             "description": "OTHER FURNITURE AND PARTS THEREOF -OTHER WOODEN FURNITURE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -872,12 +626,6 @@
             "description": "OTHER FURNITURE AND PARTS THEREOF -FURNITURE OF PLASTICS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -889,12 +637,6 @@
             "code": "94037000",
             "description": "OTHER FURNITURE AND PARTS THEREOF -FURNITURE OF PLASTICS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -908,12 +650,6 @@
             "description": "OTHER FURNITURE AND PARTS THEREOF - FURNITURE OF OTHER MATERIALS, INCLUDING CANE, OSIER, BAMBOO OR SIMILAR MATERIALS: OF BAMBOO OR RATTAN",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -926,12 +662,6 @@
             "description": "OTHER FURNITURE AND PARTS THEREOF - FURNITURE OF OTHER MATERIALS, INCLUDING CANE, OSIER, BAMBOO OR SIMILAR MATERIALS: OTHER",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -943,12 +673,6 @@
             "code": "94038900",
             "description": "OTHER FURNITURE AND PARTS THEREOF - FURNITURE OF OTHER MATERIALS, INCLUDING CANE, OSIER, BAMBOO OR SIMILAR MATERIALS: OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 12,
                     "taxability": "TAXABLE",
@@ -968,12 +692,6 @@
             "description": "OTHER FURNITURE AND PARTS THEREOF -PARTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -986,12 +704,6 @@
             "description": "OTHER FURNITURE AND PARTS THEREOF -PARTS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1001,10 +713,10 @@
         },
         {
             "code": "9404",
-            "description": "Cotton quilts of sale value not exceeding Rs. 1000 per piece",
+            "description": "Coir products except coir mattresses",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
+                    "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2017-09-21"
@@ -1013,6 +725,12 @@
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -1214,7 +932,7 @@
             "description": "Hurricane lanterns, Kerosene lamp / pressure lantern, petromax, glass chimney, and parts thereof",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2017-11-14"
@@ -1238,12 +956,6 @@
             "description": "CHANDELIERS AND OTHER ELECTRIC CEILING OR WALL LIGHTING FITTINGS, EXCLUDING THOSE OF A KIND USED FOR LIGHTING PUBLIC OPEN SPACES OR THOROUGH FARES",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1262,12 +974,6 @@
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1279,12 +985,6 @@
             "code": "94051020",
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1298,12 +998,6 @@
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1315,12 +1009,6 @@
             "code": "940520",
             "description": "ELECTRIC TABLE, DESK, BEDSIDE OR FLOOR-STANDING LAMPS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1334,12 +1022,6 @@
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1351,12 +1033,6 @@
             "code": "94052090",
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1370,12 +1046,6 @@
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1387,12 +1057,6 @@
             "code": "94053000",
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1406,12 +1070,6 @@
             "description": "OTHER ELECTRIC LAMPS AND LIGHTING FITTINGS",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1423,12 +1081,6 @@
             "code": "94054010",
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1442,12 +1094,6 @@
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1459,12 +1105,6 @@
             "code": "940550",
             "description": "NON-ELECTRICAL LAMPS AND LIGHTING FITTINGS",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1478,12 +1118,6 @@
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1495,12 +1129,6 @@
             "code": "94055020",
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1532,12 +1160,6 @@
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1549,12 +1171,6 @@
             "code": "94055040",
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1568,12 +1184,6 @@
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1585,12 +1195,6 @@
             "code": "94055059",
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
@@ -1604,12 +1208,6 @@
             "description": "ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1622,12 +1220,6 @@
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
                 {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
-                {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-11-15",
@@ -1639,12 +1231,6 @@
             "code": "94056090",
             "description": "LAMPS AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPE",
             "rateHistory": [
-                {
-                    "ratePercent": 28,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-11-14"
-                },
                 {
                     "ratePercent": 18,
                     "taxability": "TAXABLE",

@@ -5,11 +5,11 @@
     "entries": [
         {
             "code": "999210",
-            "description": "",
+            "description": "PRE-PRIMARY EDUCATION SERVICES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "EXEMPT",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -17,11 +17,11 @@
         },
         {
             "code": "999220",
-            "description": "",
+            "description": "PRIMARY EDUCATION SERVICES",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "EXEMPT",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -29,11 +29,11 @@
         },
         {
             "code": "999231",
-            "description": "",
+            "description": "SECONDARY EDUCATION SERVICES, GENERAL",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "EXEMPT",
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": null
                 }
@@ -41,7 +41,7 @@
         },
         {
             "code": "999232",
-            "description": "",
+            "description": "SECONDARY EDUCATION SERVICES, TECHNICAL AND VOCATIONAL.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -53,7 +53,7 @@
         },
         {
             "code": "999241",
-            "description": "",
+            "description": "HIGHER EDUCATION SERVICES, GENERAL",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -65,7 +65,7 @@
         },
         {
             "code": "999242",
-            "description": "",
+            "description": "HIGHER EDUCATION SERVICES, TECHNICAL",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -77,7 +77,7 @@
         },
         {
             "code": "999243",
-            "description": "",
+            "description": "HIGHER EDUCATION SERVICES, VOCATIONAL",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -89,7 +89,7 @@
         },
         {
             "code": "999249",
-            "description": "",
+            "description": "OTHER HIGHER EDUCATION SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -101,7 +101,7 @@
         },
         {
             "code": "999259",
-            "description": "",
+            "description": "SPECIALISED EDUCATION SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -113,7 +113,7 @@
         },
         {
             "code": "999291",
-            "description": "",
+            "description": "CULTURAL EDUCATION SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -125,7 +125,7 @@
         },
         {
             "code": "999292",
-            "description": "",
+            "description": "SPORTS AND RECREATION EDUCATION SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -137,7 +137,7 @@
         },
         {
             "code": "999293",
-            "description": "",
+            "description": "COMMERCIAL TRAINING AND COACHING SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -149,7 +149,7 @@
         },
         {
             "code": "999294",
-            "description": "",
+            "description": "OTHER EDUCATION AND TRAINING SERVICES N.E.C.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -161,7 +161,7 @@
         },
         {
             "code": "999295",
-            "description": "",
+            "description": "SERVICES INVOLVING CONDUCT OF EXAMINATION FOR ADMISSION TO EDUCATIONAL INSTITUTIONS",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -173,7 +173,7 @@
         },
         {
             "code": "999299",
-            "description": "",
+            "description": "OTHER EDUCATIONAL SUPPORT SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,

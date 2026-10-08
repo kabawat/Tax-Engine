@@ -8,8 +8,8 @@
             "description": "COCONUTS, BRAZIL NUTS AND CASHEW NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - COCONUTS:(Brazil nuts)",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
                 },
@@ -251,11 +251,11 @@
         },
         {
             "code": "0802",
-            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - ALMONDS (Walnuts)",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - ALMONDS",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2017-09-21"
                 },
@@ -263,6 +263,12 @@
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -344,12 +350,6 @@
             "description": "OTHER NUTS, FRESH OR DRIED, WHETHEROR NOT SHELLED OR PEELED WALNUTS : IN SHELL",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
@@ -361,12 +361,6 @@
             "code": "08023200",
             "description": "OTHER NUTS, FRESH OR DRIED, WHETHEROR NOT SHELLED OR PEELED WALNUTS : SHELLED",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -380,12 +374,6 @@
             "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - CHESTNUTS (CASTANEA SPP.) : -- IN SHELL",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
@@ -397,12 +385,6 @@
             "code": "08024200",
             "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - CHESTNUTS (CASTANEA SPP.) : -- SHELLED",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -518,12 +500,6 @@
             "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - ARECA NUTS ---WHOLE",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
@@ -535,12 +511,6 @@
             "code": "08028020",
             "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - ARECA NUTS ---SPLIT",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -554,12 +524,6 @@
             "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - ARECA NUTS ---GROUND",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-09-22",
@@ -571,12 +535,6 @@
             "code": "08028090",
             "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - ARECA NUTS ---OTHER",
             "rateHistory": [
-                {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-09-21"
-                },
                 {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
@@ -689,11 +647,11 @@
         },
         {
             "code": "0804",
-            "description": "Mangoes sliced, dried",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS, MANGOES, AND MANGOSTEENS, FRESH OR DRIED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2017-10-12"
                 },
@@ -701,6 +659,12 @@
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -950,12 +914,6 @@
             "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIEDGUAVAS, MANGOES AND MANGOSTEENS : MANGOES, SLICED DRIED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2017-10-12"
-                },
-                {
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-10-13",
@@ -1004,8 +962,8 @@
             "description": "CITRUS FRUIT, FRESH OR DRIED",
             "rateHistory": [
                 {
-                    "ratePercent": 0,
-                    "taxability": "NIL_RATED",
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"
                 },
@@ -1853,10 +1811,10 @@
         },
         {
             "code": "0813",
-            "description": "Dried chestnuts (singhada), whether or not shelled or peeled",
+            "description": "FRUIT, DRIED, OTHER THAN THAT OF HEADINGS 0801 TO 0806; MIXTURES OF NUTS OR DRIED FRUITS OF THIS CHAPTER",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2019-09-30"
@@ -1987,12 +1945,6 @@
             "code": "08134010",
             "description": "FRUIT, DRIED, OTHER THAN THAT OF HEADINGS0801 TO 0806; MIXTURES OF NUTS OR DRIEDFRUITS OF THIS CHAPTEROTHER FRUIT : TAMARIND, DRIED",
             "rateHistory": [
-                {
-                    "ratePercent": 12,
-                    "taxability": "TAXABLE",
-                    "effectiveFrom": "2017-07-01",
-                    "effectiveTo": "2019-09-30"
-                },
                 {
                     "ratePercent": 0,
                     "taxability": "NIL_RATED",

@@ -305,10 +305,10 @@
         },
         {
             "code": "9705",
-            "description": "Numismatic coins",
+            "description": "COLLECTIONS AND COLLECTORS' PIECES OF ZOOLOGICAL, BOTANICAL, MINERALOGICAL, ANATOMICAL, HISTORICAL, ARCHAEOLOGICAL, PALAEONTOLOGICAL, ETHNOGRAPHIC OR NUMISMATIC INTEREST",
             "rateHistory": [
                 {
-                    "ratePercent": 12,
+                    "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2017-07-01",
                     "effectiveTo": "2025-09-21"

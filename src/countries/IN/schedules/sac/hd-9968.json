@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "996811",
-            "description": "",
+            "description": "POSTAL SERVICES INCLUDING POST OFFICE COUNTER SERVICES, MAIL BOX RENTAL SERVICES.",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -17,7 +17,7 @@
         },
         {
             "code": "996812",
-            "description": "",
+            "description": "COURIER SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -29,7 +29,7 @@
         },
         {
             "code": "996813",
-            "description": "",
+            "description": "LOCAL DELIVERY SERVICES",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -41,7 +41,7 @@
         },
         {
             "code": "996819",
-            "description": "",
+            "description": "OTHER DELIVERY SERVICES N.E.C",
             "rateHistory": [
                 {
                     "ratePercent": 18,

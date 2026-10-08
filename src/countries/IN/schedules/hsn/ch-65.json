@@ -5,7 +5,7 @@
     "entries": [
         {
             "code": "6501",
-            "description": "Article of apparel and clothing accessories or cap/topi, knitted or crocheted, of sale value not exceeding Rs 1000 per piece",
+            "description": "Textile caps",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -23,6 +23,12 @@
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
@@ -161,7 +167,7 @@
         },
         {
             "code": "6505",
-            "description": "Article of apparel and clothing accessories or cap/topi, knitted or crocheted, of sale value not exceeding Rs 1000 per piece",
+            "description": "Hats (knitted/crocheted) or made up from lace or other textile fabrics",
             "rateHistory": [
                 {
                     "ratePercent": 18,
@@ -179,6 +185,12 @@
                     "ratePercent": 5,
                     "taxability": "TAXABLE",
                     "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
                     "effectiveTo": null
                 }
             ]
