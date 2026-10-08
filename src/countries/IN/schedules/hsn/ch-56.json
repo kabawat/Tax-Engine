@@ -1,0 +1,1501 @@
+{
+    "chapter": "56",
+    "kind": "HSN",
+    "count": 92,
+    "entries": [
+        {
+            "code": "5601",
+            "description": "WADDING OF TEXTILE MATERIALS AND ARTICLES THEREOF; TEXTILE FIBRES, NOT EXCEEDING 5 MM IN LENGTH (FLOCK), TEXTILE DUST AND MILL NEPS ---- WADDING; OTHER ARTICLES OF WADDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56011000",
+            "description": "WADDING OF TEXTILE MATERIALS AND ARTICLES THEREOF; TEXTILE FIBRES, NOT EXCEEDING 5 MM IN LENGTH (FLOCK), TEXTILE DUST AND MILL NEPS SANITARY TOWELS AND TAMPONS, NAPKINS AND NAPKIN LINERS FOR BABIES AND SIMILAR SANITARY ARTICLES, OF WADDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560121",
+            "description": "OF COTTON",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56012110",
+            "description": "WADDING OF TEXTILE MATERIALS AND ARTICLES THEREOF; TEXTILE FIBRES, NOT EXCEEDING 5 MM IN LENGTH (FLOCK), TEXTILE DUST AND MILL NEPS - WADDING; OTHER ARTICLES OF WADDING : OF COTTON : ABSORBENT COTTON WOOL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56012190",
+            "description": "WADDING OF TEXTILE MATERIALS AND ARTICLES THEREOF; TEXTILE FIBRES, NOT EXCEEDING 5 MM IN LENGTH (FLOCK), TEXTILE DUST AND MILL NEPS - WADDING; OTHER ARTICLES OF WADDING : OF COTTON : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560122",
+            "description": "WADDING OF TEXTILE MATERIALS AND ARTICLES THEREOF; TEXTILE FIBRES, NOT EXCEEDING 5 MM IN LENGTH (FLOCK), TEXTILE DUST AND MILL NEPS - WADDING; OTHER ARTICLES OF WADDING : OF MAN-MADE FIBRES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56012200",
+            "description": "WADDING OF TEXTILE MATERIALS AND ARTICLES THEREOF; TEXTILE FIBRES, NOT EXCEEDING 5 MM IN LENGTH (FLOCK), TEXTILE DUST AND MILL NEPS - WADDING; OTHER ARTICLES OF WADDING : OF MAN-MADE FIBRES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560129",
+            "description": "WADDING OF TEXTILE MATERIALS AND ARTICLES THEREOF; TEXTILE FIBRES, NOT EXCEEDING 5 MM IN LENGTH (FLOCK), TEXTILE DUST AND MILL NEPS - WADDING; OTHER ARTICLES OF WADDING : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56012900",
+            "description": "WADDING OF TEXTILE MATERIALS AND ARTICLES THEREOF; TEXTILE FIBRES, NOT EXCEEDING 5 MM IN LENGTH (FLOCK), TEXTILE DUST AND MILL NEPS - WADDING; OTHER ARTICLES OF WADDING : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560130",
+            "description": "WADDING OF TEXTILE MATERIALS AND ARTICLES THEREOF; TEXTILE FIBRES, NOT EXCEEDING 5 MM IN LENGTH (FLOCK), TEXTILE DUST AND MILL NEPS TEXTILE FLOCK AND DUST AND MILL NEPS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56013000",
+            "description": "WADDING OF TEXTILE MATERIALS AND ARTICLES THEREOF; TEXTILE FIBRES, NOT EXCEEDING 5 MM IN LENGTH (FLOCK), TEXTILE DUST AND MILL NEPS TEXTILE FLOCK AND DUST AND MILL NEPS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5602",
+            "description": "FELT, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560210",
+            "description": "FELT, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED NEEDLELOOM FELT AND STITCH-BONDED FIBRE FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56021000",
+            "description": "FELT, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED NEEDLELOOM FELT AND STITCH-BONDED FIBRE FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56022100",
+            "description": "FELT, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OTHER FELT, NOT IMPREGNATED, COATED, COVERED OR LAMINATED : OF WOOL OR FINE ANIMAL HAIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560229",
+            "description": "OF OTHER TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56022910",
+            "description": "FELT, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OTHER FELT, NOT IMPREGNATED, COATED, COVERED OR LAMINATED : - OF OTHER TEXTILE MATERIALS : FOR MACHINES OTHER THAN COTTON MACHINERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56022920",
+            "description": "FELT, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OTHER FELT, NOT IMPREGNATED, COATED, COVERED OR LAMINATED : - OF OTHER TEXTILE MATERIALS : OF JUTE (INCLUDING BLENDED OR UNION JUTE), OTHER THAN FOR MACHINERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56022990",
+            "description": "FELT, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OTHER FELT, NOT IMPREGNATED, COATED, COVERED OR LAMINATED : - OF OTHER TEXTILE MATERIALS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560290",
+            "description": "FELT,WHETHER OR NOT IMPREGNATED, COATED,COVERED OR LAMINATED -OTHER - - - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56029010",
+            "description": "FELT,WHETHER OR NOT IMPREGNATED, COATED,COVERED OR LAMINATED -OTHER -OF RUBBERISED COIR NEEDLED FELT",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56029090",
+            "description": "FELT,WHETHER OR NOT IMPREGNATED, COATED,COVERED OR LAMINATED -OTHER - - - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5603",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OF MAN-MADE FILAMENTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560311",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OF MAN-MADE FILAMENTS : WEIGHING NOT MORE THAN 25 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56031100",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OF MAN-MADE FILAMENTS : WEIGHING NOT MORE THAN 25 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560312",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OF MAN-MADE FILAMENTS : WEIGHING MORE THAN 25 G/M2 BUT NOT MORE THAN 70 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56031200",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OF MAN-MADE FILAMENTS : WEIGHING MORE THAN 25 G/M2 BUT NOT MORE THAN 70 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560313",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OF MAN-MADE FILAMENTS : WEIGHING MORE THAN 70 G/M2 BUT NOT MORE THAN 150 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56031300",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OF MAN-MADE FILAMENTS : WEIGHING MORE THAN 70 G/M2 BUT NOT MORE THAN 150 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560314",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OF MAN-MADE FILAMENTS : WEIGHING MORE THAN 150 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56031400",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OF MAN-MADE FILAMENTS : WEIGHING MORE THAN 150 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560391",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OTHER : WEIGHING NOT MORE THAN 25 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56039100",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OTHER : WEIGHING NOT MORE THAN 25 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560392",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OTHER : WEIGHING MORE THAN 25 G/M2 BUT NOT MORE THAN 70 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56039200",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OTHER : WEIGHING MORE THAN 25 G/M2 BUT NOT MORE THAN 70 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560393",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OTHER : WEIGHING MORE THAN 70 G/M2 BUT NOT MORE THAN 150 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56039300",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OTHER : WEIGHING MORE THAN 70 G/M2 BUT NOT MORE THAN 150 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560394",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OTHER : WEIGHING MORE THAN 150 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56039400",
+            "description": "NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED - OTHER : WEIGHING MORE THAN 150 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5604",
+            "description": "RUBBER THREAD AND CORD, TEXTILE COVERED; TEXTILE YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405, IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560410",
+            "description": "RUBBER THREAD AND CORD, TEXTILE COVERED; TEXTILE YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405, IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - RUBBER THREAD AND CORD, TEXTILE COVERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56041000",
+            "description": "RUBBER THREAD AND CORD, TEXTILE COVERED; TEXTILE YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405, IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - RUBBER THREAD AND CORD, TEXTILE COVERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56042010",
+            "description": "RUBBER THREAD AND CORD, TEXTILE COVERED; TEXTILE YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405, IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - HIGH TENACITY YARN OF POLYESTERS, OF NYLON OR OTHER POLYAMIDES OR OF VISCOSE RAYON, I",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56042090",
+            "description": "RUBBER THREAD AND CORD, TEXTILE COVERED; TEXTILE YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405, IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - HIGH TENACITY YARN OF POLYESTERS, OF NYLON OR OTHER POLYAMIDES OR OF VISCOSE RAYON, I",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560490",
+            "description": "RUBBER THREAD AND CORD, TEXTILE COVERED; TEXTILE YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405, IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56049000",
+            "description": "RUBBER THREAD AND CORD, TEXTILE COVERED; TEXTILE YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405, IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5605",
+            "description": "METALLISED YARN, WHETHER OR NOT GIMPED BEING TEXTILE YARN, OR STRIP OR THE LIKE OF HEADING 5404 OR 5405, COMBINED WITH METAL IN THE FORM OF THREAD, STRIP OR POWDER OR COVERED WITH METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560500",
+            "description": "METALLISED YARN, WHETHER OR NOT GIMPED, BEING TEXTILE YARN, OR STRIP OR THE LIKE OF HEADING 5404 OR 5405, COMBINED WITH METAL IN THE FORM OF THREAD, STRIP OR POWDER OR COVERED WITH METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56050010",
+            "description": "METALLISED YARN, WHETHER OR NOT GIMPED BEING TEXTILE YARN, OR STRIP OR THE LIKE OF HEADING 5404 OR 5405, COMBINED WITH METAL IN THE FORM OF THREAD, STRIP OR POWDER OR COVERED WITH METAL - METALLISED YARN, WHETHER OR NOT GIMPED, BEING TEXTILE YARN, OR STRI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56050020",
+            "description": "METALLISED YARN, WHETHER OR NOT GIMPED BEING TEXTILE YARN, OR STRIP OR THE LIKE OF HEADING 5404 OR 5405, COMBINED WITH METAL IN THE FORM OF THREAD, STRIP OR POWDER OR COVERED WITH METAL - METALLISED YARN, WHETHER OR NOT GIMPED, BEING TEXTILE YARN, OR STRI",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56050090",
+            "description": "METALLISED YARN, WHETHER OR NOT GIMPED BEING TEXTILE YARN, OR STRIP OR THE LIKE OF HEADING 5404 OR 5405, COMBINED WITH METAL IN THE FORM OF THREAD, STRIP OR POWDER OR COVERED WITH METAL - METALLISED YARN, WHETHER OR NOT GIMPED, BEING TEXTILE YARN, OR STRI",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5606",
+            "description": "GIMPED YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405, GIMPED (OTHER THAN THOSE OF HEADING 5605 AND GIMPED HORSEHAIR YARN); CHENILLE YARN (INCLUDING FLOCK CHENILLE YARN); LOOP WALE-YARN",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560600",
+            "description": "GIMPED YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405, GIMPED (OTHER THAN THOSE OF HEADING 5605 AND GIMPED HORSEHAIR YARN); CHENILLE YARN (INCLUDING FLOCK CHENILLE YARN); LOOP WALE-YARN",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56060010",
+            "description": "GIMPED YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405, GIMPED (OTHER THAN THOSE OF HEADING 5605 AND GIMPED HORSEHAIR YARN); CHENILLE YARN (INCLUDING FLOCK CHENILLE YARN); LOOP WALE-YARN - GIMPED YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405,",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56060020",
+            "description": "GIMPED YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405, GIMPED (OTHER THAN THOSE OF HEADING 5605 AND GIMPED HORSEHAIR YARN); CHENILLE YARN (INCLUDING FLOCK CHENILLE YARN); LOOP WALE-YARN - GIMPED YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405,",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56060030",
+            "description": "GIMPED YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405, GIMPED (OTHER THAN THOSE OF HEADING 5605 AND GIMPED HORSEHAIR YARN); CHENILLE YARN (INCLUDING FLOCK CHENILLE YARN); LOOP WALE-YARN - GIMPED YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405,",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56060090",
+            "description": "GIMPED YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405, GIMPED (OTHER THAN THOSE OF HEADING 5605 AND GIMPED HORSEHAIR YARN); CHENILLE YARN (INCLUDING FLOCK CHENILLE YARN); LOOP WALE-YARN - GIMPED YARN, AND STRIP AND THE LIKE OF HEADING 5404 OR 5405,",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5607",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF SISAL OR OTHER TEXTILE FIBRES OF THE GENUS AGAVE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56071010",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF JUTE OR OTHER TEXTILE BAST FIBRES OF HEADING 5303 : CORDAGE, CABLE, ROPE AND TWINE OF JUTE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560721",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF SISAL OR OTHER TEXTILE FIBRES OF THE GENUS AGAVE : BINDER OR BALER TWINE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56072100",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF SISAL OR OTHER TEXTILE FIBRES OF THE GENUS AGAVE : BINDER OR BALER TWINE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560729",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF SISAL OR OTHER TEXTILE FIBRES OF THE GENUS AGAVE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56072900",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF SISAL OR OTHER TEXTILE FIBRES OF THE GENUS AGAVE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560741",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF POLYETHYLENE OR POLYPROPYLENE : BINDER OR BALER TWINE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56074100",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF POLYETHYLENE OR POLYPROPYLENE : BINDER OR BALER TWINE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560749",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF POLYETHYLENE OR POLYPROPYLENE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56074900",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF POLYETHYLENE OR POLYPROPYLENE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560750",
+            "description": "OF OTHER SYNTHETIC FIBRES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56075010",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF OTHER SYNTHETIC FIBRES : NYLON FISH NET TWINE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56075020",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF OTHER SYNTHETIC FIBRES : NYLON TYRE CORD",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56075030",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF OTHER SYNTHETIC FIBRES : VISCOSE TYRE CORD",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56075040",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF OTHER SYNTHETIC FIBRES : NYLON ROPE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56075090",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OF OTHER SYNTHETIC FIBRES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560790",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56079010",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OTHER : COIR, CORDAGE AND ROPES, OTHER THAN OF COTTON",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56079020",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OTHER : CORDAGE, CABLE, ROPES AND TWINE, OF COTTON",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56079090",
+            "description": "TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5608",
+            "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OF MAN-MADE TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560811",
+            "description": "MADE UP FISHING NETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56081110",
+            "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OF MAN-MADE TEXTILE MATERIALS : - MADE UP FISHING NETS : MADE UP FISHING NETS OF NYLON",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56081190",
+            "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OF MAN-MADE TEXTILE MATERIALS : - MADE UP FISHING NETS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560819",
+            "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OF MAN-MADE TEXTILE MATERIALS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56081900",
+            "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OF MAN-MADE TEXTILE MATERIALS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "560890",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56089010",
+            "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OTHER : OF COTTON",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56089020",
+            "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OTHER : OF JUTE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56089090",
+            "description": "KNOTTED NETTING OF TWINE, CORDAGE OR ROPE; MADE UP FISHING NETS AND OTHER MADE UP NETS, OF TEXTILE MATERIALS - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5609",
+            "description": "ARTICLES OF YARN, STRIP OR THE LIKE OF HEADING 5404 OR 5405, TWINE, CORDAGE, ROPE OR CABLES, NOT ELSEWHERE SPECIFIED OR INCLUDED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56090010",
+            "description": "ARTICLES OF YARN, STRIP OR THE LIKE OF HEADING 5404 OR 5405, TWINE, CORDAGE, ROPE OR CABLES, NOT ELSEWHERE SPECIFIED OR INCLUDED - ARTICLES OF YARN, STRIP OR THE LIKE OF HEADING 5404 OR 5405, TWINE, CORDAGE, ROPE OR CABLES, NOT ELSEWHERE SPECIFIED OR INCL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56090020",
+            "description": "ARTICLES OF YARN, STRIP OR THE LIKE OF HEADING 5404 OR 5405, TWINE, CORDAGE, ROPE OR CABLES, NOT ELSEWHERE SPECIFIED OR INCLUDED - ARTICLES OF YARN, STRIP OR THE LIKE OF HEADING 5404 OR 5405, TWINE, CORDAGE, ROPE OR CABLES, NOT ELSEWHERE SPECIFIED OR INCL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56090030",
+            "description": "ARTICLES OF YARN, STRIP OR THE LIKE OF HEADING 5404 OR 5405, TWINE, CORDAGE, ROPE OR CABLES, NOT ELSEWHERE SPECIFIED OR INCLUDED - ARTICLES OF YARN, STRIP OR THE LIKE OF HEADING 5404 OR 5405, TWINE, CORDAGE, ROPE OR CABLES, NOT ELSEWHERE SPECIFIED OR INCL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "56090090",
+            "description": "ARTICLES OF YARN, STRIP OR THE LIKE OF HEADING 5404 OR 5405, TWINE, CORDAGE, ROPE OR CABLES, NOT ELSEWHERE SPECIFIED OR INCLUDED - ARTICLES OF YARN, STRIP OR THE LIKE OF HEADING 5404 OR 5405, TWINE, CORDAGE, ROPE OR CABLES, NOT ELSEWHERE SPECIFIED OR INCL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

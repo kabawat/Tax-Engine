@@ -1,0 +1,1747 @@
+{
+    "chapter": "37",
+    "kind": "HSN",
+    "count": 126,
+    "entries": [
+        {
+            "code": "3701",
+            "description": "PHOTOGRAPHIC PLATES AND FILM FOR X-RAY FOR MEDICAL USE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370110",
+            "description": "FOR X-RAY",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37011010",
+            "description": "PHOTOGRAPHIC PLATES AND FILM IN THE FLAT, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT-FILM IN THE FLAT, SENSITISED, UNEXPOSED, WHETHER OR NOT IN PACKS FOR X-RAY: MEDICAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37011090",
+            "description": "PHOTOGRAPHIC PLATES AND FILM IN THE FLAT, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT-FILM IN THE FLAT, SENSITISED, UNEXPOSED, WHETHER OR NOT IN PACKS FOR X-RAY: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370120",
+            "description": "PHOTOGRAPHIC PLATES AND FILM IN THE FLAT, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT-FILM IN THE FLAT, SENSITISED, UNEXPOSED, WHETHER OR NOT IN PACKS INSTANT PRINT FILM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37012000",
+            "description": "PHOTOGRAPHIC PLATES AND FILM IN THE FLAT, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT-FILM IN THE FLAT, SENSITISED, UNEXPOSED, WHETHER OR NOT IN PACKS INSTANT PRINT FILM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370130",
+            "description": "PHOTOGRAPHIC PLATES AND FILM IN THE FLAT, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT-FILM IN THE FLAT, SENSITISED, UNEXPOSED, WHETHER OR NOT IN PACKS OTHER PLATES AND FILM, WITH ANY SIDE EXCEEDING 255 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37013000",
+            "description": "PHOTOGRAPHIC PLATES AND FILM IN THE FLAT, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT-FILM IN THE FLAT, SENSITISED, UNEXPOSED, WHETHER OR NOT IN PACKS OTHER PLATES AND FILM, WITH ANY SIDE EXCEEDING 255 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370191",
+            "description": "FOR COLOUR PHOTOGRAPHY (POLYCHROME)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37019110",
+            "description": "PHOTOGRAPHIC PLATES AND FILM IN THE FLAT, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT-FILM IN THE FLAT, SENSITISED, UNEXPOSED, WHETHER OR NOT IN PACKS OTHER: FOR COLOUR PHOTOGRAPHY (POLYCHROME): CINEMATOG",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37019190",
+            "description": "PHOTOGRAPHIC PLATES AND FILM IN THE FLAT, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT-FILM IN THE FLAT, SENSITISED, UNEXPOSED, WHETHER OR NOT IN PACKS OTHER: FOR COLOUR PHOTOGRAPHY (POLYCHROME): OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370199",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37019910",
+            "description": "PHOTOGRAPHIC PLATES AND FILM IN THE FLAT, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT-FILM IN THE FLAT, SENSITISED, UNEXPOSED, WHETHER OR NOT IN PACKS OTHER: OTHER: CINEMATOGRAPHIC FILM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37019990",
+            "description": "PHOTOGRAPHIC PLATES AND FILM IN THE FLAT, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT-FILM IN THE FLAT, SENSITISED, UNEXPOSED, WHETHER OR NOT IN PACKS OTHER: OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3702",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37021000",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED FOR XRAY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370231",
+            "description": "FOR COLOUR PHOTOGRAPHY (POLYCHROME)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37023110",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH NOT EXCEEDING 105 MM: FOR COLOUR PHOTOGRAPHY (POL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37023190",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH NOT EXCEEDING 105 MM: FOR COLOUR PHOTOGRAPHY (POL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370232",
+            "description": "OTHER, WITH SILVER HALIDE EMULSION",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37023210",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH NOT EXCEEDING 105 MM: OTHER, WITH SILVER HALIDE E",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37023290",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH NOT EXCEEDING 105 MM: OTHER, WITH SILVER HALIDE E",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370239",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37023910",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH NOT EXCEEDING 105 MM: OTHER: CINEMATOGRAPHIC FILM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37023990",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH NOT EXCEEDING 105 MM: OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37024110",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH EXCEEDING 105 MM: OF A WIDTH EXCEEDING 610 MM AND",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37024190",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH EXCEEDING 105 MM: OF A WIDTH EXCEEDING 610 MM AND",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37024210",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH EXCEEDING 105 MM: OF A WIDTH EXCEEDING 610 MM AND",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37024220",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH EXCEEDING 105 MM: OF A WIDTH EXCEEDING 610 MM AND",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37024290",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH EXCEEDING 105 MM: OF A WIDTH EXCEEDING 610 MM AND",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370243",
+            "description": "OF A WIDTH EXCEEDING 610 MM AND OF A LENGTH NOT EXCEEDING 200 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37024310",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH EXCEEDING 105 MM: OF A WIDTH EXCEEDING 610 MM AND",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37024320",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH EXCEEDING 105 MM: OF A WIDTH EXCEEDING 610 MM AND",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37024390",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH EXCEEDING 105 MM: OF A WIDTH EXCEEDING 610 MM AND",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370244",
+            "description": "OF A WIDTH EXCEEDING 105 MM BUT NOT EXCEEDING 610 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37024410",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH EXCEEDING 105 MM: OF A WIDTH EXCEEDING 105 MM BUT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37024420",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH EXCEEDING 105 MM: OF A WIDTH EXCEEDING 105 MM BUT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37024490",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, WITHOUT PERFORATIONS, OF A WIDTH EXCEEDING 105 MM: OF A WIDTH EXCEEDING 105 MM BUT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370252",
+            "description": "OF A WIDTH NOT EXCEEDING 16 MM AND OF A LENGTH EXCEEDING 14 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37025210",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, FOR COLOUR PHOTOGRAPHY (POLYCHROME): OF A WIDTH NOT EXCEEDING 16 MM AND OF A LENGT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37025220",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, FOR COLOUR PHOTOGRAPHY (POLYCHROME): OF A WIDTH NOT EXCEEDING 16 MM AND OF A LENGT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37025290",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, FOR COLOUR PHOTOGRAPHY (POLYCHROME): OF A WIDTH NOT EXCEEDING 16 MM AND OF A LENGT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37025300",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, FOR COLOUR PHOTOGRAPHY (POLYCHROME): OF A WIDTH EXCEEDING 16 MM BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37025410",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, FOR COLOUR PHOTOGRAPHY (POLYCHROME): OF A WIDTH EXCEEDING 16 MM BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37025420",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, FOR COLOUR PHOTOGRAPHY (POLYCHROME): OF A WIDTH EXCEEDING 16 MM BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37025490",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, FOR COLOUR PHOTOGRAPHY (POLYCHROME): OF A WIDTH EXCEEDING 16 MM BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37025510",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, FOR COLOUR PHOTOGRAPHY (POLYCHROME): OF A WIDTH EXCEEDING 16 MM BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37025520",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, FOR COLOUR PHOTOGRAPHY (POLYCHROME): OF A WIDTH EXCEEDING 16 MM BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37025590",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, FOR COLOUR PHOTOGRAPHY (POLYCHROME): OF A WIDTH EXCEEDING 16 MM BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370256",
+            "description": "OF A WIDTH EXCEEDING 35 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37025610",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, FOR COLOUR PHOTOGRAPHY (POLYCHROME): OF A WIDTH EXCEEDING 35 MM: FINISHED ROLLS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37025620",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, FOR COLOUR PHOTOGRAPHY (POLYCHROME): OF A WIDTH EXCEEDING 35 MM: OTHER CINEMATOGRA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37025690",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPER-BOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED OTHER FILM, FOR COLOUR PHOTOGRAPHY (POLYCHROME): OF A WIDTH EXCEEDING 35 MM: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370296",
+            "description": "OF A WIDTH NOT EXCEEDING 35 MM AND OF A LENGTH NOT EXCEEDING 30 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37029611",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED-OTHER--OF A WIDTH NOT EXCEEDING 35 MM AND OF A LENGTH NOT EXCEEDING 30M---CINEMATOGRAPHIC FILM-",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37029619",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED-OTHER--OF A WIDTH NOT EXCEEDING 35 MM AND OF A LENGTH NOT EXCEEDING 30M---CINEMATOGRAPHIC FILM-",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37029711",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED-OTHER--OF A WIDTH NOT EXCEEDING 35 MM AND OF A LENGTH EXCEEDING 30 M ---CINEMATOGRAPHIC FILM--",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37029719",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED-OTHER--OF A WIDTH NOT EXCEEDING 35 MM AND OF A LENGTH EXCEEDING 30 M --- CINEMATOGRAPHIC FILM--",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370298",
+            "description": "OF A WIDTH EXCEEDING 35 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37029810",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED-OTHER--OF A WIDTH EXCEEDING 35 MM---CINEMATOGRAPHIC FILM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37029890",
+            "description": "PHOTOGRAPHIC FILM IN ROLLS, SENSITISED, UNEXPOSED, OF ANY MATERIAL OTHER THAN PAPER, PAPERBOARD OR TEXTILES; INSTANT PRINT FILM IN ROLLS, SENSITISED, UNEXPOSED-OTHER--OF A WIDTH EXCEEDING 35 MM---OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3703",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370310",
+            "description": "IN ROLLS OF A WIDTH EXCEEDING 610 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37031010",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED IN ROLLS OF A WIDTH EXCEEDING 610 MM: PHOTOGRAPHIC PAPER OR PAPERBOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37031020",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED IN ROLLS OF A WIDTH EXCEEDING 610 MM: TEXTILES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370320",
+            "description": "OTHER, FOR COLOUR PHOTOGRAPHY (POLYCHROME)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37032010",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED OTHER, FOR COLOUR PHOTOGRAPHY (POLYCHROME): PHOTOGRAPHIC PAPER OR PAPERBOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37032020",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED OTHER, FOR COLOUR PHOTOGRAPHY (POLYCHROME): TEXTILES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370390",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37039010",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED OTHER: PHOTOGRAPHIC PAPER OR PAPERBOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37039020",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED OTHER: TEXTILES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3704",
+            "description": "PHOTOGRAPHIC PLATES, FILM, PAPER, PAPERBOARD AND TEXTILES, EXPOSED BUT NOT DEVELOPED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37040010",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED PHOTOGRAPHIC PLATES, FILM, PAPER, PAPER BOARD AND TEXTILES, EXPOSED BUT NOT DEVELOPED: PHOTOGRAPHIC PAPER, OR PAPERBOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37040020",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED PHOTOGRAPHIC PLATES, FILM, PAPER, PAPER BOARD AND TEXTILES, EXPOSED BUT NOT DEVELOPED: CINEMATOGRAPHIC PLATES AND FILM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37040030",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED PHOTOGRAPHIC PLATES, FILM, PAPER, PAPER BOARD AND TEXTILES, EXPOSED BUT NOT DEVELOPED: SENSITISED TEXTILES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37040090",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED PHOTOGRAPHIC PLATES, FILM, PAPER, PAPER BOARD AND TEXTILES, EXPOSED BUT NOT DEVELOPED: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3705",
+            "description": "PHOTOGRAPHIC PLATES AND FILM, EXPOSED AND DEVELOPED, OTHER THAN CINEMATOGRAPHIC FILM",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37051000",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED FOR OFFSET REPRODUCTION",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37052000",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED MICROFILMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37059010",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED OTHER: MICROFICHES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37059090",
+            "description": "PHOTOGRAPHIC PAPER, PAPERBOARD AND TEXTILES SENSITISED, UNEXPOSED OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3706",
+            "description": "PHOTOGRAPHIC PLATES AND FILMS, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK, OTHER THAN FEATURE FILMS.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370610",
+            "description": "OF A WIDTH OF 35 MM OR MORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061011",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: FEATURE FILMS: MADE WHOLLY IN BLACK AND WHITE AND OF A LENGTH NOT EXCEEDING 4,000 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061012",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: FEATURE FILMS: MADE WHOLLY IN BLACK AND WHITE AND OF A LENGTH EXCEEDING 4,000 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061013",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: FEATURE FILMS: MADE WHOLLY OR PARTLY IN COLOUR AND OF A LENGTH NOT EXCEEDING 4,000 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061014",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: FEATURE FILMS: MADE WHOLLY OR PARTLY IN COLOUR AND OF A LENGTH EXCEEDING 4,000 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061015",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: FEATURE FILMS: CHILDRENS FILMS CERTIFIED BY THE CENTRAL BOARD OF FILM CERTIFICATION TO BE CHILDRENS FILM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061020",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: DOCUMENTARY SHORTS, AND FILMS CERTIFIED AS SUCH BY THE CENTRAL BOARD OF FILM CERTIFICATION",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061030",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: NEWS REELS AND CLIPPINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061041",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: ADVERTISEMENT SHORTS AND FILMS: MADE WHOLLY IN BLACK AND WHITE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061042",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: ADVERTISEMENT SHORTS AND FILMS: MADE WHOLLY OR PARTLY IN COLOUR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061051",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: OTHER CHILDRENS FILM: PATCH PRINTS, INCLUDING LOGOS INTENDED EXCLUSIVELY FOR THE ENTERTAINMENT OF CHILDREN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061052",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: OTHER CHILDRENS FILM: CHILDRENS FILM CERTIFIED BY THE CENTRAL BOARD OF FILMS CERTIFICATION TO BE CHILDRENS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061059",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: OTHER CHILDRENS FILM: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061061",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: EDUCATIONAL SHORTS, AND FILMS: CERTIFIED AS PREDOMINANTLY EDUCATIONAL BY THE CENTRAL BOARD OF FILM CERTIFI",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061062",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: EDUCATIONAL SHORTS, AND FILMS: PATCH PRINTS, INCLUDING LOGOS INTENDED EXCLUSIVELY FOR EDUCATIONAL PURPOSES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061063",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: EDUCATIONAL SHORTS, AND FILMS: TEACHING AIDS INCLUDING FILM STRIPS OF EDUCATIONAL NATURE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061069",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: EDUCATIONAL SHORTS, AND FILMS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061070",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: SHORT FILMS NOT ELSEWHERE SPECIFIED OR INCLUDED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061091",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: OTHER: AUDIO VISUAL NEWS OR AUDIO VISUAL VIEWS MATERIALS INCLUDING NEWS CLIPPINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061092",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: OTHER: MASTER POSITIVES, EXPOSED NEGATIVES, DUPES AND RUSH PRINTS AS ARE NOT CLEARED FOR PUBLIC EXHIBITION",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37061099",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OF A WIDTH OF 35 MM OR MORE: OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370690",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069012",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: FEATURE FILMS: MADE WHOLLY IN BLACK AND WHITE AND OF A LENGTH EXCEEDING 4,000 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069014",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: FEATURE FILMS: MADE WHOLLY OR PARTLY IN COLOUR AND OF A LENGTH EXCEEDING 4,000 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069015",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: FEATURE FILMS: CHILDRENS FILMS CERTIFIED BY THE CENTRAL BOARD OF FILM CERTIFICATION TO BE CHILDRENS FILM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069030",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: NEWS REELS AND CLIPPINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069041",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: ADVERTISEMENT SHOTS AND FILMS: MADE WHOLLY IN BLACK AND WHITE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069042",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: ADVERTISEMENT SHOTS AND FILMS: MADE WHOLLY OR PARTLY IN COLOUR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069051",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: OTHER CHILDRENS FILM: PATCH PRINTS, INCLUDING LOGOS INTENDED EXCLUSIVELY FOR THE ENTERTAINMENT OF CHILDREN",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069052",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: OTHER CHILDRENS FILM: CHILDRENS FILM CERTIFIED BY THE CENTRAL BOARD OF FILMS CERTIFICATION TO BE CHILDRENS FILM",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069059",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: OTHER CHILDRENS FILM: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069061",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: EDUCATIONAL SHOTS, AND FILMS: CERTIFIED AS PREDOMINANTLY EDUCATIONAL BY THE CENTRAL BOARD OF FILM CERTIFICATION",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069062",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: EDUCATIONAL SHOTS, AND FILMS: PATCH PRINTS, INCLUDING LOGOS INTENDED EXCLUSIVELY FOR EDUCATIONAL PURPOSES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069063",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: EDUCATIONAL SHOTS, AND FILMS: TEACHING AIDS INCLUDING FILM STRIPS OF EDUCATIONAL NATURE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069064",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: EDUCATIONAL SHOTS, AND FILMS: CERTIFIED AS PREDOMINANTLY EDUCATIONAL, BY CENTRAL BOARD OF FILM CERTIFICATION, OF WIDTH BELOW 30M",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069069",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: EDUCATIONAL SHOTS, AND FILMS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069070",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: SHORT FILM NOT ELSEWHERE SPECIFIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069092",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: OTHER: MASTER POSITIVES, EXPOSED NEGATIVES, DUPES AND RUSH PRINTS AS ARE NOT CLEARED FOR PUBLIC EXHIBITIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37069099",
+            "description": "CINEMATOGRAPHIC FILM, EXPOSED AND DEVELOPED, WHETHER OR NOT INCORPORATING SOUND TRACK OR CONSISTING ONLY OF SOUND TRACK OTHER: OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3707",
+            "description": "CHEMICAL PREPARATIONS FOR PHOTOGRAPHIC USES (OTHER THAN VARNISHES, GLUES, ADHESIVES AND SIMILAR PREPARATIONS); UNMIXED PRODUCTS FOR PHOTOGRAPHIC USES, PUT UP IN MEASURED PORTIONS OR PUT UP FOR RETAIL SALE IN A FORM READY FOR USE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370710",
+            "description": "CHEMICAL PREPARATIONS FOR PHOTOGRAPHIC USES (OTHER THAN VARNISHES, GLUES, ADHESIVES AND SIMILAR PREPARATIONS); UNMIXED PRODUCTS FOR PHOTOGRAPHIC USES, PUT UP IN MEASURED PORTIONS OR PUT UP FOR RETAIL SALE IN A FORM READY FOR USE SENSITIZING EMULSIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37071000",
+            "description": "CHEMICAL PREPARATIONS FOR PHOTOGRAPHIC USES (OTHER THAN VARNISHES, GLUES, ADHESIVES AND SIMILAR PREPARATIONS); UNMIXED PRODUCTS FOR PHOTOGRAPHIC USES, PUT UP IN MEASURED PORTIONS OR PUT UP FOR RETAIL SALE IN A FORM READY FOR USE SENSITIZING EMULSIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "370790",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "37079090",
+            "description": "CHEMICAL PREPARATIONS FOR PHOTOGRAPHIC USES (OTHER THAN VARNISHES, GLUES, ADHESIVES AND SIMILAR PREPARATIONS); UNMIXED PRODUCTS FOR PHOTOGRAPHIC USES, PUT UP IN MEASURED PORTIONS OR PUT UP FOR RETAIL SALE IN A FORM READY FOR USE OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

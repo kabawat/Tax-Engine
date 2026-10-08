@@ -1,0 +1,4279 @@
+{
+    "chapter": "39",
+    "kind": "HSN",
+    "count": 355,
+    "entries": [
+        {
+            "code": "3901",
+            "description": "POLYMERS OF ETHYLENE, IN PRIMARY FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "390110",
+            "description": "POLYETHYLENE HAVING A SPECIFIC GRAVITY OF LESS THAN 0.94",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39011010",
+            "description": "POLYMERS OF ETHYLENE, IN PRIMARY FORMS - POLYETHYLENE HAVING A SPECIFIC GRAVITY OF LESS THAN 0.94 : LINEAR LOW DENSITY POLYETHYLENE (LLDPE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39011090",
+            "description": "POLYMERS OF ETHYLENE, IN PRIMARY FORMS - POLYETHYLENE HAVING A SPECIFIC GRAVITY OF LESS THAN 0.94 : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "390120",
+            "description": "POLYMERS OF ETHYLENE, IN PRIMARY FORMS POLYETHYLENE HAVING A SPECIFIC GRAVITY OF 0.94 OR MORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39012000",
+            "description": "POLYMERS OF ETHYLENE, IN PRIMARY FORMS POLYETHYLENE HAVING A SPECIFIC GRAVITY OF 0.94 OR MORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "390130",
+            "description": "POLYMERS OF ETHYLENE, IN PRIMARY FORMS ETHYLENE - VINYL ACETATE COPOLYMERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39013000",
+            "description": "POLYMERS OF ETHYLENE, IN PRIMARY FORMS ETHYLENE - VINYL ACETATE COPOLYMERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "390190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39019010",
+            "description": "POLYMERS OF ETHYLENE, IN PRIMARY FORMS - OTHER: LINEAR MEDIUM DENSITY POLYETHYLENE (LMDPE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39019090",
+            "description": "POLYMERS OF ETHYLENE, IN PRIMARY FORMS - OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3914",
+            "description": "ION-EXCHANGERS BASED ON POLYMERS OF HEADINGS 3901 TO 3913, IN PRIMARY FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39140020",
+            "description": "IONEXCHANGERS BASED ON POLYMERS OF HEADINGS 3901 TO 3913, IN PRIMARY FORMS - IONEXCHANGERS BASED ON POLYMERS OF HEADINGS 3901 TO 3913, IN PRIMARY FORMS:ION - EXCHANGERS OF POLYMERISATION OR CO - POLYMERISATION TYPE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3915",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391510",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF POLYMERS OF ETHYLENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39151000",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF POLYMERS OF ETHYLENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391520",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF POLYMERS OF STYRENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39152000",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF POLYMERS OF STYRENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391530",
+            "description": "OF POLYMERS OF VINYL CHLORIDE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39153010",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF POLYMERS OF VINYL CHLORIDE:OF COPOLYMERS OF VINYL CHLORIDE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39153090",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF POLYMERS OF VINYL CHLORIDE:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391590",
+            "description": "OF OTHER PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159010",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS :OF POLYPROPYLENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159021",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS : OF POLYMERS OF VINYL ACETATE : OF COPOLYMERS OF VINYL ACETATE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159029",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS : OF POLYMERS OF VINYL ACETATE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159030",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS :OF ACRYLIC POLYMERS AND METHLYACRYLIC COPOLYMERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159041",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS : OF ALKYDS, POLYESTERS AND EPOXIDE RESINS : OF ALKYDS AND POLYESTERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159042",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS : OF ALKYDS, POLYESTERS AND EPOXIDE RESINS : OF PET BOTTLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159049",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS : OF ALKYDS, POLYESTERS AND EPOXIDE RESINS : OF EPOXIDE RESINS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159050",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS :OF POLYAMIDES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159061",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS : OF AMINO RESINS; PHENOLIC RESINS AND POLYURETHANES :OF PHENOPLAST",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159062",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS : OF AMINO RESINS; PHENOLIC RESINS AND POLYURETHANES :OF AMINOPLAST",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159063",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS : OF AMINO RESINS; PHENOLIC RESINS AND POLYURETHANES :OF POLYURETHANES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159071",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS : OF CELLULOSE AND ITS CHEMICAL DERIVATIVES: OF REGENERATED CELLULOSE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159073",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS : OF CELLULOSE AND ITS CHEMICAL DERIVATIVES: CELLULOSE PLASTIC WASTE SUCH AS CELLULOSE NITRATE FILM SCRAP PLASTICIZED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159075",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS : OF CELLULOSE AND ITS CHEMICAL DERIVATIVES: CELLULOSE PLASTIC WASTE SUCH AS CELLULOSE ACETATC FILM SCRAP PLASTICIZED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39159090",
+            "description": "WASTE, PARINGS AND SCRAP, OF PLASTICS - OF OTHER PLASTICS :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3916",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS-SECTIONAL DIMENSION EXCEEDS 1 MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE-WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391610",
+            "description": "OF POLYMERS OF ETHYLENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39161010",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF POLYMERS OF ETHYLENE: RODS OF POLYETHYLENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39161020",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF POLYMERS OF ETHYLENE:CANES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39161090",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF POLYMERS OF ETHYLENE:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391620",
+            "description": "OF POLYMERS OF VINYL CHLORIDE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39162011",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF POLYMERS OF VINYL CHLORIDE: OF POLY (VINYL CHLORIDE) COPOLYMERS :CANES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39162019",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF POLYMERS OF VINYL CHLORIDE: OF POLY (VINYL CHLORIDE) COPOLYMERS :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39162091",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF POLYMERS OF VINYL CHLORIDE: OF POLY (VINYL CHLORIDE) COPOLYMERS : OTHER: CANES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39162099",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF POLYMERS OF VINYL CHLORIDE: OF POLY (VINYL CHLORIDE) COPOLYMERS : OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391690",
+            "description": "OF OTHER PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169010",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS : CANES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169021",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS : OF PHENOPLAST, AMINOPLAST, ALKYDS AND POLYESTERS, POLYAMIDES, P",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169022",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS : OF PHENOPLAST, AMINOPLAST, ALKYDS AND POLYESTERS, POLYAMIDES, P",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169023",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS : OF PHENOPLAST, AMINOPLAST, ALKYDS AND POLYESTERS, POLYAMIDES, P",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169024",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS : OF PHENOPLAST, AMINOPLAST, ALKYDS AND POLYESTERS, POLYAMIDES, P",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169025",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS : OF PHENOPLAST, AMINOPLAST, ALKYDS AND POLYESTERS, POLYAMIDES, P",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169026",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS : OF PHENOPLAST, AMINOPLAST, ALKYDS AND POLYESTERS, POLYAMIDES, P",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169027",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS : OF PHENOPLAST, AMINOPLAST, ALKYDS AND POLYESTERS, POLYAMIDES, P",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169028",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS : OF PHENOPLAST, AMINOPLAST, ALKYDS AND POLYESTERS, POLYAMIDES, P",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169031",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS : OF POLYMERISATION AND COPOLYMERISATION PRODUCTS OF POLYSTYRENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169032",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS : OF POLYMERISATION AND COPOLYMERISATION PRODUCTS OF POLYSTYRENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169040",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS :OF REGENERATED CELLULOSE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169050",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS :OF CELLULOSE NITRATE AND CELLULOID, WHETHER OR NOT PLASTICIZED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169060",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS :OF VULCANIZED FIBRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169070",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS : OF CELLULOSE ACETATE AND ACETATE BUTYRATE, WHETHER OR NOT PLAST",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169080",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS : OF VINYL PLASTIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39169090",
+            "description": "MONOFILAMENT OF WHICH ANY CROSS - SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE - WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS - OF OTHER PLASTICS :OF OTHER POLYMERISATION AND COPOLYMERISATION PRODUCTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3917",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - ARTIFICIAL GUTS (SAUSAGE CASINGS) OF HARDENED PROTEIN OR OF CELLULOSIC MATERIALS:",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39171010",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - ARTIFICIAL GUTS (SAUSAGE CASINGS) OF HARDENED PROTEIN OR OF CELLULOSIC MATERIALS: OF HARDENED PROTEIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39171020",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - ARTIFICIAL GUTS (SAUSAGE CASINGS) OF HARDENED PROTEIN OR OF CELLULOSIC MATERIALS: OF CELLULOSIC MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391721",
+            "description": "OF POLYMERS OF ETHYLENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39172110",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - TUBES, PIPES AND HOSES, RIGID: OF POLYMERS OF ETHYLENE:TUBES OF POLYETHYLENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39172190",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - TUBES, PIPES AND HOSES, RIGID: OF POLYMERS OF ETHYLENE:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391722",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - TUBES, PIPES AND HOSES, RIGID: OF POLYMERS OF PROPYLENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39172200",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - TUBES, PIPES AND HOSES, RIGID: OF POLYMERS OF PROPYLENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391723",
+            "description": "OF POLYMERS OF VINYL CHLORIDE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39172310",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - TUBES, PIPES AND HOSES, RIGID: OF POLYMERS OF VINYL CHLORIDE :SEAMLESS TUBES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39172390",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - TUBES, PIPES AND HOSES, RIGID: OF POLYMERS OF VINYL CHLORIDE :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391729",
+            "description": "OF OTHER PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39172910",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - TUBES, PIPES AND HOSES, RIGID: OF OTHER PLASTICS : SEAMLESS TUBES OF COPOLYMERS OF VINYL ACETATE AND VINYL CHLORIDE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39172920",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - TUBES, PIPES AND HOSES, RIGID: OF OTHER PLASTICS : SEAMLESS TUBES OF POLYMERS AND COPOLYMERS OF POLYSTYRENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39172930",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - TUBES, PIPES AND HOSES, RIGID: OF OTHER PLASTICS :TUBES OF CELLULOSE NITRATE AND CELLULOID, WHETHER OR NOT PLASTICISED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39172940",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - TUBES, PIPES AND HOSES, RIGID: OF OTHER PLASTICS :TUBES OF CELLULOSE ACETATE OR ACETATE BUTYRATE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39172950",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - TUBES, PIPES AND HOSES, RIGID: OF OTHER PLASTICS :TUBES OF VINYL PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39172990",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - TUBES, PIPES AND HOSES, RIGID: OF OTHER PLASTICS :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39173210",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - OTHER TUBES, PIPES AND HOSES: OTHER, NOT REINFORCED OR OTHERWISE COMBINED WITH OTHER MATERIALS, WITHOUT FITTINGS:OF CONDENSATION OR REARRANGEMENT POLYMERIZ",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39173220",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - OTHER TUBES, PIPES AND HOSES: OTHER, NOT REINFORCED OR OTHERWISE COMBINED WITH OTHER MATERIALS, WITHOUT FITTINGS:OF ADDITION POLYMERISATION PRODUCTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39173290",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - OTHER TUBES, PIPES AND HOSES: OTHER, NOT REINFORCED OR OTHERWISE COMBINED WITH OTHER MATERIALS, WITHOUT FITTINGS:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391739",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39173920",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - OTHER TUBES, PIPES AND HOSES: OTHER:OF ADDITION POLYMERISATION PRODUCTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39173990",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - OTHER TUBES, PIPES AND HOSES: OTHER:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391740",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - FITTINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39174000",
+            "description": "TUBES, PIPES AND HOSES, AND FITTINGS THEREFOR (FOR EXAMPLE, JOINTS, ELBOWS, FLANGES), OF PLASTICS - FITTINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3918",
+            "description": "FLOOR COVERINGS OF PLASTICS, WHETHER OR NOT SELFADHESIVE, IN ROLLS OR IN THE FORM OF TILES; WALL OR CEILING COVERINGS OF PLASTICS, AS DEFINED IN NOTE 9 TO THIS CHAPTER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391810",
+            "description": "OF POLYMERS OF VINYL CHLORIDE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39181010",
+            "description": "FLOOR COVERINGS OF PLASTICS, WHETHER OR NOT SELF - ADHESIVE, IN ROLLS OR IN THE FORM OF TILES; WALL OR CEILING COVERINGS OF PLASTICS, AS DEFINED IN NOTE 9 TO THIS CHAPTER - OF POLYMERS OF VINYL CHLORIDE : WALL OR CEILING COVERINGS COMBINED WITH KNITTED OR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39181090",
+            "description": "FLOOR COVERINGS OF PLASTICS, WHETHER OR NOT SELF - ADHESIVE, IN ROLLS OR IN THE FORM OF TILES; WALL OR CEILING COVERINGS OF PLASTICS, AS DEFINED IN NOTE 9 TO THIS CHAPTER - OF POLYMERS OF VINYL CHLORIDE :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391890",
+            "description": "OF OTHER PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39189010",
+            "description": "FLOOR COVERINGS OF PLASTICS, WHETHER OR NOT SELF - ADHESIVE, IN ROLLS OR IN THE FORM OF TILES; WALL OR CEILING COVERINGS OF PLASTICS, AS DEFINED IN NOTE 9 TO THIS CHAPTER - OF OTHER PLASTICS :FLOOR COVERINGS OF LINOXYNE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39189020",
+            "description": "FLOOR COVERINGS OF PLASTICS, WHETHER OR NOT SELF - ADHESIVE, IN ROLLS OR IN THE FORM OF TILES; WALL OR CEILING COVERINGS OF PLASTICS, AS DEFINED IN NOTE 9 TO THIS CHAPTER - OF OTHER PLASTICS :WALL OR CEILING COVERINGS COMBINED WITH KNITTED OR WOVEN FABRIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39189090",
+            "description": "FLOOR COVERINGS OF PLASTICS, WHETHER OR NOT SELF - ADHESIVE, IN ROLLS OR IN THE FORM OF TILES; WALL OR CEILING COVERINGS OF PLASTICS, AS DEFINED IN NOTE 9 TO THIS CHAPTER - OF OTHER PLASTICS :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3919",
+            "description": "SELF-ADHESIVE PLATES, SHEETS, FILM, FOIL, TAPE, STRIP AND OTHER FLAT SHAPES, OF PLASTICS, WHETHER OR NOT IN ROLLS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391910",
+            "description": "SELF - ADHESIVE PLATES, SHEETS, FILM, FOIL, TAPE, STRIP AND OTHER FLAT SHAPES, OF PLASTICS, WHETHER OR NOT IN ROLLS - IN ROLLS OF WIDTH NOT EXCEEDING 20 CM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39191000",
+            "description": "SELF - ADHESIVE PLATES, SHEETS, FILM, FOIL, TAPE, STRIP AND OTHER FLAT SHAPES, OF PLASTICS, WHETHER OR NOT IN ROLLS - IN ROLLS OF WIDTH NOT EXCEEDING 20 CM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "391990",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39199010",
+            "description": "SELF - ADHESIVE PLATES, SHEETS, FILM, FOIL, TAPE, STRIP AND OTHER FLAT SHAPES, OF PLASTICS, WHETHER OR NOT IN ROLLS - OTHER : PLASTIC STICKERS, WHETHER OR NOT PRINTED, EMBOSSED, OR IMPREGNATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39199020",
+            "description": "SELF - ADHESIVE PLATES, SHEETS, FILM, FOIL, TAPE, STRIP AND OTHER FLAT SHAPES, OF PLASTICS, WHETHER OR NOT IN ROLLS - OTHER :CELLULOSE ADHESIVE TAPE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39199090",
+            "description": "SELF - ADHESIVE PLATES, SHEETS, FILM, FOIL, TAPE, STRIP AND OTHER FLAT SHAPES, OF PLASTICS, WHETHER OR NOT IN ROLLS - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3920",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON-CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392010",
+            "description": "OF POLYMERS OF EHTYLENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39201011",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF ETHYLENE: SHEETS OF POLYETHYLENE: RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39201012",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF ETHYLENE: SHEETS OF POLYETHYLENE: FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39201019",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF ETHYLENE: SHEETS OF POLYETHYLENE: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39201091",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF ETHYLENE: SHEETS OF POLYETHYLENE: OTHER : RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39201092",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF ETHYLENE: SHEETS OF POLYETHYLENE: OTHER : FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39201099",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF ETHYLENE: SHEETS OF POLYETHYLENE: OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392020",
+            "description": "OF POLYMERS OF PROPYLENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39202010",
+            "description": "20 OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF PROPYLENE :RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39202020",
+            "description": "20 OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF PROPYLENE :FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39202090",
+            "description": "20 OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF PROPYLENE :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392030",
+            "description": "OF POLYMERS OF STYRENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39203010",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF STYRENE :RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39203020",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF STYRENE :FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39203090",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF STYRENE :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392043",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF VINYL CHLORIDE:CONTAINING BY WEIGHT NOT LESS THAN 6% OF PLASTICIZERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39204300",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF VINYL CHLORIDE:CONTAINING BY WEIGHT NOT LESS THAN 6% OF PLASTICIZERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392049",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF VINYL CHLORIDE:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39204900",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYMERS OF VINYL CHLORIDE:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392051",
+            "description": "OF POLY (METHYL METHACRYLATE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39205111",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF ACRYLIC POLYMERS: OF POLY (METHYL METHACRYLATE): SHEETS :RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39205112",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF ACRYLIC POLYMERS: OF POLY (METHYL METHACRYLATE): SHEETS :FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39205119",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF ACRYLIC POLYMERS: OF POLY (METHYL METHACRYLATE): SHEETS :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39205191",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF ACRYLIC POLYMERS: OF POLY (METHYL METHACRYLATE): SHEETS : OTHER : RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39205192",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF ACRYLIC POLYMERS: OF POLY (METHYL METHACRYLATE): SHEETS : OTHER : FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39205199",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF ACRYLIC POLYMERS: OF POLY (METHYL METHACRYLATE): SHEETS : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392059",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39205911",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF ACRYLIC POLYMERS: OTHER : POLYACRYLATE SHEETS:RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39205912",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF ACRYLIC POLYMERS: OTHER : POLYACRYLATE SHEETS:FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39205919",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF ACRYLIC POLYMERS: OTHER : POLYACRYLATE SHEETS:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39205991",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF ACRYLIC POLYMERS: OTHER : OTHER : RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39205992",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF ACRYLIC POLYMERS: OTHER : OTHER : FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392061",
+            "description": "OF POLYCARBONATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206110",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF POLYCARBONATES :RIGID,",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206120",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF POLYCARBONATES :FLEXIB",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206190",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF POLYCARBONATES :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392062",
+            "description": "OF POLY (ETHYLENE TEREPHTHALATE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206210",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF POLY (ETHYLENE TEREPHT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206220",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF POLY (ETHYLENE TEREPHT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206290",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF POLY (ETHYLENE TEREPHT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392063",
+            "description": "OF UNSATURATED POLYESTERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206310",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF UNSATURATED POLYESTERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206320",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF UNSATURATED POLYESTERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206390",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF UNSATURATED POLYESTERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392069",
+            "description": "OF OTHER POLYESTERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206911",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF OTHER POLYESTERS : PAC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206912",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF OTHER POLYESTERS : PAC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206919",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF OTHER POLYESTERS : PAC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206921",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF OTHER POLYESTERS : SUN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206922",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF OTHER POLYESTERS : SUN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206929",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF OTHER POLYESTERS : SUN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206931",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF OTHER POLYESTERS : OTH",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206932",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF OTHER POLYESTERS : OTH",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206939",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF OTHER POLYESTERS : OTH",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206991",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF OTHER POLYESTERS : OTH",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206992",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF OTHER POLYESTERS : OTH",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39206999",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS OR OTHER POLYESTERS : OF OTHER POLYESTERS : OTH",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392071",
+            "description": "OF REGENERATED CELLULOSE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207111",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF REGENERATED CELLULOSE: CELLO PHANE TRANSPARENT:FILM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207119",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF REGENERATED CELLULOSE: CELLO PHANE TRANSPARENT:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207121",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF REGENERATED CELLULOSE: SHEETS OF CELLULOSE NITRATE A",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207129",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF REGENERATED CELLULOSE: SHEETS OF CELLULOSE NITRATE A",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207191",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF REGENERATED CELLULOSE: OTHER : RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207192",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF REGENERATED CELLULOSE: OTHER :FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207199",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF REGENERATED CELLULOSE: OTHER :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392073",
+            "description": "OF CELLULOSE ACETATE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207311",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF CELLULOSE ACETATE: SHEET OF CELLULOSE ACETATE, NON -",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207312",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF CELLULOSE ACETATE: SHEET OF CELLULOSE ACETATE, NON -",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207319",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF CELLULOSE ACETATE: SHEET OF CELLULOSE ACETATE, NON -",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207321",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF CELLULOSE ACETATE: SHEETS OF CELLULOSE ACETATE, PLAS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207322",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF CELLULOSE ACETATE: SHEETS OF CELLULOSE ACETATE, PLAS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207329",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF CELLULOSE ACETATE: SHEETS OF CELLULOSE ACETATE, PLAS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207391",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF CELLULOSE ACETATE: OTHER :RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207392",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF CELLULOSE ACETATE: OTHER :FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207399",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF CELLULOSE ACETATE: OTHER :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392079",
+            "description": "OF OTHER CELLULOSE DERIVATIVES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207911",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF OTHER CELLULOSE DERIVATIVES : SHEETS OF CELLULOSE NI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207912",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF OTHER CELLULOSE DERIVATIVES : SHEETS OF CELLULOSE NI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207919",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF OTHER CELLULOSE DERIVATIVES : SHEETS OF CELLULOSE NI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207991",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF OTHER CELLULOSE DERIVATIVES : OTHER :RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207992",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF OTHER CELLULOSE DERIVATIVES : OTHER :FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39207999",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF CELLULOSE OR ITS CHEMICAL DERIVATIVES: OF OTHER CELLULOSE DERIVATIVES : OTHER :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392091",
+            "description": "OF OTHER PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209111",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: OF POLY (VINYL BUTYRAL): RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209112",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: OF POLY (VINYL BUTYRAL): FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209119",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: OF POLY (VINYL BUTYRAL): OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392092",
+            "description": "OF POLYAMIDES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209211",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYAMIDES: POLY (AMIDE FLUORIDE) FILM: RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209212",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYAMIDES: POLY (AMIDE FLUORIDE) FILM: FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209219",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYAMIDES: POLY (AMIDE FLUORIDE) FILM: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209291",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYAMIDES: POLY (AMIDE FLUORIDE) FILM: OTHER : RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209292",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYAMIDES: POLY (AMIDE FLUORIDE) FILM: OTHER : FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209299",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF POLYAMIDES: POLY (AMIDE FLUORIDE) FILM: OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392093",
+            "description": "OF AMINO-RESINS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209310",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF AMINO - RESINS : RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209320",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF AMINO - RESINS : FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209390",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF AMINO - RESINS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392094",
+            "description": "OF PHENOLIC RESINS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209410",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF PHENOLIC RESINS : RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209420",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF PHENOLIC RESINS : FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209490",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF PHENOLIC RESINS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392099",
+            "description": "OF OTHER PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209911",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: PLATES, SHEETS, FILM, FOIL AND STRIP OF POLY(VINYL ACETATE) : RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209912",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: PLATES, SHEETS, FILM, FOIL AND STRIP OF POLY(VINYL ACETATE) : FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209919",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: PLATES, SHEETS, FILM, FOIL AND STRIP OF POLY(VINYL ACETATE) : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209921",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: FILM, SHEETS, STRIP OF VINYL PLASTICS : RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209922",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: FILM, SHEETS, STRIP OF VINYL PLASTICS : FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209931",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: PLATES, SHEETS, STRIP, FILM OR FOIL OF COPOLYMERS OF VINYL CHLORIDE AND VINYL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209932",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: PLATES, SHEETS, STRIP, FILM OR FOIL OF COPOLYMERS OF VINYL CHLORIDE AND VINYL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209939",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: PLATES, SHEETS, STRIP, FILM OR FOIL OF COPOLYMERS OF VINYL CHLORIDE AND VINYL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209941",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: SHEET OF POLY (TETRAFLUORO - ETHYLENE) (PTFE): RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209942",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: SHEET OF POLY (TETRAFLUORO - ETHYLENE) (PTFE): FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209949",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: SHEET OF POLY (TETRAFLUORO - ETHYLENE) (PTFE): OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209951",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: RETRO REFLECTIVE SHEETING: RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209952",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: RETRO REFLECTIVE SHEETING: FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209959",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: RETRO REFLECTIVE SHEETING: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209960",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: CLICKING BOARDS FOR LEATHER MACHINERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209991",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: OTHER : RIGID, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209992",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: OTHER : FLEXIBLE, PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39209999",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS, NON - CELLULAR AND NOT REINFORCED, LAMINATED, SUPPORTED OR SIMILARLY COMBINED WITH OTHER MATERIALS - OF OTHER PLASTICS: OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3921",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - CELLULAR :",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392111",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - CELLULAR : OF POLYMERS OF STYRENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39211100",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - CELLULAR : OF POLYMERS OF STYRENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392112",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - CELLULAR : OF POLYMERS OF VINYL CHLORIDE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39211200",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - CELLULAR : OF POLYMERS OF VINYL CHLORIDE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392113",
+            "description": "OF POLYURETHANES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39211310",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - CELLULAR : OF POLYURETHANES:FLEXIBLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39211390",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - CELLULAR : OF POLYURETHANES:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392114",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - CELLULAR : OF REGENERATED CELLULOSE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39211400",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - CELLULAR : OF REGENERATED CELLULOSE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392119",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - CELLULAR : OF OTHER PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39211900",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - CELLULAR : OF OTHER PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219010",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : THERMOCOL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219021",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OF POLYMERS OF VINYL CHLORIDE : RIGID, LACQUERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219022",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OF POLYMERS OF VINYL CHLORIDE : FLEXIBLE, LACQUERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219023",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OF POLYMERS OF VINYL CHLORIDE : RIGID, METALLISED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219024",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OF POLYMERS OF VINYL CHLORIDE : FLEXIBLE, METALLISED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219025",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OF POLYMERS OF VINYL CHLORIDE : RIGID, LAMINATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219026",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OF POLYMERS OF VINYL CHLORIDE : FLEXIBLE, LAMINATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219029",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OF POLYMERS OF VINYL CHLORIDE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219031",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OF REGENERATED CELLULOSE : RIGID, LACQUERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219032",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OF REGENERATED CELLULOSE : FLEXIBLE, LACQUERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219033",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OF REGENERATED CELLULOSE : RIGID, METALLISED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219034",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OF REGENERATED CELLULOSE : FLEXIBLE, METALLISED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219035",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OF REGENERATED CELLULOSE : RIGID, LAMINATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219036",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OF REGENERATED CELLULOSE : FLEXIBLE, LAMINATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219039",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OF REGENERATED CELLULOSE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219091",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OTHER : RIGID, LACQUERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219092",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OTHER : FLEXIBLE, LACQUERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219093",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OTHER : RIGID, METALLISED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219094",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OTHER : FLEXIBLE, METALLISED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219095",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OTHER : RIGID, LAMINATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219096",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OTHER : FLEXIBLE, LAMINATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39219099",
+            "description": "OTHER PLATES, SHEETS, FILM, FOIL AND STRIP, OF PLASTICS - OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3922",
+            "description": "BATHS, SHOWER-BATHS, SINKS, WASH-BASINS, BIDETS, LAVATORY PANS, SEATS AND COVERS, FLUSHING CISTERNS AND SIMILAR SANITARY WARE, OF PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392210",
+            "description": "BATHS, SHOWER - BATHS, SINKS, WASH - BASINS, BIDETS, LAVATORY PANS, SEATS AND COVERS, FLUSHING CISTERNS AND SIMILAR SANITARY WARE, OF PLASTICS - BATHS, SHOWER - BATHS, SINKS AND WASH BASINS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39221000",
+            "description": "BATHS, SHOWER - BATHS, SINKS, WASH - BASINS, BIDETS, LAVATORY PANS, SEATS AND COVERS, FLUSHING CISTERNS AND SIMILAR SANITARY WARE, OF PLASTICS - BATHS, SHOWER - BATHS, SINKS AND WASH BASINS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392220",
+            "description": "BATHS, SHOWER - BATHS, SINKS, WASH - BASINS, BIDETS, LAVATORY PANS, SEATS AND COVERS, FLUSHING CISTERNS AND SIMILAR SANITARY WARE, OF PLASTICS - LAVATORY SEATS AND COVERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39222000",
+            "description": "BATHS, SHOWER - BATHS, SINKS, WASH - BASINS, BIDETS, LAVATORY PANS, SEATS AND COVERS, FLUSHING CISTERNS AND SIMILAR SANITARY WARE, OF PLASTICS - LAVATORY SEATS AND COVERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392290",
+            "description": "BATHS, SHOWER - BATHS, SINKS, WASH - BASINS, BIDETS, LAVATORY PANS, SEATS AND COVERS, FLUSHING CISTERNS AND SIMILAR SANITARY WARE, OF PLASTICS - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39229000",
+            "description": "BATHS, SHOWER - BATHS, SINKS, WASH - BASINS, BIDETS, LAVATORY PANS, SEATS AND COVERS, FLUSHING CISTERNS AND SIMILAR SANITARY WARE, OF PLASTICS - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3923",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392310",
+            "description": "BOXES, CASES, CRATES AND SIMILAR ARTICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39231010",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - BOXES, CASES, CRATES AND SIMILAR ARTICLES: PLASTIC CONTAINERS FOR AUDIO OR VIDEO CASSETTES, CASSETTE TAPES, FLOPPY DISK AND SIMILAR ARTICL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39231020",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - BOXES, CASES, CRATES AND SIMILAR ARTICLES: WATCH - BOX, JEWELLERY BOX AND SIMILAR CONTAINERS OF PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39231030",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - BOXES, CASES, CRATES AND SIMILAR ARTICLES: INSULATED WARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39231040",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - BOXES, CASES, CRATES AND SIMILAR ARTICLES: PACKING FOR ACCOMMODATING CONNECTORS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39231090",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - BOXES, CASES, CRATES AND SIMILAR ARTICLES: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392321",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - SACKS AND BAGS (INCLUDING CONES)OF POLYMERS OF ETHYLENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39232100",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - SACKS AND BAGS (INCLUDING CONES)OF POLYMERS OF ETHYLENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392329",
+            "description": "OF OTHER PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39232910",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - SACKS AND BAGS (INCLUDING CONES)- OF OTHER PLASTICS: OF POLY (VINYL CHLORIDE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39232990",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - SACKS AND BAGS (INCLUDING CONES)- OF OTHER PLASTICS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392330",
+            "description": "CARBOYS, BOTTLES, FLASKS AND SIMILAR ARTICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39233010",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - CARBOYS, BOTTLES, FLASKS AND SIMILAR ARTICLES: INSULATED WARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39233090",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - CARBOYS, BOTTLES, FLASKS AND SIMILAR ARTICLES: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392340",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - SPOOLS, COPS, BOBBINS AND SIMILAR SUPPORTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39234000",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - SPOOLS, COPS, BOBBINS AND SIMILAR SUPPORTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392350",
+            "description": "STOPPERS, LIDS, CAPS AND OTHER CLOSURES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39235010",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - STOPPERS, LIDS, CAPS AND OTHER CLOSURES : CAPS AND CLOSURES FOR BOTTLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39235090",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - STOPPERS, LIDS, CAPS AND OTHER CLOSURES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392390",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39239010",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - OTHER : INSULATED WARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39239020",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - OTHER : ASEPTIC BAGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39239090",
+            "description": "ARTICLES FOR THE CONVEYANCE OR PACKING OF GOODS, OF PLASTICS; STOPPERS, LIDS, CAPS AND OTHER CLOSURES, OF PLASTICS - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3924",
+            "description": "TABLEWARE, KITCHENWARE, OTHER HOUSEHOLD ARTICLES AND HYGIENIC OR TOILET ARTICLES, OF PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392410",
+            "description": "TABLEWARE AND KITCHENWARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39241010",
+            "description": "TABLEWARE, KITCHENWARE, OTHER HOUSEHOLD ARTICLES AND HYGIENIC OR TOILET ARTICLES, OF PLASTICS - TABLEWARE AND KITCHENWARE : INSULATED WARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39241090",
+            "description": "TABLEWARE, KITCHENWARE, OTHER HOUSEHOLD ARTICLES AND HYGIENIC OR TOILET ARTICLES, OF PLASTICS - TABLEWARE AND KITCHENWARE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392490",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39249010",
+            "description": "TABLEWARE, KITCHENWARE, OTHER HOUSEHOLD ARTICLES AND HYGIENIC OR TOILET ARTICLES, OF PLASTICS - OTHER : TOILET ARTICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39249020",
+            "description": "TABLEWARE, KITCHENWARE, OTHER HOUSEHOLD ARTICLES AND HYGIENIC OR TOILET ARTICLES, OF PLASTICS - OTHER : INSULATED WARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39249090",
+            "description": "TABLEWARE, KITCHENWARE, OTHER HOUSEHOLD ARTICLES AND HYGIENIC OR TOILET ARTICLES, OF PLASTICS - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3925",
+            "description": "BUILDERS WARE OF PLASTICS, NOT ELSEWHERE SPECIFIED OR INCLUDED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392520",
+            "description": "BUILDERS WARE OF PLASTICS, NOT ELSEWHERE SPECIFIED OR INCLUDED - DOORS, WINDOWS AND THEIR FRAMES AND THRESHOLDS FOR DOORS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39252000",
+            "description": "BUILDERS WARE OF PLASTICS, NOT ELSEWHERE SPECIFIED OR INCLUDED - DOORS, WINDOWS AND THEIR FRAMES AND THRESHOLDS FOR DOORS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392590",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39259010",
+            "description": "BUILDERS WARE OF PLASTICS, NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER : OF POLYURETHANE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39259090",
+            "description": "BUILDERS WARE OF PLASTICS, NOT ELSEWHERE SPECIFIED OR INCLUDED - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3926",
+            "description": "FEEDING BOTTLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392610",
+            "description": "OFFICE OR SCHOOL SUPPLIES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39261011",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914 - OFFICE OR SCHOOL SUPPLIES: OFFICE SUPPLIES OF A KIND CLASSIFIED AS STATIONERY OTHER THAN PINS, CLIPS, AND WRITING INSTRUMENTS : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39261019",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914 - OFFICE OR SCHOOL SUPPLIES: OFFICE SUPPLIES OF A KIND CLASSIFIED AS STATIONERY OTHER THAN PINS, CLIPS, AND WRITING INSTRUMENTS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39261091",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914 - OFFICE OR SCHOOL SUPPLIES: OTHER : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39261099",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914 - OFFICE OR SCHOOL SUPPLIES: OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39262011",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- ARTICLES OF APPAREL AND CLOTHING ACCESSORIES (INCLUDING GLOVES, MITTENS AND MITTS) : I - GLOVES: DISPOSABLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39262019",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- ARTICLES OF APPAREL AND CLOTHING ACCESSORIES (INCLUDING GLOVES, MITTENS AND MITTS) : I - GLOVES: NON - DISPOSABLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39262021",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- ARTICLES OF APPAREL AND CLOTHING ACCESSORIES (INCLUDING GLOVES, MITTENS AND MITTS) : APRONS : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39262029",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- ARTICLES OF APPAREL AND CLOTHING ACCESSORIES (INCLUDING GLOVES, MITTENS AND MITTS) : APRONS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39262031",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- ARTICLES OF APPAREL AND CLOTHING ACCESSORIES (INCLUDING GLOVES, MITTENS AND MITTS) : PLASTIC STICKERS FOR GARMENTS : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39262039",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- ARTICLES OF APPAREL AND CLOTHING ACCESSORIES (INCLUDING GLOVES, MITTENS AND MITTS) : PLASTIC STICKERS FOR GARMENTS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39262041",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- ARTICLES OF APPAREL AND CLOTHING ACCESSORIES (INCLUDING GLOVES, MITTENS AND MITTS) : COLLAR STAYS, PATTIES, BUTTERFLY, SHOULDER - PADS AND OTHER STAYS : OF POLYURETHANE F",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39262049",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- ARTICLES OF APPAREL AND CLOTHING ACCESSORIES (INCLUDING GLOVES, MITTENS AND MITTS) : COLLAR STAYS, PATTIES, BUTTERFLY, SHOULDER - PADS AND OTHER STAYS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39262091",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- ARTICLES OF APPAREL AND CLOTHING ACCESSORIES (INCLUDING GLOVES, MITTENS AND MITTS) : OTHER : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39262099",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- ARTICLES OF APPAREL AND CLOTHING ACCESSORIES (INCLUDING GLOVES, MITTENS AND MITTS) : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392630",
+            "description": "FITTINGS FOR FURNITURE, COACH WORK OR THE LIKE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39263010",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- FITTINGS FOR FURNITURE, COACH WORK OR THE LIKE : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39263090",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- FITTINGS FOR FURNITURE, COACH WORK OR THE LIKE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392640",
+            "description": "STATUETTES AND OTHER ORNAMENTAL ARTICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39264011",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- STATUETTES AND OTHER ORNAMENTAL ARTICLES : BANGLES : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39264019",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- STATUETTES AND OTHER ORNAMENTAL ARTICLES : BANGLES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39264021",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- STATUETTES AND OTHER ORNAMENTAL ARTICLES : BEADS : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39264029",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- STATUETTES AND OTHER ORNAMENTAL ARTICLES : BEADS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39264031",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- STATUETTES AND OTHER ORNAMENTAL ARTICLES : STATUETTES : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39264041",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- STATUETTES AND OTHER ORNAMENTAL ARTICLES : TABLE AND OTHER HOUSEHOLD ARTICLES (INCLUDING HOTEL AND RESTAURANT) FOR DECORATION : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39264049",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- STATUETTES AND OTHER ORNAMENTAL ARTICLES : TABLE AND OTHER HOUSEHOLD ARTICLES (INCLUDING HOTEL AND RESTAURANT) FOR DECORATION : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39264051",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- STATUETTES AND OTHER ORNAMENTAL ARTICLES : DECORATIVE SHEETS : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39264059",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- STATUETTES AND OTHER ORNAMENTAL ARTICLES : DECORATIVE SHEETS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39264060",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- STATUETTES AND OTHER ORNAMENTAL ARTICLES :SEQUINE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39264091",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- STATUETTES AND OTHER ORNAMENTAL ARTICLES : OTHER : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39264099",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- STATUETTES AND OTHER ORNAMENTAL ARTICLES : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "392690",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269010",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : PVC BELT CONVEYOR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269021",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : COUPLERS, PACKING RINGS, O RINGS AND THE LIKE: OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269031",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : LASTS, WITH OR WITHOUT STEEL HINGES ; EVA AND GRAPE SHEETS FOR SOLES AND HEELS; WELTS: OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269039",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : LASTS, WITH OR WITHOUT STEEL HINGES ; EVA AND GRAPE SHEETS FOR SOLES AND HEELS; WELTS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269041",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : RINGS, BUCKLES, TACKS, WASHERS AND OTHER DECORATIVE FITTINGS MADE OF PLASTIC USED AS TRIMMINGS AND EMBELLISHMENTS FOR LEATHER PRODUCTS; PATTERNS FOR LEATHER FOOT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269049",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : RINGS, BUCKLES, TACKS, WASHERS AND OTHER DECORATIVE FITTINGS MADE OF PLASTIC USED AS TRIMMINGS AND EMBELLISHMENTS FOR LEATHER PRODUCTS; PATTERNS FOR LEATHER FOOT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269051",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : RETROREFLECTIVE SHEETING OF OTHER THAN OF HEADING 3920 : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269059",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : RETROREFLECTIVE SHEETING OF OTHER THAN OF HEADING 3920 : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269061",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : HANGERS : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269069",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : HANGERS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269071",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : PLASTIC OR NYLON TIPPED HAMMERS; INSULATING LINER OF NYLON , HDPE : OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269079",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : PLASTIC OR NYLON TIPPED HAMMERS; INSULATING LINER OF NYLON , HDPE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269080",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : POLYPROPYLENE ARTICLES, NOT ELSEWHERE SPECIFIED OR INCLUDED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269091",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : OTHER: OF POLYURETHANE FOAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "39269099",
+            "description": "OTHER ARTICLES OF PLASTICS AND ARTICLES OF OTHER MATERIALS OF HEADINGS 3901 TO 3914- OTHER : OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

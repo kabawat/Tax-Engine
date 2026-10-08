@@ -1,15 +1,26 @@
 # tax-engine
 
-Zero-configuration multi-country tax calculation SDK for Node.js and TypeScript.
+Multi-country tax calculation SDK for Node.js and TypeScript — India GST, UAE VAT, US sales tax.
 
-```ts
-import Tax from 'tax-engine';
+- Node.js 18+
+- ESM
+- Zero runtime dependencies
 
-const tax = new Tax('IN', { stateCodeSource: 'GSTIN' });
-const result = tax.calculate(input);
+---
+
+## Install
+
+```bash
+npm install tax-engine
 ```
 
-Country is fixed at construction. Node.js 18+ (ESM). Zero runtime dependencies.
+```bash
+yarn add tax-engine
+```
+
+```bash
+pnpm add tax-engine
+```
 
 ---
 
@@ -21,20 +32,32 @@ import Tax from 'tax-engine';
 const tax = new Tax('IN', { stateCodeSource: 'GSTIN' });
 
 const result = tax.calculate({
-  seller: { gstin: '29AABCU9603R1Z2' },
-  buyer: { gstin: '27AABCU9603R1Z2' },
-  item: {
-    type: 'PRODUCT',
-    hsn: '8471',
-    amount: { amount: 10000, currency: 'INR' },
-    quantity: 1,
-    pricingMode: 'EXCLUSIVE',
-  },
+  seller: { gstin: '29AABCU9603R1ZJ' },
+  buyer: { gstin: '27AABCU9603R1ZN' },
+  items: [
+    {
+      type: 'PRODUCT',
+      hsn: '8471',
+      amount: { amount: 10000, currency: 'INR' },
+      quantity: 1,
+      pricingMode: 'EXCLUSIVE',
+    },
+    {
+      type: 'SERVICE',
+      sac: '998314',
+      amount: { amount: 2000, currency: 'INR' },
+      quantity: 1,
+      pricingMode: 'EXCLUSIVE',
+    },
+  ],
   calculationDate: '2026-04-01',
 });
+
+console.log(result.totalTax.amount); // document total tax
+console.log(result.lines);           // per-item outcomes (when items.length > 1)
 ```
 
-Also:
+Other countries:
 
 ```ts
 new Tax('AE')
@@ -45,245 +68,107 @@ Unknown country → `INVALID_COUNTRY` at construction.
 
 ---
 
-## India — `new Tax('IN', config)`
+## India
 
 ### Config
 
 ```ts
-type StateCodeSource = 'GSTIN' | 'STATE';
-
 new Tax('IN', { stateCodeSource: 'GSTIN' }) // derive state from GSTIN
 new Tax('IN', { stateCodeSource: 'STATE' }) // use seller.state / buyer.state (default)
 ```
 
-- Country comes only from the constructor (not from seller/buyer).
-- Registration = GSTIN present (no `gstRegistered` flag).
-- Conflicting GSTIN vs `state` → `INVALID_INPUT` (never silent merge).
+| Rule | Behavior |
+|------|----------|
+| Registration | GSTIN present → registered |
+| GSTIN vs `state` | mismatch → `INVALID_INPUT` |
+| `items` | non-empty array, same currency |
+| `reverseCharge: true` | Caller RCM context → `REVERSE_CHARGE` / buyer liability; same tax heads/math (no 9(3)/9(4)/9(5) detection) |
 
-### GSTIN mode — payload
+### GSTIN utilities
 
 ```ts
-const tax = new Tax('IN', { stateCodeSource: 'GSTIN' });
+import { validateGSTIN, parseGSTIN, getStateFromGSTIN } from 'tax-engine';
 
-const result = tax.calculate({
-  seller: { gstin: '29AABCU9603R1Z2' },
-  buyer: { gstin: '27AABCU9603R1Z2' },
-  item: {
-    type: 'PRODUCT',
-    hsn: '8471',
-    amount: { amount: 10000, currency: 'INR' },
-    quantity: 1,
-    pricingMode: 'EXCLUSIVE',
-  },
-  calculationDate: '2026-04-01',
-});
+validateGSTIN('29aabcu9603r1zj'); // → '29AABCU9603R1ZJ' (trim, case, format, state, checksum)
+parseGSTIN('29AABCU9603R1ZJ');    // state, PAN, entity fields, …
+getStateFromGSTIN('29AABCU9603R1ZJ'); // → 'KA'
 ```
 
-### GSTIN mode — return value
+Offline only (no GST portal API). Invalid format/state/checksum → `INVALID_INPUT`.
+
+### Place of supply
+
+1. `placeOfSupplyState` — explicit override  
+2. Goods: `deliveryState`, else buyer state  
+3. Services: SAC-family rules, else buyer state  
+
+### Schedule subset
+
+Full HSN/SAC schedule loads by default (lazy shards). For a subset:
 
 ```ts
-{
-  country: 'IN',
-  taxability: 'TAXABLE',
-  chargeMode: 'FORWARD_CHARGE',
-  liabilityParty: 'SELLER',
-  currency: 'INR',
-  pricingMode: 'EXCLUSIVE',
-  originalAmount: { amount: 10000, currency: 'INR' },
-  taxableAmount: { amount: 10000, currency: 'INR' },
-  taxes: [
-    {
-      type: 'IGST',
-      rate: 18,
-      taxableBase: { amount: 10000, currency: 'INR' },
-      amount: { amount: 1800, currency: 'INR' },
-      name: 'IGST',
-    },
-  ],
-  totalTax: { amount: 1800, currency: 'INR' },
-  finalAmount: { amount: 11800, currency: 'INR' },
-  details: {
-    placeOfSupply: { state: 'MH', kind: 'GOODS', ruleId: 'goods.recipient-location' },
-    scheduleCode: '8471',
-    scheduleKind: 'HSN',
-    supplierState: 'KA',
-    buyerState: 'MH',
-    stateCodeSource: 'GSTIN',
-    supplierStateSource: 'GSTIN',
-    buyerStateSource: 'GSTIN',
-    reverseCharge: false,
-  },
-}
-```
-
-### STATE mode — payload
-
-```ts
-const tax = new Tax('IN', { stateCodeSource: 'STATE' });
-
-const result = tax.calculate({
-  seller: { state: 'KA', gstin: '29AABCU9603R1Z2' },
-  buyer: { state: 'KA' },
-  item: {
-    type: 'PRODUCT',
-    hsn: '8471',
-    amount: { amount: 10000, currency: 'INR' },
-    quantity: 1,
-    pricingMode: 'EXCLUSIVE',
-  },
-  calculationDate: '2026-04-01',
-});
-
-// taxes: CGST 9% + SGST 9% = 1800
-```
-
-Unregistered party (no GSTIN):
-
-```ts
-seller: { state: 'KA' } // no GSTIN → not registered → no forward GST
-```
-
-### Starter HSN / SAC
-
-By default India uses a small built-in starter set:
-
-| Code | Kind | Treatment | Rate |
-|------|------|-----------|------|
-| `8471` | HSN | TAXABLE | 18% |
-| `1001` | HSN | NIL_RATED | 0% |
-| `4901` | HSN | EXEMPT | 0% |
-| `2203` | HSN | NON_GST | — |
-| `0401` | HSN | ZERO_RATED | 0% |
-| `998314` | SAC | TAXABLE | 18% |
-| `996511` | SAC | TAXABLE | 5% |
-| `999799` | SAC | TAXABLE + RCM | 18% |
-
-Unknown HSN/SAC → `NO_RULE_FOUND`.
-
-### Full India schedule (opt-in)
-
-For broader HSN/SAC coverage:
-
-```ts
-import Tax from 'tax-engine';
-import { INDIA_FULL_SCHEDULE_INDEX } from 'tax-engine/in/schedule';
+import { INDIA_FULL_SCHEDULE_INDEX, pickIndiaSchedule } from 'tax-engine/in/schedule';
 
 const tax = new Tax('IN', {
-  stateCodeSource: 'GSTIN',
-  schedule: INDIA_FULL_SCHEDULE_INDEX,
+  schedule: pickIndiaSchedule(INDIA_FULL_SCHEDULE_INDEX, {
+    hsn: ['8471'],
+    sac: ['998314'],
+  }),
 });
 ```
 
-Rates may lag official CBIC notifications — verify before production use.
+Rates may lag CBIC — verify before production use.
+
+### Taxability
+
+Classification comes from the HSN/SAC schedule (`taxability` on the effective rate period). `calculate()` does not accept a caller override; use `validateIndiaGstRate({ taxability })` to assert a match.
+
+| Kind | Meaning | Tax heads |
+|------|---------|-----------|
+| `TAXABLE` | GST supply at schedule slab | CGST+SGST/UTGST or IGST; optional `CESS` |
+| `NIL_RATED` | Nil-rated GST supply | `taxes: []` |
+| `EXEMPT` | Exempt supply | `taxes: []` |
+| `NON_GST` | Outside GST | `taxes: []` |
+| `ZERO_RATED` | Zero-rated label in schedule | `taxes: []` (charge mode still resolved) |
+
+`TAXABLE` at `ratePercent: 0` (custom schedule) emits zero-amount GST heads — not the same as NIL/EXEMPT/NON_GST empty `taxes`.
+
+### Cess
+
+Ad-valorem only via optional schedule `cessRatePercent` on **TAXABLE** periods. Bundled schedule rows currently omit cess; set it on custom/`pickIndiaSchedule` data when known. `totalTax` includes cess; heads are not adjusted for `roundingDifference`. Fixed/quantity cess is not supported.
+
+### Rounding
+
+For multi-head GST, `totalTax` is the combined GST (plus cess when present). Per-head amounts are rounded independently. `roundingDifference = totalTax - sum(taxes.amount)` — usually ±0.01 for CGST+SGST; apps choose how to post it.
 
 ---
 
-## UAE — `new Tax('AE')`
+## UAE / US
 
-### Payload
+Sample-limited (`details.limitedSupport: true`).
 
-```ts
-const tax = new Tax('AE');
-
-const result = tax.calculate({
-  amount: { amount: 200, currency: 'AED' },
-  quantity: 1,
-  item: { type: 'SERVICE', category: 'CONSULTING' },
-  pricingMode: 'EXCLUSIVE',
-  calculationDate: '2025-06-01',
-});
-```
-
-### Return value
-
-```ts
-{
-  country: 'AE',
-  taxability: 'TAXABLE',
-  chargeMode: 'FORWARD_CHARGE',
-  liabilityParty: 'SELLER',
-  currency: 'AED',
-  pricingMode: 'EXCLUSIVE',
-  originalAmount: { amount: 200, currency: 'AED' },
-  taxableAmount: { amount: 200, currency: 'AED' },
-  taxes: [
-    {
-      type: 'VAT',
-      rate: 5,
-      taxableBase: { amount: 200, currency: 'AED' },
-      amount: { amount: 10, currency: 'AED' },
-      name: 'UAE VAT Standard',
-    },
-  ],
-  totalTax: { amount: 10, currency: 'AED' },
-  finalAmount: { amount: 210, currency: 'AED' },
-  details: { limitedSupport: true },
-}
-```
-
-Sample categories: `GENERAL` / `CONSULTING` / `STANDARD` → 5% VAT; `ZERO` → 0%. Unknown → `NO_RULE_FOUND`.
+| Country | Notes |
+|---------|--------|
+| `AE` | `GENERAL` / `CONSULTING` → 5% VAT; `ZERO` → 0% |
+| `US` | Requires `jurisdiction.state` (e.g. `CA`) |
 
 ---
 
-## US — `new Tax('US')`
-
-### Payload
-
-```ts
-const tax = new Tax('US');
-
-const result = tax.calculate({
-  amount: { amount: 100, currency: 'USD' },
-  quantity: 1,
-  item: { type: 'PRODUCT', category: 'GENERAL' },
-  pricingMode: 'EXCLUSIVE',
-  jurisdiction: { state: 'CA' },
-  calculationDate: '2026-04-01',
-});
-```
-
-### Return value
-
-```ts
-{
-  country: 'US',
-  taxability: 'TAXABLE',
-  chargeMode: 'FORWARD_CHARGE',
-  liabilityParty: 'SELLER',
-  currency: 'USD',
-  pricingMode: 'EXCLUSIVE',
-  originalAmount: { amount: 100, currency: 'USD' },
-  taxableAmount: { amount: 100, currency: 'USD' },
-  taxes: [
-    {
-      type: 'SALES_TAX',
-      rate: 7.25,
-      taxableBase: { amount: 100, currency: 'USD' },
-      amount: { amount: 7.25, currency: 'USD' },
-      name: 'California Sales Tax Product',
-    },
-  ],
-  totalTax: { amount: 7.25, currency: 'USD' },
-  finalAmount: { amount: 107.25, currency: 'USD' },
-  details: { limitedSupport: true },
-}
-```
-
----
-
-## Shared result shape
+## Result shape
 
 ```ts
 {
   country: string
   taxability: string
-  chargeMode: 'FORWARD_CHARGE' | 'REVERSE_CHARGE'
-  liabilityParty: 'SELLER' | 'BUYER' | 'NONE'
+  chargeMode: 'FORWARD_CHARGE' | 'REVERSE_CHARGE' | 'MIXED'
+  liabilityParty: 'SELLER' | 'BUYER' | 'NONE' | 'MIXED'
   currency: string
-  pricingMode: 'EXCLUSIVE' | 'INCLUSIVE'
+  pricingMode: 'EXCLUSIVE' | 'INCLUSIVE' | 'MIXED'
   originalAmount / taxableAmount / totalTax / finalAmount: Money
+  roundingDifference: Money  // totalTax - sum(taxes.amount); heads not adjusted
   taxes: Array<{ type, rate, taxableBase, amount, name? }>
-  details?: Record<string, unknown>
+  lines?: TaxOutcome[]   // India, when items.length > 1
+  details?: object
 }
 ```
 
@@ -293,19 +178,13 @@ const result = tax.calculate({
 
 | Code | When |
 |------|------|
-| `INVALID_COUNTRY` | `new Tax('XYZ')` |
-| `INVALID_INPUT` | Bad GSTIN, state mismatch, missing state/GSTIN |
-| `NO_RULE_FOUND` | Unknown HSN/SAC or unmatched UAE/US category |
-| `UNSUPPORTED_CASE` | Composition, SEZ, credit notes, etc. |
+| `INVALID_COUNTRY` | Unsupported country code |
+| `INVALID_INPUT` | Bad GSTIN, state, PoS, or `items` |
+| `NO_RULE_FOUND` | Unknown HSN/SAC or category |
+| `UNSUPPORTED_CASE` | Composition, SEZ, non-invoice docs, etc. |
 
 ---
-
-## Limitations
-
-- Composition, exports, imports, SEZ, credit/debit notes: not supported
-- UAE/US providers are sample-limited
 
 ## License
 
 MIT
-# Tax-Engine

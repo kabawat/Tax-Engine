@@ -1,0 +1,607 @@
+{
+    "chapter": "75",
+    "kind": "HSN",
+    "count": 50,
+    "entries": [
+        {
+            "code": "7501",
+            "description": "NICKEL MATTES, NICKEL OXIDE SINTERS AND OTHER INTERMEDIATE PRODUCTS OF NICKEL METALLURGY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750110",
+            "description": "NICKEL MATTES, NICKEL OXIDE SINTERS AND OTHER INTERMEDIATE PRODUCTS OF NICKEL METALLURGY - NICKEL MATTES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75011000",
+            "description": "NICKEL MATTES, NICKEL OXIDE SINTERS AND OTHER INTERMEDIATE PRODUCTS OF NICKEL METALLURGY - NICKEL MATTES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75012000",
+            "description": "NICKEL MATTES, NICKEL OXIDE SINTERS AND OTHER INTERMEDIATE PRODUCTS OF NICKEL METALLURGY - NICKEL OXIDE SINTERS AND OTHER INTERMEDIATE PRODUCTS OF NICKEL METALLURGY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7502",
+            "description": "UNWROUGHT NICKEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750210",
+            "description": "UNWROUGHT NICKEL - NICKEL, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75021000",
+            "description": "UNWROUGHT NICKEL - NICKEL, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750220",
+            "description": "NICKEL ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75022010",
+            "description": "UNWROUGHT NICKEL - NICKEL ALLOYS :CUPRO-NICKEL CONTAINING MORE THAN 40% BY WEIGHT OF NICKEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75022020",
+            "description": "UNWROUGHT NICKEL - NICKEL ALLOYS :MONEL METAL INCLUDING `K MONEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75022030",
+            "description": "UNWROUGHT NICKEL - NICKEL ALLOYS :NICKEL ALLOYS CONTAINING MORE THAN 40% BY WEIGHT OF NICKEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75022040",
+            "description": "UNWROUGHT NICKEL - NICKEL ALLOYS :NICKEL ALLOYS CONTAINING MORE THAN 10 % BUT NOT MORE THAN 40 % BY WEIGHT OF NICKEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75022090",
+            "description": "UNWROUGHT NICKEL - NICKEL ALLOYS :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7503",
+            "description": "NICKEL WASTE AND SCRAP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750300",
+            "description": "NICKEL WASTE AND SCRAP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75030090",
+            "description": "NICKEL WASTE AND SCRAP - NICKEL WASTE AND SCRAP : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7504",
+            "description": "NICKEL POWDERS AND FLAKES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750400",
+            "description": "NICKEL POWDERS AND FLAKES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75040000",
+            "description": "NICKEL POWDERS AND FLAKES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7505",
+            "description": "NICKEL BARS, RODS, PROFILES AND WIRE - BARS, RODS AND PROFILES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750511",
+            "description": "OF NICKEL, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75051110",
+            "description": "NICKEL BARS, RODS, PROFILES AND WIRE - BARS, RODS AND PROFILES : OF NICKEL, NOT ALLOYED : HOLLOW BARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75051120",
+            "description": "NICKEL BARS, RODS, PROFILES AND WIRE - BARS, RODS AND PROFILES : OF NICKEL, NOT ALLOYED : OTHER BARS; RODS AND PROFILES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750512",
+            "description": "OF NICKEL ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75051210",
+            "description": "NICKEL BARS, RODS, PROFILES AND WIRE - BARS, RODS AND PROFILES : OF NICKEL ALLOYS : HOLLOW BARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75051220",
+            "description": "NICKEL BARS, RODS, PROFILES AND WIRE - BARS, RODS AND PROFILES : OF NICKEL ALLOYS : OTHER BARS; RODS AND PROFILES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750521",
+            "description": "NICKEL BARS, RODS, PROFILES AND WIRE - WIRE : OF NICKEL, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75052100",
+            "description": "NICKEL BARS, RODS, PROFILES AND WIRE - WIRE : OF NICKEL, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750522",
+            "description": "NICKEL BARS, RODS, PROFILES AND WIRE - WIRE : OF NICKEL ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75052200",
+            "description": "NICKEL BARS, RODS, PROFILES AND WIRE - WIRE : OF NICKEL ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7506",
+            "description": "NICKEL PLATES, SHEETS, STRIP AND FOIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750610",
+            "description": "NICKEL PLATES, SHEETS, STRIP AND FOIL - OF NICKEL, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75061000",
+            "description": "NICKEL PLATES, SHEETS, STRIP AND FOIL - OF NICKEL, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750620",
+            "description": "NICKEL PLATES, SHEETS, STRIP AND FOIL - OF NICKEL ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75062000",
+            "description": "NICKEL PLATES, SHEETS, STRIP AND FOIL - OF NICKEL ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7507",
+            "description": "NICKEL TUBES, PIPES AND TUBE OR PIPE FITTINGS (FOR EXAMPLE, COUPLINGS, ELBOWS, SLEEVES) - TUBES AND PIPES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750711",
+            "description": "NICKEL TUBES, PIPES AND TUBE OR PIPE FITTINGS (FOR EXAMPLE, COUPLINGS, ELBOWS, SLEEVES) - TUBES AND PIPES : OF NICKEL, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75071100",
+            "description": "NICKEL TUBES, PIPES AND TUBE OR PIPE FITTINGS (FOR EXAMPLE, COUPLINGS, ELBOWS, SLEEVES) - TUBES AND PIPES : OF NICKEL, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750712",
+            "description": "NICKEL TUBES, PIPES AND TUBE OR PIPE FITTINGS (FOR EXAMPLE, COUPLINGS, ELBOWS, SLEEVES) - TUBES AND PIPES : OF NICKEL ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75071200",
+            "description": "NICKEL TUBES, PIPES AND TUBE OR PIPE FITTINGS (FOR EXAMPLE, COUPLINGS, ELBOWS, SLEEVES) - TUBES AND PIPES : OF NICKEL ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750720",
+            "description": "NICKEL TUBES, PIPES AND TUBE OR PIPE FITTINGS (FOR EXAMPLE, COUPLINGS, ELBOWS, SLEEVES) - TUBE OR PIPE FITTINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75072000",
+            "description": "NICKEL TUBES, PIPES AND TUBE OR PIPE FITTINGS (FOR EXAMPLE, COUPLINGS, ELBOWS, SLEEVES) - TUBE OR PIPE FITTINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7508",
+            "description": "OTHER ARTICLES OF NICKEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750810",
+            "description": "OTHER ARTICLES OF NICKEL - CLOTH, GRILL AND NETTING, OF NICKEL WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75081000",
+            "description": "OTHER ARTICLES OF NICKEL - CLOTH, GRILL AND NETTING, OF NICKEL WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "750890",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75089010",
+            "description": "OTHER ARTICLES OF NICKEL - OTHER : ELECTROPLATING ANODES OF NICKEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75089020",
+            "description": "OTHER ARTICLES OF NICKEL - OTHER : BLANKS ORDINARILY USED FOR MANUFACTURING TUBES AND PIPES OF NICKEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75089030",
+            "description": "OTHER ARTICLES OF NICKEL - OTHER : NICKEL SCREEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "75089090",
+            "description": "OTHER ARTICLES OF NICKEL - OTHER : OTHER ARTICLES OF NICKEL AND NICKEL ALLOY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+*.tsbuildinfo
+
+# Generated India schedule shards (rebuilt by npm run generate:schedule)
+src/countries/IN/schedules/generated/
+
+# Packages
+*.tgz
+
+# Test / coverage
+coverage/
+.vitest/
+node_modules/.vite/
+
+# Caches
+.cache/
+.yarn/install-state.gz
+.yarn/cache
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

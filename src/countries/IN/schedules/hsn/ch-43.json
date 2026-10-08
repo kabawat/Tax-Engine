@@ -1,0 +1,427 @@
+{
+    "chapter": "43",
+    "kind": "HSN",
+    "count": 35,
+    "entries": [
+        {
+            "code": "4301",
+            "description": "RAW FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS, SUITABLE FOR FURRIERS USE), OTHER THAN RAW HIDES AND SKINS OF HEADING 4101, 4102 OR 4103",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "430110",
+            "description": "RAW FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS, SUITABLE FOR FURRIERS USE), OTHER THAN RAW HIDES AND SKINS OF HEADING 4101, 4102 OR 4103 - OF MINK, WHOLE, WITH OR WITHOUT HEAD, TAIL OR PAWS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43011000",
+            "description": "RAW FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS, SUITABLE FOR FURRIERS USE), OTHER THAN RAW HIDES AND SKINS OF HEADING 4101, 4102 OR 4103 - OF MINK, WHOLE, WITH OR WITHOUT HEAD, TAIL OR PAWS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "430130",
+            "description": "RAW FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS, SUITABLE FOR FURRIERS USE), OTHER THAN RAW HIDES AND SKINS OF HEADING 4101, 4102 OR 4103 - OF LAMB, THE FOLLOWING : ASTRAKHAN, BROADTAIL, CARACUL, PERSIAN AND SIMILAR LAMB, INDIAN, C",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43013000",
+            "description": "RAW FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS, SUITABLE FOR FURRIERS USE), OTHER THAN RAW HIDES AND SKINS OF HEADING 4101, 4102 OR 4103 - OF LAMB, THE FOLLOWING : ASTRAKHAN, BROADTAIL, CARACUL, PERSIAN AND SIMILAR LAMB, INDIAN, C",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "430160",
+            "description": "RAW FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS, SUITABLE FOR FURRIERS USE), OTHER THAN RAW HIDES AND SKINS OF HEADING 4101, 4102 OR 4103 - OF FOX, WHOLE, WITH OR WITHOUT HEAD, TAIL OR PAWS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43016000",
+            "description": "RAW FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS, SUITABLE FOR FURRIERS USE), OTHER THAN RAW HIDES AND SKINS OF HEADING 4101, 4102 OR 4103 - OF FOX, WHOLE, WITH OR WITHOUT HEAD, TAIL OR PAWS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "430180",
+            "description": "RAW FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS, SUITABLE FOR FURRIERS USE), OTHER THAN RAW HIDES AND SKINS OF HEADING 4101, 4102 OR 4103 - OTHER FURSKINS, WHOLE, WITH OR WITHOUT HEAD, TAIL OR PAWS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43018000",
+            "description": "RAW FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS, SUITABLE FOR FURRIERS USE), OTHER THAN RAW HIDES AND SKINS OF HEADING 4101, 4102 OR 4103 - OTHER FURSKINS, WHOLE, WITH OR WITHOUT HEAD, TAIL OR PAWS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43019000",
+            "description": "RAW FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS, SUITABLE FOR FURRIERS USE), OTHER THAN RAW HIDES AND SKINS OF HEADING 4101, 4102 OR 4103 - HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS, SUITABLE FOR FURRIERS USE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4302",
+            "description": "TANNED OR DRESSED FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS), UNASSEMBLED, OR ASSEMBLED (WITHOUT THE ADDITION OF OTHER MATERIALS) OTHER THAN THOSE OF HEADING 4303 - WHOLE SKINS, WITH OR WITHOUT HEAD, TAIL OR PAWS, NOT ASSEMBLED:",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "430211",
+            "description": "TANNED OR DRESSED FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS), UNASSEMBLED, OR ASSEMBLED (WITHOUT THE ADDITION OF OTHER MATERIALS) OTHER THAN THOSE OF HEADING 4303 - WHOLE SKINS, WITH OR WITHOUT HEAD, TAIL OR PAWS, NOT ASSEMBLED:O",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43021100",
+            "description": "TANNED OR DRESSED FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS), UNASSEMBLED, OR ASSEMBLED (WITHOUT THE ADDITION OF OTHER MATERIALS) OTHER THAN THOSE OF HEADING 4303 - WHOLE SKINS, WITH OR WITHOUT HEAD, TAIL OR PAWS, NOT ASSEMBLED:O",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "430219",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43021910",
+            "description": "TANNED OR DRESSED FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS), UNASSEMBLED, OR ASSEMBLED (WITHOUT THE ADDITION OF OTHER MATERIALS) OTHER THAN THOSE OF HEADING 4303 - WHOLE SKINS, WITH OR WITHOUT HEAD, TAIL OR PAWS, NOT ASSEMBLED:-",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43021920",
+            "description": "TANNED OR DRESSED FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS), UNASSEMBLED, OR ASSEMBLED (WITHOUT THE ADDITION OF OTHER MATERIALS) OTHER THAN THOSE OF HEADING 4303 - WHOLE SKINS, WITH OR WITHOUT HEAD, TAIL OR PAWS, NOT ASSEMBLED:-",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43021930",
+            "description": "TANNED OR DRESSED FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS), UNASSEMBLED, OR ASSEMBLED (WITHOUT THE ADDITION OF OTHER MATERIALS) OTHER THAN THOSE OF HEADING 4303 - WHOLE SKINS, WITH OR WITHOUT HEAD, TAIL OR PAWS, NOT ASSEMBLED:-",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43021940",
+            "description": "TANNED OR DRESSED FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS), UNASSEMBLED, OR ASSEMBLED (WITHOUT THE ADDITION OF OTHER MATERIALS) OTHER THAN THOSE OF HEADING 4303 - WHOLE SKINS, WITH OR WITHOUT HEAD, TAIL OR PAWS, NOT ASSEMBLED:-",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43021990",
+            "description": "TANNED OR DRESSED FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS), UNASSEMBLED, OR ASSEMBLED (WITHOUT THE ADDITION OF OTHER MATERIALS) OTHER THAN THOSE OF HEADING 4303 - WHOLE SKINS, WITH OR WITHOUT HEAD, TAIL OR PAWS, NOT ASSEMBLED:-",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "430220",
+            "description": "TANNED OR DRESSED FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS), UNASSEMBLED, OR ASSEMBLED (WITHOUT THE ADDITION OF OTHER MATERIALS) OTHER THAN THOSE OF HEADING 4303 HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS, NOT ASSEMBLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43022000",
+            "description": "TANNED OR DRESSED FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS), UNASSEMBLED, OR ASSEMBLED (WITHOUT THE ADDITION OF OTHER MATERIALS) OTHER THAN THOSE OF HEADING 4303 HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS, NOT ASSEMBLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "430230",
+            "description": "TANNED OR DRESSED FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS), UNASSEMBLED, OR ASSEMBLED (WITHOUT THE ADDITION OF OTHER MATERIALS) OTHER THAN THOSE OF HEADING 4303 WHOLE SKINS AND PIECES OR CUTTINGS THEREOF, ASSEMBLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43023000",
+            "description": "TANNED OR DRESSED FURSKINS (INCLUDING HEADS, TAILS, PAWS AND OTHER PIECES OR CUTTINGS), UNASSEMBLED, OR ASSEMBLED (WITHOUT THE ADDITION OF OTHER MATERIALS) OTHER THAN THOSE OF HEADING 4303 WHOLE SKINS AND PIECES OR CUTTINGS THEREOF, ASSEMBLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4303",
+            "description": "ARTICLES OF APPAREL, CLOTHING ACCESSORIES AND OTHER ARTICLES OF FURSKIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "430310",
+            "description": "ARTICLES OF APPAREL AND CLOTHING ACCESSORIES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43031010",
+            "description": "ARTICLES OF APPAREL, CLOTHING ACCESSORIES AND OTHER ARTICLES OF FURSKIN - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES: OF WILD ANIMALS COVERED UNDER THE WILD LIFE (PROTECTION) ACT, 1972",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43031020",
+            "description": "ARTICLES OF APPAREL, CLOTHING ACCESSORIES AND OTHER ARTICLES OF FURSKIN - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES: OF ANIMALS COVERED UNDER CONVENTION ON INTERNATIONAL TRADE OF ENDANGERED SPECIES (CITES), OTHER THAN THOSE OF TARIFF ITEM 4303 10 10",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43031090",
+            "description": "ARTICLES OF APPAREL, CLOTHING ACCESSORIES AND OTHER ARTICLES OF FURSKIN - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "430390",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43039010",
+            "description": "ARTICLES OF APPAREL, CLOTHING ACCESSORIES AND OTHER ARTICLES OF FURSKIN - OTHER: OF WILD ANIMALS COVERED UNDER THE WILD LIFE (PROTECTION) ACT, 1972",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43039090",
+            "description": "ARTICLES OF APPAREL, CLOTHING ACCESSORIES AND OTHER ARTICLES OF FURSKIN - OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4304",
+            "description": "ARTIFICIAL FUR AND ARTICLES THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "430400",
+            "description": "ARTIFICIAL FUR AND ARTICLES THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43040019",
+            "description": "ARTIFICIAL FUR AND ARTICLES THEREOF 4304 00 - ARTIFICIAL FUR AND ARTICLES THEREOF: ARTIFICIAL FUR :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "43040020",
+            "description": "ARTIFICIAL FUR AND ARTICLES THEREOF 4304 00 - ARTIFICIAL FUR AND ARTICLES THEREOF: ARTICLES OF ARTIFICIAL FUR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

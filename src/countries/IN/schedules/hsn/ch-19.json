@@ -1,0 +1,919 @@
+{
+    "chapter": "19",
+    "kind": "HSN",
+    "count": 54,
+    "entries": [
+        {
+            "code": "1901",
+            "description": "MALT EXTRACT; FOOD PREPARATIONS OF FLOUR, GROATS, MEAL, STARCH OR MALT EXTRACT, NOT CONTAINING COCOA OR CONTAINING LESS THAN 40% BY WEIGHT OF COCOA CALCULATED ON A TOTALLY DEFATTED BASIS, NOT ELSEWHERE SPECIFIED OR INCLUDED; FOOD PREPARATIONS OF GOODS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190110",
+            "description": "PREPARATIONS SUITABLE FOR INFANTS OR YOUNG CHILDREN, PUT UP FOR RETAIL SALE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19011010",
+            "description": "MALT EXTRACT; FOOD PREPARATIONS OF FLOUR, GROATS, MEAL, STARCH OR MALT EXTRACT, NOT CONTAINING COCOA OR CONTAINING LESS THAN 40% BY WEIGHT OF COCOA CALCULATED ON A TOTALLY DEFATTED BASIS, NOT ELSEWHERE SPECIFIED OR INCLUDED; FOOD PREPARATIONS OF GOODS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19011090",
+            "description": "MALT EXTRACT; FOOD PREPARATIONS OF FLOUR, GROATS, MEAL, STARCH OR MALT EXTRACT, NOT CONTAINING COCOA OR CONTAINING LESS THAN 40% BY WEIGHT OF COCOA CALCULATED ON A TOTALLY DEFATTED BASIS, NOT ELSEWHERE SPECIFIED OR INCLUDED; FOOD PREPARATIONS OF GOODS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19012000",
+            "description": "MALT EXTRACT; FOOD PREPARATIONS OF FLOUR, GROATS, MEAL, STARCH OR MALT EXTRACT, NOT CONTAINING COCOA OR CONTAINING LESS THAN 40% BY WEIGHT OF COCOA CALCULATED ON A TOTALLY DEFATTED BASIS, NOT ELSEWHERE SPECIFIED OR INCLUDED; FOOD PREPARATIONS OF GOODS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19019010",
+            "description": "MALT EXTRACT; FOOD PREPARATIONS OF FLOUR, GROATS, MEAL, STARCH OR MALT EXTRACT, NOT CONTAINING COCOA OR CONTAINING LESS THAN 40% BY WEIGHT OF COCOA CALCULATED ON A TOTALLY DEFATTED BASIS, NOT ELSEWHERE SPECIFIED OR INCLUDED; FOOD PREPARATIONS OF GOODS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19019090",
+            "description": "MALT EXTRACT; FOOD PREPARATIONS OF FLOUR, GROATS, MEAL, STARCH OR MALT EXTRACT, NOT CONTAINING COCOA OR CONTAINING LESS THAN 40% BY WEIGHT OF COCOA CALCULATED ON A TOTALLY DEFATTED BASIS, NOT ELSEWHERE SPECIFIED OR INCLUDED; FOOD PREPARATIONS OF GOODS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1902",
+            "description": "PASTA, WHETHER OR NOT COOKED OR STUFFED (WITH MEAT OR OTHER SUBSTANCES) OR OTHERWISE PREPARED, SUCH AS SPAGHETTI, MACARONI, NOODLES, LASAGNE, GNOCCHI, RAVIOLI, CANNELLONI; COUSCOUS, WHETHER OR NOT PREPARED - UNCOOKED PASTA, NOT STUFFED OR OTHERWISE PREPAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190211",
+            "description": "PASTA, WHETHER OR NOT COOKED OR STUFFED (WITH MEAT OR OTHER SUBSTANCES) OR OTHERWISE PREPARED, SUCH AS SPAGHETTI, MACARONI, NOODLES, LASAGNE, GNOCCHI, RAVIOLI, CANNELLONI; COUSCOUS, WHETHER OR NOT PREPARED - UNCOOKED PASTA, NOT STUFFED OR OTHERWISE PREPA",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19021100",
+            "description": "PASTA, WHETHER OR NOT COOKED OR STUFFED (WITH MEAT OR OTHER SUBSTANCES) OR OTHERWISE PREPARED, SUCH AS SPAGHETTI, MACARONI, NOODLES, LASAGNE, GNOCCHI, RAVIOLI, CANNELLONI; COUSCOUS, WHETHER OR NOT PREPARED - UNCOOKED PASTA, NOT STUFFED OR OTHERWISE PREPA",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190219",
+            "description": "PASTA, WHETHER OR NOT COOKED OR STUFFED (WITH MEAT OR OTHER SUBSTANCES) OR OTHERWISE PREPARED, SUCH AS SPAGHETTI, MACARONI, NOODLES, LASAGNE, GNOCCHI, RAVIOLI, CANNELLONI; COUSCOUS, WHETHER OR NOT PREPARED - UNCOOKED PASTA, NOT STUFFED OR OTHERWISE PREPA",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19021900",
+            "description": "PASTA, WHETHER OR NOT COOKED OR STUFFED (WITH MEAT OR OTHER SUBSTANCES) OR OTHERWISE PREPARED, SUCH AS SPAGHETTI, MACARONI, NOODLES, LASAGNE, GNOCCHI, RAVIOLI, CANNELLONI; COUSCOUS, WHETHER OR NOT PREPARED - UNCOOKED PASTA, NOT STUFFED OR OTHERWISE PREPA",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190220",
+            "description": "STUFFED PASTA, WHETHER OR NOT COOKED OR OTHERWISE PREPARED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19022010",
+            "description": "PASTA, WHETHER OR NOT COOKED OR STUFFED (WITH MEAT OR OTHER SUBSTANCES) OR OTHERWISE PREPARED, SUCH AS SPAGHETTI, MACARONI, NOODLES, LASAGNE, GNOCCHI, RAVIOLI, CANNELLONI; COUSCOUS, WHETHER OR NOT PREPARED - STUFFED PASTA, WHETHER OR NOT COOKED OR OTHERW",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19022090",
+            "description": "PASTA, WHETHER OR NOT COOKED OR STUFFED (WITH MEAT OR OTHER SUBSTANCES) OR OTHERWISE PREPARED, SUCH AS SPAGHETTI, MACARONI, NOODLES, LASAGNE, GNOCCHI, RAVIOLI, CANNELLONI; COUSCOUS, WHETHER OR NOT PREPARED - STUFFED PASTA, WHETHER OR NOT COOKED OR OTHERWI",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190230",
+            "description": "OTHER PASTA",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19023010",
+            "description": "PASTA, WHETHER OR NOT COOKED OR STUFFED (WITH MEAT OR OTHER SUBSTANCES) OR OTHERWISE PREPARED, SUCH AS SPAGHETTI, MACARONI, NOODLES, LASAGNE, GNOCCHI, RAVIOLI, CANNELLONI; COUSCOUS, WHETHER OR NOT PREPARED - OTHER PASTA : DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19023090",
+            "description": "PASTA, WHETHER OR NOT COOKED OR STUFFED (WITH MEAT OR OTHER SUBSTANCES) OR OTHERWISE PREPARED, SUCH AS SPAGHETTI, MACARONI, NOODLES, LASAGNE, GNOCCHI, RAVIOLI, CANNELLONI; COUSCOUS, WHETHER OR NOT PREPARED - OTHER PASTA : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190240",
+            "description": "COUSCOUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19024010",
+            "description": "PASTA, WHETHER OR NOT COOKED OR STUFFED (WITH MEAT OR OTHER SUBSTANCES) OR OTHERWISE PREPARED, SUCH AS SPAGHETTI, MACARONI, NOODLES, LASAGNE, GNOCCHI, RAVIOLI, CANNELLONI; COUSCOUS, WHETHER OR NOT PREPARED - COUSCOUS : UNPREPARED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19024090",
+            "description": "PASTA, WHETHER OR NOT COOKED OR STUFFED (WITH MEAT OR OTHER SUBSTANCES) OR OTHERWISE PREPARED, SUCH AS SPAGHETTI, MACARONI, NOODLES, LASAGNE, GNOCCHI, RAVIOLI, CANNELLONI; COUSCOUS, WHETHER OR NOT PREPARED - COUSCOUS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1903",
+            "description": "TAPIOCA AND SUBSTITUTES THEREFOR PREPARED FROM STARCH, IN THE FORM OF FLAKES, GRAINS, PEARLS, SIFTINGS OR IN SIMILAR FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19030000",
+            "description": "TAPIOCA AND SUBSTITUTES THEREFOR PREPARED FROM STARCH, IN THE FORM OF FLAKES, GRAINS, PEARLS, SIFTINGS OR IN SIMILAR FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1904",
+            "description": "PREPARED FOODS OBTAINED BY THE SWELLING OR ROASTING OF CEREALS OR CEREAL PRODUCTS (FOR EXAMPLE, CORN FLAKES); CEREALS [OTHER THAN MAIZE (CORN) ] IN GRAIN FORM OR IN THE FORM OF FLAKES OR OTHER WORKED GRAINS (EXCEPT FLOUR, GROATS AND MEAL), PRE-COOKED OR O",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2022-07-17"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2022-07-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19041010",
+            "description": "PREPARED FOODS OBTAINED BY THE SWELLING OR ROASTING OF CEREALS OR CEREAL PRODUCTS (FOR EXAMPLE, CORN FLAKES); CEREALS [OTHER THAN MAIZE (CORN) ] IN GRAIN FORM OR IN THE FORM OF FLAKES OR OTHER WORKED GRAINS (EXCEPT FLOUR, GROATS AND MEAL), PRE - COOKED O",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19041020",
+            "description": "PREPARED FOODS OBTAINED BY THE SWELLING OR ROASTING OF CEREALS OR CEREAL PRODUCTS (FOR EXAMPLE, CORN FLAKES); CEREALS [OTHER THAN MAIZE (CORN) ] IN GRAIN FORM OR IN THE FORM OF FLAKES OR OTHER WORKED GRAINS (EXCEPT FLOUR, GROATS AND MEAL), PRE - COOKED O",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19041030",
+            "description": "PREPARED FOODS OBTAINED BY THE SWELLING OR ROASTING OF CEREALS OR CEREAL PRODUCTS (FOR EXAMPLE, CORN FLAKES); CEREALS [OTHER THAN MAIZE (CORN) ] IN GRAIN FORM OR IN THE FORM OF FLAKES OR OTHER WORKED GRAINS (EXCEPT FLOUR, GROATS AND MEAL), PRE - COOKED O",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19041090",
+            "description": "PREPARED FOODS OBTAINED BY THE SWELLING OR ROASTING OF CEREALS OR CEREAL PRODUCTS (FOR EXAMPLE, CORN FLAKES); CEREALS [OTHER THAN MAIZE (CORN) ] IN GRAIN FORM OR IN THE FORM OF FLAKES OR OTHER WORKED GRAINS (EXCEPT FLOUR, GROATS AND MEAL), PRE - COOKED O",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190420",
+            "description": "PREPARED FOODS OBTAINED BY THE SWELLING OR ROASTING OF CEREALS OR CEREAL PRODUCTS (FOR EXAMPLE, CORN FLAKES); CEREALS [OTHER THAN MAIZE (CORN) ] IN GRAIN FORM OR IN THE FORM OF FLAKES OR OTHER WORKED GRAINS (EXCEPT FLOUR, GROATS AND MEAL), PRE - COOKED O",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19042000",
+            "description": "PREPARED FOODS OBTAINED BY THE SWELLING OR ROASTING OF CEREALS OR CEREAL PRODUCTS (FOR EXAMPLE, CORN FLAKES); CEREALS [OTHER THAN MAIZE (CORN) ] IN GRAIN FORM OR IN THE FORM OF FLAKES OR OTHER WORKED GRAINS (EXCEPT FLOUR, GROATS AND MEAL), PRE - COOKED O",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190430",
+            "description": "PREPARED FOODS OBTAINED BY THE SWELLING OR ROASTING OF CEREALS OR CEREAL PRODUCTS (FOR EXAMPLE, CORN FLAKES); CEREALS [OTHER THAN MAIZE (CORN) ] IN GRAIN FORM OR IN THE FORM OF FLAKES OR OTHER WORKED GRAINS (EXCEPT FLOUR, GROATS AND MEAL), PRE - COOKED OR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19043000",
+            "description": "PREPARED FOODS OBTAINED BY THE SWELLING OR ROASTING OF CEREALS OR CEREAL PRODUCTS (FOR EXAMPLE, CORN FLAKES); CEREALS [OTHER THAN MAIZE (CORN) ] IN GRAIN FORM OR IN THE FORM OF FLAKES OR OTHER WORKED GRAINS (EXCEPT FLOUR, GROATS AND MEAL), PRE - COOKED OR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190490",
+            "description": "PREPARED FOODS OBTAINED BY THE SWELLING OR ROASTING OF CEREALS OR CEREAL PRODUCTS (FOR EXAMPLE, CORN FLAKES); CEREALS [OTHER THAN MAIZE (CORN) ] IN GRAIN FORM OR IN THE FORM OF FLAKES OR OTHER WORKED GRAINS (EXCEPT FLOUR, GROATS AND MEAL), PRE - COOKED O",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19049000",
+            "description": "PREPARED FOODS OBTAINED BY THE SWELLING OR ROASTING OF CEREALS OR CEREAL PRODUCTS (FOR EXAMPLE, CORN FLAKES); CEREALS [OTHER THAN MAIZE (CORN) ] IN GRAIN FORM OR IN THE FORM OF FLAKES OR OTHER WORKED GRAINS (EXCEPT FLOUR, GROATS AND MEAL), PRE - COOKED O",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1905",
+            "description": "Pizza bread",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190510",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERS WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS -CRISPBREAD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19051000",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERS WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS -CRISPBREAD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190520",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERS WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS-GINGERBREAD AND THE LIKE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19052000",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERS WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS-GINGERBREAD AND THE LIKE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190531",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERR WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS- SWEET BISCUITS; WAFFLES AND WAFERS--SWEET B",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19053100",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERR WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS- SWEET BISCUITS; WAFFLES AND WAFERS--SWEET B",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190532",
+            "description": "WAFFLES AND WAFERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19053211",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERS WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS - - SWEET BISCUITS; WAFFLES AND WAFERS-- WA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19053219",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERS WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS - - SWEET BISCUITS; WAFFLES AND WAFERS --WA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19053290",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERS WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS - SWEET BISCUITS; WAFFLES AND WAFERS --WAFF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190540",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERS WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS - RUSKS, TOASTED BREAD AND SIMILAR TOASTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19054000",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERS WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS - RUSKS, TOASTED BREAD AND SIMILAR TOASTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "190590",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19059010",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERS WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS - OTHER : PASTRIES AND CAKES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19059020",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERS WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS - OTHER : BISCUITS NOT ELSEWHERE SPECIFIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19059030",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERS WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS - OTHER : EXTRUDED OR EXPANDED PRODUCTS, SA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19059040",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERS WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS - OTHER : PAPAD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "19059090",
+            "description": "BREAD, PASTRY, CAKES, BISCUITS AND OTHER BAKERS WARES, WHETHER OR NOT CONTAINING COCOA; COMMUNION WAFERS, EMPTY CACHETS OF A KIND SUITABLE FOR PHARMACEUTICAL USE, SEALING WAFERS, RICE PAPER AND SIMILAR PRODUCTS - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

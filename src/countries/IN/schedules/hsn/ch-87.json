@@ -1,0 +1,4789 @@
+{
+    "chapter": "87",
+    "kind": "HSN",
+    "count": 284,
+    "entries": [
+        {
+            "code": "8701",
+            "description": "TRACTORS (OTHER THAN TRACTORS OF HEADING 8709)(tractors)",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870110",
+            "description": "TRACTORS (OTHER THAN TRACTORS OF HEADING 8709) PEDESTRIAN CONTROLLED TRACTORS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87011000",
+            "description": "TRACTORS (OTHER THAN TRACTORS OF HEADING 8709) PEDESTRIAN CONTROLLED TRACTORS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870120",
+            "description": "ROAD TRACTORS FOR SEMI-TRAILERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87012010",
+            "description": "TRACTORS (OTHER THAN TRACTORS OF HEADING 8709) ROAD TRACTORS FOR SEMI-TRAILERS OF ENGINE CAPACITY NOT EXCEEDING 1,800 CC",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87012090",
+            "description": "TRACTORS (OTHER THAN TRACTORS OFHEADING 8709) ROAD TRACTORS FOR SEMI-TRAILERS OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870130",
+            "description": "TRACK-LAYING TRACTORS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87013011",
+            "description": "TRACTORS (OTHER THAN TRACTORS OFHEADING 8709 TRACK-LAYING TRACTORS : GARDEN TRACTORS:OF ENGINE CAPACITY NOT EXCEEDING 1,800 CC",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87013019",
+            "description": "TRACTORS (OTHER THAN TRACTORS OFHEADING 8709 TRACK-LAYING TRACTORS GARDEN TRACTORS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87013091",
+            "description": "TRACTORS (OTHER THAN TRACTORS OF HEADING 8709 OTHER :OF ENGINE CAPACITY NOT EXCEEDING 1,800 CC",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87013099",
+            "description": "TRACTORS (OTHER THAN TRACTORS OFHEADING 8709 OTHER OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87019010",
+            "description": "TRACTORS (OTHER THAN TRACTORS OF HEADING 8709 OTHER : OF ENGINE CAPACITY NOT EXCEEDING 1,800 CC",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87019090",
+            "description": "TRACTORS (OTHER THAN TRACTORS OFHEADING 8709 OTHER :TRACTORS (OTHER THAN TRACTORS OFHEADING 8709 OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87019100",
+            "description": "NOT EXCEEDING 18 KW",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87019200",
+            "description": "EXCEEDING 18 KW BUT NOT EXCEEDING 37 KW",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87019300",
+            "description": "EXCEEDING 37 KW BUT NOT EXCEEDING 75 KW",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87019400",
+            "description": "EXCEEDING 75 KW BUT NOT EXCEEDING 130 KW",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87019500",
+            "description": "EXCEEDING 130 KW",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8702",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF TEN OR MORE PERSONS, INCLUDING THE DRIVER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-01-24"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87021011",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF TEN OR MORE PERSONS, INCLUDING THE DRIVER WITH COMPRESSION-IGNITION INTERNALCOMBUSTION PISTON ENGINE (DIESEL OR SEMIDIESEL) VEHICLES FOR TRANSPORT OF NOT MORE THAN3 PERSONS, INCLUDING THE DRIVER: INTEGRATED MONOCOQUE VE",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87021012",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF TEN OR MORE PERSONS, INCLUDING THE DRIVER WITH COMPRESSION-IGNITION INTERNALCOMBUSTION PISTON ENGINE (DIESEL OR SEMIDIESEL) VEHICLES FOR TRANSPORT OF NOT MORE THAN 13 PERSONS, INCLUDING THE DRIVER:AIR-CONDITIONED VEHICL",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87021018",
+            "description": "OTHER, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87021019",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF TEN OR MORE PERSONS, INCLUDING THE DRIVERWITH COMPRESSION-IGNITION INTERNALCOMBUSTION PISTON ENGINE (DIESEL OR SEMIDIESEL) VEHICLES FOR TRANSPORT OF NOT MORE THAN 13 PERSONS, INCLUDING THE DRIVER:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87021021",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87021022",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87021028",
+            "description": "OTHER, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87021029",
+            "description": "OTHER, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870220",
+            "description": "WITH BOTH COMPRESSION-IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-DIESEL) AND ELECTRIC MOTOR AS MOTORS FOR PROPULSION",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87022011",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87022012",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87022018",
+            "description": "OTHER, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87022019",
+            "description": "OTHER, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87022021",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87022022",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87022028",
+            "description": "OTHER, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87022029",
+            "description": "OTHER, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87023011",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87023012",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87023018",
+            "description": "OTHER, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87023019",
+            "description": "OTHER, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87023021",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87023022",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87023028",
+            "description": "OTHER, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87023029",
+            "description": "OTHER, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870240",
+            "description": "WITH ONLY ELECTRIC MOTOR FOR PROPULSION",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87024011",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87024012",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87024018",
+            "description": "OTHER, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87024019",
+            "description": "OTHER, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87024021",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87024022",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87024028",
+            "description": "OTHER, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87024029",
+            "description": "OTHER, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870290",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87029011",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF TEN OR MORE PERSONS, INCLUDING THE DRIVER OTHER VEHICLES FOR TRANSPORT OF NOT MORE THAN13 PERSONS, INCLUDING THE DRIVER: INTEGRATED MONOCOQUE VEHICLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87029012",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF TEN OR MORE PERSONS, INCLUDING THE DRIVER OTHER : VEHICLES FOR TRANSPORT OF NOT MORE THAN13 PERSONS, INCLUDING THE DRIVER:AIR-CONDITIONED VEHICLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87029018",
+            "description": "OTHER, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87029019",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF TEN OR MORE PERSONS, INCLUDING THE DRIVER OTHER VEHICLES FOR TRANSPORT OF NOT MORE THAN13 PERSONS, INCLUDING THE DRIVER OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87029021",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87029022",
+            "description": "INTEGRATED MONOCOQUE VEHICLE, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87029028",
+            "description": "OTHER, AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87029029",
+            "description": "OTHER, NON AIR-CONDITIONED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87029091",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF TEN OR MORE PERSONS, INCLUDING THE DRIVER OTHER INTEGRATED MONOCOQUE VEHICLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87029092",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF TEN OR MORE PERSONS, INCLUDING THE DRIVER OTHER :AIR-CONDITIONED VEHICLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87029099",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF TEN OR MORE PERSONS, INCLUDING THE DRIVER OTHER :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8703",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-01-24"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87031010",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THANTHOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS VEHICLES SPECIALLY DESIGNED FOR TRAVELLING ONSNOW; GOLF CARS AND SIMILAR VEHICLES ELECTRICALL",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87031090",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONSAND RACING CARSVEHICLES SPECIALLY DESIGNED FOR TRAVELLING ONSNOW; GOLF CARS AND SIMILAR VEHICLESOTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870321",
+            "description": "OF A CYLINDER CAPACITY NOT EXCEEDING 1,000 CC",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87032120",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH SPARK-IGNITION INTERNAL COMBUSTION RECIPROCATING PISTON ENGINE : OF A C",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87032191",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH SPARK-IGNITION INTERNAL COMBUSTION RECIPROCATING PISTON ENGINE : OF A C",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87032192",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH SPARK-IGNITION INTERNAL COMBUSTION RECIPROCATING PISTON ENGINE : OF A C",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87032199",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH SPARK-IGNITION INTERNAL COMBUSTION RECIPROCATING PISTON ENGINE : OF A C",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87032230",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH SPARK-IGNITION INTERNAL COMBUSTION RECIPROCATING PISTON ENGINE : OF A C",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87032291",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH SPARK-IGNITION INTERNAL COMBUSTION RECIPROCATING PISTON ENGINE : OF A C",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87032299",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH SPARK-IGNITION INTERNAL COMBUSTION RECIPROCATING PISTON ENGINE : OF A C",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87032320",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH SPARK-IGNITION INTERNAL COMBUSTION RECIPROCATING PISTON ENGINE : OF A C",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87032391",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH SPARK-IGNITION INTERNAL COMBUSTION RECIPROCATING PISTON ENGINE : OF A C",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87032399",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH SPARK-IGNITION INTERNAL COMBUSTION RECIPROCATING PISTON ENGINE : OF A C",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870324",
+            "description": "OF A CYLINDER CAPACITY EXCEEDING 3,000 CC",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87032420",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH SPARK-IGNITION INTERNAL COMBUSTION RECIPROCATING PISTON ENGINE : OF A C",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87032491",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH SPARK-IGNITION INTERNAL COMBUSTION RECIPROCATING PISTON ENGINE : OF A C",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87032499",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH SPARK-IGNITION INTERNAL COMBUSTION RECIPROCATING PISTON ENGINE : OF A C",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870331",
+            "description": "OF A CYLINDER CAPACITY NOT EXCEEDING 1,500 CC",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87033120",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH COMPRESSION IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87033191",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH COMPRESSION IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87033199",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH COMPRESSION IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87033220",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH COMPRESSION IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87033291",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH COMPRESSION IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87033299",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH COMPRESSION IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870333",
+            "description": "OF A CYLINDER CAPACITY EXCEEDING 2,500 CC",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87033320",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH COMPRESSION IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87033391",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH COMPRESSION IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87033399",
+            "description": "MOTOR CARS AND OTHER MOTOR VEHICLES PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS (OTHER THAN THOSE OF HEADING 8702), INCLUDING STATION WAGONS AND RACING CARS OTHER VEHICLES, WITH COMPRESSION IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87034030",
+            "description": "MOTOR CARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87034040",
+            "description": "THREE-WHEELED VEHICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87034090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87035030",
+            "description": "MOTOR CARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87035040",
+            "description": "THREE-WHEELED VEHICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87035090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870360",
+            "description": "OTHER VEHICLES, WITH BOTH SPARK-IGNITION INTERNAL COMBUSTION RECIPROCATING PISTON ENGINE AND ELECTRIC MOTOR AS MOTORS FOR PROPULSION, CAPABLE OF BEING CHARGED BY PLUGGING TO EXTERNAL SOURCE OF ELECTRIC POWER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87036030",
+            "description": "MOTOR CARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87036040",
+            "description": "THREE-WHEELED VEHICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87036090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870370",
+            "description": "OTHER VEHICLES, WITH BOTH COMPRESSION-IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-DIESEL) AND ELECTRIC MOTOR AS MOTORS FOR PROPULSION, CAPABLE OF BEING CHARGED BY PLUGGING TO EXTERNAL SOURCE OF ELECTRIC POWER/Motor vehicles with both compression-ignition internal combustion\npiston engine [diesel-or semi diesel] and electric motor as motors for\npropulsion, of engine capacity not exceeding 1500 cc and of length not\nexceeding 4000 mm",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87037030",
+            "description": "MOTOR CARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87037040",
+            "description": "THREE WHEELED VEHICLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87037090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870380",
+            "description": "OTHER VEHICLES, WITH ONLY ELECTRIC MOTOR FOR PROPULSION",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87038030",
+            "description": "MOTOR CARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87038040",
+            "description": "THREE WHEELED VEHICLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87038090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87039000",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8704",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870410",
+            "description": "DUMPERS DESIGNED FOR OFF-HIGHWAY USE",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87041090",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS DUMPERS DESIGNED FOR OFF-HIGHWAY USE: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870421",
+            "description": "G.V.W. NOT EXCEEDING 5 TONNES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87042110",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH COMPRESSION-IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-DIESEL) : G.V.W. NOT EXCEEDING 5 TONNES REFRIGERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87042120",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH COMPRESSION-IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-DIESEL) : G.V.W. NOT EXCEEDING 5 TONNES THREE-WHEELED MOTOR VEHICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87042190",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH COMPRESSION-IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-DIESEL) : G.V.W. NOT EXCEEDING 5 TONNES OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87042211",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH COMPRESSION-IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-DIESEL) : G.V.W. EXCEEDING 5 TONNES BUT NOT EXCEEDING 20 TONNES LORRIES AND TRUCKS REFRIGERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87042219",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH COMPRESSION-IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-DIESEL) : G.V.W. EXCEEDING 5 TONNES BUT NOT EXCEEDING 20 TONNES LORRIES AND TRUCKS OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87042290",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH COMPRESSION-IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-DIESEL) : G.V.W. EXCEEDING 5 TONNES BUT NOT EXCEEDING 20 TONNES OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870423",
+            "description": "G.V.W. EXCEEDING 20 TONNES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87042311",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH COMPRESSION-IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-DIESEL) : G.V.W. EXCEEDING 20 TONNES : LORRIES AND TRUCKS: REFRIGERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87042319",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH COMPRESSION-IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-DIESEL) : G.V.W. EXCEEDING 20 TONNES : LORRIES AND TRUCKS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87042390",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH COMPRESSION-IGNITION INTERNAL COMBUSTION PISTON ENGINE (DIESEL OR SEMI-DIESEL) : G.V.W. EXCEEDING 20 TONNES OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870431",
+            "description": "G.V.W. NOT EXCEEDING 5 TONNES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87043110",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH SPARK-IGNITION INTERNAL COMBUSTION PISTON ENGINE : G.V.W. NOT EXCEEDING 5 TONNES : REFRIGERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87043120",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH SPARK-IGNITION INTERNAL COMBUSTION PISTON ENGINE : G.V.W. NOT EXCEEDING 5 TONNES THREE-WHEELED MOTOR VEHICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87043190",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH SPARK-IGNITION INTERNAL COMBUSTION PISTON ENGINE : G.V.W. NOT EXCEEDING 5 TONNES OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870432",
+            "description": "G.V.W. EXCEEDING 5 TONNES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87043211",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH SPARK-IGNITION INTERNAL COMBUSTION PISTON ENGINE G.V.W. EXCEEDING 5 TONNES: LORRIES AND TRUCKS REFRIGERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87043219",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH SPARK-IGNITION INTERNAL COMBUSTION PISTON ENGINE G.V.W. EXCEEDING 5 TONNES: LORRIES AND TRUCKS OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87043290",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER, WITH SPARK-IGNITION INTERNAL COMBUSTION PISTON ENGINE G.V.W. EXCEEDING 5 TONNES: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870490",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87049011",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER : LORRIES AND TRUCKS: REFRIGERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87049012",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER : LORRIES AND TRUCKS: ELECTRICALLY OPERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87049019",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER : LORRIES AND TRUCKS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87049090",
+            "description": "MOTOR VEHICLES FOR THE TRANSPORT OF GOODS OTHER : LORRIES AND TRUCKS: OTHER OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8705",
+            "description": "SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RADIOL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870510",
+            "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87051000",
+            "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870520",
+            "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87052000",
+            "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870530",
+            "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87053000",
+            "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870540",
+            "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87054000",
+            "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870590",
+            "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87059000",
+            "description": "8705 SPECIAL PURPOSE MOTOR VEHICLES, OTHER THAN THOSE PRINCIPALLY DESIGNED FOR THE TRANSPORT OF PERSONS OR GOODS (FOR EXAMPLE, BREAKDOWN LORRIES, CRANE LORRIES, FIRE FIGHTING VEHICLES, CONCRETE-MIXERS LORRIES, SPRAYING LORRIES, MOBILE WORKSHOPS, MOBILE RA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8706",
+            "description": "CHASSIS FITTED WITH ENGINES, FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87060011",
+            "description": "8706 CHASSIS FITTED WITH ENGINES, FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 CHASSIS FITTED WITH ENGINES, FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705: ? FOR THE TRACTORS OF HEADING 8701 : OF ENGINE CAPACITY NOT EXCEEDING 1,800 CC",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87060019",
+            "description": "8706 CHASSIS FITTED WITH ENGINES, FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 CHASSIS FITTED WITH ENGINES, FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705: ? FOR THE TRACTORS OF HEADING 8701 : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87060021",
+            "description": "8706 CHASSIS FITTED WITH ENGINES, FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 FOR THE VEHICLES OF HEADING 8702 FOR TRANSPORT OF NOT MORE THAN THIRTEEN PERSONS, INCLUDING THE DRIVER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87060029",
+            "description": "8706 CHASSIS FITTED WITH ENGINES, FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 FOR THE VEHICLES OF HEADING 8702 OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87060031",
+            "description": "8706 CHASSIS FITTED WITH ENGINES, FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 FOR THE MOTOR VEHICLES OF HEADING 8703 FOR THREE-WHEELED VEHICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87060039",
+            "description": "8706 CHASSIS FITTED WITH ENGINES, FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 FOR THE MOTOR VEHICLES OF HEADING 8703 OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87060041",
+            "description": "8706 CHASSIS FITTED WITH ENGINES, FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 FOR THE MOTOR VEHICLES OF HEADING 8704: FOR THREE-WHEELED MOTOR VEHICLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87060042",
+            "description": "8706 CHASSIS FITTED WITH ENGINES, FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 FOR THE MOTOR VEHICLES OF HEADING 8704: FOR VEHICLES, OTHER THAN PETROL DRIVEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87060043",
+            "description": "8706 CHASSIS FITTED WITH ENGINES, FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 FOR THE MOTOR VEHICLES OF HEADING 8704: FOR DUMPERS COVERED IN THE HEADING 8704",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87060049",
+            "description": "8706 CHASSIS FITTED WITH ENGINES, FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 FOR THE MOTOR VEHICLES OF HEADING 8704: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87060050",
+            "description": "8706 CHASSIS FITTED WITH ENGINES, FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 FOR THE MOTOR VEHICLES OF HEADING 8705",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8707",
+            "description": "BODIES (INCLUDING CABS), FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870710",
+            "description": "BODIES (INCLUDING CABS), FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 FOR THE VEHICLES OF HEADING 8703",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87071000",
+            "description": "BODIES (INCLUDING CABS), FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 FOR THE VEHICLES OF HEADING 8703",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870790",
+            "description": "BODIES (INCLUDING CABS), FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87079000",
+            "description": "BODIES (INCLUDING CABS), FOR THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8708",
+            "description": "Following parts of tractors namely:\na. Rear Tractor wheel rim,\nb. tractor centre housing,\nc. tractor housing transmission,\nd. tractor support front axle",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870810",
+            "description": "BUMPERS AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87081010",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 BUMPERS AND PARTS THEREOF FOR TRACTORS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87081090",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 BUMPERS AND PARTS THEREOF OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870821",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 OTHER PARTS AND ACCESSORIES OF BODIES (INCLUDING CABS) : SAFETY SEAT BELTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87082100",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 OTHER PARTS AND ACCESSORIES OF BODIES (INCLUDING CABS) : SAFETY SEAT BELTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870829",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES OF BODIES (INCLUDING CABS) -- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87082900",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES OF BODIES (INCLUDING CABS) -- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870830",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - BRAKES AND SERVO-BRAKES ; PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87083000",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - BRAKES AND SERVO-BRAKES ; PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870840",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - GEAR BOXES AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87084000",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - GEAR BOXES AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870870",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - ROAD WHEELS AND PARTS AND ACCESSORIES THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87087000",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - ROAD WHEELS AND PARTS AND ACCESSORIES THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870891",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- RADIATORS AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87089100",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- RADIATORS AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870892",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- SILENCERS (MUFFLERS) AND EXHAUST PIPES; PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87089200",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- SILENCERS (MUFFLERS) AND EXHAUST PIPES; PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870893",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- CLUTCHES AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87089300",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- CLUTCHES AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870895",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- SAFETY AIRBAGS WITH INFLATER SYSTEM; PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87089500",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- SAFETY AIRBAGS WITH INFLATER SYSTEM; PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870899",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87089900",
+            "description": "PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705 - OTHER PARTS AND ACCESSORIES -- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-08-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8709",
+            "description": "WORKS TRUCKS, SELF-PROPELLED, NOT FITTED WITH LIFTING OR HANDLING EQUIPMENT, OF THE TYPE USED IN FACTORIES, WAREHOUSES, DOCK AREAS OR AIRPORTS FOR SHORT DISTANCE TRANSPORT OF GOODS; TRACTORS OF THE TYPE USED ON RAILWAY STATION PLATFORMS; PARTS OF THE FORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870911",
+            "description": "WORKS TRUCKS, SELF-PROPELLED, NOT FITTED WITH LIFTING OR HANDLING EQUIPMENT, OF THE TYPE USED IN FACTORIES, WAREHOUSES, DOCK AREAS OR AIRPORTS FOR SHORT DISTANCE TRANSPORT OF GOODS; TRACTORS OF THE TYPE USED ON RAILWAY STATION PLATFORMS; PARTS OF THE FORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87091100",
+            "description": "WORKS TRUCKS, SELF-PROPELLED, NOT FITTED WITH LIFTING OR HANDLING EQUIPMENT, OF THE TYPE USED IN FACTORIES, WAREHOUSES, DOCK AREAS OR AIRPORTS FOR SHORT DISTANCE TRANSPORT OF GOODS; TRACTORS OF THE TYPE USED ON RAILWAY STATION PLATFORMS; PARTS OF THE FORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870919",
+            "description": "WORKS TRUCKS, SELF-PROPELLED, NOT FITTED WITH LIFTING OR HANDLING EQUIPMENT, OF THE TYPE USED IN FACTORIES, WAREHOUSES, DOCK AREAS OR AIRPORTS FOR SHORT DISTANCE TRANSPORT OF GOODS; TRACTORS OF THE TYPE USED ON RAILWAY STATION PLATFORMS; PARTS OF THE FORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87091900",
+            "description": "WORKS TRUCKS, SELF-PROPELLED, NOT FITTED WITH LIFTING OR HANDLING EQUIPMENT, OF THE TYPE USED IN FACTORIES, WAREHOUSES, DOCK AREAS OR AIRPORTS FOR SHORT DISTANCE TRANSPORT OF GOODS; TRACTORS OF THE TYPE USED ON RAILWAY STATION PLATFORMS; PARTS OF THE FORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "870990",
+            "description": "WORKS TRUCKS, SELF-PROPELLED, NOT FITTED WITH LIFTING OR HANDLING EQUIPMENT, OF THE TYPE USED IN FACTORIES, WAREHOUSES, DOCK AREAS OR AIRPORTS FOR SHORT DISTANCE TRANSPORT OF GOODS; TRACTORS OF THE TYPE USED ON RAILWAY STATION PLATFORMS; PARTS OF THE FORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87099000",
+            "description": "WORKS TRUCKS, SELF-PROPELLED, NOT FITTED WITH LIFTING OR HANDLING EQUIPMENT, OF THE TYPE USED IN FACTORIES, WAREHOUSES, DOCK AREAS OR AIRPORTS FOR SHORT DISTANCE TRANSPORT OF GOODS; TRACTORS OF THE TYPE USED ON RAILWAY STATION PLATFORMS; PARTS OF THE FORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8710",
+            "description": "TANKS AND OTHER ARMOURED FIGHTING VEHICLES, MOTORISED, WHETHER OR NOT FITTED WITH WEAPONS, AND PARTS OF SUCH VEHICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87100000",
+            "description": "TANKS AND OTHER ARMOURED FIGHTING VEHICLES, MOTORISED, WHETHER OR NOT FITTED WITH WEAPONS, AND PARTS OF SUCH VEHICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8711",
+            "description": "Motorcycles of engine capacity (including mopeds) and cycles fitted\nwith an auxiliary motor, with or without side-cars, of an engine\ncapacity not exceeding 350cc; side cars",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87111010",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY NOT EXCEEDING 50 CC: MOPEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87111020",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY NOT EXCEEDING 50 CC MOTORISED CYCLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87111090",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY NOT EXCEEDING 50 CC OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87112011",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY EXCEEDING 50 CC BUT NOT EXCEEDING 250 CC : SCOOTERS : OF CYLINDER CAPACITY NOT",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87112019",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY EXCEEDING 50 CC BUT NOT EXCEEDING 250 CC : SCOOTERS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87112021",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY EXCEEDING 50 CC BUT NOT EXCEEDING 250 CC : MOTOR CYCLES OF CYLINDER CAPACITY N",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87112029",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY EXCEEDING 50 CC BUT NOT EXCEEDING 250 CC : MOTOR CYCLES OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87112031",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY EXCEEDING 50 CC BUT NOT EXCEEDING 250 CC : MOPEDS : OF CYLINDER CAPACITY NOT E",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87112039",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY EXCEEDING 50 CC BUT NOT EXCEEDING 250 CC : MOPEDS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87112091",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY EXCEEDING 50 CC BUT NOT EXCEEDING 250 CC : OTHER : OF CYLINDER CAPACITY NOT EX",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87112099",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY EXCEEDING 50 CC BUT NOT EXCEEDING 250 CC : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87113010",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY EXCEEDING 250 CC BUT NOT EXCEEDING 500 CC : SCOOTERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87113020",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY EXCEEDING 250 CC BUT NOT EXCEEDING 500 CC : MOTOR-CYCLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87113090",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY EXCEEDING 250 CC BUT NOT EXCEEDING 500 CC : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87114010",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY EXCEEDING 500 CC BUT NOT EXCEEDING 800 CC : MOTOR-CYCLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87114090",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; WITH RECIPROCATING INTERNAL COMBUSTION PISTON ENGINE OF A CYLINDER CAPACITY EXCEEDING 500 CC BUT NOT EXCEEDING 800 CC : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871160",
+            "description": "WITH ELECTRIC MOTOR FOR PROPULSION",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87116010",
+            "description": "MOTOR CYCLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87116020",
+            "description": "SCOOTERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87116030",
+            "description": "MOPEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87116090",
+            "description": "OTHERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87119010",
+            "description": "MOTORCYCLES (INCLUDING MOPEDS) AND CYCLES FITTED WITH AN AUXILIARY MOTOR, WITH OR WITHOUT SIDE-CARS; OTHER : SIDE-CARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87119090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8712",
+            "description": "BICYCLES AND OTHER CYCLES (INCLUDING DELIVERY TRICYCLES), NOT MOTORISED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87120010",
+            "description": "BICYCLES AND OTHER CYCLES (INCLUDING DELIVERY TRICYCLES), NOT MOTORISED BICYCLES AND OTHER CYCLES (INCLUDING DELIVERY TRICYCLES), NOT MOTORISED BICYCLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87120090",
+            "description": "BICYCLES AND OTHER CYCLES (INCLUDING DELIVERY TRICYCLES), NOT MOTORISED BICYCLES AND OTHER CYCLES (INCLUDING DELIVERY TRICYCLES), NOT MOTORIZED OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8713",
+            "description": "-",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871310",
+            "description": "NOT MECHANICALLY PROPELLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87131010",
+            "description": "CARRIAGES FOR DISABLED PERSONS, WHETHER OR NOT MOTORISED OR OTHERWISE MECHANICALLY PROPELLED NOT MECHANICALLY PROPELLED WHEEL CHAIRS FOR INVALID",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87131090",
+            "description": "CARRIAGES FOR DISABLED PERSONS, WHETHER OR NOT MOTORISED OR OTHERWISE MECHANICALLY PROPELLED NOT MECHANICALLY PROPELLED OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871390",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87139010",
+            "description": "CARRIAGES FOR DISABLED PERSONS, WHETHER OR NOT MOTORISED OR OTHERWISE MECHANICALLY PROPELLED OTHER WHEEL CHAIRS FOR INVALID",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87139090",
+            "description": "CARRIAGES FOR DISABLED PERSONS, WHETHER OR NOT MOTORISED OR OTHERWISE MECHANICALLY PROPELLED OTHER OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8714",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711 TO 8713",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871410",
+            "description": "OF MOTORCYCLES (INCLUDING MOPEDS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87141010",
+            "description": "SADDLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87141090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871420",
+            "description": "OF CARRIAGES FOR DISABLED PERSONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2019-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87142010",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 OF CARRIAGES FOR DISABLED PERSONS MECHANICALLY PROPELLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87142020",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 OF CARRIAGES FOR DISABLED PERSONS NON-MECHANICALLY PROPELLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87142090",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 OF CARRIAGES FOR DISABLED PERSONS OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871491",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 OTHER : FRAMES AND FORKS, AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87149100",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 OTHER : FRAMES AND FORKS, AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871492",
+            "description": "WHEEL RIMS AND SPOKES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87149210",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 WHEEL RIMS AND SPOKES : BICYCLE RIMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87149220",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 WHEEL RIMS AND SPOKES BICYCLE SPOKES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87149290",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 WHEEL RIMS AND SPOKES OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87149310",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 HUBS, OTHER THAN COASTER BRAKING HUBS AND HUB BRAKES, AND FREE-WHEEL SPROCKET-WHEELS : BICYCLE HUBS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87149320",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 HUBS, OTHER THAN COASTER BRAKING HUBS AND HUB BRAKES, AND FREE-WHEEL SPROCKET-WHEELS : BICYCLE FREE-WHEELS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87149390",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 HUBS, OTHER THAN COASTER BRAKING HUBS AND HUB BRAKES, AND FREE-WHEEL SPROCKET-WHEELS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87149400",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 BRAKES, INCLUDING COASTER BRAKING HUBS AND HUB BRAKES, AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871495",
+            "description": "SADDLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87149510",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 SADDLES : BICYCLE SADDLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87149590",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 SADDLES OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871496",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 PEDALS AND CRANK-GEAR, AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87149600",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 PEDALS AND CRANK-GEAR, AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871499",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87149910",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 OTHER : BICYCLE CHAINS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87149920",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 OTHER BICYCLE WHEELS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87149990",
+            "description": "PARTS AND ACCESSORIES OF VEHICLES OF HEADINGS 8711TO 8713 OTHER OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8715",
+            "description": "BABY CARRIAGES AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871500",
+            "description": "BABY CARRIAGES AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87150010",
+            "description": "BABY CARRIAGES AND PARTS THEREOF BABY CARRIAGES AND PARTS THEREOF: BABY CARRIAGES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87150020",
+            "description": "BABY CARRIAGES AND PARTS THEREOF BABY CARRIAGES AND PARTS THEREOF PARTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8716",
+            "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871610",
+            "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF TRAILERS AND SEMI-TRAILERS OF THE CARAVAN TYPE, FOR HOUSING OR CAMPING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87161000",
+            "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF TRAILERS AND SEMI-TRAILERS OF THE CARAVAN TYPE, FOR HOUSING OR CAMPING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871631",
+            "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER TRAILERS AND SEMI-TRAILERS FOR THE TRANSPORT OF GOODS : TANKER TRAILERS AND TANKER SEMI-TRAILERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87163100",
+            "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER TRAILERS AND SEMI-TRAILERS FOR THE TRANSPORT OF GOODS : TANKER TRAILERS AND TANKER SEMI-TRAILERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871639",
+            "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER TRAILERS AND SEMI-TRAILERS FOR THE TRANSPORT OF GOODS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87163900",
+            "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER TRAILERS AND SEMI-TRAILERS FOR THE TRANSPORT OF GOODS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871640",
+            "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER TRAILERS AND SEMI-TRAILERS FOR THE TRANSPORT OF GOODS : OTHER TRAILERS AND SEMI-TRAILERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87164000",
+            "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER TRAILERS AND SEMI-TRAILERS FOR THE TRANSPORT OF GOODS : OTHER TRAILERS AND SEMI-TRAILERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871680",
+            "description": "OTHER VEHICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87168010",
+            "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER VEHICLES HAND PROPELLED VEHICLES (E.G. HAND CARTS, RICKSHAWS AND THE LIKE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87168020",
+            "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER VEHICLES ANIMAL DRAWN VEHICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87168090",
+            "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF OTHER VEHICLES OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "871690",
+            "description": "PARTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87169010",
+            "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF PARTS : PARTS AND ACCESSORIES OF TRAILERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "87169090",
+            "description": "TRAILERS AND SEMI-TRAILERS; OTHER VEHICLES, NOT MECHANICALLY PROPELLED; PARTS THEREOF PARTS OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

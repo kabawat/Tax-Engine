@@ -1,0 +1,427 @@
+{
+    "chapter": "79",
+    "kind": "HSN",
+    "count": 35,
+    "entries": [
+        {
+            "code": "7901",
+            "description": "UNWROUGHT ZINC - ZINC, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "790111",
+            "description": "UNWROUGHT ZINC - ZINC, NOT ALLOYED : CONTAINING BY WEIGHT 99.99% OR MORE OF ZINC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79011100",
+            "description": "UNWROUGHT ZINC - ZINC, NOT ALLOYED : CONTAINING BY WEIGHT 99.99% OR MORE OF ZINC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "790112",
+            "description": "UNWROUGHT ZINC - ZINC, NOT ALLOYED : CONTAINING BY WEIGHT LESS THAN 99.99% OF ZINC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79011200",
+            "description": "UNWROUGHT ZINC - ZINC, NOT ALLOYED : CONTAINING BY WEIGHT LESS THAN 99.99% OF ZINC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "790120",
+            "description": "ZINC ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79012010",
+            "description": "UNWROUGHT ZINC - ZINC ALLOYS :MOZAK OR ALLOYS OF ZINC AND ALUMINIUM CONTAINING NOT LESS THAN 94% BY WEIGHT OF ZINC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79012090",
+            "description": "UNWROUGHT ZINC - ZINC ALLOYS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7902",
+            "description": "ZINC WASTE AND SCRAP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "790200",
+            "description": "ZINC WASTE AND SCRAP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79020090",
+            "description": "ZINC WASTE AND SCRAP - ZINC WASTE AND SCRAP :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7903",
+            "description": "ZINC DUST, POWDERS AND FLAKES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "790310",
+            "description": "ZINC DUST, POWDERS AND FLAKES : ZINC DUST",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79031000",
+            "description": "ZINC DUST, POWDERS AND FLAKES : ZINC DUST",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "790390",
+            "description": "ZINC DUST, POWDERS AND FLAKES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79039000",
+            "description": "ZINC DUST, POWDERS AND FLAKES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7904",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "790400",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79040011",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE - ZINC BARS, RODS, PROFILES AND WIRE : BARS AND RODS :HOLLOW BARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79040012",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE - ZINC BARS, RODS, PROFILES AND WIRE : BARS AND RODS :RODS, INCLUDING WIRE RODS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79040019",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE - ZINC BARS, RODS, PROFILES AND WIRE : BARS AND RODS :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79040021",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE - ZINC BARS, RODS, PROFILES AND WIRE : PROFILES : HOLLOW",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79040022",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE - ZINC BARS, RODS, PROFILES AND WIRE : PROFILES : ANGLES, SHAPES AND SECTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79040029",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE - ZINC BARS, RODS, PROFILES AND WIRE : PROFILES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79040030",
+            "description": "ZINC BARS, RODS, PROFILES AND WIRE - ZINC BARS, RODS, PROFILES AND WIRE : WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7905",
+            "description": "ZINC PLATES, SHEETS, STRIP AND FOIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "790500",
+            "description": "ZINC PLATES, SHEETS, STRIP AND FOIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79050010",
+            "description": "ZINC PLATES, SHEETS, STRIP AND FOIL - ZINC PLATES, SHEETS, STRIP AND FOIL :CALOTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79050020",
+            "description": "ZINC PLATES, SHEETS, STRIP AND FOIL - ZINC PLATES, SHEETS, STRIP AND FOIL :PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79050030",
+            "description": "ZINC PLATES, SHEETS, STRIP AND FOIL - ZINC PLATES, SHEETS, STRIP AND FOIL :SHEETS, STRIP AND CIRCLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79050040",
+            "description": "ZINC PLATES, SHEETS, STRIP AND FOIL - ZINC PLATES, SHEETS, STRIP AND FOIL :FOIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7907",
+            "description": "OTHER ARTICLES OF ZINC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "790700",
+            "description": "OTHER ARTICLES OF ZINC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79070010",
+            "description": "OTHER ARTICLES OF ZINC : SANITARY FIXTURES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "79070090",
+            "description": "OTHER ARTICLES OF ZINC : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,571 @@
+{
+    "heading": "9985",
+    "kind": "SAC",
+    "count": 47,
+    "entries": [
+        {
+            "code": "998511",
+            "description": "EXECUTIVE/RETAINED PERSONNEL SEARCH SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998512",
+            "description": "PERMANENT PLACEMENT SERVICES, OTHER THAN EXECUTIVE SEARCH SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998513",
+            "description": "CONTRACT STAFFING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998514",
+            "description": "TEMPORARY STAFFING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998515",
+            "description": "LONG-TERM STAFFING (PAY ROLLING) SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998516",
+            "description": "TEMPORARY STAFFING-TO-PERMANENT PLACEMENT SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998517",
+            "description": "CO-EMPLOYMENT STAFFING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998519",
+            "description": "OTHER EMPLOYMENT & LABOUR SUPPLY SERVICES N.E.C",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998521",
+            "description": "INVESTIGATION SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998522",
+            "description": "SECURITY CONSULTING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998523",
+            "description": "SECURITY SYSTEMS SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998524",
+            "description": "ARMOURED CAR SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998525",
+            "description": "GUARD SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998526",
+            "description": "TRAINING OF GUARD DOGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998527",
+            "description": "POLYGRAPH SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998528",
+            "description": "FINGERPRINTING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998529",
+            "description": "OTHER SECURITY SERVICES N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998531",
+            "description": "DISINFECTING AND EXTERMINATING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998532",
+            "description": "WINDOW CLEANING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998533",
+            "description": "GENERAL CLEANING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998534",
+            "description": "SPECIALIZED CLEANING SERVICES FOR RESERVOIRS AND TANKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998535",
+            "description": "STERILIZATION OF OBJECTS OR PREMISES (OPERATING ROOMS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998536",
+            "description": "FURNACE AND CHIMNEY CLEANING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998537",
+            "description": "EXTERIOR CLEANING OF BUILDINGS OF ALL TYPES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998538",
+            "description": "CLEANING OF TRANSPORTATION EQUIPMENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998539",
+            "description": "OTHER CLEANING SERVICES N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998540",
+            "description": "PACKAGING SERVICES OF GOODS FOR OTHERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998541",
+            "description": "PARCEL PACKING AND GIFT WRAPPING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998542",
+            "description": "COIN AND CURRENCY PACKING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998549",
+            "description": "OTHER PACKAGING SERVICES N.E.C",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998551",
+            "description": "RESERVATION SERVICES FOR TRANSPORTATION",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998552",
+            "description": "RESERVATION SERVICES FOR ACCOMMODATION, CRUISES AND PACKAGE TOURS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998553",
+            "description": "RESERVATION SERVICES FOR CONVENTION CENTRES, CONGRESS CENTRES AND EXHIBITION HALLS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998554",
+            "description": "RESERVATION SERVICES FOR EVENT TICKETS, CINEMA HALLS, ENTERTAINMENT AND RECREATIONAL SERVICES AND OTHER RESERVATION SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998555",
+            "description": "TOUR OPERATOR SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998556",
+            "description": "TOURIST GUIDE SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998557",
+            "description": "TOURISM PROMOTION AND VISITOR INFORMATION SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998559",
+            "description": "OTHER TRAVEL ARRANGEMENT AND RELATED SERVICES N.E.C",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998591",
+            "description": "CREDIT REPORTING & RATING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998592",
+            "description": "COLLECTION AGENCY SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998593",
+            "description": "TELEPHONE-BASED SUPPORT SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998594",
+            "description": "COMBINED OFFICE ADMINISTRATIVE SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998595",
+            "description": "SPECIALIZED OFFICE SUPPORT SERVICES SUCH AS DUPLICATING SERVICES, MAILING SERVICES, DOCUMENT PREPARATION ETC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998596",
+            "description": "EVENTS, EXHIBITIONS, CONVENTIONS AND TRADE SHOWS ORGANISATION AND ASSISTANCE SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998597",
+            "description": "LANDSCAPE CARE AND MAINTENANCE SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998598",
+            "description": "OTHER INFORMATION SERVICES N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998599",
+            "description": "OTHER SUPPORT SERVICES N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

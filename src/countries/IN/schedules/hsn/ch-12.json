@@ -1,0 +1,2005 @@
+{
+    "chapter": "12",
+    "kind": "HSN",
+    "count": 166,
+    "entries": [
+        {
+            "code": "1201",
+            "description": "SOYA BEANS, WHETHER OR NOT BROKEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12010010",
+            "description": "SOYA BEANS, WHETHER OR NOT BROKEN SOYA BEANS, WHETHER OR NOT BROKEN : OF SEED QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12010090",
+            "description": "SOYA BEANS, WHETHER OR NOT BROKEN SOYA BEANS, WHETHER OR NOT BROKEN : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12011000",
+            "description": "SEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12019000",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1202",
+            "description": "GROUND-NUTS, NOT ROASTED OR OTHERWISE COOKED, WHETHER OR NOT SHELLED OR BROKEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12021011",
+            "description": "GROUND?NUTS, NOT ROASTED OR OTHERWISE COOKED, WHETHER OR NOT SHELLED OR BROKEN IN SHELL : H.P.S : OF SEED QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12021019",
+            "description": "GROUND?NUTS, NOT ROASTED OR OTHERWISE COOKED, WHETHER OR NOT SHELLED OR BROKEN IN SHELL : H.P.S : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12021091",
+            "description": "GROUND?NUTS, NOT ROASTED OR OTHERWISE COOKED, WHETHER OR NOT SHELLED OR BROKEN IN SHELL : OTHER : OF SEED QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12021099",
+            "description": "GROUND?NUTS, NOT ROASTED OR OTHERWISE COOKED, WHETHER OR NOT SHELLED OR BROKEN IN SHELL : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120230",
+            "description": "SEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12023010",
+            "description": "H.P.S.",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12023090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120241",
+            "description": "IN SHELL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12024110",
+            "description": "H.P.S.",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12024190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120242",
+            "description": "SHELLED, WHETHER OR NOT BROKEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12024210",
+            "description": "KERNELS, H.P.S",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12024220",
+            "description": "KERNELGS, OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12024290",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1203",
+            "description": "COPRA",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12030000",
+            "description": "COPRA",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1204",
+            "description": "LINSEED, WHETHER OR NOT BROKEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120400",
+            "description": "LINSEED, WHETHER OR NOT BROKEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12040010",
+            "description": "LINSEED, WHETHER OR NOT BROKEN LINSEED, WHETHER OR NOT BROKEN : OF SEED QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12040090",
+            "description": "LINSEED, WHETHER OR NOT BROKEN LINSEED, WHETHER OR NOT BROKEN : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1205",
+            "description": "RAPE OR COLZA SEEDS, WHETHER OR NOT BROKEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120510",
+            "description": "RAPE OR COLZA SEEDS, WHETHER OR NOT BROKEN LOW ERUCIC ACID RAPE OR COLZA SEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12051000",
+            "description": "RAPE OR COLZA SEEDS, WHETHER OR NOT BROKEN LOW ERUCIC ACID RAPE OR COLZA SEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120590",
+            "description": "RAPE OR COLZA SEEDS, WHETHER OR NOT BROKEN OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12059000",
+            "description": "RAPE OR COLZA SEEDS, WHETHER OR NOT BROKEN OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1206",
+            "description": "SUNFLOWER SEEDS, WHETHER OR NOT BROKEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120600",
+            "description": "SUNFLOWER SEEDS, WHETHER OR NOT BROKEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12060010",
+            "description": "SUNFLOWER SEEDS, WHETHER OR NOT BROKEN SUNFLOWER SEEDS, WHETHER OR NOT BROKEN : OF SEED QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12060090",
+            "description": "SUNFLOWER SEEDS, WHETHER OR NOT BROKEN SUNFLOWER SEEDS, WHETHER OR NOT BROKEN : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1207",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120710",
+            "description": "PALM NUTS AND KERNELS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12071010",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN PALM NUTS AND KERNELS : OF SEED QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12071090",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN PALM NUTS AND KERNELS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12072010",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN COTTON SEEDS : OF SEED QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12072090",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN COTTON SEEDS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12072100",
+            "description": "SEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12072900",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120730",
+            "description": "CASTOR OIL SEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12073010",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN CASTOR OIL SEEDS : OF SEED QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12073090",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN CASTOR OIL SEEDS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120740",
+            "description": "SESAMUM SEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12074010",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN SESAMUM SEEDS : OF SEED QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12074090",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN SESAMUM SEEDS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120750",
+            "description": "MUSTARD SEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12075010",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN MUSTARD SEEDS : OF SEED QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12075090",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN MUSTARD SEEDS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120760",
+            "description": "SAFFLOWER (CARTHAMUS TINCTORIUS) SEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12076010",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN SAFFLOWER SEEDS : OF SEED QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12076090",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN SAFFLOWER SEEDS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120770",
+            "description": "MELON SEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12077010",
+            "description": "OF SEED QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12077090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12079100",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN OTHER : POPPY SEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120799",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12079910",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN OTHER : OTHER : AJAMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12079920",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN OTHER : OTHER : MANGO KERNEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12079930",
+            "description": "OTHER OIL SEEDS AND OLEAGINO FRUITS, WHETHER OR NOT BROKEN OTHER : OTHER : NIGER SEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12079940",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN OTHER : OTHER : KOKAM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12079990",
+            "description": "OTHER OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1208",
+            "description": "FLOURS AND MEALS OF OIL SEEDS OR OLEAGINOUS FRUITS, OTHER THAN THOSE OF MUSTARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120810",
+            "description": "FLOURS AND MEALS OF OIL SEEDS OR OLEAGINOUS FRUITS, OTHER THAN THOSE OF MUSTARD OF SOYA BEANS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12081000",
+            "description": "FLOURS AND MEALS OF OIL SEEDS OR OLEAGINOUS FRUITS, OTHER THAN THOSE OF MUSTARD OF SOYA BEANS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120890",
+            "description": "FLOURS AND MEALS OF OIL SEEDS OR OLEAGINOUS FRUITS, OTHER THAN THOSE OF MUSTARD OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12089000",
+            "description": "FLOURS AND MEALS OF OIL SEEDS OR OLEAGINOUS FRUITS, OTHER THAN THOSE OF MUSTARD OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1209",
+            "description": "Tamarind seeds meant for any use other than sowing",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12091000",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING SUGAR BEET SEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12092100",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING SEEDS OF FORAGE PLANTS : LUCERNE (ALFALFA) SEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12092200",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING SEEDS OF FORAGE PLANTS : CLOVER (TRIFOLIUM SPP.) SEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12092300",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING SEEDS OF FORAGE PLANTS : FESCUE SEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12092400",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING SEEDS OF FORAGE PLANTS : KENTUCKY BLUE GRASS (POA PRATENSIS L.) SEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12092500",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING SEEDS OF FORAGE PLANTS : RYE GRASS (LOLIUM MULTIFLORUM LAM., LOLIUM PERENNE L.) SEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12092600",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING SEEDS OF FORAGE PLANTS : TIMOTHY GRASS SEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120929",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12092910",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING SEEDS OF FORAGE PLANTS : OTHER : AUSTRALIAN LUPIN SEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12092990",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING SEEDS OF FORAGE PLANTS : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12093000",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING SEEDS OF HERBACEOUS PLANTS CULTIVATED PRINCIPALLY FOR THEIR FLOWERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120991",
+            "description": "VEGETABLE SEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12099110",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING OTHER : VEGETABLE SEEDS : OF CABBAGE",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12099120",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING OTHER : VEGETABLE SEEDS OF CAULIFLOWER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12099130",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING OTHER : VEGETABLE SEEDS : OF ONION",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12099140",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING OTHER : VEGETABLE SEEDS : OF PEA",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12099150",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING OTHER : VEGETABLE SEEDS : OF RADISH",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12099160",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING OTHER : VEGETABLE SEEDS : OF TOMATO",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12099190",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING OTHER : VEGETABLE SEEDS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "120999",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12099910",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING OTHER : OTHER : FRUIT SEEDS FOR PLANTING OR SOWING",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12099990",
+            "description": "SEEDS, FRUIT AND SPORES, OF A KIND USED FOR SOWING OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1210",
+            "description": "HOP CONES, FRESH OR DRIED, WHETHER OR NOT GROUND, POWDERED OR IN THE FORM OF PELLETS; LUPULIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "121010",
+            "description": "HOP CONES, FRESH OR DRIED, WHETHER OR NOT GROUND, POWDERED OR IN THE FORM OF PELLETS; LUPULIN HOP CONES, NEITHER GROUND NOR POWDERED NOR IN THE FORM OF PELLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12101000",
+            "description": "HOP CONES, FRESH OR DRIED, WHETHER OR NOT GROUND, POWDERED OR IN THE FORM OF PELLETS; LUPULIN HOP CONES, NEITHER GROUND NOR POWDERED NOR IN THE FORM OF PELLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "121020",
+            "description": "HOP CONES, FRESH OR DRIED, WHETHER OR NOT GROUND, POWDERED OR IN THE FORM OF PELLETS; LUPULIN HOP CONES, GROUND, POWDERED OR IN THE FORM OF PELLETS; LUPULIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12102000",
+            "description": "HOP CONES, FRESH OR DRIED, WHETHER OR NOT GROUND, POWDERED OR IN THE FORM OF PELLETS; LUPULIN HOP CONES, GROUND, POWDERED OR IN THE FORM OF PELLETS; LUPULIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1211",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "121120",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED GINSENG ROOTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12112000",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED GINSENG ROOTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "121130",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED COCA LEAF",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12113000",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED COCA LEAF",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "121140",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED POPPY STRAW",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12114000",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED POPPY STRAW",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12115000",
+            "description": "EPHEDRA",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "121190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119011",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : SEEDS : AMBRETTE SEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119012",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : SEEDS : NUXVOMICA, DRIED RIPE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119013",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : SEEDS : PSYLLIUM SEED (ISOBGUL)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119014",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : SEEDS : NEEM SEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119015",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : SEEDS : JOJOBA SEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119019",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : SEEDS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119021",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : LEAVES, POWDER, FLOWERS AND POD",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119022",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : LEAVES, POWDER, FLOWERS AND POD",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119023",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : LEAVES, POWDER, FLOWERS AND POD",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119024",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : LEAVES, POWDER, FLOWERS AND POD",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119025",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : LEAVES, POWDER, FLOWERS AND POD",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119026",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : LEAVES, POWDER, FLOWERS AND POD",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119029",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : LEAVES, POWDER, FLOWERS AND POD",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119031",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : BARK, HUSK AND RIND : CASCARA S",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119032",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : BARK, HUSK AND RIND : PSYLLIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119033",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : BARK, HUSK AND RIND : GAMBOGE F",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119039",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : BARK, HUSK AND RIND : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119041",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : ROOTS AND RHIZOMES : BELLADONA",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119042",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : ROOTS AND RHIZOMES : GALANGAL R",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119043",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : ROOTS AND RHIZOMES : IPECAC DRI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119044",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : ROOTS AND RHIZOMES : SERPENTINA",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119045",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : ROOTS AND RHIZOMES : ZEDOVARY R",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119046",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : ROOTS AND RHIZOMES : KUTH ROOT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119047",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : ROOTS AND RHIZOMES : SARASAPARI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119048",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : ROOTS AND RHIZOMES : SWEET FLAG",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119049",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : ROOTS AND RHIZOMES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119050",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : SANDALWOOD CHIPS AND DUST",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119060",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : VINCA ROSEA HERBS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119070",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : MINT INCLUDING LEAVES (ALL SPEC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119080",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : AGARWOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119091",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : OTHER : CHIRATA",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119092",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : OTHER : TUKMARIA",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119093",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : OTHER : UNAB (INDIAN JUJUBA OR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119094",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : OTHER : BASIL, HYSSOP, ROSEMARY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119095",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : OTHER : LOVAGE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119096",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : OTHER : GARCENIA",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12119099",
+            "description": "PLANTS AND PARTS OF PLANTS (INCLUDING SEEDS AND FRUITS), OF A KIND USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSE, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1212",
+            "description": "LOCUST BEANS, SEAWEEDS AND OTHER ALGAE,SUGAR BEET AND SUGARCANE, FRESH, CHILLED, FROZEN OR DRIED, WHETHER OR NOT GROUND; FRUIT STONES AND KERNELS AND OTHER VEGETABLE PRODUCTS (INCLUDING UNROASTED CHICORY ROOTS OF THE VARIETY CI-CHORIUM INTYBUS SATIVUM) OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "121221",
+            "description": "SEAWEEDS AND OTHER ALGAE FIT FOR HUMAN CONSUMPTION",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12122110",
+            "description": "SEAWEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12122190",
+            "description": "OTHER ALGAE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "121229",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12122910",
+            "description": "SEAWEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12122990",
+            "description": "OTHER ALGAE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12129100",
+            "description": "LOCUST BEANS, SEAWEEDS AND OTHER ALGAE, SUGAR BEET AND SUGARCANE, FRESH, CHILLED, FROZEN OR DRIED, WHETHER OR NOT GROUND; FRUIT STONES AND KERNELS AND OTHER VEGETABLE PRODUCTS (INCLUDING UNROASTED CHICORY ROOTS OF THE VARIETY CI-CHORIUM INTYBUS SATIVUM) O",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12129200",
+            "description": "LOCUS BEANS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12129300",
+            "description": "SUGAR CANE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12129400",
+            "description": "CHICORY ROOTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "121299",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12129910",
+            "description": "LOCUST BEANS, SEAWEEDS AND OTHER ALGAE, SUGAR BEET AND SUGARCANE, FRESH, CHILLED, FROZEN OR DRIED, WHETHER OR NOT GROUND; FRUIT STONES AND KERNELS AND OTHER VEGETABLE PRODUCTS (INCLUDING UNROASTED CHICORY ROOTS OF THE VARIETY CI-CHORIUM INTYBUS SATIVUM) O",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12129920",
+            "description": "LOCUST BEANS, SEAWEEDS AND OTHER ALGAE, SUGAR BEET AND SUGARCANE, FRESH, CHILLED, FROZEN OR DRIED, WHETHER OR NOT GROUND; FRUIT STONES AND KERNELS AND OTHER VEGETABLE PRODUCTS (INCLUDING UNROASTED CHICORY ROOTS OF THE VARIETY CI-CHORIUM INTYBUS SATIVUM) O",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12129990",
+            "description": "LOCUST BEANS, SEAWEEDS AND OTHER ALGAE, SUGAR BEET AND SUGARCANE, FRESH, CHILLED, FROZEN OR DRIED, WHETHER OR NOT GROUND; FRUIT STONES AND KERNELS AND OTHER VEGETABLE PRODUCTS (INCLUDING UNROASTED CHICORY ROOTS OF THE VARIETY CI-CHORIUM INTYBUS SATIVUM) O",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1213",
+            "description": "CEREAL STRAW AND HUSKS, UNPREPARED,WHETHER OR NOT CHOPPED, GROUND, PRESSED OR IN THE FORM OF PELLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12130000",
+            "description": "CEREAL STRAW AND HUSKS, UNPREPARED, WHETHER OR NOT CHOPPED, GROUND, PRESSEDOR IN THE FORM OF PELLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1214",
+            "description": "SWEDES, MANGOLDS, FODDER ROOTS, HAY, LUCERNE (ALFALFA), CLOVER, SAINFOIN, FORAGE KALE, LUPINES, VETCHES AND SIMILAR FORAGE PRODUCTS, WHETHER OR NOT IN THE FORM OF PELLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "121410",
+            "description": "SWEDES, MANGOLDS, FODDER ROOTS, HAY, LUCERNE (ALFALFA), CLOVER, SAINFOIN, FORAGE KALE, LUPINES, VETCHES AND SIMILAR FORAGE PRODUCTS, WHETHER OR NOT IN THE FORM OF PELLETS LUCERNE (ALFALFA) MEAL AND PELLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12141000",
+            "description": "SWEDES, MANGOLDS, FODDER ROOTS, HAY, LUCERNE (ALFALFA), CLOVER, SAINFOIN, FORAGE KALE, LUPINES, VETCHES AND SIMILAR FORAGE PRODUCTS, WHETHER OR NOT IN THE FORM OF PELLETS LUCERNE (ALFALFA) MEAL AND PELLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "121490",
+            "description": "SWEDES, MANGOLDS, FODDER ROOTS, HAY, LUCERNE (ALFALFA), CLOVER, SAINFOIN, FORAGE KALE, LUPINES, VETCHES AND SIMILAR FORAGE PRODUCTS, WHETHER OR NOT IN THE FORM OF PELLETS OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "12149000",
+            "description": "SWEDES, MANGOLDS, FODDER ROOTS, HAY, LUCERNE (ALFALFA), CLOVER, SAINFOIN, FORAGE KALE, LUPINES, VETCHES AND SIMILAR FORAGE PRODUCTS, WHETHER OR NOT IN THE FORM OF PELLETS OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,343 @@
+{
+    "heading": "9984",
+    "kind": "SAC",
+    "count": 28,
+    "entries": [
+        {
+            "code": "998411",
+            "description": "CARRIER SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998412",
+            "description": "FIXED TELEPHONY SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998413",
+            "description": "MOBILE TELECOMMUNICATIONS SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998414",
+            "description": "PRIVATE NETWORK SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998415",
+            "description": "DATA TRANSMISSION SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998419",
+            "description": "OTHER TELECOMMUNICATIONS SERVICES INCLUDING FAX SERVICES, TELEX SERVICES N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998421",
+            "description": "INTERNET BACKBONE SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998422",
+            "description": "INTERNET ACCESS SERVICES IN WIRED AND WIRELESS MODE.",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998423",
+            "description": "FAX, TELEPHONY OVER THE INTERNET",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998424",
+            "description": "AUDIO CONFERENCING AND VIDEO CONFERENCING OVER THE INTERNET",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998429",
+            "description": "OTHER INTERNET TELECOMMUNICATIONS SERVICES N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998431",
+            "description": "ON-LINE TEXT BASED INFORMATION SUCH AS ONLINE BOOKS, NEWPAPERS, PERIODICALS, DIRECTORIES ETC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998432",
+            "description": "ON-LINE AUDIO CONTENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998433",
+            "description": "ON-LINE VIDEO CONTENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998434",
+            "description": "SOFTWARE DOWNLOADS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998439",
+            "description": "OTHER ON-LINE CONTENTS N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998441",
+            "description": "NEWS AGENCY SERVICES TO NEWSPAPERS AND PERIODICALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998442",
+            "description": "SERVICES OF INDEPENDENT JOURNALISTS AND PRESS PHOTOGRAPHERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998443",
+            "description": "NEWS AGENCY SERVICES TO AUDIOVISUAL MEDIA",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998451",
+            "description": "LIBRARY SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998452",
+            "description": "OPERATION SERVICES OF PUBLIC ARCHIVES INCLUDING DIGITAL ARCHIVES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998453",
+            "description": "OPERATION SERVICES OF HISTORICAL ARCHIVES INCLUDING DIGITAL ARCHIVES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998461",
+            "description": "RADIO BROADCAST ORIGINALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998462",
+            "description": "TELEVISION BROADCAST ORIGINALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998463",
+            "description": "RADIO CHANNEL PROGRAMMES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998464",
+            "description": "TELEVISION CHANNEL PROGRAMMES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998465",
+            "description": "BROADCASTING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998466",
+            "description": "HOME PROGRAMME DISTRIBUTION SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2005 @@
+{
+    "chapter": "96",
+    "kind": "HSN",
+    "count": 149,
+    "entries": [
+        {
+            "code": "9601",
+            "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960110",
+            "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING) WORKED IVORY AND ARTICLES OF IVORY",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96011000",
+            "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING) WORKED IVORY AND ARTICLES OF IVORY",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96019010",
+            "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING) - OTHER : WORKED TORTOISE-SHELL AND ARTICLES THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96019020",
+            "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING) - OTHER : WORKED MOTHER-OF-PEARL AND ARTICLES THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96019030",
+            "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING) - OTHER : WORKED BONE (EXCLUDING WHALE BONE) AND ARTICLES THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96019040",
+            "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING) - OTHER : WORKED HORN, CORAL AND OTHER ANIMAL CARVING MATERIAL AND ARTIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96019090",
+            "description": "WORKED IVORY, BONE, TORTOISE-SHELL, HORN, ANTLERS, CORAL, MOTHER-OF-PEARL AND OTHER ANIMAL CARVING MATERIAL, AND ARTICLES OF THESE MATERIALS (INCLUDING ARTICLES OBTAINED BY MOULDING) - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9602",
+            "description": "WORKED VEGETABLE OR MINERAL CARVING MATERIAL AND ARTICLES OF THESE MATERIALS MOULDED OR CARVED ARTICLES OF WAX, OF STEARIN, OF NATURAL GUMS OR NATURAL RESINS OR OF MODELLING PASTES, AND OTHER MOULDED OR CARVED ARTICLES, NOT ELSEWHERE SPECIFIED OR INCLUDED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96020010",
+            "description": "WORKED VEGETABLE OR MINERAL CARVING MATERIAL AND ARTICLES OF THESE MATERIALS MOULDED OR CARVED ARTICLES OF WAX, OF STEARIN, OF NATURAL GUMS OR NATURAL RESINS OR OF MODELLING PASTES, AND OTHER MOULDED OR CARVED ARTICLES, NOT ELSEWHERE SPECIFIED OR INCLUDED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96020030",
+            "description": "WORKED VEGETABLE OR MINERAL CARVING MATERIAL AND ARTICLES OF THESE MATERIALS MOULDED OR CARVED ARTICLES OF WAX, OF STEARIN, OF NATURAL GUMS OR NATURAL RESINS OR OF MODELLING PASTES, AND OTHER MOULDED OR CARVED ARTICLES, NOT ELSEWHERE SPECIFIED OR INCLUDED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96020040",
+            "description": "WORKED VEGETABLE OR MINERAL CARVING MATERIAL AND ARTICLES OF THESE MATERIALS MOULDED OR CARVED ARTICLES OF WAX, OF STEARIN, OF NATURAL GUMS OR NATURAL RESINS OR OF MODELLING PASTES, AND OTHER MOULDED OR CARVED ARTICLES, NOT ELSEWHERE SPECIFIED OR INCLUDED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96020090",
+            "description": "WORKED VEGETABLE OR MINERAL CARVING MATERIAL AND ARTICLES OF THESE MATERIALS MOULDED OR CARVED ARTICLES OF WAX, OF STEARIN, OF NATURAL GUMS OR NATURAL RESINS OR OF MODELLING PASTES, AND OTHER MOULDED OR CARVED ARTICLES, NOT ELSEWHERE SPECIFIED OR INCLUDED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9603",
+            "description": "Broomsticks [other than brooms consisting of twigs or other vegetable materials bound together, with or without handles]",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96031000",
+            "description": "BROOMS, BRUSHES (INCLUDING BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES), HAND-OPERATED MECHANICAL FLOOR SWEEPERS, NOT MOTORISED, MOPS AND FEATHER DUSTERS; PREPARED KNOTS AND TUFTS FOR BROOM OR BRUSH MAKING; PAINT PADS AND ROLLERS; SQUEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960321",
+            "description": "BROOMS, BRUSHES (INCLUDING BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES), HAND-OPERATED MECHANICAL FLOOR SWEEPERS, NOT MOTORISED, MOPS AND FEATHER DUSTERS; PREPARED KNOTS AND TUFTS FOR BROOM OR BRUSH MAKING; PAINT PADS AND ROLLERS; SQUEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96032100",
+            "description": "BROOMS, BRUSHES (INCLUDING BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES), HAND-OPERATED MECHANICAL FLOOR SWEEPERS, NOT MOTORISED, MOPS AND FEATHER DUSTERS; PREPARED KNOTS AND TUFTS FOR BROOM OR BRUSH MAKING; PAINT PADS AND ROLLERS; SQUEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960329",
+            "description": "BROOMS, BRUSHES (INCLUDING BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES), HAND-OPERATED MECHANICAL FLOOR SWEEPERS, NOT MOTORISED, MOPS AND FEATHER DUSTERS; PREPARED KNOTS AND TUFTS FOR BROOM OR BRUSH MAKING; PAINT PADS AND ROLLERS; SQUEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96032900",
+            "description": "BROOMS, BRUSHES (INCLUDING BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES), HAND-OPERATED MECHANICAL FLOOR SWEEPERS, NOT MOTORISED, MOPS AND FEATHER DUSTERS; PREPARED KNOTS AND TUFTS FOR BROOM OR BRUSH MAKING; PAINT PADS AND ROLLERS; SQUEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96033010",
+            "description": "BROOMS, BRUSHES (INCLUDING BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES), HAND-OPERATED MECHANICAL FLOOR SWEEPERS, NOT MOTORISED, MOPS AND FEATHER DUSTERS; PREPARED KNOTS AND TUFTS FOR BROOM OR BRUSH MAKING; PAINT PADS AND ROLLERS; SQUEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96033020",
+            "description": "BROOMS, BRUSHES (INCLUDING BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES), HAND-OPERATED MECHANICAL FLOOR SWEEPERS, NOT MOTORISED, MOPS AND FEATHER DUSTERS; PREPARED KNOTS AND TUFTS FOR BROOM OR BRUSH MAKING; PAINT PADS AND ROLLERS; SQUEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96033090",
+            "description": "BROOMS, BRUSHES (INCLUDING BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES), HAND-OPERATED MECHANICAL FLOOR SWEEPERS, NOT MOTORISED, MOPS AND FEATHER DUSTERS; PREPARED KNOTS AND TUFTS FOR BROOM OR BRUSH MAKING; PAINT PADS AND ROLLERS; SQUEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96034010",
+            "description": "BROOMS, BRUSHES (INCLUDING BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES), HAND-OPERATED MECHANICAL FLOOR SWEEPERS, NOT MOTORISED, MOPS AND FEATHER DUSTERS; PREPARED KNOTS AND TUFTS FOR BROOM OR BRUSH MAKING; PAINT PADS AND ROLLERS; SQUEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96034020",
+            "description": "BROOMS, BRUSHES (INCLUDING BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES), HAND-OPERATED MECHANICAL FLOOR SWEEPERS, NOT MOTORISED, MOPS AND FEATHER DUSTERS; PREPARED KNOTS AND TUFTS FOR BROOM OR BRUSH MAKING; PAINT PADS AND ROLLERS; SQUEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96035000",
+            "description": "BROOMS, BRUSHES (INCLUDING BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES), HAND-OPERATED MECHANICAL FLOOR SWEEPERS, NOT MOTORISED, MOPS AND FEATHER DUSTERS; PREPARED KNOTS AND TUFTS FOR BROOM OR BRUSH MAKING; PAINT PADS AND ROLLERS; SQUEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960390",
+            "description": "BROOMS, BRUSHES (INCLUDING BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES), HAND-OPERATED MECHANICAL FLOOR SWEEPERS, NOT MOTORISED, MOPS AND FEATHER DUSTERS; PREPARED KNOTS AND TUFTS FOR BROOM OR BRUSH MAKING; PAINT PADS AND ROLLERS; SQUEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96039000",
+            "description": "BROOMS, BRUSHES (INCLUDING BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES), HAND-OPERATED MECHANICAL FLOOR SWEEPERS, NOT MOTORISED, MOPS AND FEATHER DUSTERS; PREPARED KNOTS AND TUFTS FOR BROOM OR BRUSH MAKING; PAINT PADS AND ROLLERS; SQUEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9604",
+            "description": "HAND SIEVES AND HAND RIDDLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960400",
+            "description": "HAND SIEVES AND HAND RIDDLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96040000",
+            "description": "HAND SIEVES AND HAND RIDDLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9605",
+            "description": "TRAVEL SETS FOR PERSONAL TOILET, SEWING OR SHOE OR CLOTHES CLEANING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960500",
+            "description": "TRAVEL SETS FOR PERSONAL TOILET, SEWING OR SHOE OR CLOTHES CLEANING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96050010",
+            "description": "TRAVEL SETS FOR PERSONAL TOILET, SEWING OR SHOE OR CLOTHES CLEANING - TRAVEL SETS FOR PERSONAL TOILET, SEWING OR SHOE OR CLOTHES CLEANING : FOR PERSONAL TOILET",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96050090",
+            "description": "TRAVEL SETS FOR PERSONAL TOILET, SEWING OR SHOE OR CLOTHES CLEANING - TRAVEL SETS FOR PERSONAL TOILET, SEWING OR SHOE OR CLOTHES CLEANING : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9606",
+            "description": "BUTTONS, PRESS-FASTENERS, SNAP-FASTENERS AND PRESS-STUDS, BUTTON MOULDS AND OTHER PARTS OF THESE ARTICLES; BUTTON BLANKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960610",
+            "description": "PRESS-FASTENERS, SNAP-FASTENERS AND PRESS-STUDS AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96061010",
+            "description": "BUTTONS, PRESS-FASTENERS, SNAP-FASTENERS AND PRESSSTUDS, BUTTON MOULDS AND OTHER PARTS OF THESE ARTICLES; BUTTON BLANKS - PRESS-FASTENERS, SNAP-FASTENERS AND PRESS-STUDS AND PARTS THEREOF : PRESS-FASTENERS, SNAP-FASTENERS AND PRESS-STUDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96061020",
+            "description": "BUTTONS, PRESS-FASTENERS, SNAP-FASTENERS AND PRESSSTUDS, BUTTON MOULDS AND OTHER PARTS OF THESE ARTICLES; BUTTON BLANKS - PRESS-FASTENERS, SNAP-FASTENERS AND PRESS-STUDS AND PARTS THEREOF : PARTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960621",
+            "description": "BUTTONS, PRESS-FASTENERS, SNAP-FASTENERS AND PRESSSTUDS, BUTTON MOULDS AND OTHER PARTS OF THESE ARTICLES; BUTTON BLANKS - BUTTONS : OF PLASTICS, NOT COVERED WITH TEXTILE MATERIAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96062100",
+            "description": "BUTTONS, PRESS-FASTENERS, SNAP-FASTENERS AND PRESSSTUDS, BUTTON MOULDS AND OTHER PARTS OF THESE ARTICLES; BUTTON BLANKS - BUTTONS : OF PLASTICS, NOT COVERED WITH TEXTILE MATERIAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960622",
+            "description": "BUTTONS, PRESS-FASTENERS, SNAP-FASTENERS AND PRESSSTUDS, BUTTON MOULDS AND OTHER PARTS OF THESE ARTICLES; BUTTON BLANKS - BUTTONS : OF BASE METALS, NOT COVERED WITH TEXTILE MATERIAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96062200",
+            "description": "BUTTONS, PRESS-FASTENERS, SNAP-FASTENERS AND PRESSSTUDS, BUTTON MOULDS AND OTHER PARTS OF THESE ARTICLES; BUTTON BLANKS - BUTTONS : OF BASE METALS, NOT COVERED WITH TEXTILE MATERIAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960629",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96062910",
+            "description": "BUTTONS, PRESS-FASTENERS, SNAP-FASTENERS AND PRESSSTUDS, BUTTON MOULDS AND OTHER PARTS OF THESE ARTICLES; BUTTON BLANKS - BUTTONS : - OTHER : BUTTON OF COCONUT SHELL OR WOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96062990",
+            "description": "BUTTONS, PRESS-FASTENERS, SNAP-FASTENERS AND PRESSSTUDS, BUTTON MOULDS AND OTHER PARTS OF THESE ARTICLES; BUTTON BLANKS - BUTTONS : - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960630",
+            "description": "BUTTON MOULDS AND OTHER PARTS OF BUTTONS; BUTTON BLANKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96063010",
+            "description": "BUTTONS, PRESS-FASTENERS, SNAP-FASTENERS AND PRESSSTUDS, BUTTON MOULDS AND OTHER PARTS OF THESE ARTICLES; BUTTON BLANKS - BUTTON MOULDS AND OTHER PARTS OF BUTTONS; BUTTON BLANKS : BUTTON BLANKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96063090",
+            "description": "BUTTONS, PRESS-FASTENERS, SNAP-FASTENERS AND PRESSSTUDS, BUTTON MOULDS AND OTHER PARTS OF THESE ARTICLES; BUTTON BLANKS - BUTTON MOULDS AND OTHER PARTS OF BUTTONS; BUTTON BLANKS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9607",
+            "description": "SLIDE FASTENERS AND PARTS THEREOF - SLIDE FASTENERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960711",
+            "description": "FITTED WITH CHAIN SCOOPS OF BASE METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96071110",
+            "description": "SLIDE FASTENERS AND PARTS THEREOF - SLIDE FASTENERS : - FITTED WITH CHAIN SCOOPS OF BASE METAL : ZIP FASTENERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96071190",
+            "description": "SLIDE FASTENERS AND PARTS THEREOF - SLIDE FASTENERS : - FITTED WITH CHAIN SCOOPS OF BASE METAL : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960719",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96071910",
+            "description": "SLIDE FASTENERS AND PARTS THEREOF - SLIDE FASTENERS : - OTHER : ZIP FASTENERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96071990",
+            "description": "SLIDE FASTENERS AND PARTS THEREOF - SLIDE FASTENERS : - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960720",
+            "description": "SLIDE FASTENERS AND PARTS THEREOF PARTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96072000",
+            "description": "SLIDE FASTENERS AND PARTS THEREOF PARTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9608",
+            "description": "BALL POINT PENS; FELT TIPPED AND OTHER POROUSTIPPED PENS AND MARKERS; FOUNTAIN PENS; STYLOGRAPH PENS AND OTHER PENS; DUPLICATING STYLOS; PROPELLING OR SLIDING PENCILS; PEN HOLDERS, PENCIL HOLDERS AND SIMILAR HOLDERS; PARTS (INCLUDING CAPS AND CLIPS) OF TH(Pens and pencils)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960810",
+            "description": "BALL POINT PENS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96081011",
+            "description": "HIGH VALU BALL POINT PENS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96081012",
+            "description": "BALL POINT PENS WITH BODY OR CAP OF PRECIOUS METAL OR ROLLED PRECIOUS METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96081019",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96081091",
+            "description": "HIGH VALU BALL POINT PENS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96081092",
+            "description": "BALL POINT PENS WITH BODY OR CAP OF PRECIOUS METAL OR ROLLED PRECIOUS METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96081099",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96082000",
+            "description": "BALL POINT PENS; FELT TIPPED AND OTHER POROUS-TIPPED PENS AND MARKERS; FOUNTAIN PENS; STYLOGRAPH PENS AND OTHER PENS; DUPLICATING STYLOS; PROPELLING OR SLIDING PENCILS; PEN HOLDERS, PENCIL HOLDERS AND SIMILAR HOLDERS; PARTS (INCLUDING CAPS AND CLIPS) OF T",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960830",
+            "description": "FOUNTAIN PENS, STYLOGRAPH PENS AND OTHER PENS FOUNTAIN PENS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96083011",
+            "description": "HIGH VALUE FOUNTAIN PENS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96083012",
+            "description": "WITH BODY OR CAP OF PRECIOUS METAL OR ROLLED PRECIOUS METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96083019",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96083021",
+            "description": "HIGH VALUE PENS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96083022",
+            "description": "WITH BODY OR CAP OF PRECIOUS METAL OR ROLLED PRECIOUS METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96083029",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96083091",
+            "description": "HIGH VALUE PENS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96083092",
+            "description": "WITH BODY OR CAP OF PRECIOUS METAL OR ROLLED PRECIOUS METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96083099",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96084000",
+            "description": "BALL POINT PENS; FELT TIPPED AND OTHER POROUS-TIPPED PENS AND MARKERS; FOUNTAIN PENS; STYLOGRAPH PENS AND OTHER PENS; DUPLICATING STYLOS; PROPELLING OR SLIDING PENCILS; PEN HOLDERS, PENCIL HOLDERS AND SIMILAR HOLDERS; PARTS (INCLUDING CAPS AND CLIPS) OF T",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96085000",
+            "description": "BALL POINT PENS; FELT TIPPED AND OTHER POROUS-TIPPED PENS AND MARKERS; FOUNTAIN PENS; STYLOGRAPH PENS AND OTHER PENS; DUPLICATING STYLOS; PROPELLING OR SLIDING PENCILS; PEN HOLDERS, PENCIL HOLDERS AND SIMILAR HOLDERS; PARTS (INCLUDING CAPS AND CLIPS) OF T",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96086010",
+            "description": "BALL POINT PENS; FELT TIPPED AND OTHER POROUS-TIPPED PENS AND MARKERS; FOUNTAIN PENS; STYLOGRAPH PENS AND OTHER PENS; DUPLICATING STYLOS; PROPELLING OR SLIDING PENCILS; PEN HOLDERS, PENCIL HOLDERS AND SIMILAR HOLDERS; PARTS (INCLUDING CAPS AND CLIPS) OF T",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96086090",
+            "description": "BALL POINT PENS; FELT TIPPED AND OTHER POROUS-TIPPED PENS AND MARKERS; FOUNTAIN PENS; STYLOGRAPH PENS AND OTHER PENS; DUPLICATING STYLOS; PROPELLING OR SLIDING PENCILS; PEN HOLDERS, PENCIL HOLDERS AND SIMILAR HOLDERS; PARTS (INCLUDING CAPS AND CLIPS) OF T",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960891",
+            "description": "PEN NIBS AND NIB POINTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96089110",
+            "description": "BALL POINT PENS; FELT TIPPED AND OTHER POROUS-TIPPED PENS AND MARKERS; FOUNTAIN PENS; STYLOGRAPH PENS AND OTHER PENS; DUPLICATING STYLOS; PROPELLING OR SLIDING PENCILS; PEN HOLDERS, PENCIL HOLDERS AND SIMILAR HOLDERS; PARTS (INCLUDING CAPS AND CLIPS) OF T",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96089120",
+            "description": "BALL POINT PENS; FELT TIPPED AND OTHER POROUS-TIPPED PENS AND MARKERS; FOUNTAIN PENS; STYLOGRAPH PENS AND OTHER PENS; DUPLICATING STYLOS; PROPELLING OR SLIDING PENCILS; PEN HOLDERS, PENCIL HOLDERS AND SIMILAR HOLDERS; PARTS (INCLUDING CAPS AND CLIPS) OF T",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96089130",
+            "description": "BALL POINT PENS; FELT TIPPED AND OTHER POROUS-TIPPED PENS AND MARKERS; FOUNTAIN PENS; STYLOGRAPH PENS AND OTHER PENS; DUPLICATING STYLOS; PROPELLING OR SLIDING PENCILS; PEN HOLDERS, PENCIL HOLDERS AND SIMILAR HOLDERS; PARTS (INCLUDING CAPS AND CLIPS) OF T",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96089191",
+            "description": "BALL POINT PENS; FELT TIPPED AND OTHER POROUS-TIPPED PENS AND MARKERS; FOUNTAIN PENS; STYLOGRAPH PENS AND OTHER PENS; DUPLICATING STYLOS; PROPELLING OR SLIDING PENCILS; PEN HOLDERS, PENCIL HOLDERS AND SIMILAR HOLDERS; PARTS (INCLUDING CAPS AND CLIPS) OF T",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96089199",
+            "description": "BALL POINT PENS; FELT TIPPED AND OTHER POROUS-TIPPED PENS AND MARKERS; FOUNTAIN PENS; STYLOGRAPH PENS AND OTHER PENS; DUPLICATING STYLOS; PROPELLING OR SLIDING PENCILS; PEN HOLDERS, PENCIL HOLDERS AND SIMILAR HOLDERS; PARTS (INCLUDING CAPS AND CLIPS) OF T",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960899",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96089910",
+            "description": "BALL POINT PENS; FELT TIPPED AND OTHER POROUS-TIPPED PENS AND MARKERS; FOUNTAIN PENS; STYLOGRAPH PENS AND OTHER PENS; DUPLICATING STYLOS; PROPELLING OR SLIDING PENCILS; PEN HOLDERS, PENCIL HOLDERS AND SIMILAR HOLDERS; PARTS (INCLUDING CAPS AND CLIPS) OF T",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96089990",
+            "description": "BALL POINT PENS; FELT TIPPED AND OTHER POROUS-TIPPED PENS AND MARKERS; FOUNTAIN PENS; STYLOGRAPH PENS AND OTHER PENS; DUPLICATING STYLOS; PROPELLING OR SLIDING PENCILS; PEN HOLDERS, PENCIL HOLDERS AND SIMILAR HOLDERS; PARTS (INCLUDING CAPS AND CLIPS) OF T",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9609",
+            "description": "PENCILS (OTHER THAN PENCILS OF HEADING 9608 ), CRAYONS, PENCIL LEADS, PASTELS, DRAWING CHARCOALS, WRITING OR DRAWING CHALKS AND TAILORS' CHALKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960910",
+            "description": "PENCILS (OTHER THAN PENCILS OF HEADING 9608 ), CRAYONS, PENCIL LEADS, PASTELS, DRAWING CHARCOALS, WRITING OR DRAWING CHALKS AND TAILORS' CHALKS - PENCILS AND CRAYONS, WITH LEADS ENCASED IN A RIGID SHEATH",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96091000",
+            "description": "PENCILS (OTHER THAN PENCILS OF HEADING 9608 ), CRAYONS, PENCIL LEADS, PASTELS, DRAWING CHARCOALS, WRITING OR DRAWING CHALKS AND TAILORS' CHALKS - PENCILS AND CRAYONS, WITH LEADS ENCASED IN A RIGID SHEATH",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960920",
+            "description": "PENCILS (OTHER THAN PENCILS OF HEADING 9608 ), CRAYONS, PENCIL LEADS, PASTELS, DRAWING CHARCOALS, WRITING OR DRAWING CHALKS AND TAILORS' CHALKS - PENCIL LEADS, BLACK OR COLOURED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96092000",
+            "description": "PENCILS (OTHER THAN PENCILS OF HEADING 9608 ), CRAYONS, PENCIL LEADS, PASTELS, DRAWING CHARCOALS, WRITING OR DRAWING CHALKS AND TAILORS' CHALKS - PENCIL LEADS, BLACK OR COLOURED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "960990",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96099010",
+            "description": "PENCILS (OTHER THAN PENCILS OF HEADING 9608 ), CRAYONS, PENCIL LEADS, PASTELS, DRAWING CHARCOALS, WRITING OR DRAWING CHALKS AND TAILORS' CHALKS - OTHER : SLATE PENCILS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96099020",
+            "description": "PENCILS (OTHER THAN PENCILS OF HEADING 9608 ), CRAYONS, PENCIL LEADS, PASTELS, DRAWING CHARCOALS, WRITING OR DRAWING CHALKS AND TAILORS' CHALKS - OTHER : OTHER PENCILS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96099090",
+            "description": "PENCILS (OTHER THAN PENCILS OF HEADING 9608 ), CRAYONS, PENCIL LEADS, PASTELS, DRAWING CHARCOALS, WRITING OR DRAWING CHALKS AND TAILORS' CHALKS - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9610",
+            "description": "SLATES AND BOARDS, WITH WRITING OR DRAWING SURFACES, WHETHER OR NOT FRAMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96100000",
+            "description": "SLATES AND BOARDS, WITH WRITING OR DRAWING SURFACES, WHETHER OR NOT FRAMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9612",
+            "description": "TYPEWRITER OR SIMILAR RIBBONS, INKED OR OTHERWISE PREPARED FOR GIVING IMPRESSIONS, WHETHER OR NOT ON SPOOLS OR IN CARTRIDGES; INK-PADS, WHETHER OR NOT INKED, WITH OR WITHOUT BOXES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "961210",
+            "description": "RIBBONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96121010",
+            "description": "TYPEWRITER OR SIMILAR RIBBONS, INKED OR OTHERWISE PREPARED FOR GIVING IMPRESSIONS, WHETHER OR NOT ON SPOOLS OR IN CARTRIDGES; INK-PADS, WHETHER OR NOT INKED, WITH OR WITHOUT BOXES - RIBBONS: COMPUTER PRINTER RIBBON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96121020",
+            "description": "TYPEWRITER OR SIMILAR RIBBONS, INKED OR OTHERWISE PREPARED FOR GIVING IMPRESSIONS, WHETHER OR NOT ON SPOOLS OR IN CARTRIDGES; INK-PADS, WHETHER OR NOT INKED, WITH OR WITHOUT BOXES - RIBBONS: RIBBON FOR TYPEWRITERS, OTHER THAN ELECTRONIC AND SIMILAR MACHIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96121030",
+            "description": "TYPEWRITER OR SIMILAR RIBBONS, INKED OR OTHERWISE PREPARED FOR GIVING IMPRESSIONS, WHETHER OR NOT ON SPOOLS OR IN CARTRIDGES; INK-PADS, WHETHER OR NOT INKED, WITH OR WITHOUT BOXES - RIBBONS: RIBBON FOR ELECTRONIC TYPEWRITER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96121090",
+            "description": "TYPEWRITER OR SIMILAR RIBBONS, INKED OR OTHERWISE PREPARED FOR GIVING IMPRESSIONS, WHETHER OR NOT ON SPOOLS OR IN CARTRIDGES; INK-PADS, WHETHER OR NOT INKED, WITH OR WITHOUT BOXES - RIBBONS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "961220",
+            "description": "TYPEWRITER OR SIMILAR RIBBONS, INKED OR OTHERWISE PREPARED FOR GIVING IMPRESSIONS, WHETHER OR NOT ON SPOOLS OR IN CARTRIDGES; INK-PADS, WHETHER OR NOT INKED, WITH OR WITHOUT BOXES - INK-PADS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96122000",
+            "description": "TYPEWRITER OR SIMILAR RIBBONS, INKED OR OTHERWISE PREPARED FOR GIVING IMPRESSIONS, WHETHER OR NOT ON SPOOLS OR IN CARTRIDGES; INK-PADS, WHETHER OR NOT INKED, WITH OR WITHOUT BOXES - INK-PADS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9613",
+            "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "961310",
+            "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - POCKET LIGHTERS, GAS FUELLED, NON-REFILLABLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96131000",
+            "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - POCKET LIGHTERS, GAS FUELLED, NON-REFILLABLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "961320",
+            "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - POCKET LIGHTERS, GAS FUELLED, REFILLABLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96132000",
+            "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - POCKET LIGHTERS, GAS FUELLED, REFILLABLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "961380",
+            "description": "OTHER LIGHTERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96138010",
+            "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - OTHER LIGHTERS:ELECTRONIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96138090",
+            "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - OTHER LIGHTERS:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "961390",
+            "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - PARTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96139000",
+            "description": "CIGARETTE LIGHTERS AND OTHER LIGHTERS, WHETHER OR NOT MECHANICAL OR ELECTRICAL, AND PARTS THEREOF OTHER THAN FLINTS AND WICKS - PARTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9614",
+            "description": "SMOKING PIPES (INCLUDING PIPE BOWLS) AND CIGAR OR CIGARETTE HOLDERS AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96140000",
+            "description": "SMOKING PIPES (INCLUDING PIPE BOWLS) AND CIGAR OR CIGARETTE HOLDERS AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96142000",
+            "description": "SMOKING PIPES (INCLUDING PIPE BOWLS) AND CIGAR OR CIGARETTE HOLDERS, AND PARTS THEREOF PIPES AND PIPE BOWLS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96149090",
+            "description": "SMOKING PIPES (INCLUDING PIPE BOWLS) AND CIGAR OR CIGARETTE HOLDERS, AND PARTS THEREOF - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9615",
+            "description": "COMBS, HAIR-SLIDES AND THE LIKE, HAIRPINS, CURLING PINS, CURLING GRIPS, HAIR-CURLERS AND THE LIKE, OTHER THAN THOSE OF HEADING 8516, AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "961511",
+            "description": "COMBS, HAIR-SLIDES AND THE LIKE, HAIRPINS, CURLING PINS, CURLING GRIPS, HAIR-CURLERS AND THE LIKE, OTHER THAN THOSE OF HEADING 8516, AND PARTS THEREOF - COMBS, HAIR-SLIDES AND THE LIKE: OF HARD RUBBER OR PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96151100",
+            "description": "COMBS, HAIR-SLIDES AND THE LIKE, HAIRPINS, CURLING PINS, CURLING GRIPS, HAIR-CURLERS AND THE LIKE, OTHER THAN THOSE OF HEADING 8516, AND PARTS THEREOF - COMBS, HAIR-SLIDES AND THE LIKE: OF HARD RUBBER OR PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "961519",
+            "description": "COMBS, HAIR-SLIDES AND THE LIKE, HAIRPINS, CURLING PINS, CURLING GRIPS, HAIR-CURLERS AND THE LIKE, OTHER THAN THOSE OF HEADING 8516, AND PARTS THEREOF - COMBS, HAIR-SLIDES AND THE LIKE: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96151900",
+            "description": "COMBS, HAIR-SLIDES AND THE LIKE, HAIRPINS, CURLING PINS, CURLING GRIPS, HAIR-CURLERS AND THE LIKE, OTHER THAN THOSE OF HEADING 8516, AND PARTS THEREOF - COMBS, HAIR-SLIDES AND THE LIKE: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "961590",
+            "description": "COMBS, HAIR-SLIDES AND THE LIKE, HAIRPINS, CURLING PINS, CURLING GRIPS, HAIR-CURLERS AND THE LIKE, OTHER THAN THOSE OF HEADING 8516, AND PARTS THEREOF OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96159000",
+            "description": "COMBS, HAIR-SLIDES AND THE LIKE, HAIRPINS, CURLING PINS, CURLING GRIPS, HAIR-CURLERS AND THE LIKE, OTHER THAN THOSE OF HEADING 8516, AND PARTS THEREOF OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9616",
+            "description": "SCENT SPRAYS AND SIMILAR TOILET SPRAYS, AND MOUNTS AND HEADS THEREFOR; POWDER-PUFFS AND PADS FOR THE APPLICATION OF COSMETICS OR TOILET PREPARATIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96161010",
+            "description": "SCENT SPRAYS AND SIMILAR TOILET SPRAYS, AND MOUNTS AND HEADS THEREFOR; POWDER-PUFFS AND PADS FOR THE APPLICATION OF COSMETICS OR TOILET PREPARATIONS - SCENT SPRAYS AND SIMILAR TOILET SPRAYS, AND MOUNTS AND HEADS THEREFOR : SCENT SPRAYS AND SIMILAR TOILET",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96161020",
+            "description": "SCENT SPRAYS AND SIMILAR TOILET SPRAYS, AND MOUNTS AND HEADS THEREFOR; POWDER-PUFFS AND PADS FOR THE APPLICATION OF COSMETICS OR TOILET PREPARATIONS - SCENT SPRAYS AND SIMILAR TOILET SPRAYS, AND MOUNTS AND HEADS THEREFOR : MOUNTS AND HEADS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9617",
+            "description": "VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96170011",
+            "description": "VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS: - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WIT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96170012",
+            "description": "VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS: - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WIT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96170013",
+            "description": "VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS: - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WIT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96170019",
+            "description": "VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS: - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WIT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96170090",
+            "description": "VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS - VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE WITH CASES; PARTS THEREOF OTHER THAN GLASS INNERS: PARTS (OTHER THAN GLASS INNERS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9618",
+            "description": "TAILORS' DUMMIES AND OTHER LAY FIGURES; AUTOMATA AND OTHER ANIMATED DISPLAYS, USED FOR SHOP WINDOW DRESSING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96180000",
+            "description": "TAILORS' DUMMIES AND OTHER LAY FIGURES; AUTOMATA AND OTHER ANIMATED DISPLAYS, USED FOR SHOP WINDOW DRESSING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9619",
+            "description": "SANITARY TOWELS (PADS) AND TAMPONS, NAPKINS AND NAPKIN LINERS FOR BABIES AND SIMILAR ARTICLES, OF ANY MATERIAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96190010",
+            "description": "SANITARY TOWELS 9PADS) OR SANITARY NAPKINS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96190020",
+            "description": "TAMPONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96190030",
+            "description": "NAPKINS AND NAPKIN LINERS FOR BABIES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96190040",
+            "description": "CLINICAL DIAPERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96190090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9620",
+            "description": "MONOPODS, BIPODS, TRIPODS AND SIMILAR ARTICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "96200000",
+            "description": "MONOPODS, BIPODS, TRIPODS AND SIMILAR ARTICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

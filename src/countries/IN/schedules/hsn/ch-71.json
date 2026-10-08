@@ -1,0 +1,1831 @@
+{
+    "chapter": "71",
+    "kind": "HSN",
+    "count": 152,
+    "entries": [
+        {
+            "code": "7101",
+            "description": "PEARLS, NATURAL OR CULTURED, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; PEARLS, NATURAL OR CULTURED, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710110",
+            "description": "NATURAL PEARLS",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71011010",
+            "description": "PEARLS, NATURAL OR CULTURED, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; PEARLS, NATURAL OR CULTURED, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - NATURAL PEARLS: UNWORKED",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71011020",
+            "description": "PEARLS, NATURAL OR CULTURED, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; PEARLS, NATURAL OR CULTURED, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - NATURAL PEARLS: WORKED",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71012100",
+            "description": "PEARLS, NATURAL OR CULTURED, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; PEARLS, NATURAL OR CULTURED, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - CULTURED PEARLS: UNWORKED",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710122",
+            "description": "PEARLS, NATURAL OR CULTURED, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; PEARLS, NATURAL OR CULTURED, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - CULTURED PEARLS: WORKED",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71012200",
+            "description": "PEARLS, NATURAL OR CULTURED, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; PEARLS, NATURAL OR CULTURED, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - CULTURED PEARLS: WORKED",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7102",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71021000",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - UNSORTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710221",
+            "description": "UNWORKED OR SIMPLY SAWN, CLEAVED OR BRUTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71022110",
+            "description": "21 DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - INDUSTRIAL : UNWORKED OR SIMPLY SAWN, CLEAVED OR BRUTED: SORTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71022120",
+            "description": "21 DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - INDUSTRIAL : UNWORKED OR SIMPLY SAWN, CLEAVED OR BRUTED: UNSORTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710229",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71022910",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - INDUSTRIAL : OTHER: CRUSHED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71022990",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - INDUSTRIAL : OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710231",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - NON-INDUSTRIAL: UNWORKED OR SIMPLY SAWN, CLEAVED OR BRUTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71023100",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - NON-INDUSTRIAL: UNWORKED OR SIMPLY SAWN, CLEAVED OR BRUTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710239",
+            "description": "OTHERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71023910",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - NON-INDUSTRIAL: OTHERS: DIAMOND, CUT OR OTHERWISE WORKED BUT NOT MOUNTED OR SET",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71023990",
+            "description": "DIAMONDS, WHETHER OR NOT WORKED, BUT NOT MOUNTED OR SET - NON-INDUSTRIAL: OTHERS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7103",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710310",
+            "description": "UNWORKED OR SIMPLY SAWN OR ROUGHLY SHAPED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031011",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031012",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031019",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031021",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031022",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031023",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031024",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71031029",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - UNWOR",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710391",
+            "description": "RUBY, SAPPHIRE AND EMERALDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71039100",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710399",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71039910",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71039920",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71039930",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71039940",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71039990",
+            "description": "PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED PRECIOUS STONES (OTHER THAN DIAMONDS) AND SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7104",
+            "description": "SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710410",
+            "description": "SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - PIEZO-ELECT",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71041000",
+            "description": "SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - PIEZO-ELECT",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710420",
+            "description": "OTHER, UNWORKED OR SIMPLY SAWN OR ROUGHLY SHAPED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71042000",
+            "description": "SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMIPRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG, MOUNTED OR SET; UNGRADED SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT - OTHER, UNWO",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710490",
+            "description": "SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMI-PRECIOUS STONES, WHETHER OR NOT WORKED OR GRADED BUT NOT STRUNG,MOUNTED OR SET; UNGRADED SYNTHETIC OR RECONSTRUCTED PRECIOUS OR SEMI-PRECIOUS STONES, TEMPORARILY STRUNG FOR CONVENIENCE OF TRANSPORT-OTHER--LABORA",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71049000",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0.25,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7105",
+            "description": "DUST AND POWDER OF NATURAL OR SYNTHETIC PRECIOUS OR SEMI-PRECIOUS STONES",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710510",
+            "description": "DUST AND POWDER OF NATURAL OR SYNTHETIC PRECIOUS OR SEMI-PRECIOUS STONES - OF DIAMOND",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71051000",
+            "description": "DUST AND POWDER OF NATURAL OR SYNTHETIC PRECIOUS OR SEMI-PRECIOUS STONES - OF DIAMOND",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710590",
+            "description": "DUST AND POWDER OF NATURAL OR SYNTHETIC PRECIOUS OR SEMI-PRECIOUS STONES - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71059000",
+            "description": "DUST AND POWDER OF NATURAL OR SYNTHETIC PRECIOUS OR SEMI-PRECIOUS STONES - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7106",
+            "description": "SILVER (INCLUDING SILVER PLATED WITH GOLD OR PLATINUM), UNWROUGHT OR IN SEMIMANUFACTURED FORMS, OR IN POWDER FORM",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710610",
+            "description": "SILVER (INCLUDING SILVER PLATED WITH GOLD OR PLATINUM), UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - POWDER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71061000",
+            "description": "SILVER (INCLUDING SILVER PLATED WITH GOLD OR PLATINUM), UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - POWDER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710691",
+            "description": "UNWROUGHT",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71069100",
+            "description": "SILVER (INCLUDING SILVER PLATED WITH GOLD OR PLATINUM), UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - OTHER : UNWROUGHT",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710692",
+            "description": "SEMI-MANUFACTURED",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71069210",
+            "description": "SILVER (INCLUDING SILVER PLATED WITH GOLD OR PLATINUM), UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM SEMI-MANUFACTURED : SHEETS, PLATES, STRIPS, TUBES AND PIPES",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71069290",
+            "description": "SILVER (INCLUDING SILVER PLATED WITH GOLD OR PLATINUM), UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM SEMI-MANUFACTURED : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7107",
+            "description": "BASE METALS CLAD WITH SILVER, NOT FURTHER WORKED THAN SEMI-MANUFACTURED",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71070000",
+            "description": "BASE METALS CLAD WITH SILVER, NOT FURTHER WORKED THAN SEMI-MANUFACTURED",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7108",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - NON-MONETARY",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710811",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - NON-MONETARY : POWDER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71081100",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - NON-MONETARY : POWDER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710812",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - NON-MONETARY : OTHER UNWROUGHT FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71081200",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - NON-MONETARY : OTHER UNWROUGHT FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710813",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - NON-MONETARY : OTHER SEMI-MANUFACTURED FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71081300",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM - NON-MONETARY : OTHER SEMI-MANUFACTURED FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "710820",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM MONETARY",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71082000",
+            "description": "GOLD (INCLUDING GOLD PLATED WITH PLATINUM) UNWROUGHT OR IN SEMI-MANUFACTURED FORMS, OR IN POWDER FORM MONETARY",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7109",
+            "description": "BASE METALS OR SILVER, CLAD WITH GOLD, NOT FURTHER WORKED THAN SEMI-MANUFACTURED",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71090000",
+            "description": "BASE METALS OR SILVER, CLAD WITH GOLD, NOT FURTHER WORKED THAN SEMI-MANUFACTURED",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7110",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PLATINUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711011",
+            "description": "UNWROUGHT OR IN POWDER FORM",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71101110",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PLATINUM : UNWROUGHT OR IN POWDER FORM: UNWROUGHT FORM",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71101120",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PLATINUM : UNWROUGHT OR IN POWDER FORM: IN POWDER FORM",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711019",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PLATINUM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71101900",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PLATINUM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711021",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PALLADIUM: UNWROUGHT OR IN POWDER FORM",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71102100",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PALLADIUM: UNWROUGHT OR IN POWDER FORM",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711029",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PALLADIUM: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71102900",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - PALLADIUM: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711031",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - RHODIUM: UNWROUGHT OR IN POWDER FROM",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71103100",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - RHODIUM: UNWROUGHT OR IN POWDER FROM",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711039",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - RHODIUM: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71103900",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - RHODIUM: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711041",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - IRIDIUM, OSMIUM AND RUTHENIUM: UNWROUGHT OR IN POWDER FROM",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71104100",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - IRIDIUM, OSMIUM AND RUTHENIUM: UNWROUGHT OR IN POWDER FROM",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711049",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - IRIDIUM, OSMIUM AND RUTHENIUM: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71104900",
+            "description": "PLATINUM, UNWROUGHT OR IN SEMI-MANUFACTURED FORM, OR IN POWDER FORM - IRIDIUM, OSMIUM AND RUTHENIUM: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7111",
+            "description": "BASE METALS, SILVER OR GOLD, CLAD WITH PLATINUM, NOT FURTHER WORKED THAN SEMIMANUFACTURED",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71110000",
+            "description": "BASE METALS, SILVER OR GOLD, CLAD WITH PLATINUM, NOT FURTHER WORKED THAN SEMIMANUFACTURED",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7112",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711230",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL - ASH CONTAINING PRECIOUS METAL OR PRECIOUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71123000",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL - ASH CONTAINING PRECIOUS METAL OR PRECIOUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71129100",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL - OTHER : OF GOLD, INCLUDING METAL CLAD WITH",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71129200",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL - OTHER : OF PLATINUM, INCLUDING METAL CLAD",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711299",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71129910",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL - OTHER : OTHER: OF SILVER, INCLUDING METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71129920",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL - OTHER : OTHER: SWEEPINGS CONTAINING GOLD O",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71129990",
+            "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL - OTHER : OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7113",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL:",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711311",
+            "description": "OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH OTHER PRECIOUS METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131110",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH OTHER PRECIOUS METAL: JEWELLERY WITH FILI",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131120",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH OTHER PRECIOUS METAL: JEWELLERY STUDDED W",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131130",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH OTHER PRECIOUS METAL: OTHER ARTICLES OF J",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131190",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH OTHER PRECIOUS METAL: PARTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131910",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF GOLD, UN",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131920",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF GOLD, SE",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131930",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF GOLD, SE",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131940",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF GOLD, SE",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131950",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF PLATINUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131960",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: PARTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71131990",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL - OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711320",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF BASE METAL CLAD WITH PRECIOUS METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71132000",
+            "description": "ARTICLES OF JEWELLERY AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF BASE METAL CLAD WITH PRECIOUS METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7114",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711411",
+            "description": "OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71141110",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL:ART",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71141120",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF SILVER, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL:PAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71141910",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PREC",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71141920",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PREC",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71141930",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PRECIOUS METAL: OF OTHER PRECIOUS METAL, WHETHER OR NOT PLATED OR CLAD WITH PREC",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711420",
+            "description": "OF BASE METAL CLAD WITH PRECIOUS METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71142010",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF BASE METAL CLAD WITH PRECIOUS METAL : ARTICLES CLAD WITH GOLD",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71142020",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF BASE METAL CLAD WITH PRECIOUS METAL : OTHER ARTICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71142030",
+            "description": "ARTICLES OF GOLDSMITHS OR SILVERSMITHS WARES AND PARTS THEREOF, OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OF BASE METAL CLAD WITH PRECIOUS METAL : PARTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7115",
+            "description": "OTHER ARTICLES OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711510",
+            "description": "OTHER ARTICLES OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - CATALYSTS IN THE FROM OF WIRE CLOTH OR GRILL, OF PLATINUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71151000",
+            "description": "OTHER ARTICLES OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - CATALYSTS IN THE FROM OF WIRE CLOTH OR GRILL, OF PLATINUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711590",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71159010",
+            "description": "OTHER ARTICLES OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER: LABORATORY AND INDUSTRIAL ARTICLES OF PRECIOUS METAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71159020",
+            "description": "OTHER ARTICLES OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER: SPINNERETS MADE MAINLY OF GOLD",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71159090",
+            "description": "OTHER ARTICLES OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL - OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7116",
+            "description": "ARTICLES OF NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES(NATURAL, SYNTHETIC OR RECONSTRUCTED)",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711610",
+            "description": "ARTICLES OF NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES(NATURAL, SYNTHETIC OR RECONSTRUCTED) - OF NATURAL OR CULTURED PEARLS",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71161000",
+            "description": "ARTICLES OF NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES(NATURAL, SYNTHETIC OR RECONSTRUCTED) - OF NATURAL OR CULTURED PEARLS",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71162000",
+            "description": "ARTICLES OF NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES(NATURAL, SYNTHETIC OR RECONSTRUCTED) - OF PRECIOUS OR SEMI-PRECIOUS STONES (NATURAL, SYNTHETIC OR RECONSTRUCTED)",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7117",
+            "description": "IMITATION JEWELLERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711711",
+            "description": "IMITATION JEWELLERY - OF BASE METAL, WHETHER OR NOT PLATED WITH PRECIOUS METAL : CUFF-LINKS AND STUDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71171100",
+            "description": "IMITATION JEWELLERY - OF BASE METAL, WHETHER OR NOT PLATED WITH PRECIOUS METAL : CUFF-LINKS AND STUDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711719",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71171910",
+            "description": "IMITATION JEWELLERY - OF BASE METAL, WHETHER OR NOT PLATED WITH PRECIOUS METAL : OTHER: BANGLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71171920",
+            "description": "IMITATION JEWELLERY - OF BASE METAL, WHETHER OR NOT PLATED WITH PRECIOUS METAL : OTHER: GERMAN SILVER JEWELLERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71171990",
+            "description": "IMITATION JEWELLERY - OF BASE METAL, WHETHER OR NOT PLATED WITH PRECIOUS METAL : OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711790",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71179010",
+            "description": "IMITATION JEWELLERY - OTHER: JEWELLERY STUDDED WITH IMITATION PEARLS OR IMITATION OR SYNTHETIC STONES",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71179090",
+            "description": "IMITATION JEWELLERY - OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7118",
+            "description": "COIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711810",
+            "description": "COIN - COIN (OTHER THAN GOLD COIN), NOT BEING LEGAL TENDER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71181000",
+            "description": "COIN - COIN (OTHER THAN GOLD COIN), NOT BEING LEGAL TENDER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "711890",
+            "description": "COIN - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "71189000",
+            "description": "COIN - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 3,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

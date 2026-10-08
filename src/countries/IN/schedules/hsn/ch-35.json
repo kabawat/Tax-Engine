@@ -1,0 +1,739 @@
+{
+    "chapter": "35",
+    "kind": "HSN",
+    "count": 56,
+    "entries": [
+        {
+            "code": "3501",
+            "description": "CASEIN, CASEINATES AND OTHER CASEIN DERIVATIVES; CASEIN GLUES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "350110",
+            "description": "CASEIN, CASEINATES AND OTHER CASEIN DERIVATIVES; CASEIN GLUES CASEIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35011000",
+            "description": "CASEIN, CASEINATES AND OTHER CASEIN DERIVATIVES; CASEIN GLUES CASEIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "350190",
+            "description": "CASEIN, CASEINATES AND OTHER CASEIN DERIVATIVES; CASEIN GLUES OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35019000",
+            "description": "CASEIN, CASEINATES AND OTHER CASEIN DERIVATIVES; CASEIN GLUES OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3502",
+            "description": "ALBUMINS (INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS, CONTAINING BY WEIGHT MORE THAN 80% WHEY PROTEINS, CALCULATED ON THE DRY MATTER), ALBUMINATES AND OTHER ALBUMIN DERIVATIVES - EGG ALBUMIN:",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "350211",
+            "description": "ALBUMINS (INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS, CONTAINING BY WEIGHT MORE THAN 80% WHEY PROTEINS, CALCULATED ON THE DRY MATTER), ALBUMINATES AND OTHER ALBUMIN DERIVATIVES EGG ALBUMIN: DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35021100",
+            "description": "ALBUMINS (INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS, CONTAINING BY WEIGHT MORE THAN 80% WHEY PROTEINS, CALCULATED ON THE DRY MATTER), ALBUMINATES AND OTHER ALBUMIN DERIVATIVES EGG ALBUMIN: DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "350219",
+            "description": "ALBUMINS (INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS, CONTAINING BY WEIGHT MORE THAN 80% WHEY PROTEINS, CALCULATED ON THE DRY MATTER), ALBUMINATES AND OTHER ALBUMIN DERIVATIVES EGG ALBUMIN: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35021900",
+            "description": "ALBUMINS (INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS, CONTAINING BY WEIGHT MORE THAN 80% WHEY PROTEINS, CALCULATED ON THE DRY MATTER), ALBUMINATES AND OTHER ALBUMIN DERIVATIVES EGG ALBUMIN: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "350220",
+            "description": "ALBUMINS (INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS, CONTAINING BY WEIGHT MORE THAN 80% WHEY PROTEINS, CALCULATED ON THE DRY MATTER), ALBUMINATES AND OTHER ALBUMIN DERIVATIVES MILK ALBUMIN, INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35022000",
+            "description": "ALBUMINS (INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS, CONTAINING BY WEIGHT MORE THAN 80% WHEY PROTEINS, CALCULATED ON THE DRY MATTER), ALBUMINATES AND OTHER ALBUMIN DERIVATIVES MILK ALBUMIN, INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "350290",
+            "description": "ALBUMINS (INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS, CONTAINING BY WEIGHT MORE THAN 80% WHEY PROTEINS, CALCULATED ON THE DRY MATTER), ALBUMINATES AND OTHER ALBUMIN DERIVATIVES OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35029000",
+            "description": "ALBUMINS (INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS, CONTAINING BY WEIGHT MORE THAN 80% WHEY PROTEINS, CALCULATED ON THE DRY MATTER), ALBUMINATES AND OTHER ALBUMIN DERIVATIVES OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3503",
+            "description": "GELATIN [INCLUDING GELATIN IN RECTANGULAR (INCLUDING SQUARE) SHEETS, WHETHER OR NOT SURFACE-WORKED OR COLOURED] AND GELATIN DERIVATIVES; ISINGLASS; OTHER GLUES OF ANIMAL ORIGIN, EXCLUDING CASEIN GLUES OF HEADING 3501",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35030010",
+            "description": "GELATIN [INCLUDING GELATIN IN RECTANGULAR (INCLUDING SQUARE) SHEETS, WHETHER OR NOT SURFACE-WORKED OR COLOURED] AND GELATIN DERIVATIVES; ISINGLASS; OTHER GLUES OF ANIMAL ORIGIN, EXCLUDING CASEIN GLUES OF HEADING 3501 GELATIN [INCLUDING GELATIN IN RECTANGU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35030020",
+            "description": "GELATIN [INCLUDING GELATIN IN RECTANGULAR (INCLUDING SQUARE) SHEETS, WHETHER OR NOT SURFACE-WORKED OR COLOURED] AND GELATIN DERIVATIVES; ISINGLASS; OTHER GLUES OF ANIMAL ORIGIN, EXCLUDING CASEIN GLUES OF HEADING 3501 GELATIN [INCLUDING GELATIN IN RECTANGU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35030030",
+            "description": "GELATIN [INCLUDING GELATIN IN RECTANGULAR (INCLUDING SQUARE) SHEETS, WHETHER OR NOT SURFACE-WORKED OR COLOURED] AND GELATIN DERIVATIVES; ISINGLASS; OTHER GLUES OF ANIMAL ORIGIN, EXCLUDING CASEIN GLUES OF HEADING 3501 GELATIN [INCLUDING GELATIN IN RECTANGU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35030090",
+            "description": "GELATIN [INCLUDING GELATIN IN RECTANGULAR (INCLUDING SQUARE) SHEETS, WHETHER OR NOT SURFACE-WORKED OR COLOURED] AND GELATIN DERIVATIVES; ISINGLASS; OTHER GLUES OF ANIMAL ORIGIN, EXCLUDING CASEIN GLUES OF HEADING 3501 GELATIN [INCLUDING GELATIN IN RECTANGU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3504",
+            "description": "PEPTONES AND THEIR DERIVATIVES; OTHER PROTEIN SUBSTANCES AND THEIR DERIVATIVES, NOT ELSEWHERE SPECIFIED OR INCLUDED; HIDE POWDER, WHETHER OR NOT CHROMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "350400",
+            "description": "PEPTONES AND THEIR DERIVATIVES; OTHER PROTEIN SUBSTANCES AND THEIR DERIVATIVES, NOT ELSEWHERE SPECIFIED OR INCLUDED; HIDE POWDER, WHETHER OR NOT CHROMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35040010",
+            "description": "PEPTONES AND THEIR DERIVATIVES; OTHER PROTEIN SUBSTANCES AND THEIR DERIVATIVES, NOT ELSEWHERE SPECIFIED OR INCLUDED; HIDE POWDER, WHETHER OR NOT CHROMED PEPTONES AND THEIR DERIVATIVES; OTHER PROTEIN SUBSTANCES AND THEIR DERIVATIVES, NOT ELSEWHERE SPECIFIE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35040091",
+            "description": "PEPTONES AND THEIR DERIVATIVES; OTHER PROTEIN SUBSTANCES AND THEIR DERIVATIVES, NOT ELSEWHERE SPECIFIED OR INCLUDED; HIDE POWDER, WHETHER OR NOT CHROMED PEPTONES AND THEIR DERIVATIVES; OTHER PROTEIN SUBSTANCES AND THEIR DERIVATIVES, NOT ELSEWHERE SPECIFIE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35040099",
+            "description": "PEPTONES AND THEIR DERIVATIVES; OTHER PROTEIN SUBSTANCES AND THEIR DERIVATIVES, NOT ELSEWHERE SPECIFIED OR INCLUDED; HIDE POWDER, WHETHER OR NOT CHROMED PEPTONES AND THEIR DERIVATIVES; OTHER PROTEIN SUBSTANCES AND THEIR DERIVATIVES, NOT ELSEWHERE SPECIFIE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3505",
+            "description": "DEXTRINS AND OTHER MODIFIED STARCHES (FOR EXAMPLE, PREGELATINISED OR ESTERIFIED STARCHES); GLUES BASED ON STARCHES, OR ON DEXTRINS OR OTHER MODIFIED STARCHES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "350510",
+            "description": "DEXTRINS AND OTHER MODIFIED STARCHES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35051010",
+            "description": "DEXTRINS AND OTHER MODIFIED STARCHES (FOR EXAMPLE, PREGELATINISED OR ESTERIFIED STARCHES); GLUES BASED ON STARCHES, OR ON DEXTRINS OR OTHER MODIFIED STARCHES DEXTRINS AND OTHER MODIFIED STARCHES: ESTERIFIED STARCHES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35051090",
+            "description": "DEXTRINS AND OTHER MODIFIED STARCHES (FOR EXAMPLE, PREGELATINISED OR ESTERIFIED STARCHES); GLUES BASED ON STARCHES, OR ON DEXTRINS OR OTHER MODIFIED STARCHES DEXTRINS AND OTHER MODIFIED STARCHES: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "350520",
+            "description": "DEXTRINS AND OTHER MODIFIED STARCHES (FOR EXAMPLE, PREGELATINISED OR ESTERIFIED STARCHES); GLUES BASED ON STARCHES, OR ON DEXTRINS OR OTHER MODIFIED STARCHES GLUES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35052000",
+            "description": "DEXTRINS AND OTHER MODIFIED STARCHES (FOR EXAMPLE, PREGELATINISED OR ESTERIFIED STARCHES); GLUES BASED ON STARCHES, OR ON DEXTRINS OR OTHER MODIFIED STARCHES GLUES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3506",
+            "description": "PREPARED GLUES AND OTHER PREPARED ADHESIVES, NOT ELSEWHERE SPECIFIED OR INCLUDED; PRODUCTS SUITABLE FOR USE AS GLUES OR ADHESIVES, PUT UP FOR RETAIL SALE AS GLUES OR ADHESIVES, NOT EXCEEDING A NET WEIGHT OF 1 KG.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35061000",
+            "description": "PREPARED GLUES AND OTHER PREPARED ADHESIVES, NOT ELSEWHERE SPECIFIED OR INCLUDED; PRODUCTS SUITABLE FOR USE AS GLUES OR ADHESIVES, PUT UP FOR RETAIL SALE AS GLUES OR ADHESIVES, NOT EXCEEDING A NET WEIGHT OF 1KG : PRODUCTS SUITABLE FOR USE AS GLUES OR ADHE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35069190",
+            "description": "PREPARED GLUES AND OTHER PREPARED ADHESIVES, NOT ELSEWHERE SPECIFIED OR INCLUDED; PRODUCTS SUITABLE FOR USE AS GLUES OR ADHESIVES, PUT UP FOR RETAIL SALE AS GLUES OR ADHESIVES, NOT EXCEEDING A NET WEIGHT OF 1 KG : OTHER: ADHESIVES BASED ON POLYMERS OF HEA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "350699",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35069910",
+            "description": "PREPARED GLUES AND OTHER PREPARED ADHESIVES, NOT ELSEWHERE SPECIFIED OR INCLUDED; PRODUCTS SUITABLE FOR USE AS GLUES OR ADHESIVES, PUT UP FOR RETAIL SALE AS GLUES OR ADHESIVES, NOT EXCEEDING A NET WEIGHT OF 1 KG : OTHER: OTHER: SYNTHETIC GLUE WITH PHENOL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35069991",
+            "description": "PREPARED GLUES AND OTHER PREPARED ADHESIVES, NOT ELSEWHERE SPECIFIED OR INCLUDED; PRODUCTS SUITABLE FOR USE AS GLUES OR ADHESIVES, PUT UP FOR RETAIL SALE AS GLUES OR ADHESIVES, NOT EXCEEDING A NET WEIGHT OF 1 KG : OTHER: OTHER: PREPARED GLUES AND OTHER PR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35069999",
+            "description": "PREPARED GLUES AND OTHER PREPARED ADHESIVES, NOT ELSEWHERE SPECIFIED OR INCLUDED; PRODUCTS SUITABLE FOR USE AS GLUES OR ADHESIVES, PUT UP FOR RETAIL SALE AS GLUES OR ADHESIVES, NOT EXCEEDING A NET WEIGHT OF 1 KG : OTHER: OTHER: PREPARED GLUES AND OTHER PR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3507",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "350710",
+            "description": "RENNET AND CONCENTRATES THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35071011",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED RENNET AND CONCENTRATES THEREOF: MICROBIAL RENNET: ANIMAL RENNET",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35071019",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED RENNET AND CONCENTRATES THEREOF: MICROBIAL RENNET: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35071091",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED RENNET AND CONCENTRATES THEREOF: OTHER: ANIMAL RENNET",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35071099",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED RENNET AND CONCENTRATES THEREOF: OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "350790",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35079010",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER: INDUSTRIAL ENZYMES (TEXTILE ASSISTANT)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35079020",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER: PANCRETIN PURE (EXCLUDING MEDICAMENT)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35079030",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER: PEPSIN (EXCLUDING MEDICAMENT)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35079040",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER: PECTIN ESTERASES PURE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35079050",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER: PECTOLYTIC ENZYME (PECTIMASE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35079061",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER: OTHER ENZYMES OF MICROBIAL ORIGIN: STREPTOKINASE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35079062",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER: OTHER ENZYMES OF MICROBIAL ORIGIN: AMYLASES ENZYMES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35079069",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER: OTHER ENZYMES OF MICROBIAL ORIGIN: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35079071",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER: ENZYMES FOR PHARMACEUTICAL USE, OTHER THAN STREPTOKINASE: PAPAIN, PURE, OF PHARMACEUTICAL GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35079079",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER: ENZYMES FOR PHARMACEUTICAL USE, OTHER THAN STREPTOKINASE: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35079091",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER: OTHER: ENZYMATIC PREPARATIONS CONTAINING FOOD STUFFS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "35079099",
+            "description": "ENZYMES; PREPARED ENZYMES NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER: OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

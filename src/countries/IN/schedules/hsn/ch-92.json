@@ -1,0 +1,559 @@
+{
+    "chapter": "92",
+    "kind": "HSN",
+    "count": 46,
+    "entries": [
+        {
+            "code": "9201",
+            "description": "PIANOS, INCLUDING AUTOMATIC PIANOS; HARPSI-CHORDS AND OTHER KEYBOARD STRINGED INSTRUMENTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920110",
+            "description": "PIANOS, INCLUDING AUTOMATIC PIANOS; HARPSI-CHORDS AND OTHER KEYBOARD STRINGED INSTRUMENTS UPRIGHT PIANOS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92011000",
+            "description": "PIANOS, INCLUDING AUTOMATIC PIANOS; HARPSI-CHORDS AND OTHER KEYBOARD STRINGED INSTRUMENTS UPRIGHT PIANOS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920120",
+            "description": "PIANOS, INCLUDING AUTOMATIC PIANOS; HARPSI-CHORDS AND OTHER KEYBOARD STRINGED INSTRUMENTS GRAND PIANOS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92012000",
+            "description": "PIANOS, INCLUDING AUTOMATIC PIANOS; HARPSI-CHORDS AND OTHER KEYBOARD STRINGED INSTRUMENTS GRAND PIANOS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920190",
+            "description": "PIANOS, INCLUDING AUTOMATIC PIANOS; HARPSI-CHORDS AND OTHER KEYBOARD STRINGED INSTRUMENTS OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92019000",
+            "description": "PIANOS, INCLUDING AUTOMATIC PIANOS; HARPSI-CHORDS AND OTHER KEYBOARD STRINGED INSTRUMENTS OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9202",
+            "description": "OTHER STRING MUSICAL INSTRUMENTS (FOR EXAMPLE, GUITARS, VIOLINS, HARPS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920210",
+            "description": "OTHER STRING MUSICAL INSTRUMENTS (FOR EXAMPLE, GUITARS, VIOLINS, HARPS) PLAYED WITH A BOW",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92021000",
+            "description": "OTHER STRING MUSICAL INSTRUMENTS (FOR EXAMPLE, GUITARS, VIOLINS, HARPS) PLAYED WITH A BOW",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920290",
+            "description": "OTHER STRING MUSICAL INSTRUMENTS (FOR EXAMPLE, GUITARS, VIOLINS, HARPS) OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92029000",
+            "description": "OTHER STRING MUSICAL INSTRUMENTS (FOR EXAMPLE, GUITARS, VIOLINS, HARPS) OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9205",
+            "description": "WIND MUSICAL INSTRUMENTS (FOR EXAMPLE, KEYBOARD PIPE ORGANS, ACCORDIONS, CLARINETS, TRUMPETS, BAGPIPES) OTHER THAN FAIRGROUND ORGANS AND |MECHANICAL STREET ORGANS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920510",
+            "description": "OTHER WIND MUSICAL INSTRUMENTS (FOR EXAMPLE, CLARINETS, TRUMPETS, BAGPIPES) BRASS-WIND INSTRUMENTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92051000",
+            "description": "OTHER WIND MUSICAL INSTRUMENTS (FOR EXAMPLE, CLARINETS, TRUMPETS, BAGPIPES) BRASS-WIND INSTRUMENTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920590",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92059010",
+            "description": "OTHER WIND MUSICAL INSTRUMENTS (FOR EXAMPLE, CLARINETS, TRUMPETS, BAGPIPES) - OTHER: FLUTES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92059020",
+            "description": "OTHER WIND MUSICAL INSTRUMENTS (FOR EXAMPLE, CLARINETS, TRUMPETS, BAGPIPES) - OTHER: CLARINETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92059090",
+            "description": "OTHER WIND MUSICAL INSTRUMENTS (FOR EXAMPLE, CLARINETS, TRUMPETS, BAGPIPES) - OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9206",
+            "description": "PERCUSSION MUSICAL INSTRUMENTS (FOR EXAMPLE, DRUMS, XYLOPHONES, CYMBOLS, CASTANETS, MARACAS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92060000",
+            "description": "PERCUSSION MUSICAL INSTRUMENTS (FOR EXAMPLE, DRUMS, XYLOPHONES, CYMBOLS, CASTANETS, MARACAS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9207",
+            "description": "MUSICAL INSTRUMENTS, THE SOUND OF WHICH IS PRODUCED, OR MUST BE AMPLIFIED, ELECTRICALLY (FOR EXAMPLE, ORGANS, GUITARS, ACCORDIONS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920710",
+            "description": "MUSICAL INSTRUMENTS, THE SOUND OF WHICH IS PRODUCED, OR MUST BE AMPLIFIED, ELECTRICALLY (FOR EXAMPLE, ORGANS, GUITARS, ACCORDIONS)KEYBOARD INSTRUMENTS, OTHER THAN ACCORDIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92071000",
+            "description": "MUSICAL INSTRUMENTS, THE SOUND OF WHICH IS PRODUCED, OR MUST BE AMPLIFIED, ELECTRICALLY (FOR EXAMPLE, ORGANS, GUITARS, ACCORDIONS)KEYBOARD INSTRUMENTS, OTHER THAN ACCORDIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920790",
+            "description": "MUSICAL INSTRUMENTS, THE SOUND OF WHICH IS PRODUCED, OR MUST BE AMPLIFIED, ELECTRICALLY (FOR EXAMPLE, ORGANS, GUITARS, ACCORDIONS)OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92079000",
+            "description": "MUSICAL INSTRUMENTS, THE SOUND OF WHICH IS PRODUCED, OR MUST BE AMPLIFIED, ELECTRICALLY (FOR EXAMPLE, ORGANS, GUITARS, ACCORDIONS)OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9208",
+            "description": "MUSICAL BOXES, FAIRGROUND ORGANS, MECHANICAL STREET ORGANS, MECHANICAL SINGING BIRDS, MUSICAL SAWS AND OTHER MUSICAL INSTRUMENTS NOT FALLING WITHIN ANY OTHER HEADING OF THIS CHAPTER; DECOY CALLS OF ALL KINDS; WHISTLES, CALL HORNS AND OTHER MOUTH-BLOWN SOU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920810",
+            "description": "MUSICAL BOXES, FAIRGROUND ORGANS, MECHANICAL STREET ORGANS, MECHANICAL SINGING BIRDS, MUSICAL SAWS AND OTHER MUSICAL INSTRUMENTS NOT FALLING WITHIN ANY OTHER HEADING OF THIS CHAPTER; DECOY CALLS OF ALL KINDS; WHISTLES, CALL HORNS AND OTHER MOUTH-BLOWN SOU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92081000",
+            "description": "MUSICAL BOXES, FAIRGROUND ORGANS, MECHANICAL STREET ORGANS, MECHANICAL SINGING BIRDS, MUSICAL SAWS AND OTHER MUSICAL INSTRUMENTS NOT FALLING WITHIN ANY OTHER HEADING OF THIS CHAPTER; DECOY CALLS OF ALL KINDS; WHISTLES, CALL HORNS AND OTHER MOUTH-BLOWN SOU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92082000",
+            "description": "MUSICAL BOXES, FAIRGROUND ORGANS, MECHANICAL STREET ORGANS, MECHANICAL SINGING BIRDS, MUSICAL SAWS AND OTHER MUSICAL INSTRUMENTS NOT FALLING WITHIN ANY OTHER HEADING OF THIS CHAPTER; DECOY CALLS OF ALL KINDS; WHISTLES, CALL HORNS AND OTHER MOUTH-BLOWN SOU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920890",
+            "description": "MUSICAL BOXES, FAIRGROUND ORGANS, MECHANICAL STREET ORGANS, MECHANICAL SINGING BIRDS, MUSICAL SAWS AND OTHER MUSICAL INSTRUMENTS NOT FALLING WITHIN ANY OTHER HEADING OF THIS CHAPTER; DECOY CALLS OF ALL KINDS; WHISTLES, CALL HORNS AND OTHER MOUTH-BLOWN SOU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92089000",
+            "description": "MUSICAL BOXES, FAIRGROUND ORGANS, MECHANICAL STREET ORGANS, MECHANICAL SINGING BIRDS, MUSICAL SAWS AND OTHER MUSICAL INSTRUMENTS NOT FALLING WITHIN ANY OTHER HEADING OF THIS CHAPTER; DECOY CALLS OF ALL KINDS; WHISTLES, CALL HORNS AND OTHER MOUTH-BLOWN SOU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9209",
+            "description": "PARTS (FOR EXAMPLE, MECHANISMS FOR MUSICAL BOXES) AND ACCESSORIES (FOR EXAMPLE, CARDS, DISCS AND ROLLS FOR MECHANICAL INSTRUMENTS) OF MUSICAL INSTRUMENTS; METRONOMES, TUNING FORKS AND PITCH PIPES OF ALL KINDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92091000",
+            "description": "PARTS (FOR EXAMPLE, MECHANISMS FOR MUSICAL BOXES) AND ACCESSORIES (FOR EXAMPLE, CARDS, DISCS AND ROLLS FOR MECHANICAL INSTRUMENTS) OF MUSICAL INSTRUMENTS; METRONOMES, TUNING FORKS AND PITCH PIPES OF ALL KINDSMETRONOMES, TUNING FORKS AND PITCH PIPES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92092000",
+            "description": "PARTS (FOR EXAMPLE, MECHANISMS FOR MUSICAL BOXES) AND ACCESSORIES (FOR EXAMPLE, CARDS, DISCS AND ROLLS FOR MECHANICAL INSTRUMENTS) OF MUSICAL INSTRUMENTS; METRONOMES, TUNING FORKS AND PITCH PIPES OF ALL KINDSMECHANISMS FOR MUSICAL BOXES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920930",
+            "description": "PARTS (FOR EXAMPLE, MECHANISMS FOR MUSICAL BOXES) AND ACCESSORIES (FOR EXAMPLE, CARDS, DISCS AND ROLLS FOR MECHANICAL INSTRUMENTS) OF MUSICAL INSTRUMENTS; METRONOMES, TUNING FORKS AND PITCH PIPES OF ALL KINDSMUSICAL INSTRUMENT STRINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92093000",
+            "description": "PARTS (FOR EXAMPLE, MECHANISMS FOR MUSICAL BOXES) AND ACCESSORIES (FOR EXAMPLE, CARDS, DISCS AND ROLLS FOR MECHANICAL INSTRUMENTS) OF MUSICAL INSTRUMENTS; METRONOMES, TUNING FORKS AND PITCH PIPES OF ALL KINDSMUSICAL INSTRUMENT STRINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920991",
+            "description": "PARTS (FOR EXAMPLE, MECHANISMS FOR MUSICAL BOXES) AND ACCESSORIES (FOR EXAMPLE, CARDS, DISCS AND ROLLS FOR MECHANICAL INSTRUMENTS) OF MUSICAL INSTRUMENTS; METRONOMES, TUNING FORKS AND PITCH PIPES OF ALL KINDS- OTHER: PARTS AND ACCESSORIES FOR PIANOS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92099100",
+            "description": "PARTS (FOR EXAMPLE, MECHANISMS FOR MUSICAL BOXES) AND ACCESSORIES (FOR EXAMPLE, CARDS, DISCS AND ROLLS FOR MECHANICAL INSTRUMENTS) OF MUSICAL INSTRUMENTS; METRONOMES, TUNING FORKS AND PITCH PIPES OF ALL KINDS- OTHER: PARTS AND ACCESSORIES FOR PIANOS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920992",
+            "description": "PARTS (FOR EXAMPLE, MECHANISMS FOR MUSICAL BOXES) AND ACCESSORIES (FOR EXAMPLE, CARDS, DISCS AND ROLLS FOR MECHANICAL INSTRUMENTS) OF MUSICAL INSTRUMENTS; METRONOMES, TUNING FORKS AND PITCH PIPES OF ALL KINDS- OTHER: PARTS AND ACCESSORIES FOR THE MUSICAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92099200",
+            "description": "PARTS (FOR EXAMPLE, MECHANISMS FOR MUSICAL BOXES) AND ACCESSORIES (FOR EXAMPLE, CARDS, DISCS AND ROLLS FOR MECHANICAL INSTRUMENTS) OF MUSICAL INSTRUMENTS; METRONOMES, TUNING FORKS AND PITCH PIPES OF ALL KINDS- OTHER: PARTS AND ACCESSORIES FOR THE MUSICAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92099300",
+            "description": "PARTS (FOR EXAMPLE, MECHANISMS FOR MUSICAL BOXES) AND ACCESSORIES (FOR EXAMPLE, CARDS, DISCS AND ROLLS FOR MECHANICAL INSTRUMENTS) OF MUSICAL INSTRUMENTS; METRONOMES, TUNING FORKS AND PITCH PIPES OF ALL KINDS- OTHER: PARTS AND ACCESSORIES FOR THE MUSICAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920994",
+            "description": "PARTS (FOR EXAMPLE, MECHANISMS FOR MUSICAL BOXES) AND ACCESSORIES (FOR EXAMPLE, CARDS, DISCS AND ROLLS FOR MECHANICAL INSTRUMENTS) OF MUSICAL INSTRUMENTS; METRONOMES, TUNING FORKS AND PITCH PIPES OF ALL KINDS- OTHER: PARTS AND ACCESSORIES FOR THE MUSICAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92099400",
+            "description": "PARTS (FOR EXAMPLE, MECHANISMS FOR MUSICAL BOXES) AND ACCESSORIES (FOR EXAMPLE, CARDS, DISCS AND ROLLS FOR MECHANICAL INSTRUMENTS) OF MUSICAL INSTRUMENTS; METRONOMES, TUNING FORKS AND PITCH PIPES OF ALL KINDS- OTHER: PARTS AND ACCESSORIES FOR THE MUSICAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "920999",
+            "description": "PARTS (FOR EXAMPLE, MECHANISMS FOR MUSICAL BOXES) AND ACCESSORIES (FOR EXAMPLE, CARDS, DISCS AND ROLLS FOR MECHANICAL INSTRUMENTS) OF MUSICAL INSTRUMENTS; METRONOMES, TUNING FORKS AND PITCH PIPES OF ALL KINDS- OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "92099900",
+            "description": "PARTS (FOR EXAMPLE, MECHANISMS FOR MUSICAL BOXES) AND ACCESSORIES (FOR EXAMPLE, CARDS, DISCS AND ROLLS FOR MECHANICAL INSTRUMENTS) OF MUSICAL INSTRUMENTS; METRONOMES, TUNING FORKS AND PITCH PIPES OF ALL KINDS- OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

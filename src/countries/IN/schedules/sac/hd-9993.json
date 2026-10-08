@@ -1,0 +1,247 @@
+{
+    "heading": "9993",
+    "kind": "SAC",
+    "count": 20,
+    "entries": [
+        {
+            "code": "999311",
+            "description": "INPATIENT SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999312",
+            "description": "MEDICAL AND DENTAL SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999313",
+            "description": "CHILDBIRTH AND RELATED SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999314",
+            "description": "NURSING AND PHYSIOTHERAPEUTIC SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999315",
+            "description": "AMBULANCE SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999316",
+            "description": "MEDICAL LABORATORY AND DIAGNOSTIC-IMAGING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999317",
+            "description": "BLOOD, SPERM AND ORGAN BANK SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999319",
+            "description": "OTHER HUMAN HEALTH SERVICES INCLUDING HOMEOPATHY, UNANI, AYURVEDA, NATUROPATHY, ACUPUNCTURE ETC.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999321",
+            "description": "RESIDENTIAL HEALTH-CARE SERVICES OTHER THAN BY HOSPITALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999322",
+            "description": "RESIDENTIAL CARE SERVICES FOR THE ELDERLY AND PERSONS WITH DISABILITIES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999331",
+            "description": "RESIDENTIAL CARE SERVICES FOR CHILDREN SUFFERING FROM MENTAL RETARDATION, MENTAL HEALTH ILLNESSES OR SUBSTANCE ABUSE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999332",
+            "description": "OTHER SOCIAL SERVICES WITH ACCOMMODATION FOR CHILDREN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999333",
+            "description": "RESIDENTIAL CARE SERVICES FOR ADULTS SUFFERING FROM MENTAL RETARDATION, MENTAL HEALTH ILLNESSES OR SUBSTANCE ABUSE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999334",
+            "description": "OTHER SOCIAL SERVICES WITH ACCOMMODATION FOR ADULTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999341",
+            "description": "VOCATIONAL REHABILITATION SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999349",
+            "description": "OTHER SOCIAL SERVICES WITHOUT ACCOMMODATION FOR THE ELDERLY AND DISABLED N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999351",
+            "description": "CHILD DAY-CARE SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999352",
+            "description": "GUIDANCE AND COUNSELING SERVICES N.E.C. RELATED TO CHILDREN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999353",
+            "description": "WELFARE SERVICES WITHOUT ACCOMMODATION",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999359",
+            "description": "OTHER SOCIAL SERVICES WITHOUT ACCOMMODATION N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

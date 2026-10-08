@@ -1,0 +1,643 @@
+{
+    "chapter": "53",
+    "kind": "HSN",
+    "count": 53,
+    "entries": [
+        {
+            "code": "5301",
+            "description": "FLAX, RAW OR PROCESSED BUT NOT SPUN; FLAX TOW AND WASTE (INCLUDING YARN WASTE AND GARNETTED STOCK)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "530110",
+            "description": "FLAX, RAW OR PROCESSED BUT NOT SPUN; FLAX TOW AND WASTE (INCLUDING YARN WASTE AND GARNETTED STOCK) FLAX, RAW OR RETTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53011000",
+            "description": "FLAX, RAW OR PROCESSED BUT NOT SPUN; FLAX TOW AND WASTE (INCLUDING YARN WASTE AND GARNETTED STOCK) FLAX, RAW OR RETTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "530121",
+            "description": "FLAX, RAW OR PROCESSED BUT NOT SPUN; FLAX TOW AND WASTE (INCLUDING YARN WASTE AND GARNETTED STOCK) FLAX, BROKEN, SCUTCHED, HACKLED OR OTHERWISE PROCESSED, BUT NOT SPUN :BROKEN OR SCUTCHED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53012100",
+            "description": "FLAX, RAW OR PROCESSED BUT NOT SPUN; FLAX TOW AND WASTE (INCLUDING YARN WASTE AND GARNETTED STOCK) FLAX, BROKEN, SCUTCHED, HACKLED OR OTHERWISE PROCESSED, BUT NOT SPUN :BROKEN OR SCUTCHED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "530129",
+            "description": "FLAX, RAW OR PROCESSED BUT NOT SPUN; FLAX TOW AND WASTE (INCLUDING YARN WASTE AND GARNETTED STOCK) FLAX, BROKEN, SCUTCHED, HACKLED OR OTHERWISE PROCESSED, BUT NOT SPUN :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53012900",
+            "description": "FLAX, RAW OR PROCESSED BUT NOT SPUN; FLAX TOW AND WASTE (INCLUDING YARN WASTE AND GARNETTED STOCK) FLAX, BROKEN, SCUTCHED, HACKLED OR OTHERWISE PROCESSED, BUT NOT SPUN :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "530130",
+            "description": "FLAX, RAW OR PROCESSED BUT NOT SPUN; FLAX TOW AND WASTE (INCLUDING YARN WASTE AND GARNETTED STOCK) FLAX TOW AND WASTE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53013000",
+            "description": "FLAX, RAW OR PROCESSED BUT NOT SPUN; FLAX TOW AND WASTE (INCLUDING YARN WASTE AND GARNETTED STOCK) FLAX TOW AND WASTE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5302",
+            "description": "TRUE HEMP (CANNABIS SATIVA L ), RAW OR PROCESSED BUT NOT SPUN; TOW AND WASTE OF TRUE HEMP (INCLUDING YARN WASTE AND GARNETTED STOCK)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "530210",
+            "description": "TRUE HEMP (CANNABIS SATIVA L ), RAW OR PROCESSED BUT NOT SPUN; TOW AND WASTE OF TRUE HEMP (INCLUDING YARN WASTE AND GARNETTED STOCK) TRUE HEMP, RAW OR RETTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53021000",
+            "description": "TRUE HEMP (CANNABIS SATIVA L ), RAW OR PROCESSED BUT NOT SPUN; TOW AND WASTE OF TRUE HEMP (INCLUDING YARN WASTE AND GARNETTED STOCK) TRUE HEMP, RAW OR RETTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "530290",
+            "description": "TRUE HEMP (CANNABIS SATIVA L ), RAW OR PROCESSED BUT NOT SPUN; TOW AND WASTE OF TRUE HEMP (INCLUDING YARN WASTE AND GARNETTED STOCK) OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53029000",
+            "description": "TRUE HEMP (CANNABIS SATIVA L ), RAW OR PROCESSED BUT NOT SPUN; TOW AND WASTE OF TRUE HEMP (INCLUDING YARN WASTE AND GARNETTED STOCK) OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5303",
+            "description": "JUTE AND OTHER TEXTILE BAST FIBRES (EXCLUDING FLAX, TRUE HEMP AND RAMIE), RAW OR PROCESSED BUT NOT SPUN; TOW AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK)",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "530310",
+            "description": "JUTE AND OTHER TEXTILE BAST FIBRES, RAW OR RETTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53031010",
+            "description": "JUTE AND OTHER TEXTILE BAST FIBRES (EXCLUDING FLAX, TRUE HEMP AND RAMIE), RAW OR PROCESSED BUT NOT SPUN; TOW AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK) JUTE AND OTHER TEXTILE BAST FIBRES, RAW OR RETTED :JUTE, RAW OR RETTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53031090",
+            "description": "JUTE AND OTHER TEXTILE BAST FIBRES (EXCLUDING FLAX, TRUE HEMP AND RAMIE), RAW OR PROCESSED BUT NOT SPUN; TOW AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK) JUTE AND OTHER TEXTILE BAST FIBRES, RAW OR RETTED :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "530390",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53039010",
+            "description": "JUTE AND OTHER TEXTILE BAST FIBRES (EXCLUDING FLAX, TRUE HEMP AND RAMIE), RAW OR PROCESSED BUT NOT SPUN; TOW AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK) OTHER : JUTE CUTTING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53039090",
+            "description": "JUTE AND OTHER TEXTILE BAST FIBRES (EXCLUDING FLAX, TRUE HEMP AND RAMIE), RAW OR PROCESSED BUT NOT SPUN; TOW AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK) OTHER :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5305",
+            "description": "COCONUT, ABACA (MANILA HEMP OR MUSA TEXTILES NEE), RAMIE AND OTHER VEGETABLE TEXTILE FIBRES, NOT ELSEWHERE SPECIFIED OR INCLUDED, RAW OR PROCESSED BUT NOT SPUN; TOW, NOILS AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETED STOCK)",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53050010",
+            "description": "COCONUT ,ABACA,RAMIE AND OTHER VEGETABLE TEXTILE FIBRES,NOT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53050020",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53050030",
+            "description": "CURLED OR MACHINE TWISTED COIR FIBRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53050040",
+            "description": "COIR PITH",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53050050",
+            "description": "VEGETABLE TEXTILE FIRES - OF ABACA",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53050090",
+            "description": "VEGETABLE TEXTILE FIBRES - OF OTHERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53051110",
+            "description": "COCONUT, ABACA (MANILA HEMP OR MUSA TEXTILIS NEE), RAMIE AND OTHER VEGETABLE TEXTILE FIBRES, NOT ELSEWHERE SPECIFIED OR INCLUDED, RAW OR PROCESSED BUT NOT SPUN; TOW, NOILS AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK) OF COCONUT (CO",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53051120",
+            "description": "COCONUT, ABACA (MANILA HEMP OR MUSA TEXTILIS NEE), RAMIE AND OTHER VEGETABLE TEXTILE FIBRES, NOT ELSEWHERE SPECIFIED OR INCLUDED, RAW OR PROCESSED BUT NOT SPUN; TOW, NOILS AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK) OF COCONUT (CO",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53051130",
+            "description": "COCONUT, ABACA (MANILA HEMP OR MUSA TEXTILIS NEE), RAMIE AND OTHER VEGETABLE TEXTILE FIBRES, NOT ELSEWHERE SPECIFIED OR INCLUDED, RAW OR PROCESSED BUT NOT SPUN; TOW, NOILS AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK) OF COCONUT (CO",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53051140",
+            "description": "COCONUT, ABACA (MANILA HEMP OR MUSA TEXTILIS NEE), RAMIE AND OTHER VEGETABLE TEXTILE FIBRES, NOT ELSEWHERE SPECIFIED OR INCLUDED, RAW OR PROCESSED BUT NOT SPUN; TOW, NOILS AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK) OF COCONUT (CO",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53051190",
+            "description": "COCONUT, ABACA (MANILA HEMP OR MUSA TEXTILIS NEE), RAMIE AND OTHER VEGETABLE TEXTILE FIBRES, NOT ELSEWHERE SPECIFIED OR INCLUDED, RAW OR PROCESSED BUT NOT SPUN; TOW, NOILS AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK) OF COCONUT (CO",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53051900",
+            "description": "COCONUT, ABACA (MANILA HEMP OR MUSA TEXTILIS NEE), RAMIE AND OTHER VEGETABLE TEXTILE FIBRES, NOT ELSEWHERE SPECIFIED OR INCLUDED, RAW OR PROCESSED BUT NOT SPUN; TOW, NOILS AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK) OF COCONUT (CO",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53052100",
+            "description": "COCONUT, ABACA (MANILA HEMP OR MUSA TEXTILIS NEE), RAMIE AND OTHER VEGETABLE TEXTILE FIBRES, NOT ELSEWHERE SPECIFIED OR INCLUDED, RAW OR PROCESSED BUT NOT SPUN; TOW, NOILS AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK) OF ABACA : RAW",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53052900",
+            "description": "COCONUT, ABACA (MANILA HEMP OR MUSA TEXTILIS NEE), RAMIE AND OTHER VEGETABLE TEXTILE FIBRES, NOT ELSEWHERE SPECIFIED OR INCLUDED, RAW OR PROCESSED BUT NOT SPUN; TOW, NOILS AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK) OF ABACA :OTHE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53059010",
+            "description": "COCONUT, ABACA (MANILA HEMP OR MUSA TEXTILIS NEE), RAMIE AND OTHER VEGETABLE TEXTILE FIBRES, NOT ELSEWHERE SPECIFIED OR INCLUDED, RAW OR PROCESSED BUT NOT SPUN; TOW, NOILS AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK) OTHER : RAMIE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53059090",
+            "description": "COCONUT, ABACA (MANILA HEMP OR MUSA TEXTILIS NEE), RAMIE AND OTHER VEGETABLE TEXTILE FIBRES, NOT ELSEWHERE SPECIFIED OR INCLUDED, RAW OR PROCESSED BUT NOT SPUN; TOW, NOILS AND WASTE OF THESE FIBRES (INCLUDING YARN WASTE AND GARNETTED STOCK) OTHER :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5309",
+            "description": "WOVEN FABRICS OF FLAX - CONTAINING 85% OR MORE BY WEIGHT OF FLAX :",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "530911",
+            "description": "UNBLEACHED OR BLEACHED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53091110",
+            "description": "WOVEN FABRICS OF FLAX CONTAINING 85% OR MORE BY WEIGHT OF FLAX : UNBLEACHED OR BLEACHED : UNBLEACHED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53091120",
+            "description": "WOVEN FABRICS OF FLAX CONTAINING 85% OR MORE BY WEIGHT OF FLAX : UNBLEACHED OR BLEACHED : BLEACHED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "530919",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53091910",
+            "description": "WOVEN FABRICS OF FLAX CONTAINING 85% OR MORE BY WEIGHT OF FLAX : OTHER : DYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53091920",
+            "description": "WOVEN FABRICS OF FLAX CONTAINING 85% OR MORE BY WEIGHT OF FLAX : OTHER : PRINTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53091990",
+            "description": "WOVEN FABRICS OF FLAX CONTAINING 85% OR MORE BY WEIGHT OF FLAX : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "530921",
+            "description": "UNBLEACHED OR BLEACHED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53092110",
+            "description": "WOVEN FABRICS OF FLAX CONTAINING LESS THAN 85% BY WEIGHT OF FLAX : UNBLEACHED OR BLEACHED : UNBLEACHED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53092120",
+            "description": "WOVEN FABRICS OF FLAX CONTAINING LESS THAN 85% BY WEIGHT OF FLAX : UNBLEACHED OR BLEACHED : BLEACHED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "530929",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53092910",
+            "description": "WOVEN FABRICS OF FLAX CONTAINING LESS THAN 85% BY WEIGHT OF FLAX : OTHER :DYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53092920",
+            "description": "WOVEN FABRICS OF FLAX CONTAINING LESS THAN 85% BY WEIGHT OF FLAX : OTHER :PRINTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "53092990",
+            "description": "WOVEN FABRICS OF FLAX CONTAINING LESS THAN 85% BY WEIGHT OF FLAX : OTHER :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "heading": "9964",
+    "kind": "SAC",
+    "count": 15,
+    "entries": [
+        {
+            "code": "996411",
+            "description": "LOCAL LAND TRANSPORT SERVICES OF PASSENGERS BY RAILWAYS, METRO, MONORAIL, BUS, TRAMWAY, AUTOS, THREE WHEELERS, SCOOTERS AND OTHER MOTOR VEHICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996412",
+            "description": "TAXI SERVICES INCLUDING RADIO TAXI & OTHER SIMILAR SERVICES;",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996413",
+            "description": "NON-SCHEDULED LOCAL BUS AND COACH CHARTER SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996414",
+            "description": "OTHER LAND TRANSPORTATION SERVICES OF PASSENGERS.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996415",
+            "description": "LOCAL WATER TRANSPORT SERVICES OF PASSENGERS BY FERRIES, CRUISES ETC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996416",
+            "description": "SIGHTSEEING TRANSPORTATION SERVICES BY RAIL, LAND, WATER & AIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996419",
+            "description": "OTHER LOCAL TRANSPORTATION SERVICES OF PASSENGERS N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996421",
+            "description": "LONG-DISTANCE TRANSPORT SERVICES OF PASSENGERS THROUGH RAIL NETWORK BY RAILWAYS, METRO ETC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996422",
+            "description": "LONG-DISTANCE TRANSPORT SERVICES OF PASSENGERS THROUGH ROAD BY BUS, CAR, NON-SCHEDULED LONG DISTANCE BUS AND COACH SERVICES, STAGE CARRIAGE ETC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996423",
+            "description": "TAXI SERVICES INCLUDING RADIO TAXI & OTHER SIMILAR SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996424",
+            "description": "COASTAL AND TRANSOCEANIC (OVERSEAS) WATER TRANSPORT SERVICES OF PASSENGERS BY FERRIES, CRUISE SHIPS ETC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996425",
+            "description": "DOMESTIC/INTERNATIONAL SCHEDULED AIR TRANSPORT SERVICES OF PASSENGERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996426",
+            "description": "DOMESTIC/INTERNATIONAL NON-SCHEDULED AIR TRANSPORT SERVICES OF PASSENGERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996427",
+            "description": "SPACE TRANSPORT SERVICES OF PASSENGERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996429",
+            "description": "OTHER LONG-DISTANCE TRANSPORTATION SERVICES OF PASSENGERS N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

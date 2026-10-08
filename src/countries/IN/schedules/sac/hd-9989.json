@@ -1,0 +1,103 @@
+{
+    "heading": "9989",
+    "kind": "SAC",
+    "count": 8,
+    "entries": [
+        {
+            "code": "998911",
+            "description": "PUBLISHING, ON A FEE OR CONTRACT BASIS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998912",
+            "description": "PRINTING AND REPRODUCTION SERVICES OF RECORDED MEDIA, ON A FEE OR CONTRACT BASIS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998920",
+            "description": "MOULDING, PRESSING, STAMPING, EXTRUDING AND SIMILAR PLASTIC MANUFACTURING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998931",
+            "description": "IRON AND STEEL CASTING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998932",
+            "description": "NON-FERROUS METAL CASTING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998933",
+            "description": "METAL FORGING, PRESSING, STAMPING, ROLL FORMING AND POWDER METALLURGY SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998941",
+            "description": "METAL WASTE AND SCRAP RECOVERY (RECYCLING) SERVICES, ON A FEE OR CONTRACT BASIS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998942",
+            "description": "NON-METAL WASTE AND SCRAP RECOVERY (RECYCLING) SERVICES, ON A FEE OR CONTRACT BASIS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

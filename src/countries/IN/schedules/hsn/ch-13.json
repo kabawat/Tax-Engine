@@ -1,0 +1,1003 @@
+{
+    "chapter": "13",
+    "kind": "HSN",
+    "count": 70,
+    "entries": [
+        {
+            "code": "1301",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13011010",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS) LAC : SHELLAC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13011020",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS) LAC : SEED LAC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13011030",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS) LAC : STICK LAC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13011040",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS) LAC : DEWAXED AND DECOLOURISED LAC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13011050",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS) LAC : BLEACHED LAC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13011060",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS) LAC : GASKET LAC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13011070",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS) LAC : BUTTON LAC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13011080",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS) LAC : GARNET LAC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13011090",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS) LAC : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "130120",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS) GUM ARABIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13012000",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS) GUM ARABIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "130190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019011",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : NATURAL GUMS : ASIAN GUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019012",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : NATURAL GUMS : AFRICAN GUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019013",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : NATURAL GUMS : ASAFOETIDA",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019014",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : NATURAL GUMS : BENJAMIN RAS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019015",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : NATURAL GUMS : BENJAMIN COWRIE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019016",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : NATURAL GUMS : KARAYA GUM (INDIAN TRAGACANTH) HASTAB",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019017",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : NATURAL GUMS : TRAGACANTH (ADRAGANTH)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019018",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : NATURAL GUMS : STORAX",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019019",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : NATURAL GUMS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019021",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : RESINS : COPAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019022",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : RESINS : DAMMAR BATU",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019029",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : RESINS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019031",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : GUM RESINS : MYRRH",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019032",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : GUM RESINS : OILBANUM OR FRANKINCENSE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019033",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : GUM RESINS : MASTIC GUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019034",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : GUM RESINS : XANTHIUM GUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019039",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : GUM RESINS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019041",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : OLEORESINS : OF SEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019042",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : OLEORESINS : OF FRUITS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019043",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : OLEORESINS : OF LEAVES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019044",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : OLEORESINS : OF SPICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019045",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : OLEORESINS : OF FLOWERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019046",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : OLEORESINS : OF ROOTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019049",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS)OTHER : OLEORESINS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13019099",
+            "description": "LAC; NATURAL GUMS, RESINS, GUM-RESINS AND OLEORESINS (FOR EXAMPLE, BALSAMS) -OTHER : --- OTHER: ---- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1302",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS - VEGETABLE SAPS AND EXTRACTS :",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "130211",
+            "description": "OPIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021100",
+            "description": "OPIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "130212",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OF LIQUORICE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021200",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OF LIQUORICE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "130213",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OF HOPS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021300",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OF HOPS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021400",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OF PYRETHRUM OR OF THE ROOTS OF PLANTS CONTAINING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "130219",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021911",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OTHER : EXTRACTS : OF BELLADONA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021912",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OTHER : EXTRACTS : OF CASCARA SAGRADA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021913",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OTHER : EXTRACTS : OF NUXVOMICA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021914",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OTHER : EXTRACTS : OF GINSENG (INCLUDING POWDER)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021915",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OTHER : EXTRACTS : OF AGAROSE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021916",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OTHER : EXTRACTS : OF NEEM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021917",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OTHER : EXTRACTS : OF GYMNEMA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021918",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OTHER : EXTRACTS : OF GARACENIA OR GAMBODGE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021919",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OTHER : EXTRACTS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021920",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OTHER : CASHEW SHELL LIQUID (CNSL), CRUDE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021930",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OTHER : PURIFIED AND DISTILLED CNSL (CARDANOL)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13021990",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS VEGETABLE SAPS AND EXTRACTS : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "130220",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS PECTIC SUBSTANCES, PECTINATES AND PECTATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13022000",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS PECTIC SUBSTANCES, PECTINATES AND PECTATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "130231",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PROD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13023100",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PROD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13023210",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13023220",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13023230",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13023240",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13023290",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "130239",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "13023900",
+            "description": "VEGETABLE SAPS AND EXTRACTS; PECTIC SUBSTANCES, PECTINATES AND PECTATES; AGAR-AGAR AND OTHER MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODUCTS MUCILAGES AND THICKENERS, WHETHER OR NOT MODIFIED, DERIVED FROM VEGETABLE PRODU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

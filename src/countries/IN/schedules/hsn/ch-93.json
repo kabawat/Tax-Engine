@@ -1,0 +1,451 @@
+{
+    "chapter": "93",
+    "kind": "HSN",
+    "count": 36,
+    "entries": [
+        {
+            "code": "9301",
+            "description": "MILITARY WEAPONS, OTHER THAN REVOLVERS, PISTOLS AND THE ARMS OF HEADING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "930110",
+            "description": "ARTILLERY WEAPONS (FOR EXAPLE, GUNDS, HOWITZERS AND MORTARS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93011010",
+            "description": "SELF PROPELLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93011090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93019000",
+            "description": "MILITARY WEAPONS, OTHER THAN REVOLVERS, PISTOLS AND THE ARMS OF HEADING 9307 - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9302",
+            "description": "REVOLVERS AND PISTOLS, OTHER THAN THOSE OF HEADING 9303 OR 9304",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "930200",
+            "description": "REVOLVERS AND PISTOLS, OTHER THAN THOSE OF HEADING 9303 OR 9304",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93020000",
+            "description": "REVOLVERS AND PISTOLS, OTHER THAN THOSE OF HEADING 9303 OR 9304",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9303",
+            "description": "OTHER FIREARMS AND SIMILAR DEVICES WHICH OPERATE BY THE FIRING OF AN EXPLOSIVE CHARGE (FOR EXAMPLE, SPORTING SHOTGUNS AND RIFLES, MUZZLE-LOADING FIREARMS, VERY PISTOLS AND OTHER DEVICES DESIGNED TO PROJECT ONLY SIGNAL FLARES, PISTOLS AND REVOLVERS FOR FIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "930310",
+            "description": "OTHER FIREARMS AND SIMILAR DEVICES WHICH OPERATE BY THE FIRING OF AN EXPLOSIVE CHARGE (FOR EXAMPLE, SPORTING SHOTGUNS AND RIFLES, MUZZLE-LOADING FIREARMS, VERY PISTOLS AND OTHER DEVICES DESIGNED TO PROJECT ONLY SIGNAL FLARES, PISTOLS AND REVOLVERS FOR FIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93031000",
+            "description": "OTHER FIREARMS AND SIMILAR DEVICES WHICH OPERATE BY THE FIRING OF AN EXPLOSIVE CHARGE (FOR EXAMPLE, SPORTING SHOTGUNS AND RIFLES, MUZZLE-LOADING FIREARMS, VERY PISTOLS AND OTHER DEVICES DESIGNED TO PROJECT ONLY SIGNAL FLARES, PISTOLS AND REVOLVERS FOR FIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "930330",
+            "description": "OTHER FIREARMS AND SIMILAR DEVICES WHICH OPERATE BY THE FIRING OF AN EXPLOSIVE CHARGE (FOR EXAMPLE, SPORTING SHOTGUNS AND RIFLES, MUZZLE-LOADING FIREARMS, VERY PISTOLS AND OTHER DEVICES DESIGNED TO PROJECT ONLY SIGNAL FLARES, PISTOLS AND REVOLVERS FOR FIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93033000",
+            "description": "OTHER FIREARMS AND SIMILAR DEVICES WHICH OPERATE BY THE FIRING OF AN EXPLOSIVE CHARGE (FOR EXAMPLE, SPORTING SHOTGUNS AND RIFLES, MUZZLE-LOADING FIREARMS, VERY PISTOLS AND OTHER DEVICES DESIGNED TO PROJECT ONLY SIGNAL FLARES, PISTOLS AND REVOLVERS FOR FIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "930390",
+            "description": "OTHER FIREARMS AND SIMILAR DEVICES WHICH OPERATE BY THE FIRING OF AN EXPLOSIVE CHARGE (FOR EXAMPLE, SPORTING SHOTGUNS AND RIFLES, MUZZLE-LOADING FIREARMS, VERY PISTOLS AND OTHER DEVICES DESIGNED TO PROJECT ONLY SIGNAL FLARES, PISTOLS AND REVOLVERS FOR FIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93039000",
+            "description": "OTHER FIREARMS AND SIMILAR DEVICES WHICH OPERATE BY THE FIRING OF AN EXPLOSIVE CHARGE (FOR EXAMPLE, SPORTING SHOTGUNS AND RIFLES, MUZZLE-LOADING FIREARMS, VERY PISTOLS AND OTHER DEVICES DESIGNED TO PROJECT ONLY SIGNAL FLARES, PISTOLS AND REVOLVERS FOR FIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9304",
+            "description": "OTHER ARMS (FOR EXAMPLE, SPRING, AIR OR GAS GUNS AND PISTOLS, TRUNCHEONS), EXCLUDING THOSE OF HEADING 9307",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93040000",
+            "description": "OTHER ARMS (FOR EXAMPLE, SPRING, AIR OR GAS GUNS AND PISTOLS, TRUNCHEONS), EXCLUDING THOSE OF HEADING 9307",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9305",
+            "description": "PARTS AND ACCESSORIES OF ARTICLES OF HEADINGS 9301 TO 9304",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93051000",
+            "description": "PARTS AND ACCESSORIES OF ARTICLES OF HEADINGS 9301 TO 9304 OF REVOLVERS OR PISTOLS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "930520",
+            "description": "OF SHOTGUNDS OR RIFLES OF HEADING 9303",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93052010",
+            "description": "SHOTGUN BARRELS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93052090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93059100",
+            "description": "PARTS AND ACCESSORIES OF ARTICLES OF HEADINGS 9301 TO 9304 - OTHER : OF MILITARY WEAPONS OF HEADING 9301",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93059900",
+            "description": "PARTS AND ACCESSORIES OF ARTICLES OF HEADINGS 9301 TO 9304 - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9306",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS - SHOTGUN CARTRIDGES AND PARTS THEREOF; AIR GUN PELLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93061000",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS CARTRIDGES FOR RIVETING OR SIMILAR TOOLS OR FOR CAPTIVE-BOLT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "930621",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS - SHOTGUN CARTRIDGES AND PARTS THEREOF; AIR GUN PELLETS: CAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93062100",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS - SHOTGUN CARTRIDGES AND PARTS THEREOF; AIR GUN PELLETS: CAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "930629",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS - SHOTGUN CARTRIDGES AND PARTS THEREOF; AIR GUN PELLETS: OTH",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93062900",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS - SHOTGUN CARTRIDGES AND PARTS THEREOF; AIR GUN PELLETS: OTH",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "930630",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS OTHER CARTRIDGES AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93063000",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS OTHER CARTRIDGES AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "930690",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93069000",
+            "description": "BOMBS , GRENADES, TORPEDOES, MINES, MISSILES, AND SIMILAR MUNITIONS OF WAR AND PARTS THEREOF; CARTRIDGES AND OTHER AMMUNITION AND PROJECTILES AND PARTS THEREOF, INCLUDING SHOT AND CARTRIDGE WADS OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "9307",
+            "description": "SWORDS, CUT LASSES, BAYONETS, LANCES AND SIMILAR ARMS AND PARTS THEREOF AND SCABBARDS AND SHEATHS THEREFOR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "93070000",
+            "description": "SWORDS, CUT LASSES, BAYONETS, LANCES AND SIMILAR ARMS AND PARTS THEREOF AND SCABBARDS AND SHEATHS THEREFOR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

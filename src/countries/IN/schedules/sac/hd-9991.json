@@ -1,0 +1,211 @@
+{
+    "heading": "9991",
+    "kind": "SAC",
+    "count": 17,
+    "entries": [
+        {
+            "code": "999111",
+            "description": "OVERALL GOVERNMENT PUBLIC SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999112",
+            "description": "PUBLIC ADMINISTRATIVE SERVICES RELATED TO THE PROVISION OF EDUCATIONAL, HEALTH CARE, CULTURAL AND OTHER SOCIAL SERVICES, EXCLUDING SOCIAL SECURITY SERVICE.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999113",
+            "description": "PUBLIC ADMINISTRATIVE SERVICES RELATED TO THE MORE EFFICIENT OPERATION OF BUSINESS.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999119",
+            "description": "OTHER ADMINISTRATIVE SERVICES OF THE GOVERNMENT N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999121",
+            "description": "PUBLIC ADMINISTRATIVE SERVICES RELATED TO EXTERNAL AFFAIRS, DIPLOMATIC AND CONSULAR SERVICES ABROAD.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999122",
+            "description": "SERVICES RELATED TO FOREIGN ECONOMIC AID",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999123",
+            "description": "SERVICES RELATED TO FOREIGN MILITARY AID",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999124",
+            "description": "MILITARY DEFENCE SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999125",
+            "description": "CIVIL DEFENCE SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999126",
+            "description": "POLICE AND FIRE PROTECTION SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999127",
+            "description": "PUBLIC ADMINISTRATIVE SERVICES RELATED TO LAW COURTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999128",
+            "description": "ADMINISTRATIVE SERVICES RELATED TO THE DETENTION OR REHABILITATION OF CRIMINALS.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999129",
+            "description": "PUBLIC ADMINISTRATIVE SERVICES RELATED TO OTHER PUBLIC ORDER AND SAFETY AFFAIRS N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999131",
+            "description": "ADMINISTRATIVE SERVICES RELATED TO SICKNESS, MATERNITY OR TEMPORARY DISABLEMENT BENEFIT SCHEMES.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999132",
+            "description": "ADMINISTRATIVE SERVICES RELATED TO GOVERNMENT EMPLOYEE PENSION SCHEMES; OLD-AGE DISABILITY OR SURVIVORS' BENEFIT SCHEMES, OTHER THAN FOR GOVERNMENT EMPLOYEES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999133",
+            "description": "ADMINISTRATIVE SERVICES RELATED TO UNEMPLOYMENT COMPENSATION BENEFIT SCHEMES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999134",
+            "description": "ADMINISTRATIVE SERVICES RELATED TO FAMILY AND CHILD ALLOWANCE PROGRAMMES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

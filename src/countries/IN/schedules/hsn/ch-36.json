@@ -1,0 +1,469 @@
+{
+    "chapter": "36",
+    "kind": "HSN",
+    "count": 38,
+    "entries": [
+        {
+            "code": "3601",
+            "description": "PROPELLANT POWDERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "360100",
+            "description": "PROPELLANT POWDERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36010010",
+            "description": "PROPELLANT POWDERS PROPELLANT POWDERS: BLASTING POWDER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36010020",
+            "description": "PROPELLANT POWDERS PROPELLANT POWDERS: GUN POWDER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36010090",
+            "description": "PROPELLANT POWDERS PROPELLANT POWDERS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3602",
+            "description": "PREPARED EXPLOSIVES, OTHER THAN PROPELLANT POWDERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "360200",
+            "description": "PREPARED EXPLOSIVES, OTHER THAN PROPELLANT POWDERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36020010",
+            "description": "PREPARED EXPLOSIVES, OTHER THAN PROPELLANT POWDERS PREPARED EXPLOSIVES, OTHER THAN PROPELLANT POWDERS: INDUSTRIAL EXPLOSIVES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36020090",
+            "description": "PREPARED EXPLOSIVES, OTHER THAN PROPELLANT POWDERS PREPARED EXPLOSIVES, OTHER THAN PROPELLANT POWDERS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3603",
+            "description": "SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36030011",
+            "description": "SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS: SAFETY FUSES: FOR MINE BLASTING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36030019",
+            "description": "SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36030020",
+            "description": "SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS: DETONATING FUSES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36030031",
+            "description": "SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS: PERCUSSION AND DETONATING CAPS: NONORDNANCE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36030039",
+            "description": "SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS: PERCUSSION AND DETONATING CAPS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36030041",
+            "description": "SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS: IGNITERS: NONORDNANCE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36030049",
+            "description": "SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS: IGNITERS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36030051",
+            "description": "SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS: ELECTRIC DETONATORS: CONTAINING EXPLOSIVES ELECTRICALLY IGNITED, NON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36030059",
+            "description": "SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS SAFETY FUSES; DETONATING FUSES; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS: ELECTRIC DETONATORS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3604",
+            "description": "FIREWORKS, SIGNALLING FLARES, RAIN ROCKETS, FOG SIGNALS AND OTHER PYROTECHNIC ARTICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "360410",
+            "description": "FIREWORKS, SIGNALLING FLARES, RAIN ROCKETS, FOG SIGNALS AND OTHER PYROTECHNIC ARTICLES FIREWORKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36041000",
+            "description": "FIREWORKS, SIGNALLING FLARES, RAIN ROCKETS, FOG SIGNALS AND OTHER PYROTECHNIC ARTICLES FIREWORKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "360490",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36049010",
+            "description": "FIREWORKS, SIGNALLING FLARES, RAIN ROCKETS, FOG SIGNALS AND OTHER PYROTECHNIC ARTICLES OTHER: SHIP SIGNALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36049090",
+            "description": "FIREWORKS, SIGNALLING FLARES, RAIN ROCKETS, FOG SIGNALS AND OTHER PYROTECHNIC ARTICLES OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3605",
+            "description": "MATCHES, OTHER THAN PYROTECHNIC ARTICLES OF HEADING 3604",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2020-04-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "360500",
+            "description": "MATCHES, OTHER THAN PYROTECHNIC ARTICLES OF HEADING 3604",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2020-04-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36050010",
+            "description": "MATCHES, OTHER THAN PYROTECHNIC ARTICLES OF HEADING 3604 MATCHES, OTHER THAN PYROTECHNIC ARTICLES OF HEADING 3604: SAFETY MATCHES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2020-04-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36050090",
+            "description": "MATCHES, OTHER THAN PYROTECHNIC ARTICLES OF HEADING 3604 MATCHES, OTHER THAN PYROTECHNIC ARTICLES OF HEADING 3604: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2020-04-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "3606",
+            "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "360610",
+            "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER LIQUID OR LIQUEFIED GAS FUELS IN CONTAINERS OF A KIND USED FOR FILLING OR REFILLING CIGARETTE OR SIMILAR LIGHTERS AND OF A CAPA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36061000",
+            "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER LIQUID OR LIQUEFIED GAS FUELS IN CONTAINERS OF A KIND USED FOR FILLING OR REFILLING CIGARETTE OR SIMILAR LIGHTERS AND OF A CAPA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "360690",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36069010",
+            "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER OTHER: COMBUSTIBLE PREPARATIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36069091",
+            "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER OTHER: OTHER: FERROCERIUM, IN ALL FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36069092",
+            "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER OTHER: OTHER: PYROPHORIC ALLOYS, IN ALL FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36069093",
+            "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER OTHER: OTHER: DNPT (DINITROSO PENTA METHYLENE TETRAMINE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "36069099",
+            "description": "FERRO-CERIUM AND OTHER PYROPHORIC ALLOYS IN ALL FORMS; ARTICLES OF COMBUSTIBLE MATERIALS AS SPECIFIED IN NOTE 2 TO THIS CHAPTER OTHER: OTHER: OTHERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

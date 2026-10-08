@@ -1,0 +1,4777 @@
+{
+    "chapter": "44",
+    "kind": "HSN",
+    "count": 358,
+    "entries": [
+        {
+            "code": "4401",
+            "description": "FUEL WOOD, IN LOGS, IN BILLETS, IN TWIGS, IN FAGGOTS OR IN SIMILAR FORMS; WOOD IN CHIPS OR PARTICLES; SAWDUST AND WOOD WASTE AND SCRAP, WHETHER OR NOT AGGLOMERATED IN LOGS, BRIQUETTES, PELLETS OR SIMILAR FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440110",
+            "description": "FUEL WOOD, IN LOGS, IN BILLETS, IN TWIGS, IN FAGGOTS OR IN SIMILAR FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44011010",
+            "description": "FUEL WOOD, IN LOGS, IN BILLETS, IN TWIGS, IN FAGGOTS OR IN SIMILAR FORMS; WOOD IN CHIPS OR PARTICLES; SAWDUST AND WOOD WASTE AND SCRAP, WHETHER OR NOT AGGLOMERATED IN LOGS, BRIQUETTES, PELLETS OR SIMILAR FORMS- FUEL WOOD, IN LOGS, IN BILLETS, IN TWIGS, IN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44011090",
+            "description": "FUEL WOOD, IN LOGS, IN BILLETS, IN TWIGS, IN FAGGOTS OR IN SIMILAR FORMS; WOOD IN CHIPS OR PARTICLES; SAWDUST AND WOOD WASTE AND SCRAP, WHETHER OR NOT AGGLOMERATED IN LOGS, BRIQUETTES, PELLETS OR SIMILAR FORMS- FUEL WOOD, IN LOGS, IN BILLETS, IN TWIGS, IN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440111",
+            "description": "CONIFEROUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44011110",
+            "description": "IN LOGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44011190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440112",
+            "description": "NON-CONIFEROUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44011210",
+            "description": "IN LOGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44011290",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44012100",
+            "description": "FUEL WOOD, IN LOGS, IN BILLETS, IN TWIGS, IN FAGGOTS OR IN SIMILAR FORMS; WOOD IN CHIPS OR PARTICLES; SAWDUST AND WOOD WASTE AND SCRAP, WHETHER OR NOT AGGLOMERATED IN LOGS, BRIQUETTES, PELLETS OR SIMILAR FORMS - WOOD IN CHIPS OR PARTICLES : CONIFEROUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44012200",
+            "description": "FUEL WOOD, IN LOGS, IN BILLETS, IN TWIGS, IN FAGGOTS OR IN SIMILAR FORMS; WOOD IN CHIPS OR PARTICLES; SAWDUST AND WOOD WASTE AND SCRAP, WHETHER OR NOT AGGLOMERATED IN LOGS, BRIQUETTES, PELLETS OR SIMILAR FORMS - WOOD IN CHIPS OR PARTICLES : NON-CONIFEROUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44013100",
+            "description": "FUEL WOOD, IN LOGS, IN BILLETS, IN TWIGS, IN FAGGOTS OR IN SIMILAR FORMS; WOOD IN CHIPS OR PARTICLES; SAWDUST AND WOOD WASTE AND SCRAP, WHETHER OR NOT AGGLOMERATED IN LOGS, BRIQUETTES, PELLETS OR SIMILAR FORMS - SAWDUST AND WOOD WASTE AND SCRAP, WHETHER O",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44013900",
+            "description": "FUEL WOOD, IN LOGS, IN BILLETS, IN TWIGS, IN FAGGOTS OR IN SIMILAR FORMS; WOOD IN CHIPS OR PARTICLES; SAWDUST AND WOOD WASTE AND SCRAP, WHETHER OR NOT AGGLOMERATED IN LOGS, BRIQUETTES, PELLETS OR SIMILAR FORMS - SAWDUST AND WOOD WASTE AND SCRAP, WHETHER O",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44014000",
+            "description": "SAWDUST AND WOOD WASTE AND SCRAP, NOT AGGLOMERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4402",
+            "description": "WOOD CHARCOAL (INCLUDING SHELL OR NUT CHARCOAL), WHETHER OR NOT AGGLOMERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440210",
+            "description": "WOOD CHARCOAL (INCLUDING SHELL OR NUT CHARCOAL), WHETHER OR NOT AGGLOMERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440290",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44029010",
+            "description": "WOOD CHARCOAL (INCLUDING SHELL OR NUT CHARCOAL), WHETHER OR NOT AGGLOMERATED - OTHER : --- OF COCUNUT SHELL",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44029090",
+            "description": "WOOD CHARCOAL (INCLUDING SHELL OR NUT CHARCOAL), WHETHER OR NOT AGGLOMERATED: OTHER --- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4403",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440310",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - TREATED WITH PAINT, STAINS, CREOSOTE OR OTHER PRESERVATIVES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44031000",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - TREATED WITH PAINT, STAINS, CREOSOTE OR OTHER PRESERVATIVES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44031100",
+            "description": "CONIFEROUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44031200",
+            "description": "NON-CONIFEROUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032090",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER, CONIFEROUS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032110",
+            "description": "SAW LOGS AND VENEER LOGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032120",
+            "description": "POLES, PILLING AND POSTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440322",
+            "description": "SAW LOGS AND VENEER LOGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032210",
+            "description": "SAW LOGS AND VENEER LOGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032220",
+            "description": "POLES, PILLING AND POSTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032290",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032310",
+            "description": "SAW LOGS AND VENEER LOGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032320",
+            "description": "POLES, PILLING AND POSTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032390",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440324",
+            "description": "OF FIR (ABIES SPP.) AND SPRUCE (PICEA SPP.), OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032410",
+            "description": "SAW LOGS AND VENEER LOGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032420",
+            "description": "POLES, PILLING AND POSTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032490",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440325",
+            "description": "OTHER, OF WHICH ANY CROSS-SECTIONAL DIMENSION IS 15 CM OR MORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032510",
+            "description": "SAW LOGS AND VENEER LOGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032520",
+            "description": "POLES, PILLING AND POSTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032590",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440326",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032610",
+            "description": "SAW LOGS AND VENEER LOGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032620",
+            "description": "POLES, PILLING AND POSTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44032690",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44034100",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER, OF TROPICAL WOOD SPECIFIED IN SUBHEADING NOTE 1 TO THIS CHAPTER : DARK RED MERANTI, LIGHT RED MERANTI AND MERANTI BAKAU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440349",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44034910",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER, OF TROPICAL WOOD SPECIFIED IN SUBHEADING NOTE 1 TO THIS CHAPTER : OTHER :TEAK WOOD IN ROUGH",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44034990",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER, OF TROPICAL WOOD SPECIFIED IN SUBHEADING NOTE 1 TO THIS CHAPTER : OTHER :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440391",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OF OAK (QUERCUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039100",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OF OAK (QUERCUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039200",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OF BEECH (FAGUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039400",
+            "description": "OF BEECH (FAGUS SPP.), OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039600",
+            "description": "OF BIRCH (BETULA SPP.), OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039700",
+            "description": "OF POPLAR AND ASPEN (POPULUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039800",
+            "description": "OF EUCALYPTUS (EUCALYPTUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440399",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039911",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : ANDAMAN PADAUK (PTEROCAROUS DALBAERGIODES) BONSUM (PHOEBE GOALPARENSIS) GURGAN (DIPTEROCARPUS ALATUS) KHAIR (ACACIA CATECHU) LAMPATI (DUABANGA GRANDIFLORA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039912",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : ANDAMAN PADAUK (PTEROCAROUS DALBAERGIODES) BONSUM (PHOEBE GOALPARENSIS) GURGAN (DIPTEROCARPUS ALATUS) KHAIR (ACACIA CATECHU) LAMPATI (DUABANGA GRANDIFLORA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039913",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : ANDAMAN PADAUK (PTEROCAROUS DALBAERGIODES) BONSUM (PHOEBE GOALPARENSIS) GURGAN (DIPTEROCARPUS ALATUS) KHAIR (ACACIA CATECHU) LAMPATI (DUABANGA GRANDIFLORA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039914",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : ANDAMAN PADAUK (PTEROCAROUS DALBAERGIODES) BONSUM (PHOEBE GOALPARENSIS) GURGAN (DIPTEROCARPUS ALATUS) KHAIR (ACACIA CATECHU) LAMPATI (DUABANGA GRANDIFLORA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039915",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : ANDAMAN PADAUK (PTEROCAROUS DALBAERGIODES) BONSUM (PHOEBE GOALPARENSIS) GURGAN (DIPTEROCARPUS ALATUS) KHAIR (ACACIA CATECHU) LAMPATI (DUABANGA GRANDIFLORA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039916",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : ANDAMAN PADAUK (PTEROCAROUS DALBAERGIODES) BONSUM (PHOEBE GOALPARENSIS) GURGAN (DIPTEROCARPUS ALATUS) KHAIR (ACACIA CATECHU) LAMPATI (DUABANGA GRANDIFLORA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039917",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : ANDAMAN PADAUK (PTEROCAROUS DALBAERGIODES) BONSUM (PHOEBE GOALPARENSIS) GURGAN (DIPTEROCARPUS ALATUS) KHAIR (ACACIA CATECHU) LAMPATI (DUABANGA GRANDIFLORA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039918",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : ANDAMAN PADAUK (PTEROCAROUS DALBAERGIODES) BONSUM (PHOEBE GOALPARENSIS) GURGAN (DIPTEROCARPUS ALATUS) KHAIR (ACACIA CATECHU) LAMPATI (DUABANGA GRANDIFLORA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039919",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : ANDAMAN PADAUK (PTEROCAROUS DALBAERGIODES) BONSUM (PHOEBE GOALPARENSIS) GURGAN (DIPTEROCARPUS ALATUS) KHAIR (ACACIA CATECHU) LAMPATI (DUABANGA GRANDIFLORA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039921",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : SAL (CHOREA ROBUSTA) SANDAL WOOD (SANTALUM ALBUR) SEMUL (BOMBAX CEIBA) WALNUT WOOD (JUGLANS BINATA) ANJAM (HARDWICKIA BINATA) BIRCH (BETULA SPP.) SISSOO (D",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039922",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : SAL (CHOREA ROBUSTA) SANDAL WOOD (SANTALUM ALBUR) SEMUL (BOMBAX CEIBA) WALNUT WOOD (JUGLANS BINATA) ANJAM (HARDWICKIA BINATA) BIRCH (BETULA SPP.) SISSOO (D",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039923",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : SAL (CHOREA ROBUSTA) SANDAL WOOD (SANTALUM ALBUR) SEMUL (BOMBAX CEIBA) WALNUT WOOD (JUGLANS BINATA) ANJAM (HARDWICKIA BINATA) BIRCH (BETULA SPP.) SISSOO (D",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039924",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : SAL (CHOREA ROBUSTA) SANDAL WOOD (SANTALUM ALBUR) SEMUL (BOMBAX CEIBA) WALNUT WOOD (JUGLANS BINATA) ANJAM (HARDWICKIA BINATA) BIRCH (BETULA SPP.) SISSOO (D",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039925",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : SAL (CHOREA ROBUSTA) SANDAL WOOD (SANTALUM ALBUR) SEMUL (BOMBAX CEIBA) WALNUT WOOD (JUGLANS BINATA) ANJAM (HARDWICKIA BINATA) BIRCH (BETULA SPP.) SISSOO (D",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039926",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : SAL (CHOREA ROBUSTA) SANDAL WOOD (SANTALUM ALBUR) SEMUL (BOMBAX CEIBA) WALNUT WOOD (JUGLANS BINATA) ANJAM (HARDWICKIA BINATA) BIRCH (BETULA SPP.) SISSOO (D",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039927",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : SAL (CHOREA ROBUSTA) SANDAL WOOD (SANTALUM ALBUR) SEMUL (BOMBAX CEIBA) WALNUT WOOD (JUGLANS BINATA) ANJAM (HARDWICKIA BINATA) BIRCH (BETULA SPP.) SISSOO (D",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039928",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : SAL (CHOREA ROBUSTA) SANDAL WOOD (SANTALUM ALBUR) SEMUL (BOMBAX CEIBA) WALNUT WOOD (JUGLANS BINATA) ANJAM (HARDWICKIA BINATA) BIRCH (BETULA SPP.) SISSOO (D",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039929",
+            "description": "WOOD IN THE ROUGH, WHETHER OR NOT STRIPPED OF BARK OR SAPWOOD, OR ROUGHLY SQUARED - OTHER : OTHER : SAL (CHOREA ROBUSTA) SANDAL WOOD (SANTALUM ALBUR) SEMUL (BOMBAX CEIBA) WALNUT WOOD (JUGLANS BINATA) ANJAM (HARDWICKIA BINATA) BIRCH (BETULA SPP.) SISSOO (D",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44039990",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4404",
+            "description": "HOOPWOOD; SPLIT POLES; PILES, PICKETS AND STAKES OF WOOD, POINTED BUT NOT SAWN LENGTHWISE; WOODEN STICKS, ROUGHLY TRIMMED BUT NOT TURNED, BENT OR OTHERWISE WORKED, SUITABLE FOR THE MANUFACTURE OF WALKING STICKS, UMBRELLAS, TOOL HANDLES OR THE LIKE; CHIPW",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440410",
+            "description": "HOOPWOOD; SPLIT POLES; PILES, PICKETS AND STAKES OF WOOD, POINTED BUT NOT SAWN LENGTHWISE; WOODEN STICKS, ROUGHLY TRIMMED BUT NOT TURNED, BENT OR OTHERWISE WORKED, SUITABLE FOR THE MANUFACTURE OF WALKING STICKS, UMBRELLAS, TOOL HANDLES OR THE LIKE; CHIPWO",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44041000",
+            "description": "HOOPWOOD; SPLIT POLES; PILES, PICKETS AND STAKES OF WOOD, POINTED BUT NOT SAWN LENGTHWISE; WOODEN STICKS, ROUGHLY TRIMMED BUT NOT TURNED, BENT OR OTHERWISE WORKED, SUITABLE FOR THE MANUFACTURE OF WALKING STICKS, UMBRELLAS, TOOL HANDLES OR THE LIKE; CHIPWO",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440420",
+            "description": "NON-CONIFEROUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44042010",
+            "description": "HOOPWOOD; SPLIT POLES; PILES, PICKETS AND STAKES OF WOOD, POINTED BUT NOT SAWN LENGTHWISE; WOODEN STICKS, ROUGHLY TRIMMED BUT NOT TURNED, BENT OR OTHERWISE WORKED, SUITABLE FOR THE MANUFACTURE OF WALKING STICKS, UMBRELLAS, TOOL HANDLES OR THE LIKE; CHIPWO",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44042020",
+            "description": "HOOPWOOD; SPLIT POLES; PILES, PICKETS AND STAKES OF WOOD, POINTED BUT NOT SAWN LENGTHWISE; WOODEN STICKS, ROUGHLY TRIMMED BUT NOT TURNED, BENT OR OTHERWISE WORKED, SUITABLE FOR THE MANUFACTURE OF WALKING STICKS, UMBRELLAS, TOOL HANDLES OR THE LIKE; CHIPWO",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44042090",
+            "description": "HOOPWOOD; SPLIT POLES; PILES, PICKETS AND STAKES OF WOOD, POINTED BUT NOT SAWN LENGTHWISE; WOODEN STICKS, ROUGHLY TRIMMED BUT NOT TURNED, BENT OR OTHERWISE WORKED, SUITABLE FOR THE MANUFACTURE OF WALKING STICKS, UMBRELLAS, TOOL HANDLES OR THE LIKE; CHIPWO",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4405",
+            "description": "WOOD WOOL; WOOD FLOUR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440500",
+            "description": "WOOD WOOL; WOOD FLOUR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44050000",
+            "description": "WOOD WOOL; WOOD FLOUR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4406",
+            "description": "RAILWAY OR TRAMWAY SLEEPERS (CROSSTIES)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44061000",
+            "description": "RAILWAY OR TRAMWAY SLEEPERS (CROSSTIES) OF WOOD - NOT IMPREGNATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44061100",
+            "description": "CONIFEROUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44061200",
+            "description": "NON-CONIFEROUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44069000",
+            "description": "RAILWAY OR TRAMWAY SLEEPERS (CROSSTIES) OF WOOD - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44069100",
+            "description": "CONIFEROUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44069200",
+            "description": "NON-CONIFEROUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4407",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR END-JOINTED, OF A THICKNESS EXCEEDING 6 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44071100",
+            "description": "OF PINE (PINUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44071200",
+            "description": "OF FIR (ABIES SPP.) AND SPRUCE ( PICEA SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440719",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44071910",
+            "description": "DOUGLAS FIR (PSEUDOTSUGA MENZIESII)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44071990",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44072100",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : MAHOGANY (SWIETENIA SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440722",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : VIROLA,IMBUIA AND BALSA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44072200",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : VIROLA,IMBUIA AND BALSA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44072400",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : VIROLA, MAHOGANY (SWIETENIA SPP.) IMBUIA AND BALSA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440725",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : DARK RED MERANTI, LIGHT RED MERANTI AND MERANTI BAKAU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44072500",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : DARK RED MERANTI, LIGHT RED MERANTI AND MERANTI BAKAU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440726",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : WHITE LAUAN, WHITE MERANTI, WHITE SERAYA, YELLOW MERANTI AND",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44072600",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : WHITE LAUAN, WHITE MERANTI, WHITE SERAYA, YELLOW MERANTI AND",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440727",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : --SAPELLI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44072700",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : --SAPELLI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440728",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : IROKO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44072800",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : IROKO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440729",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44072910",
+            "description": "29 WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : OTHER : TEAK WOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44072990",
+            "description": "29 WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440791",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OTHER : OF OAK (QUERCUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44079100",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OTHER : OF OAK (QUERCUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440792",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OTHER : OF BEECH (FAGUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44079200",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OTHER : OF BEECH (FAGUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440793",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OTHER : OF MAPLE (ACER SPP)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44079300",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OTHER : OF MAPLE (ACER SPP)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440794",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OTHER : --OF CHERRY (PRUNUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44079400",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OTHER : --OF CHERRY (PRUNUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440795",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OTHER : -- OF ASH(FRAXINUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44079500",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OTHER : -- OF ASH(FRAXINUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44079700",
+            "description": "OF POPLAR AND ASPEN (POPULUS SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440799",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44079910",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OTHER : OTHER : OF BIRCH (BETULA SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44079920",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OTHER : OTHER : WILLOW",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44079990",
+            "description": "WOOD SAWN OR CHIPPED LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED OR ENDJOINTED, OF A THICKNESS EXCEEDING 6 MM - OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4408",
+            "description": "Sheets for veneering (including those obtained by slicing laminated wood), for plywood or for similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness not exceeding 6 mm [for match splints]",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440810",
+            "description": "CONIFEROUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44081010",
+            "description": "SHEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44081020",
+            "description": "SHEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44081030",
+            "description": "SHEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44081090",
+            "description": "HEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440831",
+            "description": "OF DARK RED MERANTI, LIGHT RED MERANTI AND MERANTI BAKAU",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44083110",
+            "description": "SHEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44083120",
+            "description": "SHEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44083130",
+            "description": "SHEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44083190",
+            "description": "SHEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440839",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44083910",
+            "description": "SHEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44083920",
+            "description": "SHEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44083930",
+            "description": "SHEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44083990",
+            "description": "HEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440890",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44089010",
+            "description": "SHEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44089020",
+            "description": "SHEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44089090",
+            "description": "SHEETS FOR VENEERING (INCLUDING THOSE OBTAINED BY SLICING LAMINATED WOOD), FOR PLYWOOD OR FOR SIMILAR LAMINATED WOOD AND OTHER WOOD, SAWN LENGTHWISE, SLICED OR PEELED, WHETHER OR NOT PLANED, SANDED, SPLICED OR END-JOINTED, OF A THICKNESS NOT EXCEEDING 6 M",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4409",
+            "description": "Bamboo flooring",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440910",
+            "description": "CONIFEROUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44091090",
+            "description": "WOOD (INCLUDING STRIPS AND FRIEZES FOR PARQUET FLOORING, NOT ASSEMBLED) CONTINUOUSLY SHAPED (TONGUED, GROOVED, REBATED, CHAMFERED, V-JOINTED, BEADED, MOULDED, ROUNDED OR THE LIKE) ALONG ANY OF ITS EDGES OR FACES, WHETHER OR NOT PLANED, SANDED OR END-JOINT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44092090",
+            "description": "WOOD (INCLUDING STRIPS AND FRIEZES FOR PARQUET FLOORING, NOT ASSEMBLED) CONTINUOUSLY SHAPED (TONGUED, GROOVED, REBATED, CHAMFERED, V-JOINTED, BEADED, MOULDED, ROUNDED OR THE LIKE) ALONG ANY OF ITS EDGES OR FACES, WHETHER OR NOT PLANED, SANDED OR END-JOINT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440921",
+            "description": "WOOD (INCLUDING STRIPS AND FRIEZES FOR PARQUET FLOORING, NOT ASSEMBLED) CONTINUOUSLY SHAPED (TONGUED, GROOVED, REBATED, CHAMFERED, V-JOINTED, BEADED, MOULDED, ROUNDED OR THE LIKE) ALONG ANY OF ITS EDGES OR FACES, WHETHER OR NOT PLANED, SANDED OR END-JOINT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44092100",
+            "description": "WOOD (INCLUDING STRIPS AND FRIEZES FOR PARQUET FLOORING, NOT ASSEMBLED) CONTINUOUSLY SHAPED (TONGUED, GROOVED, REBATED, CHAMFERED, V-JOINTED, BEADED, MOULDED, ROUNDED OR THE LIKE) ALONG ANY OF ITS EDGES OR FACES, WHETHER OR NOT PLANED, SANDED OR END-JOINT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44092200",
+            "description": "OF TROPICAL WOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "440929",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44092920",
+            "description": "WOOD (INCLUDING STRIPS AND FRIEZES FOR PARQUET FLOORING, NOT ASSEMBLED) CONTINUOUSLY SHAPED (TONGUED, GROOVED, REBATED, CHAMFERED, V-JOINTED, BEADED, MOULDED, ROUNDED OR THE LIKE) ALONG ANY OF ITS EDGES OR FACES, WHETHER OR NOT PLANED, SANDED OR END-JOINT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44092990",
+            "description": "WOOD (INCLUDING STRIPS AND FRIEZES FOR PARQUET FLOORING, NOT ASSEMBLED) CONTINUOUSLY SHAPED (TONGUED, GROOVED, REBATED, CHAMFERED, V-JOINTED, BEADED, MOULDED, ROUNDED OR THE LIKE) ALONG ANY OF ITS EDGES OR FACES, WHETHER OR NOT PLANED, SANDED OR END-JOINT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4410",
+            "description": "PARTICLE BOARD, ORIENTED STRAND BOARD (OSB) AND SIMILAR BOARD (FOR EXAMPLE, WAFERBOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OF WOOD:",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441011",
+            "description": "PARTICLE BOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44101110",
+            "description": "PARTICLE BOARD, ORIENTED STRAND BOARD (OSB) AND SIMILAR BOARD (FOR EXAMPLE, WAFERBOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES- OF WOOD:-- PARTICLE BOARD:PLAIN PARTICLE BOARDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44101120",
+            "description": "PARTICLE BOARD, ORIENTED STRAND BOARD (OSB) AND SIMILAR BOARD (FOR EXAMPLE, WAFERBOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS,WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OF WOOD: -- PARTICLE BOARD:--- INSULATION BOARD AND",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44101130",
+            "description": "PARTICLE BOARD, ORIENTED STRAND BOARD (OSB) AND SIMILAR BOARD (FOR EXAMPLE, WAFERBOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS,WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OF WOOD: -- PARTICLE BOARD:--- VENEERED PARTICLE BO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44101190",
+            "description": "PARTICLE BOARD, ORIENTED STRAND BOARD (OSB) AND SIMILAR BOARD (FOR EXAMPLE, WAFERBOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS,WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OF WOOD: -- PARTICLE BOARD:--- OTHERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441012",
+            "description": "ORIENTED STRAND BOARD (OSB)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44101210",
+            "description": "PARTICLE BOARD, ORIENTED STRAND BOARD (OSB) AND SIMILAR BOARD (FOR EXAMPLE, WAFERBOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS,WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OF WOOD: ORIENTED STRAND BOARD (OSB):--- UNWORKED O",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44101290",
+            "description": "PARTICLE BOARD, ORIENTED STRAND BOARD (OSB) AND SIMILAR BOARD (FOR EXAMPLE, WAFERBOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS,WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OF WOOD: ORIENTED STRAND BOARD (OSB):OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441019",
+            "description": "PARTICLE BOARD, ORIENTED STRAND BOARD (OSB) AND SIMILAR BOARD (FOR EXAMPLE, WAFERBOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS,WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OF WOOD:--OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44101900",
+            "description": "PARTICLE BOARD, ORIENTED STRAND BOARD (OSB) AND SIMILAR BOARD (FOR EXAMPLE, WAFERBOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS,WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OF WOOD:--OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44102100",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - ORIENTED STRAND-BOARD AND WAFER BOARD, OF WOOD: UNWORK",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44102900",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - ORIENTED STRAND-BOARD AND WAFER BOARD, OF WOOD: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103110",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: UNWORKED OR NOT FURTHER WORKED THAN SA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103120",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: UNWORKED OR NOT FURTHER WORKED THAN SA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103190",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: UNWORKED OR NOT FURTHER WORKED THAN SA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103210",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: SURFACE-COVERED WITH MELAMINE IMPREGNA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103220",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: SURFACE-COVERED WITH MELAMINE IMPREGNA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103230",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: SURFACE-COVERED WITH MELAMINE IMPREGNA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103290",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: SURFACE-COVERED WITH MELAMINE IMPREGNA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103310",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: SURFACE-COVERED WITH DECORATIVE LAMINA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103320",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: SURFACE-COVERED WITH DECORATIVE LAMINA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103330",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: SURFACE-COVERED WITH DECORATIVE LAMINA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103390",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: SURFACE-COVERED WITH DECORATIVE LAMINA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103910",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: OTHER: PLAIN PARTICLE BOARDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103920",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: OTHER: INSULATION BOARD AND HARDBOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103930",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: OTHER: VENEERED PARTICLE BOARD, NOT HA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44103990",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES - OTHER, OF WOOD: OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44109010",
+            "description": "PARTICLE BOARD, ORIENTED STRAND BOARD (OSB) AND SIMILAR BOARD (FOR EXAMPLE, WAFERBOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS,WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES -- OTHER --- PLAIN PARTICLE BOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44109011",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES- OTHER: PLASTIC LAMINATED SHEETS: INSULATION BOARD AND H",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44109012",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES- OTHER: PLASTIC LAMINATED SHEETS: VENEERED PARTICLE BOAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44109019",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES- OTHER: PLASTIC LAMINATED SHEETS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44109020",
+            "description": "PARTICLE BOARD, ORIENTED STRAND BOARD (OSB) AND SIMILAR BOARD (FOR EXAMPLE, WAFERBOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS,WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES -- OTHER --- INSULATION BOARD AND HARD BOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44109030",
+            "description": "PARTICLE BOARD, ORIENTED STRAND BOARD (OSB) AND SIMILAR BOARD (FOR EXAMPLE, WAFERBOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS,WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES -- OTHER --- VENEERED PARTICLE BOARD, NOT HAVING DECOR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44109040",
+            "description": "BOARD, OF COIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44109050",
+            "description": "BOARD, OF JUTE FIBRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44109090",
+            "description": "PARTICLE BOARD, ORIENTED STRAND BOARD (OSB) AND SIMILAR BOARD (FOR EXAMPLE, WAFERBOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS,WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES -- OTHER --- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44109091",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES- OTHER: OTHER : PLAIN PARTICLE BOARDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44109092",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES- OTHER: OTHER : INSULATION BOARD AND HARDBOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44109093",
+            "description": "PARTICLE BOARD AND SIMILAR BOARD (FOR EXAMPLE, ORIENTED STRAND BOARD AND WAFER BOARD) OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT AGGLOMERATED WITH RESINS OR OTHER ORGANIC BINDING SUBSTANCES- OTHER: OTHER : VENEERED PARTICLE BOARD, NOT HAVING DECO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4411",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - MEDIUM DENSITY FIBRE BOARD (MDF):",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441112",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - MEDIUM DENSITY FIBRE BOARD (MDF):-- OF A THICKNESS NOT EXCEEDING 5 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44111200",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - MEDIUM DENSITY FIBRE BOARD (MDF):-- OF A THICKNESS NOT EXCEEDING 5 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441113",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - MEDIUM DENSITY FIBRE BOARD (MDF):-- OF A THICKNESS EXCEEDING 5 MM BUT NOT EXCEEDING 9 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44111300",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - MEDIUM DENSITY FIBRE BOARD (MDF):-- OF A THICKNESS EXCEEDING 5 MM BUT NOT EXCEEDING 9 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441114",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - MEDIUM DENSITY FIBRE BOARD (MDF):-- OF A THICKNESS EXCEEDING 9 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44111400",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - MEDIUM DENSITY FIBRE BOARD (MDF):-- OF A THICKNESS EXCEEDING 9 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44112110",
+            "description": "FIBREBOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - FIBREBOARD OF A DENSITY EXCEEDING 0.5 G/C - M3 - BUT NOT EXCEEDING 0.8 G/C - M3 - : NOT MECHANICALLY WORKED OR SURFACE COVERED:INSULATION BOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44112190",
+            "description": "FIBREBOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - FIBREBOARD OF A DENSITY EXCEEDING 0.5 G/C - M3 - BUT NOT EXCEEDING 0.8 G/C - M3 - : NOT MECHANICALLY WORKED OR SURFACE COVERED:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44113110",
+            "description": "FIBREBOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - FIBRE BOARD OF A DENSITY EXCEEDING 0.35 G/C - M3 - BUT NOT EXCEEDING 0.5 G/ C - M3 - : NOT MECHANICALLY WORKED OR SURFACE COVERED: INSULATION B",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44113190",
+            "description": "FIBREBOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - FIBRE BOARD OF A DENSITY EXCEEDING 0.35 G/C - M3 - BUT NOT EXCEEDING 0.5 G/ C - M3 - : NOT MECHANICALLY WORKED OR SURFACE COVERED: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441192",
+            "description": "OF A DENSITY EXCEEDING 0.8 GM/CM3",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44119219",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - OTHER: -- OF A DENSITY EXCEEDING 0.8 GM/CM3: --- NOT MECHANICALLY WORKED OR SURFACE COVERED:---- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44119221",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - OTHER: -- OF A DENSITY EXCEEDING 0.8 GM/CM3: --- OTHER:---- HARDBOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44119229",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - OTHER: -- OF A DENSITY EXCEEDING 0.8 GM/CM3: --- OTHER:---- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441193",
+            "description": "OF A DENSITY EXCEEDING 0.5 GM/CM 3 BUT NOT EXCEEDING 0.8 GM/CM 3",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44119311",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - OTHER:-- OF A DENSITY EXCEEDING 0.5 GM/CM3 BUT NOT EXCEEDING 0.8 GM/CM3:--- NOT MECHANICALLY WORKED OR SURFACE COVERED:---- INSULATION BOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44119319",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - OTHER:-- OF A DENSITY EXCEEDING 0.5 GM/CM3 BUT NOT EXCEEDING 0.8 GM/CM3:--- NOT MECHANICALLY WORKED OR SURFACE COVERED:---- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44119321",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - OTHER:-- OF A DENSITY EXCEEDING 0.5 GM/CM3 BUT NOT EXCEEDING 0.8 GM/CM3: --- OTHER:---- INSULATION BOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44119329",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - OTHER:-- OF A DENSITY EXCEEDING 0.5 GM/CM3 BUT NOT EXCEEDING 0.8 GM/CM3: --- OTHER:---- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441194",
+            "description": "OF A DENSITY NOT EXCEEDING 0.5 GM/CM 3",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44119419",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - OTHER:OF A DENSITY NOT EXCEEDING 0.5 GM/CM3:--- NOT MECHANICALLY WORKED OR SURFACE COVERED:---- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44119421",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - OTHER:OF A DENSITY NOT EXCEEDING 0.5 GM/CM3:--- OTHER: ----INSULATION BOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44119422",
+            "description": "FIBRE BOARDS OF COIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44119423",
+            "description": "FIBRE BOARDS OF JUTE FIBRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44119429",
+            "description": "FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES - OTHER:OF A DENSITY NOT EXCEEDING 0.5 GM/CM3:--- OTHER: ----OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4412",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441210",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - OF BAMBOO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44121000",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - OF BAMBOO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44121310",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - PLYWOOD, CONSISTING SOLELY OF SHEETS OF WOOD, EACH PLY NOT EXCEEDING 6 MM THICKNESS : WITH AT LEAST ONE OUTER PLY OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : DECORATIVE PLYWOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44121320",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - PLYWOOD, CONSISTING SOLELY OF SHEETS OF WOOD, EACH PLY NOT EXCEEDING 6 MM THICKNESS : WITH AT LEAST ONE OUTER PLY OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : TEA CHEST PANELS OR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44121330",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - PLYWOOD, CONSISTING SOLELY OF SHEETS OF WOOD, EACH PLY NOT EXCEEDING 6 MM THICKNESS : WITH AT LEAST ONE OUTER PLY OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : OTHER TEA CHEST PANE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44121340",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - PLYWOOD, CONSISTING SOLELY OF SHEETS OF WOOD, EACH PLY NOT EXCEEDING 6 MM THICKNESS : WITH AT LEAST ONE OUTER PLY OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : MARINE AND AIRCRAFT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44121350",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - PLYWOOD, CONSISTING SOLELY OF SHEETS OF WOOD, EACH PLY NOT EXCEEDING 6 MM THICKNESS : WITH AT LEAST ONE OUTER PLY OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : CUTTINGS AND TRIMMIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44121390",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - PLYWOOD, CONSISTING SOLELY OF SHEETS OF WOOD, EACH PLY NOT EXCEEDING 6 MM THICKNESS : WITH AT LEAST ONE OUTER PLY OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44121420",
+            "description": "TEA CHEST PANELS OR SHOOKS, PACKED IN SETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44121440",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - PLYWOOD, CONSISTING SOLELY OF SHEETS OF WOOD, EACH PLY NOT EXCEEDING 6 MM THICKNESS : OTHER, WITH AT LEAST ONE OUTER PLY OF NON-CONIFEROUS WOOD : CUTTINGS AND TRIMMINGS OF PLYWOOD OF WIDTH NOT EXCEEDIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44122220",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - OTHER, WITH AT LEAST ONE OUTER PLY OF NONCONIFEROUS WOOD : WITH AT LEAST ONE PLY OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER - TEA CHEST PANELS OR SHOOKS, PACKED IN SETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44122240",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - OTHER, WITH AT LEAST ONE OUTER PLY OF NONCONIFEROUS WOOD : WITH AT LEAST ONE PLY OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAPTER - CUTTINGS AND TRIMMINGS OF PLYWOOD OF WIDTH NOT EXCEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44122340",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - OTHER, WITH AT LEAST ONE OUTER PLY OF NONCONIFEROUS WOOD : OTHER, CONTAINING AT LEAST ONE LAYER OF PARTICLE BOARD: CUTTINGS AND TRIMMINGS OF PLYWOOD OF WIDTH NOT EXCEEDING 5 CM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441231",
+            "description": "WITH AT LEAST ONE OUTER PLY OF TROPICAL WOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123110",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD -- OTHER PLYWOOD, CONSISTING SOLELY OF SHEETS OF WOOD (OTHER THAN BAMBOO), EACH PLY NOT EXCEEDING 6 MM THICKNESS: WITH AT LEAST ONE OUTER PLY OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123120",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD -- OTHER PLYWOOD, CONSISTING SOLELY OF SHEETS OF WOOD (OTHER THAN BAMBOO), EACH PLY NOT EXCEEDING 6 MM THICKNESS: WITH AT LEAST ONE OUTER PLY OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123130",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD -- OTHER PLYWOOD, CONSISTING SOLELY OF SHEETS OF WOOD (OTHER THAN BAMBOO), EACH PLY NOT EXCEEDING 6 MM THICKNESS: WITH AT LEAST ONE OUTER PLY OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123140",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD -- OTHER PLYWOOD, CONSISTING SOLELY OF SHEETS OF WOOD (OTHER THAN BAMBOO), EACH PLY NOT EXCEEDING 6 MM THICKNESS: WITH AT LEAST ONE OUTER PLY OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123150",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD -- OTHER PLYWOOD, CONSISTING SOLELY OF SHEETS OF WOOD (OTHER THAN BAMBOO), EACH PLY NOT EXCEEDING 6 MM THICKNESS: WITH AT LEAST ONE OUTER PLY OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123190",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD -- OTHER PLYWOOD, CONSISTING SOLELY OF SHEETS OF WOOD (OTHER THAN BAMBOO), EACH PLY NOT EXCEEDING 6 MM THICKNESS: WITH AT LEAST ONE OUTER PLY OF TROPICAL WOOD SPECIFIED IN SUB-HEADING NOTE 1 TO THIS CHAP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123310",
+            "description": "DECORATIVE PLYWOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123320",
+            "description": "TEA CHEST PANELS, SHOOKS WHETHER OR NOT PACKED IN SETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123330",
+            "description": "MARINE AND AIRCRAFT PLYWOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123340",
+            "description": "CUTTING AND TRIMMINGS OF PLYWOOD OF WIDTH NOT EXCEEDING 5 CM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123390",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123410",
+            "description": "DECORATIVE PLYWOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123420",
+            "description": "TEA CHEST PANELS, SHOOKS WHETHER OR NOT PACKED IN SETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123430",
+            "description": "MARINE AND AIRCRAFT PLYWOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123440",
+            "description": "CUTTING AND TRIMMINGS OF PLYWOOD OF WIDTH NOT EXCEEDING 5 CM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123490",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441239",
+            "description": "OTHER WITH BOTH OUTER PLIES OF CONIFEROUS WOOD:",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123910",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD -- OTHER, WITH AT LEAST ONE OUTER PLY OF NON-CONIFEROUS WOOD:-- OTHER:--- DECORATIVE PLYWOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123920",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD -- OTHER, WITH AT LEAST ONE OUTER PLY OF NON-CONIFEROUS WOOD:-- OTHER:--- TEA CHEST PANELS OR SHOOKS, PACKED IN SETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123930",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD -- OTHER, WITH AT LEAST ONE OUTER PLY OF NON-CONIFEROUS WOOD:-- OTHER:--- MARINE AND AIRCRAFT PLYWOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123940",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD -- OTHER, WITH AT LEAST ONE OUTER PLY OF NON-CONIFEROUS WOOD:-- OTHER:--- CUTTINGS AND TRIMMINGS OF PLYWOOD OF WIDTH NOT EXCEEDING 5CM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44123990",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD -- OTHER, WITH AT LEAST ONE OUTER PLY OF NON-CONIFEROUS WOOD:-- OTHER:--- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441294",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - OTHER: -- BLOCKBOARD, LAMINBOARD AND BATTENBOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44129400",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - OTHER: -- BLOCKBOARD, LAMINBOARD AND BATTENBOARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441299",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44129910",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - OTHER: -- OTHER:--- DECORATIVE PLYWOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44129920",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - OTHER: -- OTHER:--- TEA CHEST PANEL OR SHOOKS, PACKED IN SETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44129930",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - OTHER: -- OTHER:--- MARINE AND AIRCRAFT PLYWOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44129940",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - OTHER: -- OTHER:--- CUTTINGS AND TRIMMINGS OF PLYWOOD OF WIDTH NOT EXCEEDING 5CM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44129990",
+            "description": "PLYWOOD, VENEERED PANELS AND SIMILAR LAMINATED WOOD - OTHER: -- OTHER:--- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4413",
+            "description": "DENSIFIED WOOD, IN BLOCKS, PLATES, STRIPS, OR PROFILE SHAPES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441300",
+            "description": "DENSIFIED WOOD, IN BLOCKS, PLATES, STRIPS, OR PROFILE SHAPES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44130000",
+            "description": "DENSIFIED WOOD, IN BLOCKS, PLATES, STRIPS, OR PROFILE SHAPES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4414",
+            "description": "WOODEN FRAMES FOR PAINTINGS, PHOTOGRAPHS, MIRRORS OR SIMILAR OBJECTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44140000",
+            "description": "WOODEN FRAMES FOR PAINTINGS, PHOTOGRAPHS, MIRRORS OR SIMILAR OBJECTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4415",
+            "description": "PACKING CASES, BOXES, CRATES, DRUMS AND SIMILAR PACKINGS, OF WOOD; CABLE-DRUMS OF WOOD; PALLETS, BOX PALLETS AND OTHER LOAD BOARDS, OF WOOD; PALLET COLLARS OF WOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441510",
+            "description": "PACKING CASES, BOXES, CRATES, DRUMS AND SIMILAR PACKINGS, OF WOOD; CABLE-DRUMS OF WOOD; PALLETS, BOX PALLETS AND OTHER LOAD BOARDS, OF WOOD; PALLET COLLARS OF WOOD - CASES, BOXES, CRATES, DRUMS AND SIMILAR PACKINGS; CABLE-DRUMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44151000",
+            "description": "PACKING CASES, BOXES, CRATES, DRUMS AND SIMILAR PACKINGS, OF WOOD; CABLE-DRUMS OF WOOD; PALLETS, BOX PALLETS AND OTHER LOAD BOARDS, OF WOOD; PALLET COLLARS OF WOOD - CASES, BOXES, CRATES, DRUMS AND SIMILAR PACKINGS; CABLE-DRUMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441520",
+            "description": "PACKING CASES, BOXES, CRATES, DRUMS AND SIMILAR PACKINGS, OF WOOD; CABLE-DRUMS OF WOOD; PALLETS, BOX PALLETS AND OTHER LOAD BOARDS, OF WOOD; PALLET COLLARS OF WOOD - PALLETS, BOX PALLETS AND OTHER LOAD BOARDS; PALLET COLLARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44152000",
+            "description": "PACKING CASES, BOXES, CRATES, DRUMS AND SIMILAR PACKINGS, OF WOOD; CABLE-DRUMS OF WOOD; PALLETS, BOX PALLETS AND OTHER LOAD BOARDS, OF WOOD; PALLET COLLARS OF WOOD - PALLETS, BOX PALLETS AND OTHER LOAD BOARDS; PALLET COLLARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4416",
+            "description": "CASKS, BARRELS, VATS, TUBS AND OTHER COOPERS PRODUCTS AND PARTS THEREOF, OF WOOD, INCLUDING STAVES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44160010",
+            "description": "CASKS, BARRELS, VATS, TUBS AND OTHER COOPERS PRODUCTS AND PARTS THEREOF, OF WOOD, INCLUDING STAVES - CASKS, BARRELS, VATS, TUBS AND OTHER COOPERS PRODUCTS AND PARTS THEREOF, OF WOOD, INCLUDING STAVES: CASKS, BARRELS, VATS AND TUBS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44160020",
+            "description": "CASKS, BARRELS, VATS, TUBS AND OTHER COOPERS PRODUCTS AND PARTS THEREOF, OF WOOD, INCLUDING STAVES - CASKS, BARRELS, VATS, TUBS AND OTHER COOPERS PRODUCTS AND PARTS THEREOF, OF WOOD, INCLUDING STAVES: OTHER COOPERS PRODUCTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44160091",
+            "description": "CASKS, BARRELS, VATS, TUBS AND OTHER COOPERS PRODUCTS AND PARTS THEREOF, OF WOOD, INCLUDING STAVES - PARTS (OF WOOD): RIVEN OR SAWN STAVES OF WOOD NOT FURTHER PREPARED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44160099",
+            "description": "CASKS, BARRELS, VATS, TUBS AND OTHER COOPERS PRODUCTS AND PARTS THEREOF, OF WOOD, INCLUDING STAVES - PARTS (OF WOOD): OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4418",
+            "description": "Bamboo wood building joinery",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2018-01-24"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441810",
+            "description": "BUILDERS` JOINERY AND CARPENTRY OF WOOD, INCLUDING CELLULAR WOOD PANELS, ASSEMBLED FLOORING PANELS, SHINGLES AND SHAKES WINDOWS, FRENCH-WINDOWS AND THEIR FRAMES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44181000",
+            "description": "BUILDERS` JOINERY AND CARPENTRY OF WOOD, INCLUDING CELLULAR WOOD PANELS, ASSEMBLED FLOORING PANELS, SHINGLES AND SHAKES WINDOWS, FRENCH-WINDOWS AND THEIR FRAMES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441820",
+            "description": "DOORS AND THEIR FRAMES AND THRESHOLDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44182010",
+            "description": "BUILDERS` JOINERY AND CARPENTRY OF WOOD, INCLUDING CELLULAR WOOD PANELS, ASSEMBLED FLOORING PANELS, SHINGLES AND SHAKES - DOORS AND THEIR FRAMES AND THRESHOLDS: FLUSH DOORS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44182020",
+            "description": "BUILDERS` JOINERY AND CARPENTRY OF WOOD, INCLUDING CELLULAR WOOD PANELS, ASSEMBLED FLOORING PANELS, SHINGLES AND SHAKES - DOORS AND THEIR FRAMES AND THRESHOLDS: FRAMES AND THRESHOLDS OF FLUSH DOORS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44182090",
+            "description": "BUILDERS` JOINERY AND CARPENTRY OF WOOD, INCLUDING CELLULAR WOOD PANELS, ASSEMBLED FLOORING PANELS, SHINGLES AND SHAKES - DOORS AND THEIR FRAMES AND THRESHOLDS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441840",
+            "description": "BUILDERS` JOINERY AND CARPENTRY OF WOOD, INCLUDING CELLULAR WOOD PANELS, ASSEMBLED FLOORING PANELS, SHINGLES AND SHAKES - SHUTTERING FOR CONCRETE CONSTRUCTIONAL WORK",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44184000",
+            "description": "BUILDERS` JOINERY AND CARPENTRY OF WOOD, INCLUDING CELLULAR WOOD PANELS, ASSEMBLED FLOORING PANELS, SHINGLES AND SHAKES - SHUTTERING FOR CONCRETE CONSTRUCTIONAL WORK",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441850",
+            "description": "BUILDERS` JOINERY AND CARPENTRY OF WOOD, INCLUDING CELLULAR WOOD PANELS, ASSEMBLED FLOORING PANELS, SHINGLES AND SHAKES - SHINGLES AND SHAKES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44185000",
+            "description": "BUILDERS` JOINERY AND CARPENTRY OF WOOD, INCLUDING CELLULAR WOOD PANELS, ASSEMBLED FLOORING PANELS, SHINGLES AND SHAKES - SHINGLES AND SHAKES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441860",
+            "description": "BUILDERS` JOINERY AND CARPENTRY OF WOOD, INCLUDING CELLULAR WOOD PANELS, ASSEMBLED FLOORING PANELS, SHINGLES AND SHAKES - POSTS AND BEAMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44186000",
+            "description": "BUILDERS` JOINERY AND CARPENTRY OF WOOD, INCLUDING CELLULAR WOOD PANELS, ASSEMBLED FLOORING PANELS, SHINGLES AND SHAKES - POSTS AND BEAMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44187300",
+            "description": "OF BAMBOO OR WITH AT LEAST THE TOP LAYER (WEAR LAYER) OF BAMBOO",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44187400",
+            "description": "OTHER, FOR MOSAIC FLOORS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44187500",
+            "description": "OTHER, MULTILAYER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44187900",
+            "description": "BUILDERS` JOINERY AND CARPENTRY OF WOOD, INCLUDING CELLULAR WOOD PANELS, ASSEMBLED FLOORING PANELS, SHINGLES AND SHAKES - ASSEMBLED FLOORING PANELS :--OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44189100",
+            "description": "OF BAMBOO",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44189900",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4419",
+            "description": "TABLEWARE AND KITCHENWARE, OF WOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44190010",
+            "description": "TABLEWARE AND KITCHENWARE, OF WOOD - TABLEWARE AND KITCHENWARE, OF WOOD: TABLEWARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44190020",
+            "description": "TABLEWARE AND KITCHENWARE, OF WOOD - TABLEWARE AND KITCHENWARE, OF WOOD: KITCHENWARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44191100",
+            "description": "BREAD BOARDS, CHOPPING BOARDS AND SIMILAR BOARDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44191200",
+            "description": "CHOPSTICKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44191900",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "441990",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44199010",
+            "description": "BREAD BOARDS, CHOPPING BOARDS AND SIMILAR BOARDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44199020",
+            "description": "CHOPSTICKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44199090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4420",
+            "description": "WOOD MARQUETRY AND INLAID WOOD; CASKETS AND CASES FOR JEWELLERY OR CUTLERY, AND SIMILAR ARTICLES, OF WOOD; STATUETTES AND OTHER ORNAMENTS, OF WOOD; WOODEN ARTICLES OF FURNITURE NOT FALLING IN CHAPTER 94",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "442010",
+            "description": "WOOD MARQUETRY AND INLAID WOOD; CASKETS AND CASES FOR JEWELLERY OR CUTLERY, AND SIMILAR ARTICLES, OF WOOD; STATUETTES AND OTHER ORNAMENTS, OF WOOD; WOODEN ARTICLES OF FURNITURE NOT FALLING IN CHAPTER 94 - STATUETTES AND OTHER ORNAMENTS, OF WOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44201000",
+            "description": "WOOD MARQUETRY AND INLAID WOOD; CASKETS AND CASES FOR JEWELLERY OR CUTLERY, AND SIMILAR ARTICLES, OF WOOD; STATUETTES AND OTHER ORNAMENTS, OF WOOD; WOODEN ARTICLES OF FURNITURE NOT FALLING IN CHAPTER 94 - STATUETTES AND OTHER ORNAMENTS, OF WOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "442090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44209010",
+            "description": "WOOD MARQUETRY AND INLAID WOOD; CASKETS AND CASES FOR JEWELLERY OR CUTLERY, AND SIMILAR ARTICLES, OF WOOD; STATUETTES AND OTHER ORNAMENTS, OF WOOD; WOODEN ARTICLES OF FURNITURE NOT FALLING IN CHAPTER 94 - OTHER : WOOD MARQUETRY AND INLAID WOOD",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44209090",
+            "description": "WOOD MARQUETRY AND INLAID WOOD; CASKETS AND CASES FOR JEWELLERY OR CUTLERY, AND SIMILAR ARTICLES, OF WOOD; STATUETTES AND OTHER ORNAMENTS, OF WOOD; WOODEN ARTICLES OF FURNITURE NOT FALLING IN CHAPTER 94 - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "4421",
+            "description": "Other articles of wood; such as clothes hangers, Spools,  cops,  bobbins,  sewing thread reels and the like of turned wood for various textile machinery, Match splints, Pencil slats, Parts of wood,  namely oars,  paddles and rudders for ships, boats and other similar floating structures, Parts of domestic decorative articles used as tableware and kitchenware [other than Wood paving blocks, articles of densified wood not elsewhere included or specified, Parts of domestic decorative articles used as tableware and kitchenware]",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "442110",
+            "description": "OTHER ARTICLES OF WOOD - CLOTHES HANGERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44211000",
+            "description": "OTHER ARTICLES OF WOOD - CLOTHES HANGERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219019",
+            "description": "OTHER ARTICLES OF WOOD - OTHER : SPOOLS, COPS, BOBBINS, SEWING THREAD REELS AND THE LIKE, OF TURNED WOOD: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219020",
+            "description": "OTHER ARTICLES OF WOOD - OTHER : WOOD PAVING BLOCKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219030",
+            "description": "OTHER ARTICLES OF WOOD - OTHER : MATCH SPLINTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219040",
+            "description": "OTHER ARTICLES OF WOOD - OTHER : PENCIL SLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219060",
+            "description": "OTHER ARTICLES OF WOOD - OTHER : PARTS OF DOMESTIC DECORATIVE ARTICLES USED AS TABLEWARE AND KITCHENWARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219070",
+            "description": "OTHER ARTICLES OF WOOD - OTHER : ARTICLES OF DENSIFIED WOOD NOT ELSEWHERE INCLUDED OR SPECIFIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219090",
+            "description": "OTHER ARTICLES OF WOOD - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "442191",
+            "description": "OF BAMBOO",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219111",
+            "description": "FOR COTTON MACHINERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219112",
+            "description": "FOR JUTE MACHINERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219113",
+            "description": "FOR SILK REGENERATED AND SYNTHETIC FIBRE MACHINERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219114",
+            "description": "FOR OTHER MACHINERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219119",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219120",
+            "description": "WOOD PAVING BLOCKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219130",
+            "description": "MATCH SPLINTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219140",
+            "description": "PENCIL SLATS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219160",
+            "description": "PARTS OF DOMESTIC DECORATIVE ARTICLES USED AS TABLEWARE AND KITCHENWARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219170",
+            "description": "ARTICLES OF DENSIFIED WOOD NOT INCLUDED OR SPECIFIED ELSEWHERE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "442199",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219911",
+            "description": "FOR COTTON MACHINERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219912",
+            "description": "FOR JUTE MACHINERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219913",
+            "description": "FOR SILK REGENERATED AND SYNTHETIC FIBRE MACHINERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219914",
+            "description": "FOR OTHER MACHINERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219919",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219920",
+            "description": "WOOD PAVING BLOCKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219930",
+            "description": "MATCH SPLINTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219940",
+            "description": "PENCIL SLATS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219960",
+            "description": "PARTS OF DOMESTIC DECORATIVE ARTICLES USED AS TABLEWARE AND KITCHENWARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219970",
+            "description": "ARTICLES OF DENSIFIED WOOD NOT INCLUDED OR SPECIFIED ELSEWHERE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "44219990",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

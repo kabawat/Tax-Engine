@@ -1,0 +1,151 @@
+{
+    "heading": "9986",
+    "kind": "SAC",
+    "count": 12,
+    "entries": [
+        {
+            "code": "998611",
+            "description": "SUPPORT SERVICES TO CROP PRODUCTION",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998612",
+            "description": "ANIMAL HUSBANDRY SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998613",
+            "description": "SUPPORT SERVICES TO HUNTING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998614",
+            "description": "SUPPORT SERVICES TO FORESTRY AND LOGGING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998615",
+            "description": "SUPPORT SERVICES TO FISHING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998619",
+            "description": "OTHER SUPPORT SERVICES TO AGRICULTURE, HUNTING, FORESTRY AND FISHING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998621",
+            "description": "SUPPORT SERVICES TO OIL AND GAS EXTRACTION",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998622",
+            "description": "SUPPORT SERVICES TO OTHER MINING N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998631",
+            "description": "SUPPORT SERVICES TO ELECTRICITY TRANSMISSION AND DISTRIBUTION",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998632",
+            "description": "SUPPORT SERVICES TO GAS DISTRIBUTION",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998633",
+            "description": "SUPPORT SERVICES TO WATER DISTRIBUTION",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998634",
+            "description": "SUPPORT SERVICES TO DISTRIBUTION SERVICES OF STEAM, HOT WATER AND AIR-CONDITIONING SUPPLY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

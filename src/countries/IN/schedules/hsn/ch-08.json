@@ -1,0 +1,2071 @@
+{
+    "chapter": "08",
+    "kind": "HSN",
+    "count": 146,
+    "entries": [
+        {
+            "code": "0801",
+            "description": "COCONUTS, BRAZIL NUTS AND CASHEW NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - COCONUTS:(Brazil nuts)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08011100",
+            "description": "COCONUTS, BRAZIL NUTS AND CASHEW NUTS,FRESH OR DRIED, WHETHER OR NOT SHELLEDOR PEELED COCONUTS : DESICCATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080112",
+            "description": "In the inner shell (Endocarp)",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08011210",
+            "description": "COCONUTS, BRAZIL NUTS AND CASHEW NUTS,FRESH OR DRIED, WHETHER OR NOT SHELLEDOR PEELED COCONUTS --IN THE INNER SHELL (ENDOCARP): ---FRESH",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08011220",
+            "description": "COCONUTS, BRAZIL NUTS AND CASHEW NUTS,FRESH OR DRIED, WHETHER OR NOT SHELLEDOR PEELED COCONUTS --IN THE INNER SHELL ---DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08011290",
+            "description": "COCONUTS, BRAZIL NUTS AND CASHEW NUTS,FRESH OR DRIED, WHETHER OR NOT SHELLEDOR PEELED COCONUTS --IN THE INNER SHELL (ENDOCARP)---OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080119",
+            "description": "Other",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08011910",
+            "description": "COCONUTS, BRAZIL NUTS AND CASHEW NUTS,FRESH OR DRIED, WHETHER OR NOT SHELLEDOR PEELED OTHER : FRESH",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08011920",
+            "description": "COCONUTS, BRAZIL NUTS AND CASHEW NUTS,FRESH OR DRIED, WHETHER OR NOT SHELLEDOR PEELED OTHER : DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08011990",
+            "description": "COCONUTS, BRAZIL NUTS AND CASHEW NUTS,FRESH OR DRIED, WHETHER OR NOT SHELLEDOR PEELED OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08012100",
+            "description": "COCONUTS, BRAZIL NUTS AND CASHEW NUTS,FRESH OR DRIED, WHETHER OR NOT SHELLEDOR PEELEDBRAZIL NUTS : IN SHELL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08012200",
+            "description": "COCONUTS, BRAZIL NUTS AND CASHEW NUTS,FRESH OR DRIED, WHETHER OR NOT SHELLEDOR PEELEDBRAZIL NUTS : SHELLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08013100",
+            "description": "In shell",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080132",
+            "description": "Shelled",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08013210",
+            "description": "COCONUTS, BRAZIL NUTS AND CASHEW NUTS,FRESH OR DRIED, WHETHER OR NOT SHELLEDOR PEELEDCASHEW NUTS SHELLED CASHEW KERNEL, BROKEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08013220",
+            "description": "COCONUTS, BRAZIL NUTS AND CASHEW NUTS,FRESH OR DRIED, WHETHER OR NOT SHELLEDOR PEELEDCASHEW NUTS SHELLED SHELLED : CASHEW KERNEL, WHOLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08013290",
+            "description": "COCONUTS, BRAZIL NUTS AND CASHEW NUTS,FRESH OR DRIED, WHETHER OR NOT SHELLEDOR PEELEDCASHEW NUTS SHELLED OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0802",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - ALMONDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08021100",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHEROR NOT SHELLED OR PEELEDALMONDS : IN SHELL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08021200",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHEROR NOT SHELLED OR PEELEDALMONDS : SHELLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08022100",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHEROR NOT SHELLED OR PEE HAZELNUTS OR FILBERTS (CORYLUS SPP.) : IN SHELL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08022200",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHEROR NOT SHELLED OR PEE HAZELNUTS OR FILBERTS (CORYLUS SPP.) : SHELLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08023100",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHEROR NOT SHELLED OR PEELED WALNUTS : IN SHELL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08023200",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHEROR NOT SHELLED OR PEELED WALNUTS : SHELLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08024100",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - CHESTNUTS (CASTANEA SPP.) : -- IN SHELL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08024200",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - CHESTNUTS (CASTANEA SPP.) : -- SHELLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08025100",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - PISTACHIOS -- IN SHELL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08025200",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - PISTACHIOS --SHELLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08026100",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - MACADEMIA NUTS -- IN SHELL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08026200",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - MACADEMIA NUTS -- SHELLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08027000",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - KOLA NUTS (COLA SPP.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080280",
+            "description": "Areca nuts",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08028010",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - ARECA NUTS ---WHOLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08028020",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - ARECA NUTS ---SPLIT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08028030",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - ARECA NUTS ---GROUND",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08028090",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - ARECA NUTS ---OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08029000",
+            "description": "OTHER NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0803",
+            "description": "BANANAS, INCLUDING PLANTAINS, FRESH OR DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080310",
+            "description": "Plaintains",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08031010",
+            "description": "BANANAS, INCLUDING PLANTAINS, FRESH OR DRIED - PLANTAINS --- CURRY PLANTAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08031090",
+            "description": "BANANAS, INCLUDING PLANTAINS, FRESH OR DRIED - PLANTAINS --- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080390",
+            "description": "other",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08039010",
+            "description": "BANANAS, INCLUDING PLANTAINS, FRESH OR DRIED - OTHER --- BANANAS, FRESH",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08039090",
+            "description": "BANANAS, INCLUDING PLANTAINS, FRESH OR DRIED - OTHER --- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0804",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS, MANGOES, AND MANGOSTEENS, FRESH OR DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080410",
+            "description": "Dates",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08041010",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIEDDATES : FRESH (EXCLUDING WET DATES)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08041020",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIEDDATES : SOFT (KHAYZUR OR WET DATES)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08041030",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIEDDATES : HARD (CHHOHARA OR KHAREK)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08041090",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIEDDATES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080420",
+            "description": "Figs",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08042010",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIEDFIGS : FRESH",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08042090",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIEDFIGS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080430",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIED PINEAPPLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08043000",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIED PINEAPPLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080440",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIEDAVOCADOS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08044000",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIEDAVOCADOS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080450",
+            "description": "Guavas, mangoes and mangosteens",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08045010",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIEDGUAVAS, MANGOES AND MANGOSTEENS : GUAVAS, FRESH OR DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08045020",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIEDGUAVAS, MANGOES AND MANGOSTEENS : MANGOES, FRESH",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08045030",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIEDGUAVAS, MANGOES AND MANGOSTEENS : MANGOES, SLICED DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08045040",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIEDGUAVAS, MANGOES AND MANGOSTEENS : MANGO PULP",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08045090",
+            "description": "DATES, FIGS, PINEAPPLES, AVOCADOS, GUAVAS,MANGOES, AND MANGOSTEENS, FRESH OR DRIED GUAVAS, MANGOES AND MANGOSTEENS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0805",
+            "description": "CITRUS FRUIT, FRESH OR DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080510",
+            "description": "CITRUS FRUIT, FRESH OR DRIED ORANGES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08051000",
+            "description": "CITRUS FRUIT, FRESH OR DRIED ORANGES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08052100",
+            "description": "Mandarins (including tangerines and satsumas)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08052200",
+            "description": "Clementines",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08052900",
+            "description": "Other",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080540",
+            "description": "CITRUS FRUIT, FRESH OR DRIED - GRAPE FRUIT, INCLUDING POMELOS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08054000",
+            "description": "CITRUS FRUIT, FRESH OR DRIED - GRAPE FRUIT, INCLUDING POMELOS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08055000",
+            "description": "CITRUS FRUIT, FRESH OR DRIED LEMON (CITRUS LIMON, CITRUS LIMONUM) AND LIMES (CITRUS AURANTIFOLIA, CITRUS LATIFOLIA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080590",
+            "description": "CITRUS FRUIT, FRESH OR DRIED OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08059000",
+            "description": "CITRUS FRUIT, FRESH OR DRIED OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0806",
+            "description": "GRAPES, FRESH OR DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080610",
+            "description": "GRAPES, FRESH OR DRIED FRESH",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08061000",
+            "description": "GRAPES, FRESH OR DRIED FRESH",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080620",
+            "description": "Dried",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08062010",
+            "description": "GRAPES, FRESH OR DRIED DRIED : RAISINS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08062090",
+            "description": "GRAPES, FRESH OR DRIED DRIED : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0807",
+            "description": "MELONS (INCLUDING WATERMELONS) AND PAPAWS (PAPAYAS), FRESH - MELONS (INCLUDING WATERMELONS) :",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080711",
+            "description": "MELONS (INCLUDING WATERMELONS) ANDPAPAWS (PAPAYAS), FRESH MELONS (INCLUDING WATERMELONS) : WATER MELONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08071100",
+            "description": "MELONS (INCLUDING WATERMELONS) ANDPAPAWS (PAPAYAS), FRESH MELONS (INCLUDING WATERMELONS) : WATER MELONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080719",
+            "description": "other",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08071900",
+            "description": "MELONS (INCLUDING WATERMELONS) ANDPAPAWS (PAPAYAS), FRESH MELONS (INCLUDING WATERMELONS) : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "080720",
+            "description": "MELONS (INCLUDING WATERMELONS) ANDPAPAWS (PAPAYAS), FRESHPAPAWS (PAPAYAS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08072000",
+            "description": "MELONS (INCLUDING WATERMELONS) ANDPAPAWS (PAPAYAS), FRESHPAPAWS (PAPAYAS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0808",
+            "description": "APPLES, PEARS AND QUINCES, FRESH",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08081000",
+            "description": "APPLES, PEARS AND QUINCES, FRESHAPPLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08083000",
+            "description": "APPLES, PEARS AND QUINCES, FRESH - PEARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08084000",
+            "description": "APPLES, PEARS AND QUINCES, FRESH - QUINCES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0809",
+            "description": "APRICOTS, CHERRIES, PEACHES (INCLUDING NECTARINES), PLUMS AND SOLES, FRESH",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08091000",
+            "description": "APRICOTS, CHERRIES, PEACHES (INCLUDINGNECTARINES), PLUMS AND SOLES, FRESH APRICOTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08092100",
+            "description": "APRICOTS, CHERRIES, PEACHES (INCLUDING NECTARINES), PLUMS AND SOLES, FRESH - CHERRIES -- SOUR CHERRIES (PRUNUS CERASUS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08092900",
+            "description": "APRICOTS, CHERRIES, PEACHES (INCLUDING NECTARINES), PLUMS AND SOLES, FRESH - CHERRIES -- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08093000",
+            "description": "APRICOTS, CHERRIES, PEACHES (INCLUDINGNECTARINES), PLUMS AND SOLES, FRESH PEACHES, INCLUDING NECTARINE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08094000",
+            "description": "APRICOTS, CHERRIES, PEACHES (INCLUDINGNECTARINES), PLUMS AND SOLES, FRESHPLUMS AND SLOES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0810",
+            "description": "OTHER FRUIT, FRESH",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08101000",
+            "description": "OTHER FRUIT, FRESH STRAWBERRIES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08102000",
+            "description": "OTHER FRUIT, FRESH RASPBERRIES, BLACKBERRIES, MULBERRIES AND LOGANBERRIES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08103000",
+            "description": "OTHER FRUIT, FRESH BLACK, WHITE OR RED CURRANTS AND GOOSEBERRIES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08104000",
+            "description": "OTHER FRUIT, FRESH CRANBERRIES, BILBERRIES AND OTHER FRUITS OF THE GENUS VACCINIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08105000",
+            "description": "OTHER FRUIT, FRESH KIWI FRUIT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08106000",
+            "description": "OTHER FRUIT, FRESH DURIANS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08107000",
+            "description": "OTHER FRUIT, FRESH - PERSIMMONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "081090",
+            "description": "Other",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08109010",
+            "description": "OTHER FRUIT, FRESH OTHER : POMEGRANATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08109020",
+            "description": "OTHER FRUIT, FRESH OTHER : TAMARIND, FRESH",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08109030",
+            "description": "OTHER FRUIT, FRESH OTHER : SAPOTA (CHICO)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08109040",
+            "description": "OTHER FRUIT, FRESH OTHER : CUSTARD-APPLE (ATA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08109050",
+            "description": "OTHER FRUIT, FRESH OTHER : BORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08109060",
+            "description": "OTHER FRUIT, FRESH OTHER : LICHI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08109090",
+            "description": "OTHER FRUIT, FRESH OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0811",
+            "description": "FRUIT AND NUTS, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, FROZEN, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "081110",
+            "description": "Strawberries",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08111010",
+            "description": "FRUIT AND NUTS, UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER, FROZEN,WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER STRAWBERRIES : CONTAINING ADDED SUGAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08111020",
+            "description": "FRUIT AND NUTS, UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER, FROZEN,WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER STRAWBERRIES : NOT CONTAINING ADDED SUGAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08111090",
+            "description": "FRUIT AND NUTS, UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER, FROZEN,WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER STRAWBERRIES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08112010",
+            "description": "FRUIT AND NUTS, UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER, FROZEN,WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER RASPBERRIES, BLACKBERRIES, MULBERRIES,LOGANBERRIES, BLACK, WHITE OR RED CURRANTSAND GOOSEBERRIES : CONTAINING ADDED S",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08112020",
+            "description": "FRUIT AND NUTS, UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER, FROZEN,WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER RASPBERRIES, BLACKBERRIES, MULBERRIES,LOGANBERRIES, BLACK, WHITE OR RED CURRANTSAND GOOSEBERRIES : NOT CONTAINING ADD",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08112090",
+            "description": "FRUIT AND NUTS, UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER, FROZEN,WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER RASPBERRIES, BLACKBERRIES, MULBERRIES,LOGANBERRIES, BLACK, WHITE OR RED CURRANTSAND GOOSEBERRIES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "081190",
+            "description": "Other",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08119010",
+            "description": "FRUIT AND NUTS, UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER, FROZEN,WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OTHER : CONTAINING ADDED SUGAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08119090",
+            "description": "FRUIT AND NUTS, UNCOOKED OR COOKED BYSTEAMING OR BOILING IN WATER, FROZEN,WHETHER OR NOT CONTAINING ADDED SUGAR OROTHER SWEETENING MATTER OTHER OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0812",
+            "description": "FRUIT AND NUTS PROVISIONALLY PRESERVED (FOR EXAMPLE, BY SULPHUR DIOXIDE GAS, IN BRINE, IN SULPHUR WATER OR IN OTHER PRESERVATIVE SOLUTIONS), BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "081210",
+            "description": "FRUIT AND NUTS PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS,IN BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTIONCHERRIES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08121000",
+            "description": "FRUIT AND NUTS PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS,IN BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTIONCHERRIES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "081290",
+            "description": "Other",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08129010",
+            "description": "FRUIT AND NUTS PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS,IN BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTION OTHER : MANGO SLICES IN BRINE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08129090",
+            "description": "FRUIT AND NUTS PROVISIONALLY PRESERVED(FOR EXAMPLE, BY SULPHUR DIOXIDE GAS,IN BRINE, IN SULPHUR WATER OR IN OTHERPRESERVATIVE SOLUTIONS), BUT UNSUITABLEIN THAT STATE FOR IMMEDIATE CONSUMPTIONOTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0813",
+            "description": "FRUIT, DRIED, OTHER THAN THAT OF HEADINGS 0801 TO 0806; MIXTURES OF NUTS OR DRIED FRUITS OF THIS CHAPTER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2019-09-30"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2019-10-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "081310",
+            "description": "FRUIT, DRIED, OTHER THAN THAT OF HEADINGS0801 TO 0806; MIXTURES OF NUTS OR DRIEDFRUITS OF THIS CHAPTER APRICOTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08131000",
+            "description": "FRUIT, DRIED, OTHER THAN THAT OF HEADINGS0801 TO 0806; MIXTURES OF NUTS OR DRIEDFRUITS OF THIS CHAPTER APRICOTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "081320",
+            "description": "FRUIT, DRIED, OTHER THAN THAT OF HEADINGS0801 TO 0806; MIXTURES OF NUTS OR DRIEDFRUITS OF THIS CHAPTER PRUNES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08132000",
+            "description": "FRUIT, DRIED, OTHER THAN THAT OF HEADINGS0801 TO 0806; MIXTURES OF NUTS OR DRIEDFRUITS OF THIS CHAPTER PRUNES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "081330",
+            "description": "FRUIT, DRIED, OTHER THAN THAT OF HEADINGS0801 TO 0806; MIXTURES OF NUTS OR DRIEDFRUITS OF THIS CHAPTER APPLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08133000",
+            "description": "FRUIT, DRIED, OTHER THAN THAT OF HEADINGS0801 TO 0806; MIXTURES OF NUTS OR DRIEDFRUITS OF THIS CHAPTER APPLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "081340",
+            "description": "Other fruit",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08134010",
+            "description": "FRUIT, DRIED, OTHER THAN THAT OF HEADINGS0801 TO 0806; MIXTURES OF NUTS OR DRIEDFRUITS OF THIS CHAPTEROTHER FRUIT : TAMARIND, DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2019-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08134020",
+            "description": "FRUIT, DRIED, OTHER THAN THAT OF HEADINGS0801 TO 0806; MIXTURES OF NUTS OR DRIEDFRUITS OF THIS CHAPTEROTHER FRUIT : SINGODA WHOLE (WATER NUT)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08134090",
+            "description": "FRUIT, DRIED, OTHER THAN THAT OF HEADINGS0801 TO 0806; MIXTURES OF NUTS OR DRIEDFRUITS OF THIS CHAPTEROTHER FRUIT : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "081350",
+            "description": "Mixtures of nuts or dried fruits of this Chapter",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08135010",
+            "description": "FRUIT, DRIED, OTHER THAN THAT OF HEADINGS0801 TO 0806; MIXTURES OF NUTS OR DRIEDFRUITS OF THIS CHAPTER MIXTURES OF NUTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "08135020",
+            "description": "FRUIT, DRIED, OTHER THAN THAT OF HEADINGS0801 TO 0806; MIXTURES OF NUTS OR DRIEDFRUITS OF THIS CHAPTER MIXTURES OF DRIED FRUITS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0814",
+            "description": "PEEL OF CITRUS FRUIT OR MELONS (INCLUDING WATERMELONS), FRESH, FROZEN, DRIED OR PROVISIONALLY PRESERVED IN BRINE, IN SULPHUR WATER OR IN OTHER PRESERVATIVE SOLUTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "081400",
+            "description": "PEEL OF CITRUS FRUIT OR MELONS (INCLUDING WATERMELONS), FRESH, FROZEN, DRIED OR PROVISIONALLY PRESERVED IN BRINE, IN SULPHUR WATER OR IN OTHER PRESERVATIVE SOLUTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

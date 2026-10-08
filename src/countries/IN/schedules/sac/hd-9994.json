@@ -1,0 +1,199 @@
+{
+    "heading": "9994",
+    "kind": "SAC",
+    "count": 16,
+    "entries": [
+        {
+            "code": "999411",
+            "description": "SEWERAGE AND SEWAGE TREATMENT SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999412",
+            "description": "SEPTIC TANK EMPTYING AND CLEANING SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999421",
+            "description": "COLLECTION SERVICES OF HAZARDOUS WASTE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999422",
+            "description": "COLLECTION SERVICES OF NON-HAZARDOUS RECYCLABLE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999423",
+            "description": "GENERAL WASTE COLLECTION SERVICES, RESIDENTIAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999424",
+            "description": "GENERAL WASTE COLLECTION SERVICES, OTHER N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999431",
+            "description": "WASTE PREPARATION, CONSOLIDATION AND STORAGE SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999432",
+            "description": "HAZARDOUS WASTE TREATMENT AND DISPOSAL SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999433",
+            "description": "NON-HAZARDOUS WASTE TREATMENT AND DISPOSAL SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999441",
+            "description": "SITE REMEDIATION AND CLEAN-UP SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999442",
+            "description": "CONTAINMENT, CONTROL AND MONITORING SERVICES AND OTHER SITE REMEDIATION SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999443",
+            "description": "BUILDING REMEDIATION SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999449",
+            "description": "OTHER REMEDIATION SERVICES N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999451",
+            "description": "SWEEPING AND SNOW REMOVAL SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999459",
+            "description": "OTHER SANITATION SERVICES N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "999490",
+            "description": "OTHER ENVIRONMENTAL PROTECTION SERVICES N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

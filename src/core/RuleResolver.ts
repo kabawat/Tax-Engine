@@ -1,0 +1,6 @@
+import type { TaxInput } from '../models/tax-input.js';
+import type { TaxRule } from '../models/tax-rule.js';
+
+export interface TaxRuleResolver {
+  resolve(input: TaxInput, rules: readonly TaxRule[]): readonly TaxRule[];
+}

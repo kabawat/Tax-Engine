@@ -1,0 +1,175 @@
+{
+    "heading": "9963",
+    "kind": "SAC",
+    "count": 14,
+    "entries": [
+        {
+            "code": "996311",
+            "description": "ROOM OR UNIT ACCOMMODATION SERVICES PROVIDED BY HOTELS, INN, GUEST HOUSE, CLUB ETC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996312",
+            "description": "CAMP SITE SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996313",
+            "description": "RECREATIONAL AND VACATION CAMP SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996321",
+            "description": "ROOM OR UNIT ACCOMMODATION SERVICES FOR STUDENTS IN STUDENT RESIDENCES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996322",
+            "description": "ROOM OR UNIT ACCOMMODATION SERVICES PROVIDED BY HOSTELS, CAMPS, PAYING GUEST ETC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996329",
+            "description": "OTHER ROOM OR UNIT ACCOMMODATION SERVICES N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996331",
+            "description": "SERVICES PROVIDED BY RESTAURANTS, CAFES AND SIMILAR EATING FACILITIES INCLUDING TAKEAWAY SERVICES, ROOM SERVICES AND DOOR DELIVERY OF FOOD.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996332",
+            "description": "SERVICES PROVIDED BY HOTELS, INN, GUEST HOUSE, CLUB ETC INCLUDING ROOM SERVICES, TAKEAWAY SERVICES AND DOOR DELIVERY OF FOOD.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996333",
+            "description": "SERVICES PROVIDED IN CANTEEN AND OTHER SIMILAR ESTABLISHMENTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996334",
+            "description": "CATERING SERVICES IN EXHIBITION HALLS, EVENTS, MARRIAGE HALLS AND OTHER OUTDOOR/INDOOR FUNCTIONS.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996335",
+            "description": "CATERING SERVICES IN TRAINS, FLIGHTS ETC.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996336",
+            "description": "PREPARATION AND/OR SUPPLY SERVICES OF FOOD, EDIBLE PREPARATIONS, ALCHOHOLIC & NON-ALCHOCHOLIC BEVERAGES TO AIRLINES AND OTHER TRANSPORTATION OPERATORS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996337",
+            "description": "OTHER CONTRACT FOOD SERVICES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "996339",
+            "description": "OTHER FOOD, EDIBLE PREPARATIONS, ALCHOHOLIC & NON-ALCHOCHOLIC BEVERAGES SERVING SERVICES N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3007 @@
+{
+    "chapter": "52",
+    "kind": "HSN",
+    "count": 250,
+    "entries": [
+        {
+            "code": "5201",
+            "description": "COTTON, NOT CARDED OR COMBED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520100",
+            "description": "COTTON, NOT CARDED OR COMBED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52010011",
+            "description": "COTTON, NOT CARDED OR COMBED COTTON, NOT CARDED OR COMBED : INDIAN COTTON : BENGAL DESHI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52010014",
+            "description": "COTTON, NOT CARDED OR COMBED COTTON, NOT CARDED OR COMBED : INDIAN COTTON : INDIAN COTTON OF STAPLE LENGTH OVER 24.5 MM(31/32) TO 28 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52010019",
+            "description": "COTTON, NOT CARDED OR COMBED COTTON, NOT CARDED OR COMBED : INDIAN COTTON : INDIAN COTTON OF ALL STAPLE LENGTH 34.5 AND ABOVE (112/32) MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52010020",
+            "description": "COTTON, NOT CARDED OR COMBED COTTON, NOT CARDED OR COMBED : COTTON, OTHER THAN INDIAN, OF ALL STAPLE LENGTHS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5204",
+            "description": "COTTON SEWING THREAD, WHETHER OR NOT PUT UP FOR RETAIL SALE - NOT PUT UP FOR RETAIL SALE :",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520411",
+            "description": "CONTAINING 85% OR MORE BY WEIGHT OF COTTON",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52041110",
+            "description": "COTTON SEWING THREAD, WHETHER OR NOT PUTUP FOR RETAIL SALE - NOT PUT UP FOR RETAIL SALE : CONTAINING 85% OR MORE BY WEIGHT OFCOTTON : COTTON THREAD, SEWING,CONTAINING ANY SYNTHETIC STAPLE FIBRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52041120",
+            "description": "COTTON SEWING THREAD, WHETHER OR NOT PUTUP FOR RETAIL SALE - NOT PUT UP FOR RETAIL SALE : CONTAINING 85% OR MORE BY WEIGHT OF COTTON : COTTON THREAD, DARNING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52041130",
+            "description": "COTTON SEWING THREAD, WHETHER OR NOT PUT UP FOR RETAIL SALE - NOT PUT UP FOR RETAIL SALE : CONTAINING 85% OR MORE BY WEIGHT OF COTTON : EMBROIDERY COTTON THREAD",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52041140",
+            "description": "COTTON SEWING THREAD, WHETHER OR NOT PUT UP FOR RETAIL SALE - NOT PUT UP FOR RETAIL SALE : CONTAINING 85% OR MORE BY WEIGHT OF COTTON : COTTON SEWING THREAD, NOT CONTAINING ANY SYNTHETIC STAPLE FIBRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52041190",
+            "description": "COTTON SEWING THREAD, WHETHER OR NOT PUT UP FOR RETAIL SALE - NOT PUT UP FOR RETAIL SALE : CONTAINING 85% OR MORE BY WEIGHT OF COTTON : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520419",
+            "description": "COTTON SEWING THREAD, WHETHER OR NOT PUT UP FOR RETAIL SALE - NOT PUT UP FOR RETAIL SALE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52041900",
+            "description": "COTTON SEWING THREAD, WHETHER OR NOT PUT UP FOR RETAIL SALE - NOT PUT UP FOR RETAIL SALE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520420",
+            "description": "PUT UP FOR RETAIL SALE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52042010",
+            "description": "COTTON SEWING THREAD, WHETHER OR NOT PUT UP FOR RETAIL SALE - PUT UP FOR RETAIL SALE : COTTON THREAD, SEWING, CONTAINING ANY SYNTHETIC STAPLE FIBRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52042020",
+            "description": "COTTON SEWING THREAD, WHETHER OR NOT PUT UP FOR RETAIL SALE - PUT UP FOR RETAIL SALE : COTTON THREAD, DARNING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52042030",
+            "description": "COTTON SEWING THREAD, WHETHER OR NOT PUT UP FOR RETAIL SALE - PUT UP FOR RETAIL SALE : EMBROIDERY COTTON THREAD",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52042040",
+            "description": "COTTON SEWING THREAD, WHETHER OR NOT PUT UP FOR RETAIL SALE - PUT UP FOR RETAIL SALE : COTTON SEWING THREAD, NOT CONTAINING ANY SYNTHETIC STAPLE FIBRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52042090",
+            "description": "COTTON SEWING THREAD, WHETHER OR NOT PUT UP FOR RETAIL SALE - PUT UP FOR RETAIL SALE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5205",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES :",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051110",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER) : GREY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051120",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD),CONTAINING 85% OR MORE BY WEIGHT OF COTTON,NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER) : BLEACHED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051130",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER) : DYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051190",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD),CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER -OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520512",
+            "description": "MEASURING LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EXCEEDING 14 METRIC NUMBER BUT NOT EXCEEDING 43 METRIC NUMBER)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051210",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD),CONTAINING 85% OR MORE BY WEIGHT OF COTTON,NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EXCEEDING 14 METRIC NUMBER BUT NOT EXCEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051220",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD),CONTAINING 85% OR MORE BY WEIGHT OF COTTON,NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EXCEEDING 14 METRIC NUMBER BUT NOT EXCEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051230",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD),CONTAINING 85% OR MORE BY WEIGHT OF COTTON,NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EXCEEDING 14 METRIC NUMBER BUT NOT EXCEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051290",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD),CONTAINING 85% OR MORE BY WEIGHT OF COTTON,NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EXCEEDING 14 METRIC NUMBER BUT NOT EXCEED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520513",
+            "description": "MEASURING LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192 .31 DECITEX (EXCEEDING 43 METRIC NUMBER BUT NOT EXCEEDING 52 METRIC NUMBER)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051310",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD),CONTAINING 85% OR MORE BY WEIGHT OF COTTON,NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192 .31 DECITEX (EXCEEDING 43 METRIC NUMBER BUT NOT EXCEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051320",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD),CONTAINING 85% OR MORE BY WEIGHT OF COTTON,NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192 .31 DECITEX (EXCEEDING 43 METRIC NUMBER BUT NOT EXCEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051330",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD),CONTAINING 85% OR MORE BY WEIGHT OF COTTON,NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192 .31 DECITEX (EXCEEDING 43 METRIC NUMBER BUT NOT EXCEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051390",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD),CONTAINING 85% OR MORE BY WEIGHT OF COTTON,NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192 .31 DECITEX (EXCEEDING 43 METRIC NUMBER BUT NOT EXCEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051410",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEEDING 52 METRIC NUMBER BUT NOT EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051420",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEEDING 52 METRIC NUMBER BUT NOT EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051430",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD),CONTAINING 85% OR MORE BY WEIGHT OF COTTON,NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEEDING 52 METRIC NUMBER BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051490",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD),CONTAINING 85% OR MORE BY WEIGHT OF COTTON,NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEEDING 52 METRIC NUMBER BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520515",
+            "description": "MEASURING LESS THAN 125 DECITEX (EXCEEDING 80 METRIC NUMBER)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051510",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 125 DECITEX (EXCEEDING 80 METRIC NUMBER) : GREY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051520",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 125 DECITEX (EXCEEDING 80 METRIC NUMBER) : BLEACHED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051530",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 125 DECITEX (EXCEEDING 80 METRIC NUMBER) : DYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52051590",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN, OF UNCOMBED FIBRES : MEASURING LESS THAN 125 DECITEX (EXCEEDING 80 METRIC NUMBER) : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052110",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER) : GREY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052120",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER) : BLEACHED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052130",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER) : DYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052190",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER) : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520522",
+            "description": "MEASURING LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EXCEEDING 14 METRIC NUMBER BUT NOT EXCEEDING 43 METRIC NUMBER)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052210",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EXCEEDING 14 METRIC NUMBER BUT NOT EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052220",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EXCEEDING 14 METRIC NUMBER BUT NOT EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052290",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EXCEEDING 14 METRIC NUMBER BUT NOT EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520523",
+            "description": "MEASURING LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192.31 DECITEX (EXCEEDING 43 METRIC NUMBER BUT NOT EXCEEDING 52 METRIC NUMBER)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052310",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192.31 DECITEX (EXCEEDING 43 METRIC NUMBER BUT NOT EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052320",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192.31 DECITEX (EXCEEDING 43 METRIC NUMBER BUT NOT EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052390",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192.31 DECITEX (EXCEEDING 43 METRIC NUMBER BUT NOT EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052410",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEEDING 52 METRIC NUMBER BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052420",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEEDING 52 METRIC NUMBER BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052490",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEEDING 52 METRIC NUMBER BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052610",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 125 DECITEX BUT NOT LESS THAN 106.38 DECITEX (EXCEEDING 80 METRIC NUMBER BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052620",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 125 DECITEX BUT NOT LESS THAN 106.38 DECITEX (EXCEEDING 80 METRIC NUMBER BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052690",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 125 DECITEX BUT NOT LESS THAN 106.38 DECITEX (EXCEEDING 80 METRIC NUMBER BUT NOT EXCEEDING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052710",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 106.38 DECITEX BUT NOT LESS THAN 83.33 DECITEX (EXCEEDING 94 METRIC NUMBER BUT NOT EXCEEDIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052720",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 106.38 DECITEX BUT NOT LESS THAN 83.33 DECITEX (EXCEEDING 94 METRIC NUMBER BUT NOT EXCEEDIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052790",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 106.38 DECITEX BUT NOT LESS THAN 83.33 DECITEX (EXCEEDING 94 METRIC NUMBER BUT NOT EXCEEDIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520528",
+            "description": "MEASURING LESS THAN 83.33 DECITEX (EXCEEDING 120 METRIC NUMBER)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052810",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 83.33 DECITEX (EXCEEDING 120 METRIC NUMBER) : DYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052820",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 83.33 DECITEX (EXCEEDING 120 METRIC NUMBER) : BLEACHED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52052890",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - SINGLE YARN OF COMBED FIBRES : MEASURING LESS THAN 83.33 DECITEX (EXCEEDING 120 METRIC NUMBER) : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053110",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER PER SI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053120",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER PER SI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053130",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER PER SI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053190",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER PER SI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520532",
+            "description": "MEASURING PER SINGLE YARN LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EXCEEDING 14 METRIC NUMBER BUT NOT EXCEEDING 43 METRIC NUMBER PER SINGLE YARN)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053210",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EX",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053220",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EX",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053290",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EX",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520533",
+            "description": "MEASURING PER SINGLE YARN LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192.31 DECITEX (EXCEEDING 43 METRIC NUMBER BUT NOT EXCEEDING 52 METRIC NUMBER PER SINGLE YARN)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053310",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192.31 DECITEX (EX",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053320",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192.31 DECITEX (EX",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053330",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192.31 DECITEX (EX",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053390",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192.31 DECITEX (EX",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520534",
+            "description": "MEASURING PER SINGLE YARN LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEEDING 52 METRIC NUMBER BUT NOT EXCEEDING 80 METRIC NUMBER PER SINGLE YARN)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053410",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053420",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053430",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053490",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053510",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 125 DECITEX (EXCEEDING 80 METRIC NUMBER PER SINGLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52053590",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF UNCOMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 125 DECITEX (EXCEEDING 80 METRIC NUMBER PER SINGLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054110",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER PER SING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054120",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER PER SING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054130",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER PER SING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054190",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN 714.29 DECITEX OR MORE (NOT EXCEEDING 14 METRIC NUMBER PER SING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520542",
+            "description": "MEASURING PER SINGLE YARN LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EXCEEDING 14 METRIC NUMBER BUT NOT EXCEEDING 43 METRIC NUMBER PER SINGLE YARN)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054210",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EXCE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054290",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 714.29 DECITEX BUT NOT LESS THAN 232.56 DECITEX (EXCE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520543",
+            "description": "MEASURING PER SINGLE YARN LESS THAN 232.56 DECITEX BUT NOT LESS THAN192.31 DECITEX (EXCEEDING 43 METRIC NUMBER BUT NOT EXCEEDING 52 METRIC NUMBER PER SINGLE YARN)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054310",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192.31 DECITEX (EXCE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054320",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192.31 DECITEX (EXCE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054390",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 232.56 DECITEX BUT NOT LESS THAN 192.31 DECITEX (EXCE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520544",
+            "description": "MEASURING PER SINGLE YARN LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEEDING 52 METRIC NUMBER BUT NOT EXCEEDING 80 METRIC NUMBER PER SINGLE YARN)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054410",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054420",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054490",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 192.31 DECITEX BUT NOT LESS THAN 125 DECITEX (EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520546",
+            "description": "MEASURING PER SINGLE YARN LESS THAN 125 DECITEX BUT NOT LESS THAN 106.38 DECITEX (EXCEEDING 80 METRIC NUMBER BUT NOT EXCEEDING 94 METRIC NUMBER PER SINGLE YARN)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054610",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 125 DECITEX BUT NOT LESS THAN 106.38 DECITEX (EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054620",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 125 DECITEX BUT NOT LESS THAN 106.38 DECITEX (EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054630",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 125 DECITEX BUT NOT LESS THAN 106.38 DECITEX (EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054690",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 125 DECITEX BUT NOT LESS THAN 106.38 DECITEX (EXCEEDI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520547",
+            "description": "MEASURING PER SINGLE YARN LESS THAN 106.38 DECITEX BUT NOT LESS THAN 83.33 DECITEX (EXCEEDING 94 METRIC NUMBER BUT NOT EXCEEDING 120 METRIC NUMBER PER SINGLE YARN)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054710",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 106.38 DECITEX BUT NOT LESS THAN 83.33 DECITEX (EXCEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054720",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 106.38 DECITEX BUT NOT LESS THAN 83.33 DECITEX (EXCEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054730",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 106.38 DECITEX BUT NOT LESS THAN 83.33 DECITEX (EXCEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054790",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 106.38 DECITEX BUT NOT LESS THAN 83.33 DECITEX (EXCEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054810",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 83.33 DECITEX (EXCEEDING 120 METRIC NUMBER PER SINGLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054820",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 83.33 DECITEX (EXCEEDING 120 METRIC NUMBER PER SINGLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054830",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 83.33 DECITEX (EXCEEDING 120 METRIC NUMBER PER SINGLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52054890",
+            "description": "COTTON YARN (OTHER THAN SEWING THREAD), CONTAINING 85% OR MORE BY WEIGHT OF COTTON, NOT PUT UP FOR RETAIL SALE - MULTIPLE (FOLDED) OR CABLED YARN, OF COMBED FIBRES : MEASURING PER SINGLE YARN LESS THAN 83.33 DECITEX (EXCEEDING 120 METRIC NUMBER PER SINGLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5208",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2 - UNBLEACHED :",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520811",
+            "description": "PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081110",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 : DHOTI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081120",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 : SAREE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081130",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 : SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081140",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 : CASEMENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081190",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520812",
+            "description": "PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081210",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :DHOTI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081220",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :SAREE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081230",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081240",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :CASEMENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081250",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :SHEETING(TAKIA, LEOPARD FABRICS, OTHER THAN FURNISHING FABRICS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081260",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :VOILS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081290",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520813",
+            "description": "3-THREAD OR 4-THREAD TWILL, INCLUDING CROSS TWILL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081310",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: 3-THREAD OR 4-THREAD TWILL, INCLUDING CROSS TWILL : SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081320",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: 3-THREAD OR 4-THREAD TWILL, INCLUDING CROSS TWILL : DOBBY FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081390",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: 3-THREAD OR 4-THREAD TWILL, INCLUDING CROSS TWILL : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520819",
+            "description": "OTHER FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081910",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: OTHER FABRICS : DEDSUTI, DOSUTI FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52081990",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - UNBLEACHED: OTHER FABRICS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520821",
+            "description": "PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082110",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 : DHOTI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082120",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 : SAREE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082130",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 : CASEMENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082140",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 : SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082150",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 : CAMBRICS (INCLUDING MADAPOLLAM AND JACONET)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082160",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 : MULLS (INCLUDING LIMBRIC AND WILLAYA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082170",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 : MUSLIN (INCLUDING LAWN, MULMUL AND ORGANDI)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082180",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 : VOILS (EXCLUDING LENO FABRICS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082190",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520822",
+            "description": "PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082210",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :DHOTI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082220",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :SAREE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082230",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082240",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :CASEMENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082250",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :CAMBRICS (INCLUDING MADAPOLLAM AND JACONET)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082260",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :LONG CLOTH (INCLUDING CALICO)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082270",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :SHEETING (TAKIA AND THE LIKE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082280",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :VOILS (EXCLUDING LENO FABRICS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082290",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520823",
+            "description": "3-THREAD OR 4-THREAD TWILL, INCLUDING CROSS TWILL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082310",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : 3-THREAD OR 4-THREAD TWILL, INCLUDING CROSS TWILL :SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082320",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : 3-THREAD OR 4-THREAD TWILL, INCLUDING CROSS TWILL :PARMATTA FABRICS (INCLUDING ILESIA, POCKETING, ITALIAN TWILL)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082330",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : 3-THREAD OR 4-THREAD TWILL, INCLUDING CROSS TWILL :SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082390",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : 3-THREAD OR 4-THREAD TWILL, INCLUDING CROSS TWILL :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520829",
+            "description": "OTHER FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082910",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : OTHER FABRICS :DHOTI AND SAREE, ZARI BORDERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082920",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : OTHER FABRICS :DEDSUTI, DOSUTI FABRICS, CERETONNES AND OSAMBURGE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52082990",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- - BLEACHED : OTHER FABRICS :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520831",
+            "description": "PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083110",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2:LUNGI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083120",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083121",
+            "description": "DYED-PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G PER M2 - SAREES OF HANDLOOM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083129",
+            "description": "DYED - PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G PER M2 -SAREES OTHER THAN HANDLOOM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083130",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2:SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083140",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2:CASEMENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083150",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2:CAMBRICS (INCLUDING MADAPOLLAM AND JACONET)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083160",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2:MULL (INCLUDING LIMBRIC AND WILLAYA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083170",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2:MUSLIN (INCLUDING LAWN MULMUL AND ORGANDI) OF CARDED OR COMBED YARN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083180",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2:VOILS (EXCLUDING LENO FABRICS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083190",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520832",
+            "description": "PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083210",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/ M2:LUNGI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083220",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/ M2:SAREE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083230",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/ M2:SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083240",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/ M2:CASEMENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083250",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/ M2:BEDTICKING, DOMESTIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083260",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/ M2:CAMBRICS (INCLUDING MADAPOLLAM AND JACONET), LONG CLOTH(INCLUDING CALICO) AND VOILS (EXCLUDING LENO FABR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083270",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/ M2:COATING (INCLUDING SUITING)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083280",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/ M2:FURNISHING FABRICS( EXCLUDING PILE AND CHENILLE FABRICS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083290",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/ M2:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520833",
+            "description": "3-THREAD OR 4- THREAD TWILL, INCLUDING CROSS TWILL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083310",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : 3-THREAD OR 4- THREAD TWILL, INCLUDING CROSS TWILL :SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083320",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : 3-THREAD OR 4- THREAD TWILL, INCLUDING CROSS TWILL :COATING (INCLUDING SUITING)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083330",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : 3-THREAD OR 4- THREAD TWILL, INCLUDING CROSS TWILL :SHIRTING (INCLUDING MAZRI)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083390",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : 3-THREAD OR 4- THREAD TWILL, INCLUDING CROSS TWILL :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520839",
+            "description": "OTHER FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083910",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : OTHER FABRICS :ZARI BORDERED SAREES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52083990",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- DYED : OTHER FABRICS :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520841",
+            "description": "PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084110",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 :BLEEDING MADRAS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084121",
+            "description": "OF YARN OF DIFFERENT COLOURS - PALIN WEAVE,WEIGHING NOT MORE THAN 100 G PER M2 - SAREES OF HANDLOOM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084129",
+            "description": "OF YARN OF DIFFERENT COLOURS - PALIN WEAVE,WEIGHING NOT MORE THAN 100 G PER M2 - SAREES OTHER THAN HANDLOOM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084130",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 :SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084140",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 :BED TICKING, DOMESTIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084150",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 :FURNISHING FABRICS (EXCLUDING PILE AND CHENILLE FABRICS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084190",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520842",
+            "description": "PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084210",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :BLEEDING MADRAS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084220",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :SAREE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084230",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084240",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :CASEMENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084250",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :BED TICKING, DOMESTIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084260",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 : FURNISHING FABRICS, OTHER THAN PILE AND CHENILLE FABRIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084290",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520843",
+            "description": "3-THREAD OR 4- THREAD TWILL, INCLUDING CROSS TWILL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084310",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : 3-THREAD OR 4- THREAD TWILL, INCLUDING CROSS TWILL :BLEADING MADRAS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084320",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : 3-THREAD OR 4- THREAD TWILL, INCLUDING CROSS TWILL :SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084330",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : 3-THREAD OR 4- THREAD TWILL, INCLUDING CROSS TWILL :BEDTICKING, DAMASK",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084340",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : 3-THREAD OR 4- THREAD TWILL, INCLUDING CROSS TWILL :FLANNELETTE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084390",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : 3-THREAD OR 4- THREAD TWILL, INCLUDING CROSS TWILL :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520849",
+            "description": "OTHER FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084910",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : OTHER FABRICS :ZARI BORDERED SAREES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084920",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084921",
+            "description": "REAL MADRAS HANDKERCHIEFS OF HANDLOOM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084929",
+            "description": "REAL MADRAS HANDKERCHIEFS - OTHER THAN HANDLOOM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52084990",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- OF YARN OF DIFFERENT COLOURS : OTHER FABRICS :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520851",
+            "description": "PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085110",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 :LUNGI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085120",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 :SAREE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085130",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 :SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085140",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 :CASEMENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085150",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 :CAMBRICS (INCLUDING MADAPOLLAM AND JACONET)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085160",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 :MULL (INCLUDING LIMBRIC AND WILLAYA)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085170",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 :MUSLIN (INCLUDING LAWN MULMUL AND ORGANDI) OF CARDED OR COMBED YARN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085180",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 :VOILS (EXCLUDING LENO FABRICS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085190",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING NOT MORE THAN 100 G/M2 :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520852",
+            "description": "PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085210",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :LUNGI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085220",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :SAREE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085230",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :SHIRTING FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085240",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :CASEMENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085270",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :MUSLIN (INCLUDING LAWN MULMUL AND ORGANDI) OF CARDED OR COMBED YARN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085280",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :VOILS (EXCLUDING LENO FABRICS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085290",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : PLAIN WEAVE, WEIGHING MORE THAN 100 G/M2 :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "520859",
+            "description": "OTHERS FABRICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085910",
+            "description": "ZARI BORDERED SAREES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085920",
+            "description": "OTHER FABRICS, SAREES,HANDLOOM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "52085990",
+            "description": "WOVEN FABRICS OF COTTON, CONTAINING 85% OR MORE BY WEIGHT OF COTTON, WEIGHING NOT MORE THAN 200 G/M2- PRINTED : OTHER FABRICS :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

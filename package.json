@@ -1,0 +1,67 @@
+{
+  "name": "tax-engine",
+  "version": "1.0.0",
+  "description": "Zero-configuration multi-country tax calculation SDK (India GST, UAE VAT, US sales tax)",
+  "type": "module",
+  "sideEffects": false,
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "default": "./dist/index.js"
+    },
+    "./in/schedule": {
+      "types": "./dist/in/schedule.d.ts",
+      "import": "./dist/in/schedule.js",
+      "default": "./dist/in/schedule.js"
+    },
+    "./rules/india": {
+      "types": "./dist/rules/india/index.d.ts",
+      "import": "./dist/rules/india/index.js"
+    },
+    "./rules/usa": {
+      "types": "./dist/rules/usa/index.d.ts",
+      "import": "./dist/rules/usa/index.js"
+    },
+    "./rules/uae": {
+      "types": "./dist/rules/uae/index.d.ts",
+      "import": "./dist/rules/uae/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "generate:schedule": "node scripts/generate-india-schedule.mjs",
+    "build": "npm run generate:schedule && rm -rf dist && tsc -p tsconfig.build.json && node scripts/copy-schedule-shards.mjs",
+    "typecheck": "npm run generate:schedule && tsc -p tsconfig.build.json --noEmit",
+    "test": "npm run generate:schedule && vitest run",
+    "recheck:hsn": "bash scripts/recheck-hsn.sh",
+    "sync:schedule:clear": "node scripts/sync-schedule-from-clear.mjs",
+    "bench:schedule": "npm run generate:schedule && npm run build && node scripts/bench-india-schedule.mjs",
+    "manual-test": "npm run build && node examples/manual-test.mjs",
+    "verify": "npm run typecheck && npm run test && npm run build && npm pack --dry-run",
+    "prepublishOnly": "npm run verify"
+  },
+  "keywords": [
+    "tax",
+    "gst",
+    "vat",
+    "sales-tax",
+    "calculation",
+    "typescript"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.5"
+  }
+}

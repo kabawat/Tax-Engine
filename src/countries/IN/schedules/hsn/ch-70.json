@@ -1,0 +1,2107 @@
+{
+    "chapter": "70",
+    "kind": "HSN",
+    "count": 172,
+    "entries": [
+        {
+            "code": "7001",
+            "description": "CULLET AND OTHER WASTE AND SCRAP OF GLASS; GLASS IN THE MASS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700100",
+            "description": "CULLET AND OTHER WASTE AND SCRAP OF GLASS; GLASS IN THE MASS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70010010",
+            "description": "CULLET AND OTHER WASTE AND SCRAP OF GLASS; GLASS IN THE MASS - CULLET AND OTHER WASTE AND SCRAP OF GLASS; GLASS IN THE MASS: CULLET AND OTHER WASTE AND SCRAP OF GLASS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70010020",
+            "description": "CULLET AND OTHER WASTE AND SCRAP OF GLASS; GLASS IN THE MASS - CULLET AND OTHER WASTE AND SCRAP OF GLASS; GLASS IN THE MASS: ENAMEL GLASS IN THE MASS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70010090",
+            "description": "CULLET AND OTHER WASTE AND SCRAP OF GLASS; GLASS IN THE MASS - CULLET AND OTHER WASTE AND SCRAP OF GLASS; GLASS IN THE MASS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7002",
+            "description": "GLASS IN BALLS (OTHER THAN MICROSPHERES OF HEADING 7018), RODS OR TUBES, UNWORKED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700210",
+            "description": "GLASS IN BALLS (OTHER THAN MICROSPHERES OF HEADING 7018), RODS OR TUBES, UNWORKED - BALLS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70021000",
+            "description": "GLASS IN BALLS (OTHER THAN MICROSPHERES OF HEADING 7018), RODS OR TUBES, UNWORKED - BALLS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700220",
+            "description": "RODS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70022010",
+            "description": "GLASS IN BALLS (OTHER THAN MICROSPHERES OF HEADING 7018), RODS OR TUBES, UNWORKED - RODS: ENAMEL GLASS RODS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70022090",
+            "description": "GLASS IN BALLS (OTHER THAN MICROSPHERES OF HEADING 7018), RODS OR TUBES, UNWORKED - RODS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700231",
+            "description": "GLASS IN BALLS (OTHER THAN MICROSPHERES OF HEADING 7018), RODS OR TUBES, UNWORKED - TUBES: OF FUSED QUARTZ OR OTHER FUSED SILICA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70023100",
+            "description": "GLASS IN BALLS (OTHER THAN MICROSPHERES OF HEADING 7018), RODS OR TUBES, UNWORKED - TUBES: OF FUSED QUARTZ OR OTHER FUSED SILICA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700232",
+            "description": "GLASS IN BALLS (OTHER THAN MICROSPHERES OF HEADING 7018), RODS OR TUBES, UNWORKED - TUBES: OF OTHER GLASS HAVING A LINEAR COEFFICIENT OF EXPANSION NOT EXCEEDING 5 X 10-6 PER KELVIN WITHIN A TEMPERATURE RANGE OF 00C TO 3000C",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700239",
+            "description": "GLASS IN BALLS (OTHER THAN MICROSPHERES OF HEADING 7018), RODS OR TUBES, UNWORKED - TUBES: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70023900",
+            "description": "GLASS IN BALLS (OTHER THAN MICROSPHERES OF HEADING 7018), RODS OR TUBES, UNWORKED - TUBES: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7003",
+            "description": "CAST GLASS AND ROLLED GLASS, IN SHEETS OR PROFILES, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - NON-WIRED SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70031210",
+            "description": "CAST GLASS AND ROLLED GLASS, IN SHEETS OR PROFILES, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - NON-WIRED SHEETS : COLOURED THROUGHOUT THE MASS (BODY-TINTED), OPACIFIED, FLASHED OR HAVING AN ABSORBENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70031290",
+            "description": "CAST GLASS AND ROLLED GLASS, IN SHEETS OR PROFILES, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - NON-WIRED SHEETS : COLOURED THROUGHOUT THE MASS (BODY-TINTED), OPACIFIED, FLASHED OR HAVING AN ABSORBENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700319",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70031910",
+            "description": "CAST GLASS AND ROLLED GLASS, IN SHEETS OR PROFILES, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - NON-WIRED SHEETS : OTHER: TINTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70031990",
+            "description": "CAST GLASS AND ROLLED GLASS, IN SHEETS OR PROFILES, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - NON-WIRED SHEETS : OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700320",
+            "description": "WIRED SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70032010",
+            "description": "CAST GLASS AND ROLLED GLASS, IN SHEETS OR PROFILES, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - WIRED SHEETS: TINTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70032090",
+            "description": "CAST GLASS AND ROLLED GLASS, IN SHEETS OR PROFILES, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - WIRED SHEETS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700330",
+            "description": "PROFILES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70033010",
+            "description": "CAST GLASS AND ROLLED GLASS, IN SHEETS OR PROFILES, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - PROFILES: TINTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70033090",
+            "description": "CAST GLASS AND ROLLED GLASS, IN SHEETS OR PROFILES, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - PROFILES: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7004",
+            "description": "DRAWN GLASS AND BLOWN GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70042011",
+            "description": "DRAWN GLASS AND BLOWN GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NONREFLECTING LAYER, BUT NOT OTHERWISE WORKED - GLASS, COLOURED THROUGHOUT THE MASS (BODY TINTED), OPACIFIED, FLASHED OR HAVING AN ABSORBENT, REFLECTING OR NON-REFLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70042019",
+            "description": "DRAWN GLASS AND BLOWN GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NONREFLECTING LAYER, BUT NOT OTHERWISE WORKED - GLASS, COLOURED THROUGHOUT THE MASS (BODY TINTED), OPACIFIED, FLASHED OR HAVING AN ABSORBENT, REFLECTING OR NON-REFLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70042091",
+            "description": "DRAWN GLASS AND BLOWN GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NONREFLECTING LAYER, BUT NOT OTHERWISE WORKED - GLASS, COLOURED THROUGHOUT THE MASS (BODY TINTED), OPACIFIED, FLASHED OR HAVING AN ABSORBENT, REFLECTING OR NON-REFLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70042099",
+            "description": "DRAWN GLASS AND BLOWN GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NONREFLECTING LAYER, BUT NOT OTHERWISE WORKED - GLASS, COLOURED THROUGHOUT THE MASS (BODY TINTED), OPACIFIED, FLASHED OR HAVING AN ABSORBENT, REFLECTING OR NON-REFLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700490",
+            "description": "OTHER GLASS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70049011",
+            "description": "DRAWN GLASS AND BLOWN GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NONREFLECTING LAYER, BUT NOT OTHERWISE WORKED - OTHER GLASS: WINDOW GLASS (SHEET GLASS): TINTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70049019",
+            "description": "DRAWN GLASS AND BLOWN GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NONREFLECTING LAYER, BUT NOT OTHERWISE WORKED - OTHER GLASS: WINDOW GLASS (SHEET GLASS): OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70049091",
+            "description": "DRAWN GLASS AND BLOWN GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NONREFLECTING LAYER, BUT NOT OTHERWISE WORKED - OTHER GLASS: OTHER: TINTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70049099",
+            "description": "DRAWN GLASS AND BLOWN GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NONREFLECTING LAYER, BUT NOT OTHERWISE WORKED - OTHER GLASS: OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7005",
+            "description": "FLOAT GLASS AND SURFACE GROUND OR POLISHED GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70051010",
+            "description": "FLOAT GLASS AND SURFACE GROUND OR POLISHED GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - NON-WIRED GLASS, HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER: TINTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70051090",
+            "description": "FLOAT GLASS AND SURFACE GROUND OR POLISHED GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - NON-WIRED GLASS, HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70052110",
+            "description": "FLOAT GLASS AND SURFACE GROUND OR POLISHED GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - OTHER NON-WIRED GLASS : COLOURED THROUGHOUT THE MASS (BODY TINTED) OPACIFIED, FLASHED OR MERELY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70052190",
+            "description": "FLOAT GLASS AND SURFACE GROUND OR POLISHED GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - OTHER NON-WIRED GLASS : COLOURED THROUGHOUT THE MASS (BODY TINTED) OPACIFIED, FLASHED OR MERELY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700529",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70052910",
+            "description": "FLOAT GLASS AND SURFACE GROUND OR POLISHED GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - OTHER NON-WIRED GLASS : OTHER: TINTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70052990",
+            "description": "FLOAT GLASS AND SURFACE GROUND OR POLISHED GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - OTHER NON-WIRED GLASS : OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700530",
+            "description": "WIRED GLASS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70053010",
+            "description": "FLOAT GLASS AND SURFACE GROUND OR POLISHED GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - WIRED GLASS: TINTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70053090",
+            "description": "FLOAT GLASS AND SURFACE GROUND OR POLISHED GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED - WIRED GLASS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7006",
+            "description": "OMITTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700600",
+            "description": "GLASS OF HEADING 7003, 7004 OR 7005, BENT, EDGE-WORKED, ENGRAVED, DRILLED, ENAMELLED OR OTHERWISE WORKED, BUT NOT FRAMED OR FITTED WITH OTHER MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70060000",
+            "description": "GLASS OF HEADING 7003, 7004 OR 7005, BENT, EDGE-WORKED, ENGRAVED, DRILLED, ENAMELLED OR OTHERWISE WORKED, BUT NOT FRAMED OR FITTED WITH OTHER MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7007",
+            "description": "SAFETY GLASS, CONSISTING OF TOUGHENED (TEMPERED) OR LAMINATED GLASS - TOUGHENED (TEMPERED) SAFETY GLASS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700719",
+            "description": "SAFETY GLASS, CONSISTING OF TOUGHENED (TEMPERED) OR LAMINATED GLASS - TOUGHENED (TEMPERED) SAFETY GLASS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70071900",
+            "description": "SAFETY GLASS, CONSISTING OF TOUGHENED (TEMPERED) OR LAMINATED GLASS - TOUGHENED (TEMPERED) SAFETY GLASS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70072110",
+            "description": "SAFETY GLASS, CONSISTING OF TOUGHENED (TEMPERED) OR LAMINATED GLASS - LAMINATED SAFETY GLASS : OF SIZE AND SHAPE SUITABLE FOR INCORPORATION IN VEHICLES, AIRCRAFT, SPACECRAFT OR VESSELS: BULLET PROOF GLASS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70072190",
+            "description": "SAFETY GLASS, CONSISTING OF TOUGHENED (TEMPERED) OR LAMINATED GLASS - LAMINATED SAFETY GLASS : OF SIZE AND SHAPE SUITABLE FOR INCORPORATION IN VEHICLES, AIRCRAFT, SPACECRAFT OR VESSELS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700729",
+            "description": "SAFETY GLASS, CONSISTING OF TOUGHENED (TEMPERED) OR LAMINATED GLASS - LAMINATED SAFETY GLASS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70072900",
+            "description": "SAFETY GLASS, CONSISTING OF TOUGHENED (TEMPERED) OR LAMINATED GLASS - LAMINATED SAFETY GLASS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7008",
+            "description": "MULTIPLE-WALLED INSULATING UNITS OF GLASS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700800",
+            "description": "MULTIPLE-WALLED INSULATING UNITS OF GLASS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70080010",
+            "description": "MULTIPLE-WALLED INSULATING UNITS OF GLASS - MULTIPLE-WALLED INSULATING UNITS OF GLASS: GLAZED GLASS, DOUBLE WALLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70080020",
+            "description": "MULTIPLE-WALLED INSULATING UNITS OF GLASS - MULTIPLE-WALLED INSULATING UNITS OF GLASS: GLAZED GLASS, MULTIPLE WALLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70080090",
+            "description": "MULTIPLE-WALLED INSULATING UNITS OF GLASS - MULTIPLE-WALLED INSULATING UNITS OF GLASS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7009",
+            "description": "GLASS MIRRORS, WHETHER OR NOT FRAMED, INCLUDING REAR-VIEW MIRRORS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700910",
+            "description": "REAR-VIEW MIRRORS FOR VEHICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70091010",
+            "description": "GLASS MIRRORS, WHETHER OR NOT FRAMED, INCLUDING REAR-VIEW MIRRORS - REAR-VIEW MIRRORS FOR VEHICLES: PRISMATIC REAR-VIEW MIRROR FOR VEHICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70091090",
+            "description": "GLASS MIRRORS, WHETHER OR NOT FRAMED, INCLUDING REAR-VIEW MIRRORS - REAR-VIEW MIRRORS FOR VEHICLES: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700991",
+            "description": "GLASS MIRRORS, WHETHER OR NOT FRAMED, INCLUDING REAR-VIEW MIRRORS - OTHER : UNFRAMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70099100",
+            "description": "GLASS MIRRORS, WHETHER OR NOT FRAMED, INCLUDING REAR-VIEW MIRRORS - OTHER : UNFRAMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "700992",
+            "description": "GLASS MIRRORS, WHETHER OR NOT FRAMED, INCLUDING REAR-VIEW MIRRORS - OTHER : FRAMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70099200",
+            "description": "GLASS MIRRORS, WHETHER OR NOT FRAMED, INCLUDING REAR-VIEW MIRRORS - OTHER : FRAMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7010",
+            "description": "CARBOYS, BOTTLES, FLASKS, JARS, POTS, PHIALS, AMPOULES AND OTHER CONTAINERS, OF GLASS, OF A KIND USED FOR THE CONVEYANCE OR PACKING OF GOODS; PRESERVING JARS OF GLASS; STOPPERS, LIDS AND OTHER CLOSURES, OF GLASS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701010",
+            "description": "CARBOYS, BOTTLES, FLASKS, JARS, POTS, PHIALS, AMPOULES AND OTHER CONTAINERS, OF GLASS, OF A KIND USED FOR THE CONVEYANCE OR PACKING OF GOODS; PRESERVING JARS OF GLASS; STOPPERS, LIDS AND OTHER CLOSURES, OF GLASS - AMPOULES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70101000",
+            "description": "CARBOYS, BOTTLES, FLASKS, JARS, POTS, PHIALS, AMPOULES AND OTHER CONTAINERS, OF GLASS, OF A KIND USED FOR THE CONVEYANCE OR PACKING OF GOODS; PRESERVING JARS OF GLASS; STOPPERS, LIDS AND OTHER CLOSURES, OF GLASS - AMPOULES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701020",
+            "description": "CARBOYS, BOTTLES, FLASKS, JARS, POTS, PHIALS, AMPOULES AND OTHER CONTAINERS, OF GLASS, OF A KIND USED FOR THE CONVEYANCE OR PACKING OF GOODS; PRESERVING JARS OF GLASS; STOPPERS, LIDS AND OTHER CLOSURES, OF GLASS - STOPPERS, LIDS AND OTHER CLOSURES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70102000",
+            "description": "CARBOYS, BOTTLES, FLASKS, JARS, POTS, PHIALS, AMPOULES AND OTHER CONTAINERS, OF GLASS, OF A KIND USED FOR THE CONVEYANCE OR PACKING OF GOODS; PRESERVING JARS OF GLASS; STOPPERS, LIDS AND OTHER CLOSURES, OF GLASS - STOPPERS, LIDS AND OTHER CLOSURES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701090",
+            "description": "CARBOYS, BOTTLES, FLASKS, JARS, POTS, PHIALS, AMPOULES AND OTHER CONTAINERS, OF GLASS, OF A KIND USED FOR THE CONVEYANCE OR PACKING OF GOODS; PRESERVING JARS OF GLASS; STOPPERS, LIDS AND OTHER CLOSURES, OF GLASS - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70109000",
+            "description": "CARBOYS, BOTTLES, FLASKS, JARS, POTS, PHIALS, AMPOULES AND OTHER CONTAINERS, OF GLASS, OF A KIND USED FOR THE CONVEYANCE OR PACKING OF GOODS; PRESERVING JARS OF GLASS; STOPPERS, LIDS AND OTHER CLOSURES, OF GLASS - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7011",
+            "description": "GLASS ENVELOPES (INCLUDING BULBS AND TUBES), OPEN, AND GLASS PARTS THEREOF, WITHOUT FITTINGS, FOR ELECTRIC LAMPS, CATHODE-RAY TUBES OR THE LIKE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701110",
+            "description": "FOR ELECTRIC LIGHTING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70111010",
+            "description": "GLASS ENVELOPES (INCLUDING BULBS AND TUBES), OPEN, AND GLASS PARTS THEREOF, WITHOUT FITTINGS, FOR ELECTRIC LAMPS, CATHODE-RAY TUBES OR THE LIKE - FOR ELECTRIC LIGHTING: GLASS ENVELOPES FOR FLUORESCENT LAMPS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70111020",
+            "description": "GLASS ENVELOPES (INCLUDING BULBS AND TUBES), OPEN, AND GLASS PARTS THEREOF, WITHOUT FITTINGS, FOR ELECTRIC LAMPS, CATHODE-RAY TUBES OR THE LIKE - FOR ELECTRIC LIGHTING: GLASS ENVELOPES FOR FILAMENT LAMPS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70111090",
+            "description": "GLASS ENVELOPES (INCLUDING BULBS AND TUBES), OPEN, AND GLASS PARTS THEREOF, WITHOUT FITTINGS, FOR ELECTRIC LAMPS, CATHODE-RAY TUBES OR THE LIKE - FOR ELECTRIC LIGHTING: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701120",
+            "description": "GLASS ENVELOPES (INCLUDING BULBS AND TUBES), OPEN, AND GLASS PARTS THEREOF, WITHOUT FITTINGS, FOR ELECTRIC LAMPS, CATHODE-RAY TUBES OR THE LIKE - FOR CATHODE-RAY TUBES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70112000",
+            "description": "GLASS ENVELOPES (INCLUDING BULBS AND TUBES), OPEN, AND GLASS PARTS THEREOF, WITHOUT FITTINGS, FOR ELECTRIC LAMPS, CATHODE-RAY TUBES OR THE LIKE - FOR CATHODE-RAY TUBES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70119010",
+            "description": "GLASS ENVELOPES (INCLUDING BULBS AND TUBES), OPEN, AND GLASS PARTS THEREOF, WITHOUT FITTINGS, FOR ELECTRIC LAMPS, CATHODE-RAY TUBES OR THE LIKE - OTHER: GLASS ENVELOPES FOR ELECTRONIC VALVES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70119090",
+            "description": "GLASS ENVELOPES (INCLUDING BULBS AND TUBES), OPEN, AND GLASS PARTS THEREOF, WITHOUT FITTINGS, FOR ELECTRIC LAMPS, CATHODE-RAY TUBES OR THE LIKE - OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7013",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701310",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) OF GLASS-CERAMICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701322",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - STEMWARE DRINKING GLASSES, OTHER THAN OF GLASS-CERAMICS: -- OF LEAD CRYSTAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70132200",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - STEMWARE DRINKING GLASSES, OTHER THAN OF GLASS-CERAMICS: -- OF LEAD CRYSTAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701328",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - STEMWARE DRINKING GLASSES, OTHER THAN OF GLASS-CERAMICS: -- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70132800",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - STEMWARE DRINKING GLASSES, OTHER THAN OF GLASS-CERAMICS: -- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70133100",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - GLASSWARE OF A KIND USED FOR TABLE (OTHER THAN DRINKING GLASSES) OR KITCHEN PURPOSES OTHER THAN OF GLASS-CERAMIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701333",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - OTHER DRINKING GLASSES, OTHER THAN OF GLASS-CERAMICS: -- OF LEAD CRYSTAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70133300",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - OTHER DRINKING GLASSES, OTHER THAN OF GLASS-CERAMICS: -- OF LEAD CRYSTAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701337",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - OTHER DRINKING GLASSES, OTHER THAN OF GLASS-CERAMICS: -- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70133900",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - GLASSWARE OF A KIND USED FOR TABLE (OTHER THAN DRINKING GLASSES) OR KITCHEN PURPOSES OTHER THAN OF GLASS-CERAMIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701341",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - GLASSWARE OF A KIND USED FOR TABLE (OTHER THAN DRINKING GLASSES) OR KITCHEN PURPOSED, OTHER THAN OF GLASS-CERAMI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70134100",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - GLASSWARE OF A KIND USED FOR TABLE (OTHER THAN DRINKING GLASSES) OR KITCHEN PURPOSED, OTHER THAN OF GLASS-CERAMI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701349",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - GLASSWARE OF A KIND USED FOR TABLE (OTHER THAN DRINKING GLASSES) OR KITCHEN PURPOSED, OTHER THAN OF GLASS-CERAMI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70134900",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - GLASSWARE OF A KIND USED FOR TABLE (OTHER THAN DRINKING GLASSES) OR KITCHEN PURPOSED, OTHER THAN OF GLASS-CERAMI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701391",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - GLASSWARE OF A KIND USED FOR TABLE (OTHER THAN DRINKING GLASSES) OR KITCHEN PURPOSED, OTHER THAN OF GLASS-CERAMI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70139100",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - GLASSWARE OF A KIND USED FOR TABLE (OTHER THAN DRINKING GLASSES) OR KITCHEN PURPOSED, OTHER THAN OF GLASS-CERAMI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701399",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - OTHER GLASSWARE : OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70139900",
+            "description": "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILET, OFFICE, INDOOR DECORATION OR SIMILAR PURPOSES (OTHER THAN THAT OF HEADING 7010 OR 7018) - GLASSWARE OF A KIND USED FOR TABLE (OTHER THAN DRINKING GLASSES) OR KITCHEN PURPOSED, OTHER THAN OF GLASS-CERAMI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7014",
+            "description": "SIGNALLING GLASSWARE AND OPTICAL ELEMENTS OF GLASS (OTHER THAN THOSE OF HEADING 7012.5), NOT OPTICALLY WORKED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70140010",
+            "description": "SIGNALLING GLASSWARE AND OPTICAL ELEMENTS OF GLASS (OTHER THAN THOSE OF HEADING 7015), NOT OPTICALLY WORKED - SIGNALLING GLASSWARE AND OPTICAL ELEMENTS OF GLASS (OTHER THAN THOSE OF HEADING 7015), NOT OPTICALLY WORKED: SIGNALLING GLASSWARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70140020",
+            "description": "SIGNALLING GLASSWARE AND OPTICAL ELEMENTS OF GLASS (OTHER THAN THOSE OF HEADING 7015), NOT OPTICALLY WORKED - SIGNALLING GLASSWARE AND OPTICAL ELEMENTS OF GLASS (OTHER THAN THOSE OF HEADING 7015), NOT OPTICALLY WORKED: OPTICAL ELEMENTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7015",
+            "description": "CLOCK OR WATCH GLASSES AND SIMILAR GLASSES, GLASSES FOR NON-CORRECTIVE OR CORRECTIVE SPECTACLES, CURVED, BENT, HOLLOWED OR THE LIKE; NOT OPTICALLY WORKED; HOLLOW GLASS SPHERES AND THEIR SEGMENTS, FOR THE MANUFACTURE OF SUCH GLASSES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701510",
+            "description": "GLASSES FOR CORRECTIVE SPECTACLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70151010",
+            "description": "CLOCK OR WATCH GLASSES AND SIMILAR GLASSES, GLASSES FOR NON-CORRECTIVE OR CORRECTIVE SPECTACLES, CURVED, BENT, HOLLOWED OR THE LIKE; NOT OPTICALLY WORKED; HOLLOW GLASS SPHERES AND THEIR SEGMENTS, FOR THE MANUFACTURE OF SUCH GLASSES - GLASSES FOR CORRECTIV",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70151020",
+            "description": "CLOCK OR WATCH GLASSES AND SIMILAR GLASSES, GLASSES FOR NON-CORRECTIVE OR CORRECTIVE SPECTACLES, CURVED, BENT, HOLLOWED OR THE LIKE; NOT OPTICALLY WORKED; HOLLOW GLASS SPHERES AND THEIR SEGMENTS, FOR THE MANUFACTURE OF SUCH GLASSES - GLASSES FOR CORRECTIV",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70151090",
+            "description": "CLOCK OR WATCH GLASSES AND SIMILAR GLASSES, GLASSES FOR NON-CORRECTIVE OR CORRECTIVE SPECTACLES, CURVED, BENT, HOLLOWED OR THE LIKE; NOT OPTICALLY WORKED; HOLLOW GLASS SPHERES AND THEIR SEGMENTS, FOR THE MANUFACTURE OF SUCH GLASSES - GLASSES FOR CORRECTIV",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701590",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70159010",
+            "description": "CLOCK OR WATCH GLASSES AND SIMILAR GLASSES, GLASSES FOR NON-CORRECTIVE OR CORRECTIVE SPECTACLES, CURVED, BENT, HOLLOWED OR THE LIKE; NOT OPTICALLY WORKED; HOLLOW GLASS SPHERES AND THEIR SEGMENTS, FOR THE MANUFACTURE OF SUCH GLASSES - OTHER: CLOCK AND WATC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70159020",
+            "description": "CLOCK OR WATCH GLASSES AND SIMILAR GLASSES, GLASSES FOR NON-CORRECTIVE OR CORRECTIVE SPECTACLES, CURVED, BENT, HOLLOWED OR THE LIKE; NOT OPTICALLY WORKED; HOLLOW GLASS SPHERES AND THEIR SEGMENTS, FOR THE MANUFACTURE OF SUCH GLASSES - OTHER: GLASS FOR SUN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70159090",
+            "description": "CLOCK OR WATCH GLASSES AND SIMILAR GLASSES, GLASSES FOR NON-CORRECTIVE OR CORRECTIVE SPECTACLES, CURVED, BENT, HOLLOWED OR THE LIKE; NOT OPTICALLY WORKED; HOLLOW GLASS SPHERES AND THEIR SEGMENTS, FOR THE MANUFACTURE OF SUCH GLASSES - OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7016",
+            "description": "PAVING BLOCKS, SLABS, BRICKS, SQUARES, TILES AND OTHER ARTICLES OF PRESSED OR MOULDED GLASS, WHETHER OR NOT WIRED, OF A KIND USED FOR BUILDING OR CONSTRUCTION PURPOSES; GLASS CUBES AND OTHER GLASS SMALL WARES, WHETHER OR NOT ON A BACKING, FOR MOSAICS OR S",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70161000",
+            "description": "PAVING BLOCKS, SLABS, BRICKS, SQUARES, TILES AND OTHER ARTICLES OF PRESSED OR MOULDED GLASS, WHETHER OR NOT WIRED, OF A KIND USED FOR BUILDING OR CONSTRUCTION PURPOSES; GLASS CUBES AND OTHER GLASS SMALL WARES, WHETHER OR NOT ON A BACKING, FOR MOSAICS OR S",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701690",
+            "description": "PAVING BLOCKS, SLABS, BRICKS, SQUARES, TILES AND OTHER ARTICLES OF PRESSED OR MOULDED GLASS, WHETHER OR NOT WIRED, OF A KIND USED FOR BUILDING OR CONSTRUCTION PURPOSES; GLASS CUBES AND OTHER GLASS SMALL WARES, WHETHER OR NOT ON A BACKING, FOR MOSAICS OR S",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70169000",
+            "description": "PAVING BLOCKS, SLABS, BRICKS, SQUARES, TILES AND OTHER ARTICLES OF PRESSED OR MOULDED GLASS, WHETHER OR NOT WIRED, OF A KIND USED FOR BUILDING OR CONSTRUCTION PURPOSES; GLASS CUBES AND OTHER GLASS SMALL WARES, WHETHER OR NOT ON A BACKING, FOR MOSAICS OR S",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7017",
+            "description": "LABORATORY, HYGIENIC OR PHARMACEUTICAL GLASSWARE, WHETHER OR NOT GRADUATED OR CALIBRATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701710",
+            "description": "LABORATORY, HYGIENIC OR PHARMACEUTICAL GLASSWARE, WHETHER OR NOT GRADUATED OR CALIBRATED - OF FUSED QUARTZ OR OTHER FUSED SILICA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70171000",
+            "description": "LABORATORY, HYGIENIC OR PHARMACEUTICAL GLASSWARE, WHETHER OR NOT GRADUATED OR CALIBRATED - OF FUSED QUARTZ OR OTHER FUSED SILICA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701720",
+            "description": "LABORATORY, HYGIENIC OR PHARMACEUTICAL GLASSWARE, WHETHER OR NOT GRADUATED OR CALIBRATED - OF OTHER GLASS HAVING A LINEAR COEFFICIENT OF EXPANSION NOT EXCEEDING 5 X 10-6 PER KELVIN WITHIN A TEMPERATURE RANGE OF 00C TO 3000C",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701790",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70179010",
+            "description": "LABORATORY, HYGIENIC OR PHARMACEUTICAL GLASSWARE, WHETHER OR NOT GRADUATED OR CALIBRATED - OTHER: GRADUATED OR CALIBRATED LABORATORY GLASSWARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70179020",
+            "description": "LABORATORY, HYGIENIC OR PHARMACEUTICAL GLASSWARE, WHETHER OR NOT GRADUATED OR CALIBRATED - OTHER: PHARMACEUTICAL GLASSWARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70179030",
+            "description": "LABORATORY, HYGIENIC OR PHARMACEUTICAL GLASSWARE, WHETHER OR NOT GRADUATED OR CALIBRATED - OTHER: HYGIENIC GLASSWARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70179090",
+            "description": "LABORATORY, HYGIENIC OR PHARMACEUTICAL GLASSWARE, WHETHER OR NOT GRADUATED OR CALIBRATED - OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7018",
+            "description": "GLASS BEADS, IMITATION PEARLS, IMITATION PRECIOUS OR SEMI-PRECIOUS STONES AND SIMILAR GLASS SMALLWARES, AND ARTICLES THEREOF OTHER THAN IMITATION JEWELLERY, GLASS EYES OTHER THAN PROSTHETIC ARTICLES; STATUETTES AND OTHER ORNAMENTS OF LAMP-WORKED GLASS, OT",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70181010",
+            "description": "GLASS BEADS, IMITATION PEARLS, IMITATION PRECIOUS OR SEMI-PRECIOUS STONES AND SIMILAR GLASS SMALLWARES, AND ARTICLES THEREOF OTHER THAN IMITATION JEWELLERY, GLASS EYES OTHER THAN PROSTHETIC ARTICLES; STATUETTES AND OTHER ORNAMENTS OF LAMP-WORKED GLASS, OT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70181020",
+            "description": "GLASS BEADS, IMITATION PEARLS, IMITATION PRECIOUS OR SEMI-PRECIOUS STONES AND SIMILAR GLASS SMALLWARES, AND ARTICLES THEREOF OTHER THAN IMITATION JEWELLERY, GLASS EYES OTHER THAN PROSTHETIC ARTICLES; STATUETTES AND OTHER ORNAMENTS OF LAMP-WORKED GLASS, OT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70181090",
+            "description": "GLASS BEADS, IMITATION PEARLS, IMITATION PRECIOUS OR SEMI-PRECIOUS STONES AND SIMILAR GLASS SMALLWARES, AND ARTICLES THEREOF OTHER THAN IMITATION JEWELLERY, GLASS EYES OTHER THAN PROSTHETIC ARTICLES; STATUETTES AND OTHER ORNAMENTS OF LAMP-WORKED GLASS, OT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701820",
+            "description": "GLASS BEADS, IMITATION PEARLS, IMITATION PRECIOUS OR SEMI-PRECIOUS STONES AND SIMILAR GLASS SMALLWARES, AND ARTICLES THEREOF OTHER THAN IMITATION JEWELLERY, GLASS EYES OTHER THAN PROSTHETIC ARTICLES; STATUETTES AND OTHER ORNAMENTS OF LAMP-WORKED GLASS, OT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70182000",
+            "description": "GLASS BEADS, IMITATION PEARLS, IMITATION PRECIOUS OR SEMI-PRECIOUS STONES AND SIMILAR GLASS SMALLWARES, AND ARTICLES THEREOF OTHER THAN IMITATION JEWELLERY, GLASS EYES OTHER THAN PROSTHETIC ARTICLES; STATUETTES AND OTHER ORNAMENTS OF LAMP-WORKED GLASS, OT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701890",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70189010",
+            "description": "GLASS BEADS, IMITATION PEARLS, IMITATION PRECIOUS OR SEMI-PRECIOUS STONES AND SIMILAR GLASS SMALLWARES, AND ARTICLES THEREOF OTHER THAN IMITATION JEWELLERY, GLASS EYES OTHER THAN PROSTHETIC ARTICLES; STATUETTES AND OTHER ORNAMENTS OF LAMP-WORKED GLASS, OT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70189090",
+            "description": "GLASS BEADS, IMITATION PEARLS, IMITATION PRECIOUS OR SEMI-PRECIOUS STONES AND SIMILAR GLASS SMALLWARES, AND ARTICLES THEREOF OTHER THAN IMITATION JEWELLERY, GLASS EYES OTHER THAN PROSTHETIC ARTICLES; STATUETTES AND OTHER ORNAMENTS OF LAMP-WORKED GLASS, OT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7019",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - SLIVERS, ROVINGS, YARN AND CHOPPED STRANDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701911",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - SLIVERS, ROVINGS, YARN AND CHOPPED STRANDS : CHOPPED STRANDS, OF A LENGTH OF NOT MORE THAN 50 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70191100",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - SLIVERS, ROVINGS, YARN AND CHOPPED STRANDS : CHOPPED STRANDS, OF A LENGTH OF NOT MORE THAN 50 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701912",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - SLIVERS, ROVINGS, YARN AND CHOPPED STRANDS : ROVINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70191200",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - SLIVERS, ROVINGS, YARN AND CHOPPED STRANDS : ROVINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701919",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - SLIVERS, ROVINGS, YARN AND CHOPPED STRANDS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701931",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - THIN SHEETS (VOILES), WEBS, MATS, MATTRESSES, BOARDS AND SIMILAR NON-WOVEN PRODUCTS : MATS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70193100",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - THIN SHEETS (VOILES), WEBS, MATS, MATTRESSES, BOARDS AND SIMILAR NON-WOVEN PRODUCTS : MATS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701932",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - THIN SHEETS (VOILES), WEBS, MATS, MATTRESSES, BOARDS AND SIMILAR NON-WOVEN PRODUCTS : THIN SHEETS (VOILES)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70193200",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - THIN SHEETS (VOILES), WEBS, MATS, MATTRESSES, BOARDS AND SIMILAR NON-WOVEN PRODUCTS : THIN SHEETS (VOILES)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701939",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - THIN SHEETS (VOILES), WEBS, MATS, MATTRESSES, BOARDS AND SIMILAR NON-WOVEN PRODUCTS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70193900",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - THIN SHEETS (VOILES), WEBS, MATS, MATTRESSES, BOARDS AND SIMILAR NON-WOVEN PRODUCTS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701940",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - WOVEN FABRICS OF ROVINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70194000",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - WOVEN FABRICS OF ROVINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701951",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - OTHER WOVEN FABRICS : OF A WIDTH NOT EXCEEDING 30 CM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70195100",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - OTHER WOVEN FABRICS : OF A WIDTH NOT EXCEEDING 30 CM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70195200",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - OTHER WOVEN FABRICS : OF A WIDTH EXCEEDING 30 CM, PLAIN WEAVE, WEIGHING LESS THAN 250 G/SQ. METRE, OF FILAMENTS MEASURING PER SINGLE YARN NOT MORE THAN 136 TEX",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701959",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - OTHER WOVEN FABRICS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70195900",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - OTHER WOVEN FABRICS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "701990",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70199010",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - OTHER: GLASS WOOL OR GLASS FIBRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70199090",
+            "description": "GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, WOVEN FABRICS) - OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7020",
+            "description": "Globes for lamps and lanterns, Founts for kerosene wick lamps, Glass chimneys for lamps and lanterns",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "702000",
+            "description": "OTHER ARTICLES OF GLASS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70200011",
+            "description": "OTHER ARTICLES OF GLASS OTHER ARTICLES OF GLASS: GLASS SHELLS, GLASS GLOBES AND GLASS FOUNTS: GLOBES FOR LAMPS AND LANTERNS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70200012",
+            "description": "OTHER ARTICLES OF GLASS OTHER ARTICLES OF GLASS: GLASS SHELLS, GLASS GLOBES AND GLASS FOUNTS: FOUNTS FOR KEROSENE WICK LAMPS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70200019",
+            "description": "OTHER ARTICLES OF GLASS OTHER ARTICLES OF GLASS: GLASS SHELLS, GLASS GLOBES AND GLASS FOUNTS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70200021",
+            "description": "OTHER ARTICLES OF GLASS OTHER ARTICLES OF GLASS: GLASS CHIMNEYS: FOR LAMPS AND LANTERNS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70200029",
+            "description": "OTHER ARTICLES OF GLASS OTHER ARTICLES OF GLASS: GLASS CHIMNEYS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "70200090",
+            "description": "OTHER ARTICLES OF GLASS OTHER ARTICLES OF GLASS: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

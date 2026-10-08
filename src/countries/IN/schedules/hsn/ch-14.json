@@ -1,0 +1,271 @@
+{
+    "chapter": "14",
+    "kind": "HSN",
+    "count": 21,
+    "entries": [
+        {
+            "code": "1401",
+            "description": "VEGETABLE MATERIALS OF A KIND USED PRIMARILY FOR PLAITING (FOR EXAMPLE, BAMBOOS, RATTANS, REEDS, RUSHES, OSIER, RAFFIA, CLEANED, BLEACHED OR DYED CEREAL STRAW, AND LIME BARK)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "140110",
+            "description": "VEGETABLE MATERIALS OF A KIND USED PRIMARILY FOR PLAITING (FOR EXAMPLE, BAMBOOS, RATTANS, REEDS, RUSHES, OSIER, RAFFIA, CLEANED, BLEACHED OR DYED CEREAL STRAW, AND LIME BARK)BAMBOOS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "14011000",
+            "description": "VEGETABLE MATERIALS OF A KIND USED PRIMARILY FOR PLAITING (FOR EXAMPLE, BAMBOOS, RATTANS, REEDS, RUSHES, OSIER, RAFFIA, CLEANED, BLEACHED OR DYED CEREAL STRAW, AND LIME BARK)BAMBOOS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "140120",
+            "description": "VEGETABLE MATERIALS OF A KIND USED PRIMARILY FOR PLAITING (FOR EXAMPLE, BAMBOOS, RATTANS, REEDS, RUSHES, OSIER, RAFFIA, CLEANED, BLEACHED OR DYED CEREAL STRAW, AND LIME BARK)RATTANS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "14012000",
+            "description": "VEGETABLE MATERIALS OF A KIND USED PRIMARILY FOR PLAITING (FOR EXAMPLE, BAMBOOS, RATTANS, REEDS, RUSHES, OSIER, RAFFIA, CLEANED, BLEACHED OR DYED CEREAL STRAW, AND LIME BARK)RATTANS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "140190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "14019010",
+            "description": "VEGETABLE MATERIALS OF A KIND USED PRIMARILY FOR PLAITING (FOR EXAMPLE, BAMBOOS, RATTANS, REEDS, RUSHES, OSIER, RAFFIA, CLEANED, BLEACHED OR DYED CEREAL STRAW, AND LIME BARK)OTHER : CANES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "14019090",
+            "description": "VEGETABLE MATERIALS OF A KIND USED PRIMARILY FOR PLAITING (FOR EXAMPLE, BAMBOOS, RATTANS, REEDS, RUSHES, OSIER, RAFFIA, CLEANED, BLEACHED OR DYED CEREAL STRAW, AND LIME BARK)OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1404",
+            "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "140420",
+            "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED COTTON LINTERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "14042000",
+            "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED COTTON LINTERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "140490",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "14049010",
+            "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER : BIDI WRAPPER LEAVES (TENDU)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "14049021",
+            "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER : SOAP-NUTS : POWDER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "14049029",
+            "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER : SOAP-NUTS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "14049030",
+            "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER : HARD SEEDS, PIPS, HULLS AND NUTS, OF A KIND USED PRIMARILY FOR CARVING",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "14049040",
+            "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER : BETEL LEAVES",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "14049050",
+            "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER : INDIAN KATHA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "14049060",
+            "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER : COCONUT SHELL, UNWORKED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "14049070",
+            "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER : RUDRAKSHA SEEDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "14049090",
+            "description": "VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

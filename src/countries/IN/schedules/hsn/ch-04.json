@@ -1,0 +1,1015 @@
+{
+    "chapter": "04",
+    "kind": "HSN",
+    "count": 74,
+    "entries": [
+        {
+            "code": "0401",
+            "description": "MILK AND CREAM, NOT CONCENTRATED NOR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "ZERO_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "ZERO_RATED",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04011000",
+            "description": "MILK AND CREAM-FAT CONTENT, BY WEIGHT, <= 1%",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04012000",
+            "description": "MILK AND CREAM-FAT CONTENT, BY WEIGHT >1% <= 6%",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04014000",
+            "description": "MILK AND CREAM, NOT CONCENTRATED NOR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER - OF A FAT CONTENT, BY WEIGHT, EXCEEDING 6% BUT NOT EXCEEDING 10%",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04015000",
+            "description": "MILK AND CREAM, NOT CONCENTRATED NOR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER - OF A FAT CONTENT, BY WEIGHT, EXCEEDING 10%",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0402",
+            "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04021010",
+            "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER SKIMMED IN POWDER, GRANULES OR OTHER SOLID FORMS, OF A FAT CONTENT, BY WEIGHT NOT EXCEEDING 1.5% : SKIMMED MILK",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04021020",
+            "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER IN POWDER, GRANULES OR OTHER SOLID FORMS, OF A FAT CONTENT, BY WEIGHT NOT EXCEEDING 1.5% : MILK FOOD FOR BABIES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04021090",
+            "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER IN POWDER, GRANULES OR OTHER SOLID FORMS, OF A FAT CONTENT, BY WEIGHT NOT EXCEEDING 1.5% : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040221",
+            "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER IN POWDER, GRANULES OR OTHER SOLID FORMS, OF A FAT CONTENT, BY WEIGHT EXCEEDING 1.5% : NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER.",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04022100",
+            "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER IN POWDER, GRANULES OR OTHER SOLID FORMS, OF A FAT CONTENT, BY WEIGHT EXCEEDING 1.5% : NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER.",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040229",
+            "description": "Other",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04022910",
+            "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER WHOLE MILK",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04022920",
+            "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER MILK FOR BABIES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04022990",
+            "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040291",
+            "description": "Not containing added sugar or other sweetening matter",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04029110",
+            "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTEROTHER : NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER : CONDENSED MILK",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04029190",
+            "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTEROTHER : NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040299",
+            "description": "Other",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04029910",
+            "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTEROTHER : OTHER : WHOLE MILK",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04029920",
+            "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTEROTHER : OTHER : CONDENSED MILK",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04029990",
+            "description": "MILK AND CREAM, CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTEROTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0403",
+            "description": "Curd, Lassi, Butter milk, pre-packaged and labelled”",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2022-07-17"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2022-07-18",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040310",
+            "description": "BUTTERMILK, CURDLED MILK AND CREAM, YOGURT, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM, WHETHER OR NOT CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR FLAVOURED OR CONTAINING ADDED FRUIT, NUTS OR COCOA YOGURT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04031000",
+            "description": "BUTTERMILK, CURDLED MILK AND CREAM, YOGURT, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM, WHETHER OR NOT CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR FLAVOURED OR CONTAINING ADDED FRUIT, NUTS OR COCOA YOGURT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040390",
+            "description": "Other",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04039010",
+            "description": "BUTTERMILK, CURDLED MILK AND CREAM, YOGURT, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM, WHETHER OR NOT CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR FLAVOURED OR CONTAINING ADDED FRUIT, NUTS OR COCOA OTHER BUTTER MILK",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04039090",
+            "description": "BUTTERMILK, CURDLED MILK AND CREAM, YOGURT, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM, WHETHER OR NOT CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR FLAVOURED OR CONTAINING ADDED FRUIT, NUTS OR COCOA OTHER OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0404",
+            "description": "WHEY, WHETHER OR NOT CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER; PRODUCTS CONSISTING OF NATURAL MILK CONSTITUENTS, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, NOT ELSEWHERE SPECIFIED OR INCLUDED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04041010",
+            "description": "WHEY, WHETHER OR NOT CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER; PRODUCTS CONSISTING OF NATURAL MILK CONSTITUENTS, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, NOT ELSEWHERE SPECIFIED OR INCLUDED WHEY AND MODIFI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04041020",
+            "description": "WHEY, WHETHER OR NOT CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER; PRODUCTS CONSISTING OF NATURAL MILK CONSTITUENTS, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, NOT ELSEWHERE SPECIFIED OR INCLUDED WHEY AND MODIFI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04041090",
+            "description": "WHEY, WHETHER OR NOT CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER; PRODUCTS CONSISTING OF NATURAL MILK CONSTITUENTS, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, NOT ELSEWHERE SPECIFIED OR INCLUDED WHEY AND MODIFI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040490",
+            "description": "WHEY, WHETHER OR NOT CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER; PRODUCTS CONSISTING OF NATURAL MILK CONSTITUENTS, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, NOT ELSEWHERE SPECIFIED OR INCLUDED WHEY AND MODIFI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04049000",
+            "description": "WHEY, WHETHER OR NOT CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER; PRODUCTS CONSISTING OF NATURAL MILK CONSTITUENTS, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, NOT ELSEWHERE SPECIFIED OR INCLUDED WHEY AND MODIFI",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0405",
+            "description": "BUTTER AND OTHER FATS AND OILS DERIVED FROM MILK; DAIRY SPREADS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040510",
+            "description": "BUTTER AND OTHER FATS AND OILS DERIVED FROM MILK; DAIRY SPREADS BUTTER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04051000",
+            "description": "BUTTER AND OTHER FATS AND OILS DERIVED FROM MILK; DAIRY SPREADS BUTTER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040520",
+            "description": "BUTTER AND OTHER FATS AND OILS DERIVED FROM MILK; DAIRY SPREADS DAIRY SPREADS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04052000",
+            "description": "BUTTER AND OTHER FATS AND OILS DERIVED FROM MILK; DAIRY SPREADS DAIRY SPREADS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040590",
+            "description": "Other",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04059010",
+            "description": "BUTTER AND OTHER FATS AND OILS DERIVED FROM MILK; DAIRY SPREADS OTHER : BUTTER OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04059020",
+            "description": "BUTTER AND OTHER FATS AND OILS DERIVED FROM MILK; DAIRY SPREADS OTHER GHEE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04059090",
+            "description": "BUTTER AND OTHER FATS AND OILS DERIVED FROM MILK; DAIRY SPREADS OTHER OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0406",
+            "description": "Chena or paneer put up in unit container and,- (a) bearing a registered brand name; or (b) bearing a brand name on which an actionable claim or enforceable right in a court of law is available [other than those where any actionable claim or any enforceable right in respect of such brand name has been voluntarily foregone, subject to the conditions as in the ANNEXURE]",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04061000",
+            "description": "CHEESE AND CURD FRESH (UNRIPENED OR UNCURED) CHEESE, INCLUDING WHEY CHEESE AND CURD",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040620",
+            "description": "CHEESE AND CURD GRATED OR POWDERED CHEESE, OF ALL KINDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04062000",
+            "description": "CHEESE AND CURD GRATED OR POWDERED CHEESE, OF ALL KINDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040630",
+            "description": "CHEESE AND CURD PROCESSED CHEESE NOT GRATED OR POWDERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04063000",
+            "description": "CHEESE AND CURD PROCESSED CHEESE NOT GRATED OR POWDERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040690",
+            "description": "CHEESE AND CURD OTHER CHEESE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04069000",
+            "description": "CHEESE AND CURD OTHER CHEESE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0407",
+            "description": "BIRDS EGGS, IN SHELL, FRESH, PRESERVED OR COOKED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04071100",
+            "description": "OF FOWLS OF THE SPECIES GALLUS DOMESTICUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040719",
+            "description": "Other",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04071910",
+            "description": "OF DUCKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04071990",
+            "description": "OTHER OTHER FRESH EGGS :",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04072100",
+            "description": "OF FOWLS OF THE SPECIES GALLUS DOMESTICUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04072900",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04079000",
+            "description": "Other",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0408",
+            "description": "BIRDS EGGS, NOT IN SHELL, AND EGG YOLKS, FRESH, DRIED, COOKED BY STEAMING OR BY BOILING IN WATER, MOULDED, FROZEN OR OTHERWISE PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER - EGG YOLKS :",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040811",
+            "description": "BIRDS EGGS, NOT IN SHELL, AND EGG YOLKS, FRESH, DRIED, COOKED BY STEAMING OR BY BOILING IN WATER, MOULDED, FROZEN OR OTHERWISE PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTEREGG YOLKS : DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04081100",
+            "description": "BIRDS EGGS, NOT IN SHELL, AND EGG YOLKS, FRESH, DRIED, COOKED BY STEAMING OR BY BOILING IN WATER, MOULDED, FROZEN OR OTHERWISE PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTEREGG YOLKS : DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040819",
+            "description": "BIRDS EGGS, NOT IN SHELL, AND EGG YOLKS, FRESH, DRIED, COOKED BY STEAMING OR BY BOILING IN WATER, MOULDED, FROZEN OR OTHERWISE PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER EGG YOLKS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04081900",
+            "description": "BIRDS EGGS, NOT IN SHELL, AND EGG YOLKS, FRESH, DRIED, COOKED BY STEAMING OR BY BOILING IN WATER, MOULDED, FROZEN OR OTHERWISE PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER EGG YOLKS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040891",
+            "description": "BIRDS EGGS, NOT IN SHELL, AND EGG YOLKS, FRESH, DRIED, COOKED BY STEAMING OR BY BOILING IN WATER, MOULDED, FROZEN OR OTHERWISE PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OTHER : DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04089100",
+            "description": "BIRDS EGGS, NOT IN SHELL, AND EGG YOLKS, FRESH, DRIED, COOKED BY STEAMING OR BY BOILING IN WATER, MOULDED, FROZEN OR OTHERWISE PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OTHER : DRIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "040899",
+            "description": "BIRDS EGGS, NOT IN SHELL, AND EGG YOLKS, FRESH, DRIED, COOKED BY STEAMING OR BY BOILING IN WATER, MOULDED, FROZEN OR OTHERWISE PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04089900",
+            "description": "BIRDS EGGS, NOT IN SHELL, AND EGG YOLKS, FRESH, DRIED, COOKED BY STEAMING OR BY BOILING IN WATER, MOULDED, FROZEN OR OTHERWISE PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0409",
+            "description": "NATURAL HONEY",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04090000",
+            "description": "NATURAL HONEY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "0410",
+            "description": "EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04100010",
+            "description": "EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED : OF WILD ANIMALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04100020",
+            "description": "EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED : OF WILD ANIMALS TURTLE EGGS AND SALANGANES NESTS (BIRDS NESTS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "04100090",
+            "description": "EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

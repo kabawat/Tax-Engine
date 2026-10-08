@@ -1,0 +1,529 @@
+{
+    "chapter": "22",
+    "kind": "HSN",
+    "count": 32,
+    "entries": [
+        {
+            "code": "2201",
+            "description": "Drinking water packed in 20 litres bottle",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-01-24"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "220110",
+            "description": "MINERAL WATERS AND AERATED WATERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22011010",
+            "description": "WATERS, INCLUDING NATURAL OR ARTIFICIALMINERAL WATERS AND AERATED WATERS, NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER NOR FLAVOURED; ICEAND SNOW - MINERAL WATERS AND AERATED WATERS : MINERAL WATERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22011020",
+            "description": "WATERS, INCLUDING NATURAL OR ARTIFICIALMINERAL WATERS AND AERATED WATERS, NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER NOR FLAVOURED; ICEAND SNOW - MINERAL WATERS AND AERATED WATERS : AERATED WATERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "220190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22019010",
+            "description": "WATERS, INCLUDING NATURAL OR ARTIFICIALMINERAL WATERS AND AERATED WATERS, NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER NOR FLAVOURED; ICEAND SNOW - OTHER : ICE AND SNOW",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22019090",
+            "description": "WATERS, INCLUDING NATURAL OR ARTIFICIALMINERAL WATERS AND AERATED WATERS, NOTCONTAINING ADDED SUGAR OR OTHERSWEETENING MATTER NOR FLAVOURED; ICEAND SNOW - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2202",
+            "description": "Carbonated Beverages of Fruit Drink or Carbonated Beverages\nwith Fruit Juice.",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2021-09-30"
+                },
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22021010",
+            "description": "WATERS, INCLUDING MINERAL WATERS ANDAERATED WATERS, CONTAINING ADDED SUGAROR OTHER SWEETENING MATTER OR FLAVOURED,AND OTHER NON - ALCOHOLIC BEVERAGES, NOTINCLUDING FRUIT OR VEGETABLE JUICES OFHEADING 2009 - WATERS, INCLUDING MINERAL WATERS AND AERATEDWATE",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22021020",
+            "description": "WATERS, INCLUDING MINERAL WATERS ANDAERATED WATERS, CONTAINING ADDED SUGAROR OTHER SWEETENING MATTER OR FLAVOURED,AND OTHER NON - ALCOHOLIC BEVERAGES, NOTINCLUDING FRUIT OR VEGETABLE JUICES OFHEADING 2009 - WATERS, INCLUDING MINERAL WATERS AND AERATEDWATE",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22021090",
+            "description": "WATERS, INCLUDING MINERAL WATERS ANDAERATED WATERS, CONTAINING ADDED SUGAROR OTHER SWEETENING MATTER OR FLAVOURED,AND OTHER NON - ALCOHOLIC BEVERAGES, NOTINCLUDING FRUIT OR VEGETABLE JUICES OFHEADING 2009 - WATERS, INCLUDING MINERAL WATERS AND AERATEDWATE",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22029010",
+            "description": "WATERS, INCLUDING MINERAL WATERS ANDAERATED WATERS, CONTAINING ADDED SUGAROR OTHER SWEETENING MATTER OR FLAVOURED,AND OTHER NON - ALCOHOLIC BEVERAGES, NOTINCLUDING FRUIT OR VEGETABLE JUICES OFHEADING 2009 - OTHER : SOYA MILK DRINKS, WHETHER OR NOT SWEETEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22029020",
+            "description": "WATERS, INCLUDING MINERAL WATERS ANDAERATED WATERS, CONTAINING ADDED SUGAROR OTHER SWEETENING MATTER OR FLAVOURED,AND OTHER NON - ALCOHOLIC BEVERAGES, NOTINCLUDING FRUIT OR VEGETABLE JUICES OFHEADING 2009 - OTHER : FRUIT PULP OR FRUIT JUICE BASED DRINKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22029030",
+            "description": "WATERS, INCLUDING MINERAL WATERS ANDAERATED WATERS, CONTAINING ADDED SUGAROR OTHER SWEETENING MATTER OR FLAVOURED,AND OTHER NON - ALCOHOLIC BEVERAGES, NOTINCLUDING FRUIT OR VEGETABLE JUICES OFHEADING 2009 - OTHER : BEVERAGES CONTAINING MILK",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22029100",
+            "description": "OTHER NON-ALCOHOLIC BEVERAGES [OTHER THAN TENDER COCONUT WATER]",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "220299",
+            "description": "OTHER (Other non-alcoholic beverages)",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22029910",
+            "description": "SOYA MILK DRINKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22029920",
+            "description": "FRUIT PULP OR FRUIT JUICE BASED DRINKS(other than\nCarbonated Beverages of Fruit Drink or Carbonated\nBeverages with Fruit Juice)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22029930",
+            "description": "BEVERAGES CONTAINING MILK",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22029990",
+            "description": "WATERS, INCLUDING MINERAL WATERS AND AERATED WATERS, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR FLAVOURED, AND OTHER NON-ALCOHOLIC BEVERAGES, NOT INCLUDING FRUIT OR VEGETABLE JUICES OF HEADING 2009(Caffeinated Beverages)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2019-09-30"
+                },
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2019-10-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2203",
+            "description": "BEER MADE FROM MALT",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NON_GST",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2207",
+            "description": "Ethyl alcohol supplied to Oil Marketing Companies for blending with motor spirit (petrol)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22071011",
+            "description": "CONCENTRATES OF ALCOHOLIC BEVERAGES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22071019",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22071090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "220720",
+            "description": "ETHYL ALCOHOL AND OTHER SPIRITS, DENATURED, OF ANY STRENGTH ETHYL ALCOHOL AND OTHER SPIRITS, DENATURED, OF ANY STRENGTH",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22072000",
+            "description": "ETHYL ALCOHOL AND OTHER SPIRITS, DENATURED, OF ANY STRENGTH ETHYL ALCOHOL AND OTHER SPIRITS, DENATURED, OF ANY STRENGTH",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2209",
+            "description": "VINEGAR AND SUBSTITUTES FOR VINEGAR OBTAINED FROM ACETIC ACID",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "220900",
+            "description": "VINEGAR AND SUBSTITUTES FOR VINEGAR OBTAINED FROM ACETIC ACID",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22090010",
+            "description": "VINEGAR AND SUBSTITUTES FOR VINEGAROBTAINED FROM ACETIC ACID - VINEGAR AND SUBSTITUTES FOR VINEGAR OBTAINED FROM ACETIC ACID : BREWED VINEGAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22090020",
+            "description": "VINEGAR AND SUBSTITUTES FOR VINEGAROBTAINED FROM ACETIC ACID - VINEGAR AND SUBSTITUTES FOR VINEGAR OBTAINED FROM ACETIC ACID : SYNTHETIC VINEGAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "22090090",
+            "description": "VINEGAR AND SUBSTITUTES FOR VINEGAROBTAINED FROM ACETIC ACID - VINEGAR AND SUBSTITUTES FOR VINEGAR OBTAINED FROM ACETIC ACID : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

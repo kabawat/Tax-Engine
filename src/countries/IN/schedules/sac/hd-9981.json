@@ -1,0 +1,151 @@
+{
+    "heading": "9981",
+    "kind": "SAC",
+    "count": 12,
+    "entries": [
+        {
+            "code": "998111",
+            "description": "RESEARCH AND EXPERIMENTAL DEVELOPMENT SERVICES IN NATURAL SCIENCES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998112",
+            "description": "RESEARCH AND EXPERIMENTAL DEVELOPMENT SERVICES IN ENGINEERING AND TECHNOLOGY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998113",
+            "description": "RESEARCH AND EXPERIMENTAL DEVELOPMENT SERVICES IN MEDICAL SCIENCES AND PHARMACY.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998114",
+            "description": "RESEARCH AND EXPERIMENTAL DEVELOPMENT SERVICES IN AGRICULTURAL SCIENCES.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998121",
+            "description": "RESEARCH AND EXPERIMENTAL DEVELOPMENT SERVICES IN SOCIAL SCIENCES.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998122",
+            "description": "RESEARCH AND EXPERIMENTAL DEVELOPMENT SERVICES IN HUMANITIES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998130",
+            "description": "INTERDISCIPLINARY RESEARCH AND EXPERIMENTAL DEVELOPMENT SERVICES.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998141",
+            "description": "RESEARCH AND DEVELOPMENT ORIGINALS IN PHARMACEUTICALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998142",
+            "description": "RESEARCH AND DEVELOPMENT ORIGINALS IN AGRICULTURE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998143",
+            "description": "RESEARCH AND DEVELOPMENT ORIGINALS IN BIOTECHNOLOGY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998144",
+            "description": "RESEARCH AND DEVELOPMENT ORIGINALS IN COMPUTER RELATED SCIENCES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "998145",
+            "description": "RESEARCH AND DEVELOPMENT ORIGINALS IN OTHER FIELDS N.E.C.",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

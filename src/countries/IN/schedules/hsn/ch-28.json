@@ -1,0 +1,925 @@
+{
+    "chapter": "28",
+    "kind": "HSN",
+    "count": 59,
+    "entries": [
+        {
+            "code": "2801",
+            "description": "FLUORINE, CHLORINE, BROMINE AND (IODINE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28011000",
+            "description": "FLUORINE, CHLORINE, BROMINE (OTHER THAN IODINE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28012000",
+            "description": "FLUORINE, CHLORINE, BROMINE AND IODINE - IODINE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "280130",
+            "description": "FLUORINE; BROMINE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28013010",
+            "description": "FLUORINE, CHLORINE, BROMINE AND IODINE - FLUORINE; BROMINE : FLUORINE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28013020",
+            "description": "FLUORINE, CHLORINE, BROMINE AND IODINE - FLUORINE; BROMINE : BROMINE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2805",
+            "description": "ALKALI OR ALKALINE-EARTH METALS; RARE-EARTH METALS, SCANDIUM AND YTTRIUM, WHETHER OR NOT INTERMIXED OR INTERALLOYED; MERCURY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28051100",
+            "description": "NUCLEAR GTADE SODIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28051200",
+            "description": "ALKALI OR ALKALINE-EARTH METALS; RARE-EARTH METALS, SCANDIUM AND YTTRIUM, WHETHER OR NOT INTERMIXED OR INTERALLOYED; MERCURY - ALKALI OR ALKALINE-EARTH METALS : CALCIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28051900",
+            "description": "ALKALI OR ALKALINE-EARTH METALS; RARE-EARTH METALS, SCANDIUM AND YTTRIUM, WHETHER OR NOT INTERMIXED OR INTERALLOYED; MERCURY - ALKALI OR ALKALINE-EARTH METALS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28054000",
+            "description": "ALKALI OR ALKALINE-EARTH METALS; RARE-EARTH METALS, SCANDIUM AND YTTRIUM, WHETHER OR NOT INTERMIXED OR INTERALLOYED; MERCURY - MERCURY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2835",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "283510",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES) AND PHOSPHONATES (PHOSPHITES)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28351010",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED PHOSPHINATES (HYPOPHOSPHITES) AND PHOSPHONATES (PHOSPHITES) : CALCIUM HYPOPHOSPHITE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28351020",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED PHOSPHINATES (HYPOPHOSPHITES) AND PHOSPHONATES (PHOSPHITES) : MAGNESIUM HYPOPHOSPHITE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28351090",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED PHOSPHINATES (HYPOPHOSPHITES) AND PHOSPHONATES (PHOSPHITES) :OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "283522",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - PHOSPHATES : OF MONO-OR DISODIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28352200",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - PHOSPHATES : OF MONO-OR DISODIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "283524",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - PHOSPHATES : OF POTASSIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28352400",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - PHOSPHATES : OF POTASSIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "283525",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - PHOSPHATES : CALCIUM HYDROGENORTHOPHOSPHATE (DICALCIUM PHOSPHATE\")\"",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28352500",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - PHOSPHATES : CALCIUM HYDROGENORTHOPHOSPHATE (DICALCIUM PHOSPHATE\")\"",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "283526",
+            "description": "OTHER PHOSPHATES OF CALCIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28352610",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - PHOSPHATES : - OTHER PHOSPHATES OF CALCIUM : CALCIUM MONOBASIC PHOSPHATE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28352620",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - PHOSPHATES : - OTHER PHOSPHATES OF CALCIUM : CALCIUM TRIBASIC PHOSPHATE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28352690",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - PHOSPHATES : - OTHER PHOSPHATES OF CALCIUM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "283529",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28352910",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - PHOSPHATES : - OTHER : MAGNESIUM PHOSPHATE, MONOBASIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28352920",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - PHOSPHATES : - OTHER : MAGNESIUM PHOSPHATE, DIBASIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28352930",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - PHOSPHATES : - OTHER : MAGNESIUM PHOSPHATE, TRIBASIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28352940",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - PHOSPHATES : - OTHER : SODIUM HEXAMETAPHOSPHATE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28352990",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - PHOSPHATES : - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "283531",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - POLYPHOSPHATES : SODIUM TRIPHOSPHATE (SODIUM TRIPOLY- PHOSPHATE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28353100",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - POLYPHOSPHATES : SODIUM TRIPHOSPHATE (SODIUM TRIPOLY- PHOSPHATE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "283539",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - POLYPHOSPHATES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28353900",
+            "description": "PHOSPHINATES (HYPOPHOSPHITES), PHOSPHONATES (PHOSPHITES) AND PHOSPHATES; POLYPHOSPHATES, WHETHER OR NOT CHEMICALLY DEFINED - POLYPHOSPHATES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2845",
+            "description": "ISOTOPES OTHER THAN THOSE OF HEADING 2844; COMPOUNDS, INORGANIC OR ORGANIC, OF SUCH ISOTOPES, WHETHER OR NOT CHEMICALLY DEFINED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "284510",
+            "description": "ISOTOPES OTHER THAN THOSE OF HEADING 2844; COMPOUNDS, INORGANIC OR ORGANIC, OF SUCH ISOTOPES, WHETHER OR NOT CHEMICALLY DEFINED -HEAVY WATER (DEUTERIUM OXIDE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28451000",
+            "description": "ISOTOPES OTHER THAN THOSE OF HEADING 2844; COMPOUNDS, INORGANIC OR ORGANIC, OF SUCH ISOTOPES, WHETHER OR NOT CHEMICALLY DEFINED -HEAVY WATER (DEUTERIUM OXIDE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "284590",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28459010",
+            "description": "ISOTOPES OTHER THAN THOSE OF HEADING 2844; COMPOUNDS, INORGANIC OR ORGANIC, OF SUCH ISOTOPES, WHETHER OR NOT CHEMICALLY DEFINED - OTHER : NUCLEAR FUELS NOT ELSEWHERE INCLUDED OR SPECIFIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28459090",
+            "description": "ISOTOPES OTHER THAN THOSE OF HEADING 2844; COMPOUNDS, INORGANIC OR ORGANIC, OF SUCH ISOTOPES, WHETHER OR NOT CHEMICALLY DEFINED - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2847",
+            "description": "HYDROGEN PEROXIDE, WHETHER OR NOT SOLIDIFIED WITH UREA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "284700",
+            "description": "HYDROGEN PEROXIDE, WHETHER OR NOT SOLIDIFIED WITH UREA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28470000",
+            "description": "HYDROGEN PEROXIDE, WHETHER OR NOT SOLIDIFIED WITH UREA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2853",
+            "description": "COMPRESSED AIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28530010",
+            "description": "OTHER INORGANIC COMPOUNDS (INCLUDING DISTILLED OR CONDUCTIVITY WATER AND WATER OF SIMILAR PURITY); LIQUID AIR (WHETHER OR NOT RARE GASES HAVE BEEN REMOVED); COMPRESSED AIR; AMALGAMS, OTHER THAN AMALGAMS OF PRECIOUS METALS: - OTHER INORGANIC COMPOUNDS (INC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28530020",
+            "description": "OTHER INORGANIC COMPOUNDS (INCLUDING DISTILLED OR CONDUCTIVITY WATER AND WATER OF SIMILAR PURITY); LIQUID AIR (WHETHER OR NOT RARE GASES HAVE BEEN REMOVED); COMPRESSED AIR; AMALGAMS, OTHER THAN AMALGAMS OF PRECIOUS METALS: - OTHER INORGANIC COMPOUNDS (INC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28530030",
+            "description": "OTHER INORGANIC COMPOUNDS (INCLUDING DISTILLED OR CONDUCTIVITY WATER AND WATER OF SIMILAR PURITY); LIQUID AIR (WHETHER OR NOT RARE GASES HAVE BEEN REMOVED); COMPRESSED AIR; AMALGAMS, OTHER THAN AMALGAMS OF PRECIOUS METALS: - OTHER INORGANIC COMPOUNDS (INC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28530040",
+            "description": "OTHER INORGANIC COMPOUNDS (INCLUDING DISTILLED OR CONDUCTIVITY WATER AND WATER OF SIMILAR PURITY); LIQUID AIR (WHETHER OR NOT RARE GASES HAVE BEEN REMOVED); COMPRESSED AIR; AMALGAMS, OTHER THAN AMALGAMS OF PRECIOUS METALS: - OTHER INORGANIC COMPOUNDS (INC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28530091",
+            "description": "OTHER INORGANIC COMPOUNDS (INCLUDING DISTILLED OR CONDUCTIVITY WATER AND WATER OF SIMILAR PURITY); LIQUID AIR (WHETHER OR NOT RARE GASES HAVE BEEN REMOVED); COMPRESSED AIR; AMALGAMS, OTHER THAN AMALGAMS OF PRECIOUS METALS: - OTHER INORGANIC COMPOUNDS (INC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28530099",
+            "description": "OTHER INORGANIC COMPOUNDS (INCLUDING DISTILLED OR CONDUCTIVITY WATER AND WATER OF SIMILAR PURITY); LIQUID AIR (WHETHER OR NOT RARE GASES HAVE BEEN REMOVED); COMPRESSED AIR; AMALGAMS, OTHER THAN AMALGAMS OF PRECIOUS METALS: - OTHER INORGANIC COMPOUNDS (INC",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28531000",
+            "description": "CYANOGEN CHLORIDE (CHLORCYAN)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "285390",
+            "description": "LIQUID AIR, WHETHER OR NOT RARE GASES HAS BEEN REMOVED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28539010",
+            "description": "DISTILLED OR CONDUCTIVITY WATER AND WATER OF SIMILAR PURITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28539020",
+            "description": "LIQUID AIR, WHETHER OR NOT RARE GASES HAS BEEN REMOVED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28539030",
+            "description": "COMPRESSED AIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28539040",
+            "description": "AMALGAMS, OTHER THAN OF PRECIOUS METALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "28539090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

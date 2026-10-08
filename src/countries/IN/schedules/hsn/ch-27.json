@@ -1,0 +1,1285 @@
+{
+    "chapter": "27",
+    "kind": "HSN",
+    "count": 98,
+    "entries": [
+        {
+            "code": "2701",
+            "description": "COAL; BRIQUETTES, OVOIDS AND SIMILAR SOLID FUELS MANUFACTURED FROM COAL - COAL, WHETHER OR NOT PULVERISED, BUT NOT AGGLOMERATED:",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27011100",
+            "description": "COAL; BRIQUETTES, OVOIDS AND SIMILAR SOLID FUELS MANUFACTURED FROM COAL - COAL, WHETHER OR NOT PULVERISED, BUT NOT AGGLOMERATED: ANTHRACITE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27011200",
+            "description": "COAL; BRIQUETTES, OVOIDS AND SIMILAR SOLID FUELS MANUFACTURED FROM COAL - COAL, WHETHER OR NOT PULVERISED, BUT NOT AGGLOMERATED: BITUMINOUS COAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "270119",
+            "description": "OTHER COAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27011910",
+            "description": "COAL; BRIQUETTES, OVOIDS AND SIMILAR SOLID FUELS MANUFACTURED FROM COAL - COAL, WHETHER OR NOT PULVERISED, BUT NOT AGGLOMERATED: - OTHER COAL: COKING COAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27011920",
+            "description": "COAL; BRIQUETTES, OVOIDS AND SIMILAR SOLID FUELS MANUFACTURED FROM COAL - COAL, WHETHER OR NOT PULVERISED, BUT NOT AGGLOMERATED: - OTHER COAL: STEAM COAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27011990",
+            "description": "COAL; BRIQUETTES, OVOIDS AND SIMILAR SOLID FUELS MANUFACTURED FROM COAL - COAL, WHETHER OR NOT PULVERISED, BUT NOT AGGLOMERATED: - OTHER COAL: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "270120",
+            "description": "BRIQUETTES, OVOIDS AND SIMILAR SOLID FUELS MANUFACTURED FROM COAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27012010",
+            "description": "COAL; BRIQUETTES, OVOIDS AND SIMILAR SOLID FUELS MANUFACTURED FROM COAL - BRIQUETTES, OVOIDS AND SIMILAR SOLID FUELS MANUFACTURED FROM COAL: ANTHRACITE AGGLOMERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27012090",
+            "description": "COAL; BRIQUETTES, OVOIDS AND SIMILAR SOLID FUELS MANUFACTURED FROM COAL - BRIQUETTES, OVOIDS AND SIMILAR SOLID FUELS MANUFACTURED FROM COAL: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2702",
+            "description": "LIGNITE, WHETHER OR NOT AGGLOMERATED, EXCLUDING JET",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27021000",
+            "description": "LIGNITE, WHETHER OR NOT AGGLOMERATED, EXCLUDING JET - LIGNITE, WHETHER OR NOT PULVERISED, BUT NOT AGGLOMERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27022000",
+            "description": "LIGNITE, WHETHER OR NOT AGGLOMERATED, EXCLUDING JET - AGGLOMERATED LIGNITE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2703",
+            "description": "PEAT (INCLUDING PEAT LITTER), WHETHER OR NOT AGGLOMERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "270300",
+            "description": "PEAT (INCLUDING PEAT LITTER), WHETHER OR NOT AGGLOMERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27030010",
+            "description": "PEAT (INCLUDING PEAT LITTER), WHETHER OR NOT AGGLOMERATED - PEAT (INCLUDING PEAT LITTER), WHETHER OR NOT AGGLOMERATED: PEAT WHETHER OR NOT COMPRESSED INTO BALES, BUT NOT AGGLOMERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27030090",
+            "description": "PEAT (INCLUDING PEAT LITTER), WHETHER OR NOT AGGLOMERATED - PEAT (INCLUDING PEAT LITTER), WHETHER OR NOT AGGLOMERATED: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2704",
+            "description": "COKE AND SEMI-COKE OF COAL, OF LIGNITE OR OF PEAT, WHETHER OR NOT AGGLOMERATED; RETORT CARBON",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27040010",
+            "description": "COKE AND SEMI-COKE OF COAL, OF LIGNITE OR OF PEAT, WHETHER OR NOT AGGLOMERATED; RETORT CARBON - COKE AND SEMI-COKE OF COAL, OF LIGNITE OR OF PEAT, WHETHER OR NOT AGGLOMERATED; RETORT CARBON: RETORT CARBON (GAS CARBON)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27040020",
+            "description": "COKE AND SEMI-COKE OF COAL, OF LIGNITE OR OF PEAT, WHETHER OR NOT AGGLOMERATED; RETORT CARBON - COKE AND SEMI-COKE OF COAL, OF LIGNITE OR OF PEAT, WHETHER OR NOT AGGLOMERATED; RETORT CARBON: COKE AND SEMI-COKE OF LIGNITE OR OF PEAT",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27040030",
+            "description": "COKE AND SEMI-COKE OF COAL, OF LIGNITE OR OF PEAT, WHETHER OR NOT AGGLOMERATED; RETORT CARBON - COKE AND SEMI-COKE OF COAL, OF LIGNITE OR OF PEAT, WHETHER OR NOT AGGLOMERATED; RETORT CARBON: HARD COKE OF COAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27040040",
+            "description": "COKE AND SEMI-COKE OF COAL, OF LIGNITE OR OF PEAT, WHETHER OR NOT AGGLOMERATED; RETORT CARBON - COKE AND SEMI-COKE OF COAL, OF LIGNITE OR OF PEAT, WHETHER OR NOT AGGLOMERATED; RETORT CARBON: SOFT COKE OF COAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27040090",
+            "description": "COKE AND SEMI-COKE OF COAL, OF LIGNITE OR OF PEAT, WHETHER OR NOT AGGLOMERATED; RETORT CARBON - COKE AND SEMI-COKE OF COAL, OF LIGNITE OR OF PEAT, WHETHER OR NOT AGGLOMERATED; RETORT CARBON: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2705",
+            "description": "COAL GAS, WATER GAS, PRODUCER GAS AND SIMILAR GASES, OTHER THAN PETROLEUM GASES AND OTHER GASEOUS HYDROCARBONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27050000",
+            "description": "COAL GAS, WATER GAS, PRODUCER GAS AND SIMILAR GASES, OTHER THAN PETROLEUM GASES AND OTHER GASEOUS HYDROCARBONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2706",
+            "description": "TAR DISTILLED FROM COAL, FROM LIGNITE OR FROM PEAT AND OTHER MINERAL TARS, WHETHER OR NOT DEHYDRATED OR PARTIALLY DISTILLED, INCLUDING RECONSTITUTED TARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "270600",
+            "description": "TAR DISTILLED FROM COAL, FROM LIGNITE OR FROM PEAT AND OTHER MINERAL TARS, WHETHER OR NOT DEHYDRATED OR PARTIALLY DISTILLED, INCLUDING RECONSTITUTED TARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27060010",
+            "description": "TAR DISTILLED FROM COAL, FROM LIGNITE OR FROM PEAT AND OTHER MINERAL TARS, WHETHER OR NOT DEHYDRATED OR PARTIALLY DISTILLED, INCLUDING RECONSTITUTED TARS - TAR DISTILLED FROM COAL, FROM LIGNITE OR FROM PEAT AND OTHER MINERAL TARS, WHETHER OR NOT DEHYDRATE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27060090",
+            "description": "TAR DISTILLED FROM COAL, FROM LIGNITE OR FROM PEAT AND OTHER MINERAL TARS, WHETHER OR NOT DEHYDRATED OR PARTIALLY DISTILLED, INCLUDING RECONSTITUTED TARS - TAR DISTILLED FROM COAL, FROM LIGNITE OR FROM PEAT AND OTHER MINERAL TARS, WHETHER OR NOT DEHYDRATE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2707",
+            "description": "OILS AND OTHER PRODUCTS OF THE DISTILLATION OF HIGH TEMPERATURE COAL TAR SIMILAR PRODUCTS IN WHICH THE WEIGHT OF THE AROMATIC CONSTITUENTS EXCEEDS THAT OF THE NON-AROMATIC CONSTITUENTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27071000",
+            "description": "OILS AND OTHER PRODUCTS OF THE DISTILLATION OF HIGH TEMPERATURE COAL TAR SIMILAR PRODUCTS IN WHICH THE WEIGHT OF THE AROMATIC CONSTITUENTS EXCEEDS THAT OF THE NON-AROMATIC CONSTITUENTS BENZOL (BENZENE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27072000",
+            "description": "OILS AND OTHER PRODUCTS OF THE DISTILLATION OF HIGH TEMPERATURE COAL TAR SIMILAR PRODUCTS IN WHICH THE WEIGHT OF THE AROMATIC CONSTITUENTS EXCEEDS THAT OF THE NON-AROMATIC CONSTITUENTS TOLUOL (TOLUENE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27073000",
+            "description": "OILS AND OTHER PRODUCTS OF THE DISTILLATION OF HIGH TEMPERATURE COAL TAR SIMILAR PRODUCTS IN WHICH THE WEIGHT OF THE AROMATIC CONSTITUENTS EXCEEDS THAT OF THE NON-AROMATIC CONSTITUENTS XYLOL (XYLENES)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27074000",
+            "description": "OILS AND OTHER PRODUCTS OF THE DISTILLATION OF HIGH TEMPERATURE COAL TAR SIMILAR PRODUCTS IN WHICH THE WEIGHT OF THE AROMATIC CONSTITUENTS EXCEEDS THAT OF THE NON-AROMATIC CONSTITUENTS NAPHTHELENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27075000",
+            "description": "OILS AND OTHER PRODUCTS OF THE DISTILLATION OF HIGH TEMPERATURE COAL TAR SIMILAR PRODUCTS IN WHICH THE WEIGHT OF THE AROMATIC CONSTITUENTS EXCEEDS THAT OF THE NON-AROMATIC CONSTITUENTS OTHER AROMATIC HYDROCARBON MIXTURES OF WHICH 65% OR MORE BY VOLUME",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27079100",
+            "description": "OILS AND OTHER PRODUCTS OF THE DISTILLATION OF HIGH TEMPERATURE COAL TAR SIMILAR PRODUCTS IN WHICH THE WEIGHT OF THE AROMATIC CONSTITUENTS EXCEEDS THAT OF THE NON-AROMATIC CONSTITUENTS - OTHER: CREOSOTE OILS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27079900",
+            "description": "OILS AND OTHER PRODUCTS OF THE DISTILLATION OF HIGH TEMPERATURE COAL TAR SIMILAR PRODUCTS IN WHICH THE WEIGHT OF THE AROMATIC CONSTITUENTS EXCEEDS THAT OF THE NON-AROMATIC CONSTITUENTS - OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2708",
+            "description": "PITCH AND PITCH COKE, OBTAINED FROM COAL TAR OR FROM OTHER MINERAL TARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "270810",
+            "description": "PITCH",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27081010",
+            "description": "PITCH AND PITCH COKE, OBTAINED FROM COAL TAR OR FROM OTHER MINERAL TARS - PITCH: OBTAINED BY BLENDING WITH CREOSOTE OIL OR OTHER COAL TAR DISTILLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27081090",
+            "description": "PITCH AND PITCH COKE, OBTAINED FROM COAL TAR OR FROM OTHER MINERAL TARS - PITCH: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27082000",
+            "description": "PITCH AND PITCH COKE, OBTAINED FROM COAL TAR OR FROM OTHER MINERAL TARS - PITCH COKE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2710",
+            "description": "(A) KEROSENE OIL PDS, (B) THE FOLLOWING BUNKER FUELS FOR USE IN SHIPS OR VESSELS, NAMELY, I. IFO 180 CST, II. IFO 380 CST, III. MARINE FUEL 0.5% (FO)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "271012",
+            "description": "LIGHT OILS AND PREPARATIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27101212",
+            "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, OTHER THAN CRUDE; PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED, CONTAINIGN BY WEIGHT 70% OR MORE OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS, THESE OILS BEING THE BASIC CONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27101219",
+            "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, OTHER THAN CRUDE; PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED, CONTAINIGN BY WEIGHT 70% OR MORE OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS, THESE OILS BEING THE BASIC CONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27101220",
+            "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, OTHER THAN CRUDE; PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED, CONTAINIGN BY WEIGHT 70% OR MORE OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS, THESE OILS BEING THE BASIC CONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27101290",
+            "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, OTHER THAN CRUDE; PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED, CONTAINIGN BY WEIGHT 70% OR MORE OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS, THESE OILS BEING THE BASIC CONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "271019",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27101910",
+            "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, OTHER THAN CRUDE; PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED, CONTAINING BY WEIGHT 70% OR MORE OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS, THESE OILS BEING THE BASI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27101920",
+            "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, OTHER THAN CRUDE; PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED, CONTAINING BY WEIGHT 70% OR MORE OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS, THESE OILS BEING THE BASI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27101930",
+            "description": "HIGH SPEED DIESEL OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27101940",
+            "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, OTHER THAN CRUDE; PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED, CONTAINING BY WEIGHT 70% OR MORE OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS, THESE OILS BEING THE BASI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27101950",
+            "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, OTHER THAN CRUDE; PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED, CONTAINING BY WEIGHT 70% OR MORE OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS, THESE OILS BEING THE BASI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27101960",
+            "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, OTHER THAN CRUDE; PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED, CONTAINING BY WEIGHT 70% OR MORE OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS, THESE OILS BEING THE BASI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27101970",
+            "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, OTHER THAN CRUDE; PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED, CONTAINING BY WEIGHT 70% OR MORE OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS, THESE OILS BEING THE BASI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27101980",
+            "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, OTHER THAN CRUDE; PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED, CONTAINING BY WEIGHT 70% OR MORE OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS, THESE OILS BEING THE BASI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27101990",
+            "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, OTHER THAN CRUDE; PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED, CONTAINING BY WEIGHT 70% OR MORE OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS, THESE OILS BEING THE BASI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27102000",
+            "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS (OTHER THAN CRUDE) AND PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED, CONTAINING BY WEIGHT 70% OR MORE OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS, THESE OILS BEING THE BASIC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27109900",
+            "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, OTHER THAN CRUDE; PREPARATIONS NOT ELSEWHERE SPECIFIED OR INCLUDED, CONTAINING BY WEIGHT 70% OR MORE OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS, THESE OILS BEING THE BASI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2711",
+            "description": "PETROLEUM GASES AND OTHER GASEOUS HYDROCARBONS - LIQUEFIED:",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27111100",
+            "description": "PETROLEUM GASES AND OTHER GASEOUS HYDROCARBONS - LIQUIFIED: NATURAL GAS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27111200",
+            "description": "Liquefied Propane and Butane mixture, Liquefied Propane, Liquefied Butane and Liquefied Petroleum Gases (LPG) for supply to non-domestic exempted category (NDEC) customers by the Indian Oil Corporation Limited, Hindustan petroleum Corporation Limited or Bharat Petroleum Corporation Limited",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27111300",
+            "description": "PETROLEUM GASES AND OTHER GASEOUS HYDROCARBONS - LIQUIFIED: BUTANE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27111400",
+            "description": "PETROLEUM GASES AND OTHER GASEOUS HYDROCARBONS - LIQUIFIED: ETHYLENE, PROPYLENE, BUTYLENE AND BUTADIENE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27111900",
+            "description": "PETROLEUM GASES AND OTHER GASEOUS HYDROCARBONS - LIQUIFIED: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27112100",
+            "description": "PETROLEUM GASES AND OTHER GASEOUS HYDROCARBONS - IN GASEOUS STATE: NATURAL GAS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27112900",
+            "description": "PETROLEUM GASES AND OTHER GASEOUS HYDROCARBONS - IN GASEOUS STATE: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2712",
+            "description": "PETROLEUM JELLY, PARAFFIN WAX, MICROCRYSTALLINE PETROLEUM WAX, SLACK WAX, OZOKERITE, LIGNITE WAX, PEAT WAX, OTHER MINERAL WAXES, AND SIMILAR PRODUCTS OBTAINED BY SYNTHESIS OR BY OTHER PROCESSES, WHETHER OR NOT COLOURED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "271210",
+            "description": "PETROLEUM JELLY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27121010",
+            "description": "PETROLEUM JELLY, PARAFFIN WAX, MICROCRYSTALLINE PETROLEUM WAX, SLACK WAX, OZOKERITE, LIGNITE WAX, PEAT WAX, OTHER MINERAL WAXES, AND SIMILAR PRODUCTS OBTAINED BY SYNTHESIS OR BY OTHER PROCESSES, WHETHER OR NOT COLOURED - PETROLEUM JELLY: CRUDE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27121090",
+            "description": "PETROLEUM JELLY, PARAFFIN WAX, MICROCRYSTALLINE PETROLEUM WAX, SLACK WAX, OZOKERITE, LIGNITE WAX, PEAT WAX, OTHER MINERAL WAXES, AND SIMILAR PRODUCTS OBTAINED BY SYNTHESIS OR BY OTHER PROCESSES, WHETHER OR NOT COLOURED - PETROLEUM JELLY: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27122000",
+            "description": "PARAFFIN WAX CONTAINING BY WEIGHT LESS THAN .75 PERCENT OF OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27122010",
+            "description": "PETROLEUM JELLY, PARAFFIN WAX, MICROCRYSTALLINE PETROLEUM WAX, SLACK WAX, OZOKERITE, LIGNITE WAX, PEAT WAX, OTHER MINERAL WAXES, AND SIMILAR PRODUCTS OBTAINED BY SYNTHESIS OR BY OTHER PROCESSES, WHETHER OR NOT COLOURED - PARAFFIN WAX CONTAINING BY WE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27122090",
+            "description": "PETROLEUM JELLY, PARAFFIN WAX, MICROCRYSTALLINE PETROLEUM WAX, SLACK WAX, OZOKERITE, LIGNITE WAX, PEAT WAX, OTHER MINERAL WAXES, AND SIMILAR PRODUCTS OBTAINED BY SYNTHESIS OR BY OTHER PROCESSES, WHETHER OR NOT COLOURED - PARAFFIN WAX CONTAINING BY WE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "271290",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27129010",
+            "description": "PETROLEUM JELLY, PARAFFIN WAX, MICROCRYSTALLINE PETROLEUM WAX, SLACK WAX, OZOKERITE, LIGNITE WAX, PEAT WAX, OTHER MINERAL WAXES, AND SIMILAR PRODUCTS OBTAINED BY SYNTHESIS OR BY OTHER PROCESSES, WHETHER OR NOT COLOURED- OTHER: MICRO-CRYSTALLINE PETR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27129020",
+            "description": "PETROLEUM JELLY, PARAFFIN WAX, MICROCRYSTALLINE PETROLEUM WAX, SLACK WAX, OZOKERITE, LIGNITE WAX, PEAT WAX, OTHER MINERAL WAXES, AND SIMILAR PRODUCTS OBTAINED BY SYNTHESIS OR BY OTHER PROCESSES, WHETHER OR NOT COLOURED- OTHER: LIGNITE WAX",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27129030",
+            "description": "PETROLEUM JELLY, PARAFFIN WAX, MICROCRYSTALLINE PETROLEUM WAX, SLACK WAX, OZOKERITE, LIGNITE WAX, PEAT WAX, OTHER MINERAL WAXES, AND SIMILAR PRODUCTS OBTAINED BY SYNTHESIS OR BY OTHER PROCESSES, WHETHER OR NOT COLOURED- OTHER: SLACK WAX",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27129040",
+            "description": "PARAFFIN WAX CONTAINING BY WEIGHT 0.75 PERCENT OR MORE OF OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27129090",
+            "description": "PETROLEUM JELLY, PARAFFIN WAX, MICROCRYSTALLINE PETROLEUM WAX, SLACK WAX, OZOKERITE, LIGNITE WAX, PEAT WAX, OTHER MINERAL WAXES, AND SIMILAR PRODUCTS OBTAINED BY SYNTHESIS OR BY OTHER PROCESSES, WHETHER OR NOT COLOURED- OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2713",
+            "description": "PETROLEUM COKE, PETROLEUM BITUMEN AND OTHER RESIDUES OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS - PETROLEUM COKE:",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27131100",
+            "description": "PETROLEUM COKE, PETROLEUM BITUMEN AND OTHER RESIDUES OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS - PETROLEUM COKE: NOT CALCINED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27131200",
+            "description": "PETROLEUM COKE, PETROLEUM BITUMEN AND OTHER RESIDUES OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS - PETROLEUM COKE: CALCINED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27132000",
+            "description": "PETROLEUM COKE, PETROLEUM BITUMEN AND OTHER RESIDUES OF PETROLEUM OILS OR OF OILS OBTAINED FROM BITUMINOUS MINERALS - PETROLEUM BITUMEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2714",
+            "description": "BITUMEN AND ASPHALT, NATURAL; BITUMINOUS OR OIL SHALE AND TAR SANDS; ASPHALTITES AND ASPHALTIC ROCKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27141000",
+            "description": "BITUMEN AND ASPHALT, NATURAL; BITUMINOUS OR OIL SHALE AND TAR SANDS; ASPHALTITES AND ASPHALTIC ROCKS -BITUMINOUS OR OIL SHALE AND TAR SANDS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "271490",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27149010",
+            "description": "BITUMEN AND ASPHALT, NATURAL; BITUMINOUS OR OIL SHALE AND TAR SANDS; ASPHALTITES AND ASPHALTIC ROCKS - OTHER: ASPHALT, NATURAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27149020",
+            "description": "BITUMEN AND ASPHALT, NATURAL; BITUMINOUS OR OIL SHALE AND TAR SANDS; ASPHALTITES AND ASPHALTIC ROCKS - OTHER: BITUMEN, NATURAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27149030",
+            "description": "BITUMEN AND ASPHALT, NATURAL; BITUMINOUS OR OIL SHALE AND TAR SANDS; ASPHALTITES AND ASPHALTIC ROCKS - OTHER: GILSONETE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27149090",
+            "description": "BITUMEN AND ASPHALT, NATURAL; BITUMINOUS OR OIL SHALE AND TAR SANDS; ASPHALTITES AND ASPHALTIC ROCKS - OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2715",
+            "description": "BITUMINOUS MIXTURES BASED ON NATURAL ASPHALT, ON NATURAL BITUMEN, ON PETROLEUM BITUMEN, ON MINERAL TAR OR ON MINERAL TAR PITCH (FOR EXAMPLE, BITUMINOUS MASTICS, CUT BACKS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "271500",
+            "description": "BITUMINOUS MIXTURES BASED ON NATURAL ASPHALT, ON NATURAL BITUMEN, ON PETROLEUM BITUMEN, ON MINERAL TAR OR ON MINERAL TAR PITCH (FOR EXAMPLE, BITUMINOUS MASTICS, CUT BACKS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27150010",
+            "description": "BITUMINOUS MIXTURES BASED ON NATURAL ASPHALT, ON NATURAL BITUMEN, ON PETROLEUM BITUMEN, ON MINERAL TAR OR ON MINERAL TAR PITCH (FOR EXAMPLE, BITUMINOUS MASTICS, CUT BACKS) - BITUMINOUS MIXTURES BASED ON NATURAL ASPHALT, ON NATURAL BITUMEN, ON PETROLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27150090",
+            "description": "BITUMINOUS MIXTURES BASED ON NATURAL ASPHALT, ON NATURAL BITUMEN, ON PETROLEUM BITUMEN, ON MINERAL TAR OR ON MINERAL TAR PITCH (FOR EXAMPLE, BITUMINOUS MASTICS, CUT BACKS) - BITUMINOUS MIXTURES BASED ON NATURAL ASPHALT, ON NATURAL BITUMEN, ON PETROLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2716",
+            "description": "ELECTRICAL ENERGY",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "27160000",
+            "description": "ELECTRICAL ENERGY",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

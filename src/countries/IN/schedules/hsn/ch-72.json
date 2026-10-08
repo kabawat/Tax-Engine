@@ -1,0 +1,3583 @@
+{
+    "chapter": "72",
+    "kind": "HSN",
+    "count": 298,
+    "entries": [
+        {
+            "code": "7201",
+            "description": "PIG IRON AND SPIEGELEISEN IN PIGS, BLOCKS OR OTHER PRIMARY FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720110",
+            "description": "PIG IRON AND SPIEGELEISEN IN PIGS, BLOCKS OR OTHER PRIMARY FORMS - NON-ALLOY PIG IRON CONTAINING BY WEIGHT 0.5% OR LESS OF PHOSPHORUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72011000",
+            "description": "PIG IRON AND SPIEGELEISEN IN PIGS, BLOCKS OR OTHER PRIMARY FORMS - NON-ALLOY PIG IRON CONTAINING BY WEIGHT 0.5% OR LESS OF PHOSPHORUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72012000",
+            "description": "PIG IRON AND SPIEGELEISEN IN PIGS, BLOCKS OR OTHER PRIMARY FORMS - NON-ALLOY PIG IRON CONTAINING BY WEIGHT MORE THAN 0.5% OF PHOSPHORUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720150",
+            "description": "ALLOY PIG IRON; SPIEGELEISEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72015010",
+            "description": "PIG IRON AND SPIEGELEISEN IN PIGS, BLOCKS OR OTHER PRIMARY FORMS - ALLOY PIG IRON; SPIEGELEISEN : CAST IRON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72015090",
+            "description": "PIG IRON AND SPIEGELEISEN IN PIGS, BLOCKS OR OTHER PRIMARY FORMS - ALLOY PIG IRON; SPIEGELEISEN : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7202",
+            "description": "FERRO-ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720211",
+            "description": "FERRO-ALLOYS - FERRO-MANGANESE : CONTAINING BY WEIGHT MORE THAN 2% OF CARBON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72021100",
+            "description": "FERRO-ALLOYS - FERRO-MANGANESE : CONTAINING BY WEIGHT MORE THAN 2% OF CARBON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720219",
+            "description": "FERRO-ALLOYS - FERRO-MANGANESE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72021900",
+            "description": "FERRO-ALLOYS - FERRO-MANGANESE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720221",
+            "description": "FERRO-ALLOYS - FERRO-SILICON: CONTAINING BY WEIGHT MORE THAN 55% OF SILICON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72022100",
+            "description": "FERRO-ALLOYS - FERRO-SILICON: CONTAINING BY WEIGHT MORE THAN 55% OF SILICON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720229",
+            "description": "FERRO-ALLOYS - FERRO-SILICON: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72022900",
+            "description": "FERRO-ALLOYS - FERRO-SILICON: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720230",
+            "description": "FERRO-ALLOYS - FERRO-SILICO-MANGANESE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72023000",
+            "description": "FERRO-ALLOYS - FERRO-SILICO-MANGANESE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720241",
+            "description": "FERRO-ALLOYS - FERRO-CHROMIUM : CONTAINING BY WEIGHT MORE THAN 4% OF CARBON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72024100",
+            "description": "FERRO-ALLOYS - FERRO-CHROMIUM : CONTAINING BY WEIGHT MORE THAN 4% OF CARBON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720249",
+            "description": "FERRO-ALLOYS - FERRO-CHROMIUM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72024900",
+            "description": "FERRO-ALLOYS - FERRO-CHROMIUM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720250",
+            "description": "FERRO-ALLOYS - FERRO-SILICO-CHROMIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72025000",
+            "description": "FERRO-ALLOYS - FERRO-SILICO-CHROMIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720260",
+            "description": "FERRO-ALLOYS - FERRO-NICKEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72026000",
+            "description": "FERRO-ALLOYS - FERRO-NICKEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720270",
+            "description": "FERRO-ALLOYS - FERRO-MOLYBDENUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72027000",
+            "description": "FERRO-ALLOYS - FERRO-MOLYBDENUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720280",
+            "description": "FERRO-ALLOYS - FERRO TUNGSTEN AND FERRO-SILICO-TUNGSTEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72028000",
+            "description": "FERRO-ALLOYS - FERRO TUNGSTEN AND FERRO-SILICO-TUNGSTEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720291",
+            "description": "FERRO-ALLOYS - OTHER : FERRO-TITANIUM AND FERRO-SILICO-TITANIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72029100",
+            "description": "FERRO-ALLOYS - OTHER : FERRO-TITANIUM AND FERRO-SILICO-TITANIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720292",
+            "description": "FERRO-ALLOYS - OTHER : FERRO-VANADIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72029200",
+            "description": "FERRO-ALLOYS - OTHER : FERRO-VANADIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720293",
+            "description": "FERRO-ALLOYS - OTHER : FERRO-NIOBIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72029300",
+            "description": "FERRO-ALLOYS - OTHER : FERRO-NIOBIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72029911",
+            "description": "FERRO-ALLOYS - OTHER : OTHER : FERRO-PHOSPHORUS, FERRO-SELENIUM, FERROCOBALT, FERRO-COLUMBIUM, FERRO-ZIRCONIUM, FERRO-TANTALUM: FERRO-PHOSPHORUS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72029912",
+            "description": "FERRO-ALLOYS - OTHER : OTHER : FERRO-PHOSPHORUS, FERRO-SELENIUM, FERROCOBALT, FERRO-COLUMBIUM, FERRO-ZIRCONIUM, FERRO-TANTALUM: FERRO-SELENIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72029913",
+            "description": "FERRO-ALLOYS - OTHER : OTHER : FERRO-PHOSPHORUS, FERRO-SELENIUM, FERROCOBALT, FERRO-COLUMBIUM, FERRO-ZIRCONIUM, FERRO-TANTALUM: FERRO-COBALT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72029914",
+            "description": "FERRO-ALLOYS - OTHER : OTHER : FERRO-PHOSPHORUS, FERRO-SELENIUM, FERROCOBALT, FERRO-COLUMBIUM, FERRO-ZIRCONIUM, FERRO-TANTALUM: FERRO-COLUMBIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72029915",
+            "description": "FERRO-ALLOYS - OTHER : OTHER : FERRO-PHOSPHORUS, FERRO-SELENIUM, FERROCOBALT, FERRO-COLUMBIUM, FERRO-ZIRCONIUM, FERRO-TANTALUM: FERRO-ZIRCONIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72029916",
+            "description": "FERRO-ALLOYS - OTHER : OTHER : FERRO-PHOSPHORUS, FERRO-SELENIUM, FERROCOBALT, FERRO-COLUMBIUM, FERRO-ZIRCONIUM, FERRO-TANTALUM: FERRO-TANTALUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72029921",
+            "description": "FERRO-ALLOYS - OTHER : OTHER : FERRO-SILICO-ZIRCONIUM, FERRO-SILICO-MAGNESIUM: FERRO-SILICO-ZIRCONIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72029922",
+            "description": "FERRO-ALLOYS - OTHER : OTHER : FERRO-SILICO-ZIRCONIUM, FERRO-SILICO-MAGNESIUM: FERRO-SILICO-MAGNESIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72029931",
+            "description": "FERRO-ALLOYS - OTHER : OTHER : FERRO-BORON, CHARGE-CHROME : FERRO-BORON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72029932",
+            "description": "FERRO-ALLOYS - OTHER : OTHER : FERRO-BORON, CHARGE-CHROME : CHARGE-CHROME",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72029990",
+            "description": "FERRO-ALLOYS - OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7203",
+            "description": "FERROUS PRODUCTS OBTAINED BY DIRECT REDUCTION OF IRON ORE AND OTHER SPONGY FERROUS PRODUCTS, IN LUMPS, PELLETS OR SIMILAR FORMS; IRON HAVING MINIMUM PURITY BY WEIGHT OF 99.94%, IN LUMPS, PELLETS OR SIMILAR FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720310",
+            "description": "FERROUS PRODUCTS OBTAINED BY DIRECT REDUCTION OF IRON ORE AND OTHER SPONGY FERROUS PRODUCTS, IN LUMPS, PELLETS OR SIMILAR FORMS; IRON HAVING MINIMUM PURITY BY WEIGHT OF 99.94%, IN LUMPS, PELLETS OR SIMILAR FORMS - FERROUS PRODUCTS OBTAINED BY DIRECT REDUC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72031000",
+            "description": "FERROUS PRODUCTS OBTAINED BY DIRECT REDUCTION OF IRON ORE AND OTHER SPONGY FERROUS PRODUCTS, IN LUMPS, PELLETS OR SIMILAR FORMS; IRON HAVING MINIMUM PURITY BY WEIGHT OF 99.94%, IN LUMPS, PELLETS OR SIMILAR FORMS - FERROUS PRODUCTS OBTAINED BY DIRECT REDUC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720390",
+            "description": "FERROUS PRODUCTS OBTAINED BY DIRECT REDUCTION OF IRON ORE AND OTHER SPONGY FERROUS PRODUCTS, IN LUMPS, PELLETS OR SIMILAR FORMS; IRON HAVING MINIMUM PURITY BY WEIGHT OF 99.94%, IN LUMPS, PELLETS OR SIMILAR FORMS - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72039000",
+            "description": "FERROUS PRODUCTS OBTAINED BY DIRECT REDUCTION OF IRON ORE AND OTHER SPONGY FERROUS PRODUCTS, IN LUMPS, PELLETS OR SIMILAR FORMS; IRON HAVING MINIMUM PURITY BY WEIGHT OF 99.94%, IN LUMPS, PELLETS OR SIMILAR FORMS - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7204",
+            "description": "FERROUS WASTE AND SCRAP; REMELTING SCRAP INGOTS OF IRON OR STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720410",
+            "description": "FERROUS WASTE AND SCRAP; REMELTING SCRAP INGOTS OF IRON OR STEEL - WASTE AND SCRAP OF CAST IRON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72041000",
+            "description": "FERROUS WASTE AND SCRAP; REMELTING SCRAP INGOTS OF IRON OR STEEL - WASTE AND SCRAP OF CAST IRON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720421",
+            "description": "OF STAINLESS STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72042110",
+            "description": "FERROUS WASTE AND SCRAP; REMELTING SCRAP INGOTS OF IRON OR STEEL - WASTE AND SCRAP OF ALLOY STEEL : OF STAINLESS STEEL : EMPTY OR DISCHARGED CARTRIDGES OF ALL BORES AND SIZES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72042190",
+            "description": "FERROUS WASTE AND SCRAP; REMELTING SCRAP INGOTS OF IRON OR STEEL - WASTE AND SCRAP OF ALLOY STEEL : OF STAINLESS STEEL : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720429",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72042910",
+            "description": "FERROUS WASTE AND SCRAP; REMELTING SCRAP INGOTS OF IRON OR STEEL - WASTE AND SCRAP OF ALLOY STEEL : OTHER : EMPTY OR DISCHARGED CARTRIDGES OF ALL BORES AND SIZES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72042920",
+            "description": "FERROUS WASTE AND SCRAP; REMELTING SCRAP INGOTS OF IRON OR STEEL - WASTE AND SCRAP OF ALLOY STEEL : OTHER : OF HIGH SPEED STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72042990",
+            "description": "FERROUS WASTE AND SCRAP; REMELTING SCRAP INGOTS OF IRON OR STEEL - WASTE AND SCRAP OF ALLOY STEEL : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720430",
+            "description": "FERROUS WASTE AND SCRAP; REMELTING SCRAP INGOTS OF IRON OR STEEL - WASTE AND SCRAP OF TINNED IRON OR STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72043000",
+            "description": "FERROUS WASTE AND SCRAP; REMELTING SCRAP INGOTS OF IRON OR STEEL - WASTE AND SCRAP OF TINNED IRON OR STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720449",
+            "description": "FERROUS WASTE AND SCRAP; REMELTING SCRAP INGOTS OF IRON OR STEEL - OTHER WASTE AND SCRAP : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72044900",
+            "description": "FERROUS WASTE AND SCRAP; REMELTING SCRAP INGOTS OF IRON OR STEEL - OTHER WASTE AND SCRAP : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720450",
+            "description": "FERROUS WASTE AND SCRAP; REMELTING SCRAP INGOTS OF IRON OR STEEL - REMELTING SCRAP INGOTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72045000",
+            "description": "FERROUS WASTE AND SCRAP; REMELTING SCRAP INGOTS OF IRON OR STEEL - REMELTING SCRAP INGOTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7205",
+            "description": "GRANULES AND POWDERS, OF PIG IRON, SPIEGELEISEN, IRON OR STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720510",
+            "description": "GRANULES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72051011",
+            "description": "GRANULES AND POWDERS, OF PIG IRON, SPIEGELEISEN, IRON OR STEEL - GRANULES : OF IRON : SHOT AND ANGULAR GRIT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72051012",
+            "description": "GRANULES AND POWDERS, OF PIG IRON, SPIEGELEISEN, IRON OR STEEL - GRANULES : OF IRON : WIRE PELLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72051019",
+            "description": "GRANULES AND POWDERS, OF PIG IRON, SPIEGELEISEN, IRON OR STEEL - GRANULES : OF IRON : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72051021",
+            "description": "GRANULES AND POWDERS, OF PIG IRON, SPIEGELEISEN, IRON OR STEEL - GRANULES : OF ALLOY STEEL : SHOT AND ANGULAR GRIT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72051022",
+            "description": "GRANULES AND POWDERS, OF PIG IRON, SPIEGELEISEN, IRON OR STEEL - GRANULES : OF ALLOY STEEL : WIRE PELLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72051029",
+            "description": "GRANULES AND POWDERS, OF PIG IRON, SPIEGELEISEN, IRON OR STEEL - GRANULES : OF ALLOY STEEL : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72051090",
+            "description": "GRANULES AND POWDERS, OF PIG IRON, SPIEGELEISEN, IRON OR STEEL - GRANULES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720521",
+            "description": "GRANULES AND POWDERS, OF PIG IRON, SPIEGELEISEN, IRON OR STEEL - POWDERS : OF ALLOY STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72052100",
+            "description": "GRANULES AND POWDERS, OF PIG IRON, SPIEGELEISEN, IRON OR STEEL - POWDERS : OF ALLOY STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720529",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72052910",
+            "description": "GRANULES AND POWDERS, OF PIG IRON, SPIEGELEISEN, IRON OR STEEL - POWDERS : OTHER : OF IRON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72052990",
+            "description": "GRANULES AND POWDERS, OF PIG IRON, SPIEGELEISEN, IRON OR STEEL - POWDERS : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7206",
+            "description": "IRON AND NON-ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS (EXCLUDING IRON OF HEADING 7203)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720610",
+            "description": "INGOTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72061010",
+            "description": "IRON AND NON-ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS (EXCLUDING IRON OF HEADING 7203) - INGOTS : OF IRON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72061020",
+            "description": "IRON AND NON-ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS (EXCLUDING IRON OF HEADING 7203) - INGOTS : OF HIGH CARBON STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72061090",
+            "description": "IRON AND NON-ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS (EXCLUDING IRON OF HEADING 7203) - INGOTS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720690",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72069011",
+            "description": "IRON AND NON-ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS (EXCLUDING IRON OF HEADING 7203) - OTHER : OF IRON : PUDDLED BARS AND PILINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72069012",
+            "description": "IRON AND NON-ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS (EXCLUDING IRON OF HEADING 7203) - OTHER : OF IRON : BLOCKS, LUMPS AND SIMILAR FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72069019",
+            "description": "IRON AND NON-ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS (EXCLUDING IRON OF HEADING 7203) - OTHER : OF IRON : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72069091",
+            "description": "IRON AND NON-ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS (EXCLUDING IRON OF HEADING 7203) - OTHER : OTHER : PUDDLED BARS AND PILINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72069092",
+            "description": "IRON AND NON-ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS (EXCLUDING IRON OF HEADING 7203) - OTHER : OTHER : BLOCKS, LUMPS AND SIMILAR FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72069099",
+            "description": "IRON AND NON-ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS (EXCLUDING IRON OF HEADING 7203) - OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7207",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72071110",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : 7207 11 SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : OF RECTANGULAR (INCLUDING SQUARE) CROSS-SECTI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72071120",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : 7207 11 SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : OF RECTANGULAR (INCLUDING SQUARE) CROSS-SECTI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72071130",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : 7207 11 SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : OF RECTANGULAR (INCLUDING SQUARE) CROSS-SECTI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72071190",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : 7207 11 SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : OF RECTANGULAR (INCLUDING SQUARE) CROSS-SECTI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720712",
+            "description": "OTHER, OF RECTANGULAR (OTHER THAN SQUARE) CROSS-SECTION",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72071210",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : OTHER, OF RECTANGULAR (OTHER THAN SQUARE) CROSSSECTION : ELECTRICAL QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72071220",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : OTHER, OF RECTANGULAR (OTHER THAN SQUARE) CROSSSECTION : FORGING QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72071230",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : OTHER, OF RECTANGULAR (OTHER THAN SQUARE) CROSSSECTION : SEAMLESS STEEL TUBE QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72071290",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : OTHER, OF RECTANGULAR (OTHER THAN SQUARE) CROSSSECTION : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720719",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72071910",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : OTHER :FORGED BLANKS OF NON-ALLOY STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72071920",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : OTHER :MILD STEEL BILLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72071990",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT LESS THAN 0.25% OF CARBON : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720720",
+            "description": "CONTAINING BY WEIGHT 0.20% OR MORE OF CARBON",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72072010",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT 0.25% OR MORE OF CARBON : FORGING QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72072020",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT 0.25% OR MORE OF CARBON : SPRING STEEL QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72072030",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT 0.25% OR MORE OF CARBON : SEAMLESS STEEL TUBE QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72072090",
+            "description": "SEMI-FINISHED PRODUCTS OF IRON OR NON-ALLOY STEEL - CONTAINING BY WEIGHT 0.25% OR MORE OF CARBON : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7208",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOTROLLED, NOT CLAD, PLATED OR COATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720810",
+            "description": "IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED, WITH PATTERNS IN RELIEF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72081000",
+            "description": "IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED, WITH PATTERNS IN RELIEF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720825",
+            "description": "OF A THICKNESS OF 4.75 MM OR MORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082510",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF 4.75 MM OR MORE : PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082520",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF 4.75 MM OR MORE : UNIVERSAL PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082530",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF 4.75 MM OR MORE : SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082540",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF 4.75 MM OR MORE : STRIP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082590",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF 4.75 MM OR MORE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720826",
+            "description": "OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082610",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082620",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : UNIVERSAL PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082630",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082640",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : STRIP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082690",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720827",
+            "description": "OF A THICKNESS OF LESS THAN 3 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082710",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF LESS THAN 3 MM : PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082720",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF LESS THAN 3 MM : UNIVERSAL PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082730",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF LESS THAN 3 MM : SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082740",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF LESS THAN 3 MM : STRIP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72082790",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOTROLLED, PICKLED : OF A THICKNESS OF LESS THAN 3 MM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720836",
+            "description": "OF A THICKNESS EXCEEDING 10 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083610",
+            "description": "36 FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS EXCEEDING 10 MM : PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083620",
+            "description": "36 FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS EXCEEDING 10 MM : UNIVERSAL PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083630",
+            "description": "36 FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS EXCEEDING 10 MM : SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083640",
+            "description": "36 FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS EXCEEDING 10 MM : STRIP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083690",
+            "description": "36 FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS EXCEEDING 10 MM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720837",
+            "description": "OF A THICKNESS OF 4.75 MM OR MORE BUT NOT EXCEEDING 10 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083710",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF 4.75 MM OR MORE BUT NOT EXCEEDING 10 MM : PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083720",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF 4.75 MM OR MORE BUT NOT EXCEEDING 10 MM : UNIVERSAL PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083730",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF 4.75 MM OR MORE BUT NOT EXCEEDING 10 MM : SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083740",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF 4.75 MM OR MORE BUT NOT EXCEEDING 10 MM : STRIP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083790",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF 4.75 MM OR MORE BUT NOT EXCEEDING 10 MM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720838",
+            "description": "OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083810",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083820",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : UNIVERSAL PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083830",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083840",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : STRIP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083890",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720839",
+            "description": "OF A THICKNESS OF LESS THAN 3 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083910",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF LESS THAN 3 MM : PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083920",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF LESS THAN 3 MM : UNIVERSAL PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083930",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF LESS THAN 3 MM : SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083940",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF LESS THAN 3 MM : STRIP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72083990",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED: OF A THICKNESS OF LESS THAN 3 MM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72084010",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED NOT IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED, WITH PATTERNS IN RELIEF : PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72084020",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED NOT IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED, WITH PATTERNS IN RELIEF : UNIVERSAL PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72084030",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED NOT IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED, WITH PATTERNS IN RELIEF : SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72084040",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED NOT IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED, WITH PATTERNS IN RELIEF : STRIP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72084090",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED NOT IN COILS, NOT FURTHER WORKED THAN HOT-ROLLED, WITH PATTERNS IN RELIEF : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720851",
+            "description": "OF A THICKNESS EXCEEDING 10 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085110",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS EXCEEDING 10 MM : PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085120",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS EXCEEDING 10 MM : UNIVERSAL PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085130",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS EXCEEDING 10 MM : SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085140",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS EXCEEDING 10 MM : STRIP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085190",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS EXCEEDING 10 MM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720852",
+            "description": "OF A THICKNESS OF 4.75 MM OR MORE BUT NOT EXCEEDING 10 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085210",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF 4.75 MM OR MORE BUT NOT EXCEEDING 10 MM : PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085220",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF 4.75 MM OR MORE BUT NOT EXCEEDING 10 MM : UNIVERSAL PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085230",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF 4.75 MM OR MORE BUT NOT EXCEEDING 10 MM : SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085240",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF 4.75 MM OR MORE BUT NOT EXCEEDING 10 MM : STRIP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085290",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF 4.75 MM OR MORE BUT NOT EXCEEDING 10 MM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720853",
+            "description": "OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085310",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085320",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : UNIVERSAL PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085330",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085340",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : STRIP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085390",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF 3 MM OR MORE BUT LESS THAN 4.75 MM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720854",
+            "description": "OF A THICKNESS OF LESS THAN 3 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085410",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF LESS THAN 3 MM : PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085420",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF LESS THAN 3 MM : UNIVERSAL PLATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085430",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF LESS THAN 3 MM : SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085440",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF LESS THAN 3 MM : STRIP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72085490",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER, NOT IN COILS, NOT FURTHER WORKED THAN HOTROLLED : OF A THICKNESS OF LESS THAN 3 MM : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "720890",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72089000",
+            "description": "FLAT-ROLLED PRODUCTS OF IRON OR NON-ALLOY STEEL, OF A WIDTH OF 600 MM OR MORE, HOT-ROLLED, NOT CLAD, PLATED OR COATED - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7213",
+            "description": "BARS AND RODS, HOT-ROLLED, IN IRREGULARLY WOUND COILS, OF IRON OR NON-ALLOY STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72131010",
+            "description": "BARS AND RODS, HOT-ROLLED, IN IRREGULARLY WOUND COILS, OF IRON OR NON-ALLOY STEEL - CONTAINING INDENTATIONS, RIBS, GROOVES OR OTHER DEFORMATIONS PRODUCED DURING THE ROLLING PROCESS : OF FREE CUTTING STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72131090",
+            "description": "BARS AND RODS, HOT-ROLLED, IN IRREGULARLY WOUND COILS, OF IRON OR NON-ALLOY STEEL - CONTAINING INDENTATIONS, RIBS, GROOVES OR OTHER DEFORMATIONS PRODUCED DURING THE ROLLING PROCESS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721320",
+            "description": "OTHER, OF FREE-CUTTING STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72132010",
+            "description": "BARS AND RODS, HOT-ROLLED, IN IRREGULARLY WOUND COILS, OF IRON OR NON-ALLOY STEEL - OTHER, OF FREE-CUTTING STEEL : ELECTRODE QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72132020",
+            "description": "BARS AND RODS, HOT-ROLLED, IN IRREGULARLY WOUND COILS, OF IRON OR NON-ALLOY STEEL - OTHER, OF FREE-CUTTING STEEL : COLD HEADING QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72132090",
+            "description": "BARS AND RODS, HOT-ROLLED, IN IRREGULARLY WOUND COILS, OF IRON OR NON-ALLOY STEEL - OTHER, OF FREE-CUTTING STEEL : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721391",
+            "description": "OF CIRCULAR CROSS-SECTION MEASURING LESS THAN 14 MM IN DIAMETER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72139110",
+            "description": "BARS AND RODS, HOT-ROLLED, IN IRREGULARLY WOUND COILS, OF IRON OR NON-ALLOY STEEL - OTHER : OF CIRCULAR CROSS-SECTION MEASURING LESS THAN 14 MM IN DIAMETER : ELECTRODE QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72139120",
+            "description": "BARS AND RODS, HOT-ROLLED, IN IRREGULARLY WOUND COILS, OF IRON OR NON-ALLOY STEEL - OTHER : OF CIRCULAR CROSS-SECTION MEASURING LESS THAN 14 MM IN DIAMETER : COLD HEADING QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72139190",
+            "description": "BARS AND RODS, HOT-ROLLED, IN IRREGULARLY WOUND COILS, OF IRON OR NON-ALLOY STEEL - OTHER : OF CIRCULAR CROSS-SECTION MEASURING LESS THAN 14 MM IN DIAMETER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721399",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72139910",
+            "description": "BARS AND RODS, HOT-ROLLED, IN IRREGULARLY WOUND COILS, OF IRON OR NON-ALLOY STEEL - OTHER : OTHER : ELECTRODE QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72139920",
+            "description": "BARS AND RODS, HOT-ROLLED, IN IRREGULARLY WOUND COILS, OF IRON OR NON-ALLOY STEEL - OTHER : OTHER : COLD HEADING QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72139990",
+            "description": "BARS AND RODS, HOT-ROLLED, IN IRREGULARLY WOUND COILS, OF IRON OR NON-ALLOY STEEL - OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7216",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NONALLOY STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721621",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - L OR T SECTIONS, NOT FURTHER WORKED THAN HOTROLLED, HOT-DRAWN OR EXTRUDED, OF A HEIGHT OF LESS THAN 80 MM : L SECTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72162100",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - L OR T SECTIONS, NOT FURTHER WORKED THAN HOTROLLED, HOT-DRAWN OR EXTRUDED, OF A HEIGHT OF LESS THAN 80 MM : L SECTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721622",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - L OR T SECTIONS, NOT FURTHER WORKED THAN HOTROLLED, HOT-DRAWN OR EXTRUDED, OF A HEIGHT OF LESS THAN 80 MM : T SECTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721631",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - U, I OR H SECTIONS, NOT FURTHER WORKED THAN HOTROLLED, HOT-DRAWN OR EXTRUDED OF A HEIGHT OF 80 MM OR MORE : U SECTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72163100",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - U, I OR H SECTIONS, NOT FURTHER WORKED THAN HOTROLLED, HOT-DRAWN OR EXTRUDED OF A HEIGHT OF 80 MM OR MORE : U SECTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721632",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - U, I OR H SECTIONS, NOT FURTHER WORKED THAN HOTROLLED, HOT-DRAWN OR EXTRUDED OF A HEIGHT OF 80 MM OR MORE : I SECTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72163200",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - U, I OR H SECTIONS, NOT FURTHER WORKED THAN HOTROLLED, HOT-DRAWN OR EXTRUDED OF A HEIGHT OF 80 MM OR MORE : I SECTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721633",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - U, I OR H SECTIONS, NOT FURTHER WORKED THAN HOTROLLED, HOT-DRAWN OR EXTRUDED OF A HEIGHT OF 80 MM OR MORE : H SECTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72163300",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - U, I OR H SECTIONS, NOT FURTHER WORKED THAN HOTROLLED, HOT-DRAWN OR EXTRUDED OF A HEIGHT OF 80 MM OR MORE : H SECTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72165000",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - OTHER ANGLES, SHAPES AND SECTIONS, NOT FURTHER WORKED THAN HOT-ROLLED, HOT-DRAWN OR EXTRUDED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721661",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - ANGLES, SHAPES AND SECTIONS, NOT FURTHER WORKED THAN COLD-FORMED OR COLD-FINISHED : OBTAINED FROM FLAT-ROLLED PRODUCTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72166100",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - ANGLES, SHAPES AND SECTIONS, NOT FURTHER WORKED THAN COLD-FORMED OR COLD-FINISHED : OBTAINED FROM FLAT-ROLLED PRODUCTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721669",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - ANGLES, SHAPES AND SECTIONS, NOT FURTHER WORKED THAN COLD-FORMED OR COLD-FINISHED : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72166900",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - ANGLES, SHAPES AND SECTIONS, NOT FURTHER WORKED THAN COLD-FORMED OR COLD-FINISHED : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721691",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - OTHER: COLD-FORMED OR COLD-FINISHED FROM FLAT ROLLED PRODUCTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72169100",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - OTHER: COLD-FORMED OR COLD-FINISHED FROM FLAT ROLLED PRODUCTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721699",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72169910",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - OTHER: OTHER : PLATED OR COATED WITH ZINC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72169920",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - OTHER: OTHER : PLATED OR COATED WITH BASE METALS OTHER THAN ZINC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72169930",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - OTHER: OTHER : SLOTTED ANGLES AND SLOTTED CHANNELS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72169940",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - OTHER: OTHER : FORGED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72169990",
+            "description": "ANGLES, SHAPES AND SECTIONS OF IRON OR NON-ALLOY STEEL - OTHER: OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7217",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721710",
+            "description": "NOT PLATED OR COATED, WHETHER OR NOT POLISHED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72171010",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - NOT PLATED OR COATED, WHETHER OR NOT POLISHED : OF A THICKNESS OF 18 SWG AND BELOW",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72171020",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - NOT PLATED OR COATED, WHETHER OR NOT POLISHED : OF A THICKNESS ABOVE 18 SWG BUT UP TO 26 SWG",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72171030",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - NOT PLATED OR COATED, WHETHER OR NOT POLISHED : OF A THICKNESS ABOVE 26 SWG",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721720",
+            "description": "PLATED OR COATED WITH ZINC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72172010",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - PLATED OR COATED WITH ZINC : OF A THICKNESS OF 18 SWG AND BELOW",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72172020",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - PLATED OR COATED WITH ZINC : OF A THICKNESS ABOVE 18 SWG BUT UP TO 26 SWG",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72172030",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - PLATED OR COATED WITH ZINC : OF A THICKNESS ABOVE 26 SWG",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721730",
+            "description": "PLATED OR COATED WITH OTHER BASE METALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72173010",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - PLATED OR COATED WITH OTHER BASE METALS : OF A THICKNESS OF 18 SWG AND BELOW",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72173020",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - PLATED OR COATED WITH OTHER BASE METALS : OF A THICKNESS ABOVE 18 SWG BUT UP TO 26 SWG",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72173030",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - PLATED OR COATED WITH OTHER BASE METALS : OF A THICKNESS ABOVE 26 SWG",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721790",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72179011",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - OTHER : SHAPED AND PROFILED WIRE : OF CROSS SECTION HALF ROUND",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72179012",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - OTHER : SHAPED AND PROFILED WIRE : OF CROSS SECTION FLAT AND RECTANGULAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72179013",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - OTHER : SHAPED AND PROFILED WIRE : OF CROSS SECTION `Z SHAPED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72179019",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - OTHER : SHAPED AND PROFILED WIRE : OF CROSS SECTION OTHER SHAPES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72179091",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - OTHER : OTHER : HIGH TENSILE QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72179092",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - OTHER : OTHER : ELECTRODE QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72179093",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - OTHER : OTHER : ELECTRIC RESISTANCE WIRE (INCLUDING ELECTRIC RESISTANCE HEATING WIRE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72179099",
+            "description": "WIRE OF IRON OR NON-ALLOY STEEL - OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7218",
+            "description": "STAINLESS STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMI-FINISHED PRODUCTS OF STAINLESS STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721810",
+            "description": "STAINLESS STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMIFINISHED PRODUCTS OF STAINLESS STEEL - INGOTS AND OTHER PRIMARY FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72181000",
+            "description": "STAINLESS STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMIFINISHED PRODUCTS OF STAINLESS STEEL - INGOTS AND OTHER PRIMARY FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721891",
+            "description": "STAINLESS STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMIFINISHED PRODUCTS OF STAINLESS STEEL - OTHER : OF RECTANGULAR (OTHER THAN SQUARE) CROSS-SECTION",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72189100",
+            "description": "STAINLESS STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMIFINISHED PRODUCTS OF STAINLESS STEEL - OTHER : OF RECTANGULAR (OTHER THAN SQUARE) CROSS-SECTION",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "721899",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72189910",
+            "description": "STAINLESS STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMIFINISHED PRODUCTS OF STAINLESS STEEL - OTHER : OTHER : BILLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72189990",
+            "description": "STAINLESS STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMIFINISHED PRODUCTS OF STAINLESS STEEL - OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7223",
+            "description": "WIRE OF STAINLESS STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "722300",
+            "description": "WIRE OF STAINLESS STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72230010",
+            "description": "WIRE OF STAINLESS STEEL - WIRE OF STAINLESS STEEL :ELECTRODE QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72230091",
+            "description": "WIRE OF STAINLESS STEEL - WIRE OF STAINLESS STEEL : OTHER : OF THICKNESS OF ABOVE 1.5 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72230092",
+            "description": "WIRE OF STAINLESS STEEL - WIRE OF STAINLESS STEEL : OTHER : OF THICKNESS OF 0.46 MM AND ABOVE BUT NOT EXCEEDING 1.5 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72230099",
+            "description": "WIRE OF STAINLESS STEEL - WIRE OF STAINLESS STEEL : OTHER : OF THICKNESS OF BELOW 0.46 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7224",
+            "description": "OTHER ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMI-FINISHED PRODUCTS OF OTHER ALLOY STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "722410",
+            "description": "OTHER ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMI-FINISHED PRODUCTS OF OTHER ALLOY STEEL INGOTS AND OTHER PRIMARY FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72241000",
+            "description": "OTHER ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMI-FINISHED PRODUCTS OF OTHER ALLOY STEEL INGOTS AND OTHER PRIMARY FORMS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "722490",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72249010",
+            "description": "OTHER ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMI-FINISHED PRODUCTS OF OTHER ALLOY STEEL - OTHER : OF TOOL STEEL QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72249020",
+            "description": "OTHER ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMI-FINISHED PRODUCTS OF OTHER ALLOY STEEL - OTHER : OF DIE STEEL QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72249030",
+            "description": "OTHER ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMI-FINISHED PRODUCTS OF OTHER ALLOY STEEL - OTHER : OF COBALT BEARING HIGH SPEED STEEL QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72249040",
+            "description": "OTHER ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMI-FINISHED PRODUCTS OF OTHER ALLOY STEEL - OTHER : FORGED BLANKS OF ALLOY STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72249091",
+            "description": "OTHER ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMI-FINISHED PRODUCTS OF OTHER ALLOY STEEL - OTHER : OTHER : BILLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72249099",
+            "description": "OTHER ALLOY STEEL IN INGOTS OR OTHER PRIMARY FORMS; SEMI-FINISHED PRODUCTS OF OTHER ALLOY STEEL - OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7229",
+            "description": "WIRE OF OTHER ALLOY STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72291000",
+            "description": "WIRE OF OTHER ALLOY STEEL OF HIGH SPEED STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "722920",
+            "description": "WIRE OF OTHER ALLOY STEEL OF SILICO-MANGANESE STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72292000",
+            "description": "WIRE OF OTHER ALLOY STEEL OF SILICO-MANGANESE STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299011",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : TINNED WIRE, BRONZE COATED WIRE, TRAPEZOIDAL WIRE, HALF ROUND WIRE, CRIMPED WIRE AND COPPER COATED WIRE, NOT INSULATED : TINNED WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299012",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : TINNED WIRE, BRONZE COATED WIRE, TRAPEZOIDAL WIRE, HALF ROUND WIRE, CRIMPED WIRE AND COPPER COATED WIRE, NOT INSULATED : BRONZE COATED WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299013",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : TINNED WIRE, BRONZE COATED WIRE, TRAPEZOIDAL WIRE, HALF ROUND WIRE, CRIMPED WIRE AND COPPER COATED WIRE, NOT INSULATED : TRAPEZOIDAL WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299014",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : TINNED WIRE, BRONZE COATED WIRE, TRAPEZOIDAL WIRE, HALF ROUND WIRE, CRIMPED WIRE AND COPPER COATED WIRE, NOT INSULATED : HALF ROUND WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299015",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : TINNED WIRE, BRONZE COATED WIRE, TRAPEZOIDAL WIRE, HALF ROUND WIRE, CRIMPED WIRE AND COPPER COATED WIRE, NOT INSULATED : CRIMPED WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299021",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : ELECTRODE QUALITY, WIRE ROPE QUALITY AND ACSR QUALITY NOT INSULATED : ELECTRODE QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299022",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : ELECTRODE QUALITY, WIRE ROPE QUALITY AND ACSR QUALITY NOT INSULATED : WIRE ROPE QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299023",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : ELECTRODE QUALITY, WIRE ROPE QUALITY AND ACSR QUALITY NOT INSULATED : ACSR QUALITY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299031",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : WIRE (EXCLUDING WIRE TYPE LEAD), SPRING, HIGH TENSILE, HARDENED AND TEMPERED WIRES, NOT INSULATED : WIRE (EXCLUDING WIRE TYPE LEAD)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299032",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : WIRE (EXCLUDING WIRE TYPE LEAD), SPRING, HIGH TENSILE, HARDENED AND TEMPERED WIRES, NOT INSULATED : SPRING WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299033",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : WIRE (EXCLUDING WIRE TYPE LEAD), SPRING, HIGH TENSILE, HARDENED AND TEMPERED WIRES, NOT INSULATED : HIGH TENSILE WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299034",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : WIRE (EXCLUDING WIRE TYPE LEAD), SPRING, HIGH TENSILE, HARDENED AND TEMPERED WIRES, NOT INSULATED : HARDENED AND TEMPERED WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299040",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : WIRE (EXCLUDING WIRE TYPE LEAD), SPRING, HIGH TENSILE, HARDENED AND TEMPERED WIRES, NOT INSULATED : OTHER WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299051",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : SHAPED AND PROFILED WIRES OF CROSS-SECTION : HALF ROUND",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299052",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : SHAPED AND PROFILED WIRES OF CROSS-SECTION : FLAT AND RECTANGULAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299053",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : SHAPED AND PROFILED WIRES OF CROSS-SECTION : `L SHAPE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299054",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : SHAPED AND PROFILED WIRES OF CROSS-SECTION : `Z SHAPE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299059",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : SHAPED AND PROFILED WIRES OF CROSS-SECTION : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299060",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : WIRE (EXCLUDING WIRE TYPE LEAD), SPRING, HIGH TENSILE, HARDENED AND TEMPERED WIRES, NOT INSULATED : ELECTRIC RESISTANCE WIRE (INCLUDING ELECTRIC RESISTANCE HEATING WIRE)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299070",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : WIRE (EXCLUDING WIRE TYPE LEAD), SPRING, HIGH TENSILE, HARDENED AND TEMPERED WIRES, NOT INSULATED : CRIMPED WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "72299090",
+            "description": "WIRE OF OTHER ALLOY STEEL - OTHER : WIRE (EXCLUDING WIRE TYPE LEAD), SPRING, HIGH TENSILE, HARDENED AND TEMPERED WIRES, NOT INSULATED : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

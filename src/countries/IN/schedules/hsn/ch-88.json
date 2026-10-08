@@ -1,0 +1,421 @@
+{
+    "chapter": "88",
+    "kind": "HSN",
+    "count": 34,
+    "entries": [
+        {
+            "code": "8801",
+            "description": "BALLOONS AND DIRIGIBLES, GLIDERS, HAND GLIDERS AND OTHER NON-POWERED AIRCRAFT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88010010",
+            "description": "BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT -BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT:--- GLIDERS AND HANG GLIDERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88010020",
+            "description": "BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT-BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT: --BALLOONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88010090",
+            "description": "BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT-BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT:---OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88011000",
+            "description": "BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT GLIDERS AND HANG GLIDERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88019010",
+            "description": "BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT - OTHER: BALLOONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88019090",
+            "description": "BALLOONS AND DIRIGIBLES; GLIDERS, HANG GLIDERS AND OTHER NON-POWERED AIRCRAFT - OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8802",
+            "description": "Aircrafts for personal use",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 40,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "880211",
+            "description": "OTHER AIRCRAFT (FOR EXAMPLE, HELICOPTERS, AEROPLANES); SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES - HELICOPTERS: OF AN UNLADEN WEIGHT NOT EXCEEDING 2,000 KG",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88021100",
+            "description": "OTHER AIRCRAFT (FOR EXAMPLE, HELICOPTERS, AEROPLANES); SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES - HELICOPTERS: OF AN UNLADEN WEIGHT NOT EXCEEDING 2,000 KG",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "880212",
+            "description": "OTHER AIRCRAFT (FOR EXAMPLE, HELICOPTERS, AEROPLANES); SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES - HELICOPTERS: OF AN UNLADEN WEIGHT EXCEEDING 2,000 KG",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88021200",
+            "description": "OTHER AIRCRAFT (FOR EXAMPLE, HELICOPTERS, AEROPLANES); SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES - HELICOPTERS: OF AN UNLADEN WEIGHT EXCEEDING 2,000 KG",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88022000",
+            "description": "OTHER AIRCRAFT (FOR EXAMPLE, HELICOPTERS, AEROPLANES); SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES AEROPLANES AND OTHER AIRCRAFT, OF AN UNLADEN WEIGHT NOT EXCEEDING 2,000 KG",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88024000",
+            "description": "OTHER AIRCRAFT (FOR EXAMPLE, HELICOPTERS, AEROPLANES); SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES AEROPLANES AND OTHER AIRCRAFT, OF AN UNLADEN WEIGHT EXCEEDING 15,000 KG",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8803",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "880310",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88031000",
+            "description": "PARTS OF GOODS OF HEADING 8801 OR 8802 - - PROPELLERS AND ROTORS AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "880320",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88032000",
+            "description": "PARTS OF GOODS OF HEADING 8801 OR 8802 - - UNDER-CARRIAGES AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "880330",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88033000",
+            "description": "PARTS OF GOODS OF HEADING 8801 OR 8802 - - OTHER PARTS OF AEROPLANES OR HELICOPTERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "880390",
+            "description": "PARTS OF GOODS OF HEADING 8801 OR 8802 - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88039000",
+            "description": "PARTS OF GOODS OF HEADING 8801 OR 8802 - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8804",
+            "description": "PARACHUTES (INCLUDING DIRIGIBLE PARACHUTES AND PARAGLIDERS) AND ROTOCHUTES; PARTS THEREOF AND ACCESSORIES THERETO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88040010",
+            "description": "PARACHUTES (INCLUDING DIRIGIBLE PARACHUTES AND PARAGLIDERS) AND ROTOCHUTES; PARTS THEREOF AND ACCESSORIES THERETO - PARACHUTES (INCLUDING DIRIGIBLE PARACHUTES AND PARAGLIDERS) AND ROTOCHUTES; PARTS THEREOF AND ACCESSORIES THERETO: PARACHUTES (INCLUDING DI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88040020",
+            "description": "PARACHUTES (INCLUDING DIRIGIBLE PARACHUTES AND PARAGLIDERS) AND ROTOCHUTES; PARTS THEREOF AND ACCESSORIES THERETO - PARACHUTES (INCLUDING DIRIGIBLE PARACHUTES AND PARAGLIDERS) AND ROTOCHUTES; PARTS THEREOF AND ACCESSORIES THERETO: ROTOCHUTES; PARTS AND AC",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "8805",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88051010",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES - AIRCRAFT LAUNCHING GEAR AND PARTS THEREOF; DECK ARRESTOR OR SIMILAR GEAR AND PARTS THEREOF: AIRCRAFT LAUNCHING GEAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88051020",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES - AIRCRAFT LAUNCHING GEAR AND PARTS THEREOF; DECK ARRESTOR OR SIMILAR GEAR AND PARTS THEREOF: DECK ARRESTOR OR SIMILAR GEAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88051030",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES - AIRCRAFT LAUNCHING GEAR AND PARTS THEREOF; DECK ARRESTOR OR SIMILAR GEAR AND PARTS THEREOF: PART OF AIRCRAFT LAUNCHING GEAR AND DECK-ARRESTOR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "880521",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES - GROUND FLYING TRAINERS AND PARTS THEREOF: AIR COMBAT SIMULATORS AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88052100",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES - GROUND FLYING TRAINERS AND PARTS THEREOF: AIR COMBAT SIMULATORS AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "880529",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES - GROUND FLYING TRAINERS AND PARTS THEREOF: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "88052900",
+            "description": "AIRCRAFT LAUNCHING GEAR; DECK-ARRESTOR OR SIMILAR GEAR; GROUND FLYING TRAINERS; PARTS OF THE FOREGOING ARTICLES - GROUND FLYING TRAINERS AND PARTS THEREOF: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

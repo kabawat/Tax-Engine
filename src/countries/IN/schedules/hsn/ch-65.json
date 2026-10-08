@@ -1,0 +1,355 @@
+{
+    "chapter": "65",
+    "kind": "HSN",
+    "count": 26,
+    "entries": [
+        {
+            "code": "6501",
+            "description": "Textile caps",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-09-21"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-09-22",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "650100",
+            "description": "HAT-FORMS, HAT BODIES AND HOODS OF FELT, NEITHER BLOCKED TO SHAPE NOR WITH MADE BRIMS; PLATEAUX AND MANCHONS (INCLUDING SLIT MANCHONS), OF FELT",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65010010",
+            "description": "HAT-FORMS, HAT BODIES AND HOODS OF FELT, NEITHER BLOCKED TO SHAPE NOR WITH MADE BRIMS; PLATEAUX AND MANCHONS (INCLUDING SLIT MANCHONS), OF FELT HAT-FORMS, HAT BODIES AND HOODS OF FELT, NEITHER BLOCKED TO SHAPE NOR WITH MADE BRIMS; PLATEAUX AND MANCHONS (I",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65010020",
+            "description": "HAT-FORMS, HAT BODIES AND HOODS OF FELT, NEITHER BLOCKED TO SHAPE NOR WITH MADE BRIMS; PLATEAUX AND MANCHONS (INCLUDING SLIT MANCHONS), OF FELT HAT-FORMS, HAT BODIES AND HOODS OF FELT, NEITHER BLOCKED TO SHAPE NOR WITH MADE BRIMS; PLATEAUX AND MANCHONS (I",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65010090",
+            "description": "HAT-FORMS, HAT BODIES AND HOODS OF FELT, NEITHER BLOCKED TO SHAPE NOR WITH MADE BRIMS; PLATEAUX AND MANCHONS (INCLUDING SLIT MANCHONS), OF FELT HAT-FORMS, HAT BODIES AND HOODS OF FELT, NEITHER BLOCKED TO SHAPE NOR WITH MADE BRIMS; PLATEAUX AND MANCHONS (I",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "6502",
+            "description": "HAT-SHAPES, PLAITED OR MADE BY ASSEMBLING STRIPS OF ANY MATERIAL, NEITHER BLOCKED TO SHAPE, NOR WITH MADE BRIMS, NOR LINED, NOR TRIMMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "650200",
+            "description": "HAT-SHAPES, PLAITED OR MADE BY ASSEMBLING STRIPS OF ANY MATERIAL, NEITHER BLOCKED TO SHAPE, NOR WITH MADE BRIMS, NOR LINED, NOR TRIMMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65020010",
+            "description": "HAT-SHAPES, PLAITED OR MADE BY ASSEMBLING STRIPS OF ANY MATERIAL, NEITHER BLOCKED TO SHAPE, NOR WITH MADE BRIMS, NOR LINED, NOR TRIMMED HAT-SHAPES, PLAITED OR MADE BY ASSEMBLING STRIPS OF ANY MATERIAL, NEITHER BLOCKED TO SHAPE, NOR WITH MADE BRIMS, NOR LI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65020020",
+            "description": "HAT-SHAPES, PLAITED OR MADE BY ASSEMBLING STRIPS OF ANY MATERIAL, NEITHER BLOCKED TO SHAPE, NOR WITH MADE BRIMS, NOR LINED, NOR TRIMMED HAT-SHAPES, PLAITED OR MADE BY ASSEMBLING STRIPS OF ANY MATERIAL, NEITHER BLOCKED TO SHAPE, NOR WITH MADE BRIMS, NOR LI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65020090",
+            "description": "HAT-SHAPES, PLAITED OR MADE BY ASSEMBLING STRIPS OF ANY MATERIAL, NEITHER BLOCKED TO SHAPE, NOR WITH MADE BRIMS, NOR LINED, NOR TRIMMED HAT-SHAPES, PLAITED OR MADE BY ASSEMBLING STRIPS OF ANY MATERIAL, NEITHER BLOCKED TO SHAPE, NOR WITH MADE BRIMS, NOR LI",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "6504",
+            "description": "HATS AND OTHER HEADGEAR, PLAITED OR MADE BY ASSEMBLING STRIPS OF ANY MATERIAL, WHETHER ORNOT LINED OR TRIMMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 0,
+                    "taxability": "NIL_RATED",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65040000",
+            "description": "HATS AND OTHER HEADGEAR, PLAITED OR MADE BY ASSEMBLING STRIPS OF ANY MATERIAL, WHETHER ORNOT LINED OR TRIMMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "6505",
+            "description": "Hats (knitted/crocheted) or made up from lace or other textile fabrics",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2018-07-26"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-07-27",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65050010",
+            "description": "HATS AND OTHER HEADGEAR, KNITTED OR CROCHETED, OR MADE UP FROM LACE, FELT OR OTHER TEXTILE FABRIC, IN THE PIECE (BUT NOT IN STRIPS), WHETHER OR NOT LINED OR TRIMMED; HAIR-NETS OF ANY MATERIAL, WHETHER OR NOT LINED OR TRIMMED--- HAIR-NETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65050090",
+            "description": "HATS AND OTHER HEADGEAR, KNITTED OR CROCHETED, OR MADE UP FROM LACE, FELT OR OTHER TEXTILE FABRIC, IN THE PIECE (BUT NOT IN STRIPS), WHETHER OR NOT LINED OR TRIMMED; HAIR-NETS OF ANY MATERIAL, WHETHER OR NOT LINED OR TRIMME---OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "6506",
+            "description": "OTHER HEADGEAR, WHETHER OR NOT LINED OR TRIMMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "650610",
+            "description": "SAFETY HEADGEAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65061010",
+            "description": "OTHER HEADGEAR, WHETHER OR NOT LINED OR TRIMMED SAFETY HEADGEAR: SPEED GLASS WELDING HELMETS OR OTHER HELMETS MEANT FOR INDUSTRIAL USE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65061090",
+            "description": "OTHER HEADGEAR, WHETHER OR NOT LINED OR TRIMMED SAFETY HEADGEAR: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "650691",
+            "description": "OTHER HEADGEAR, WHETHER OR NOT LINED OR TRIMMED OTHER:OF RUBBER OR OF PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65069100",
+            "description": "OTHER HEADGEAR, WHETHER OR NOT LINED OR TRIMMED OTHER:OF RUBBER OR OF PLASTICS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65069200",
+            "description": "OTHER HEADGEAR, WHETHER OR NOT LINED OR TRIMMED OTHER:OF FURSKIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "650699",
+            "description": "OTHER HEADGEAR, WHETHER OR NOT LINED OR TRIMMED OTHER:OF OTHER MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65069900",
+            "description": "OTHER HEADGEAR, WHETHER OR NOT LINED OR TRIMMED OTHER:OF OTHER MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "6507",
+            "description": "HEAD-BANDS, LININGS, COVERS, HAT FOUNDATIONS, HAT FRAMES, PEAKS AND CHINSTRAPS, FOR HEADGEAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "65070000",
+            "description": "HEAD-BANDS, LININGS, COVERS, HAT FOUNDATIONS, HAT FRAMES, PEAKS AND CHINSTRAPS, FOR HEADGEAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

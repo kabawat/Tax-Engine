@@ -1,0 +1,1549 @@
+{
+    "chapter": "26",
+    "kind": "HSN",
+    "count": 128,
+    "entries": [
+        {
+            "code": "2601",
+            "description": "IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON PYRITES - IRON ORES AND CONCENTRATES, OTHER THAN ROASTED IRON PYRITES :",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "260111",
+            "description": "NON-AGGLOMERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011111",
+            "description": "---IRON ORE LUMPS (60% FE OR MORE)---60% FE OR MORE BUT BELOW 62% FE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011112",
+            "description": "---IRON ORE LUMPS (60% FE OR MORE)---62% FE OR MORE BUT BELOW 62% FE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011119",
+            "description": "---IRON ORE LUMPS (60% FE OR MORE)--- ABOVE 65% FE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011121",
+            "description": "---IRON ORE LUMPS (60% FE OR MORE)--- BELOW 55% FE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011122",
+            "description": "---IRON ORE LUMPS (60% FE OR MORE)--- 55% FE OR MORE BUT BELOW 58% FE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011129",
+            "description": "---IRON ORE LUMPS (60% FE OR MORE)--- 58% FE OR MORE BUT BELOW 60% FE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011131",
+            "description": "---IRON ORE LUMPS (60% FE OR MORE)--- 62% FE OR MORE BUT BELOW 65% FE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011139",
+            "description": "---IRON ORE LUMPS (60% FE OR MORE)--- ABOVE 65% FE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011141",
+            "description": "---IRON ORE LUMPS (60% FE OR MORE)--- BELOW 55% FE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011142",
+            "description": "---IRON ORE LUMPS (60% FE OR MORE)--- 55% FE OR MORE BUT BELOW 58% FE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011143",
+            "description": "---IRON ORE LUMPS (60% FE OR MORE)--- 58% FE OR MORE BUT BELOW 60% FE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011149",
+            "description": "---IRON ORE LUMPS (60% FE OR MORE)--- 58% FE OR MORE BUT BELOW 62% FE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011150",
+            "description": "IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON PYRITES - IRON ORES AND CONCENTRATES, OTHER THAN ROASTED IRON PYRITES : NON-AGGLOMERATED : IRON ORE CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011190",
+            "description": "IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON PYRITES - IRON ORES AND CONCENTRATES, OTHER THAN ROASTED IRON PYRITES : NON-AGGLOMERATED : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "260112",
+            "description": "AGGLOMERATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011210",
+            "description": "IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON PYRITES - IRON ORES AND CONCENTRATES, OTHER THAN ROASTED IRON PYRITES : AGGLOMERATED : IRON ORE PELLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26011290",
+            "description": "IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON PYRITES - IRON ORES AND CONCENTRATES, OTHER THAN ROASTED IRON PYRITES : AGGLOMERATED : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "260120",
+            "description": "IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON PYRITES ROASTED IRON PYRITES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26012000",
+            "description": "IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON PYRITES ROASTED IRON PYRITES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2602",
+            "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "260200",
+            "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26020010",
+            "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26020020",
+            "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26020030",
+            "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26020040",
+            "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26020050",
+            "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26020060",
+            "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26020070",
+            "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26020090",
+            "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT - MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MA",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2603",
+            "description": "COPPER ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "260300",
+            "description": "COPPER ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26030000",
+            "description": "COPPER ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2604",
+            "description": "NICKEL ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "260400",
+            "description": "NICKEL ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26040000",
+            "description": "NICKEL ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2605",
+            "description": "COBALT ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "260500",
+            "description": "COBALT ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26050000",
+            "description": "COBALT ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2606",
+            "description": "ALUMINIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "260600",
+            "description": "ALUMINIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26060010",
+            "description": "ALUMINIUM ORES AND CONCENTRATES - ALUMINIUM ORES AND CONCENTRATES: BAUXITE (NATURAL), NOT CALCINED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26060020",
+            "description": "ALUMINIUM ORES AND CONCENTRATES - ALUMINIUM ORES AND CONCENTRATES: BAUXITE (NATURAL), CALCINED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26060090",
+            "description": "ALUMINIUM ORES AND CONCENTRATES - ALUMINIUM ORES AND CONCENTRATES: OTHER ALUMINIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2607",
+            "description": "LEAD ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "260700",
+            "description": "LEAD ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26070000",
+            "description": "LEAD ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2608",
+            "description": "ZINC ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "260800",
+            "description": "ZINC ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26080000",
+            "description": "ZINC ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2609",
+            "description": "TIN ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "260900",
+            "description": "TIN ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26090000",
+            "description": "TIN ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2610",
+            "description": "CHROMIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "261000",
+            "description": "CHROMIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26100010",
+            "description": "CHROMIUM ORES AND CONCENTRATES - CHROMIUM ORES AND CONCENTRATES: CHROME ORE LUMPS, CONTAINING 47% CR2O3 AND ABOVE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26100020",
+            "description": "CHROMIUM ORES AND CONCENTRATES - CHROMIUM ORES AND CONCENTRATES: CHROME ORE LUMPS, CONTAINING 40% OR MORE BUT LESS THAN 47% CR2O3",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26100030",
+            "description": "CHROMIUM ORES AND CONCENTRATES - CHROMIUM ORES AND CONCENTRATES: CHROME ORE LUMPS BELOW 40% CR2O3",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26100090",
+            "description": "CHROMIUM ORES AND CONCENTRATES - CHROMIUM ORES AND CONCENTRATES: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2021-10-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2611",
+            "description": "TUNGSTEN ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "261100",
+            "description": "TUNGSTEN ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26110000",
+            "description": "TUNGSTEN ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2612",
+            "description": "URANIUM OR THORIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "261210",
+            "description": "URANIUM OR THORIUM ORES AND CONCENTRATES - URANIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26121000",
+            "description": "URANIUM OR THORIUM ORES AND CONCENTRATES - URANIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "261220",
+            "description": "URANIUM OR THORIUM ORES AND CONCENTRATES - THORIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26122000",
+            "description": "URANIUM OR THORIUM ORES AND CONCENTRATES - THORIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2613",
+            "description": "MOLYBDENUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "261310",
+            "description": "MOLYBDENUM ORES AND CONCENTRATES - ROASTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26131000",
+            "description": "MOLYBDENUM ORES AND CONCENTRATES - ROASTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "261390",
+            "description": "MOLYBDENUM ORES AND CONCENTRATES - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26139000",
+            "description": "MOLYBDENUM ORES AND CONCENTRATES - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2614",
+            "description": "TITANIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "261400",
+            "description": "TITANIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26140010",
+            "description": "TITANIUM ORES AND CONCEN TRATES - TITANIUM ORES AND CONCENTRATES: LIMENITE, UNPROCESSED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26140020",
+            "description": "TITANIUM ORES AND CONCEN TRATES - TITANIUM ORES AND CONCENTRATES: LIMENITE, UPGRADED (BENEFICIATED LIMENITE INCLUDING LIMENITE GROUND)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26140031",
+            "description": "TITANIUM ORES AND CONCEN TRATES - TITANIUM ORES AND CONCENTRATES: RUTILE : RARE EARTH OXIDES INCLUDING RUTILE SAND",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26140039",
+            "description": "TITANIUM ORES AND CONCEN TRATES - TITANIUM ORES AND CONCENTRATES: RUTILE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26140090",
+            "description": "TITANIUM ORES AND CONCEN TRATES - TITANIUM ORES AND CONCENTRATES: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2615",
+            "description": "NIOBIUM, TANTALUM, VANADIUM OR ZIRCONIUM ORES AND CONCENTRATE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "261510",
+            "description": "NIOBIUM, TANTALUM, VANADIUM OR ZIRCONIUM ORES AND CONCENTRATES ZIRCONIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26151000",
+            "description": "NIOBIUM, TANTALUM, VANADIUM OR ZIRCONIUM ORES AND CONCENTRATES ZIRCONIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "261590",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26159010",
+            "description": "NIOBIUM, TANTALUM, VANADIUM OR ZIRCONIUM ORES AND CONCENTRATES - OTHER : VANADIUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26159020",
+            "description": "NIOBIUM, TANTALUM, VANADIUM OR ZIRCONIUM ORES AND CONCENTRATES - OTHER : NIOBIUM OR TANTALUM ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2616",
+            "description": "PRECIOUS METAL ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "261610",
+            "description": "PRECIOUS METAL ORES AND CONCENTRATES SILVER ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26161000",
+            "description": "PRECIOUS METAL ORES AND CONCENTRATES SILVER ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "261690",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26169010",
+            "description": "PRECIOUS METAL ORES AND CONCENTRATES - OTHER : GOLD ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26169090",
+            "description": "PRECIOUS METAL ORES AND CONCENTRATES - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2617",
+            "description": "OTHER ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "261710",
+            "description": "OTHER ORES AND CONCENTRATES - ANTIMONY ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26171000",
+            "description": "OTHER ORES AND CONCENTRATES - ANTIMONY ORES AND CONCENTRATES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "261790",
+            "description": "OTHER ORES AND CONCENTRATES - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26179000",
+            "description": "OTHER ORES AND CONCENTRATES - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2618",
+            "description": "GRANULATED SLAG (SLAG SAND) FROM THE MANUFACTURE OF IRON OR STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "261800",
+            "description": "GRANULATED SLAG (SLAG SAND) FROM THE MANUFACTURE OF IRON OR STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26180000",
+            "description": "GRANULATED SLAG (SLAG SAND) FROM THE MANUFACTURE OF IRON OR STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2619",
+            "description": "SLAG, DROSS (OTHER THAN GRANULATED SLAG), SCALINGS AND OTHER WASTE FROM THE MANUFACTURE OF IRON OR STEEL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26190010",
+            "description": "SLAG, DROSS (OTHER THAN GRANULATED SLAG), SCALINGS AND OTHER WASTE FROM THE MANUFACTURE OF IRON OR STEEL - SLAG, DROSS (OTHER THAN GRANULATED SLAG), SCALINGS AND OTHER WASTE FROM THE MANUFACTURE OF IRON OR STEEL: CONVERTED SLAG (SCULL) OF BLAST FURNACE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26190090",
+            "description": "SLAG, DROSS (OTHER THAN GRANULATED SLAG), SCALINGS AND OTHER WASTE FROM THE MANUFACTURE OF IRON OR STEEL - SLAG, DROSS (OTHER THAN GRANULATED SLAG), SCALINGS AND OTHER WASTE FROM THE MANUFACTURE OF IRON OR STEEL: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2620",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS - CONTAINING MAINLY ZINC :",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "262011",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS - CONTAINING MAINLY ZINC : HARD ZINC SPELTER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26201100",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS - CONTAINING MAINLY ZINC : HARD ZINC SPELTER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "262019",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26201900",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS - CONTAINING MAINLY ZINC : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "262021",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS - CONTAINING MAINLY LEAD: LEADED GASOLINE SLUDGES AND LEADED ANTI-KNOCK COMPOUND SLUDGES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26202100",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS - CONTAINING MAINLY LEAD: LEADED GASOLINE SLUDGES AND LEADED ANTI-KNOCK COMPOUND SLUDGES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "262029",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26202900",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS - CONTAINING MAINLY LEAD: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "262030",
+            "description": "CONTAINING MAINLY COPPER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26203010",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS - CONTAINING MAINLY COPPER : BRASS DROSS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26203090",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS - CONTAINING MAINLY COPPER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "262040",
+            "description": "CONTAINING MAINLY ALUMINIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26204010",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS - CONTAINING MAINLY ALUMINIUM: ALUMINIUM DROSS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26204090",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS - CONTAINING MAINLY ALUMINIUM: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "262060",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS -CONTAINING ARSENIC, MERCURY, THALLIUM OR THEIR MIXTURES, OF A KIND USED FOR THE EXTRACTION OF ARSENIC OR THOSE METALS OR FOR THE MANU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26206000",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS -CONTAINING ARSENIC, MERCURY, THALLIUM OR THEIR MIXTURES, OF A KIND USED FOR THE EXTRACTION OF ARSENIC OR THOSE METALS OR FOR THE MANU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26209100",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS - OTHER: CONTAINING ANTIMONY , BERYLLIUM, CADMIUM, CHROMIUM OR THEIR MIXTURES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "262099",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS - OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26209900",
+            "description": "SLAG, ASH AND RESIDUES (OTHER THAN FROM THE MANUFACTURE OF IRON OR STEEL), CONTAINING ARSENIC, METALS OR THEIR COMPOUNDS - OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "2621",
+            "description": "FLY ASH",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "262110",
+            "description": "OTHER SLAG AND ASH, INLCUDING SEAWEED ASH (KELP); ASH AND RESIDUES FROM THE INCINERATION OF MUNICIPAL WASTE - ASH AND RESIDUES FROM THE INCINERATION OF MUNICIPAL WASTE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26211000",
+            "description": "OTHER SLAG AND ASH, INLCUDING SEAWEED ASH (KELP); ASH AND RESIDUES FROM THE INCINERATION OF MUNICIPAL WASTE - ASH AND RESIDUES FROM THE INCINERATION OF MUNICIPAL WASTE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "262190",
+            "description": "OTHER SLAG AND ASH, INLCUDING SEAWEED ASH (KELP); ASH AND RESIDUES FROM THE INCINERATION OF MUNICIPAL WASTE - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "26219000",
+            "description": "OTHER SLAG AND ASH, INLCUDING SEAWEED ASH (KELP); ASH AND RESIDUES FROM THE INCINERATION OF MUNICIPAL WASTE - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

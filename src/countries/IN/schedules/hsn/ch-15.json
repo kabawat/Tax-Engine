@@ -1,0 +1,2647 @@
+{
+    "chapter": "15",
+    "kind": "HSN",
+    "count": 183,
+    "entries": [
+        {
+            "code": "1501",
+            "description": "PIG FATS (INCLUDING LARD) AND POULTRY FAT, OTHER THAN THAT OF HEADING 0209 OR 1503",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15011000",
+            "description": "PIG FAT (INCLUDING LARD) AND POULTRY FAT, OTHER THAN THAT OF HEADING 0209 OR 1503 - LARD",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15012000",
+            "description": "PIG FAT (INCLUDING LARD) AND POULTRY FAT, OTHER THAN THAT OF HEADING 0209 OR 1503-OTHER PIG FAT",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15019000",
+            "description": "PIG FAT (INCLUDING LARD) AND POULTRY FAT, OTHER THAN THAT OF HEADING 0209 OR 1503-OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1502",
+            "description": "FATS OF BOVINE ANIMALS, SHEEP OR GOATS, OTHER THAN THOSE OF HEADING 1503",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "150210",
+            "description": "TALLOW",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15021010",
+            "description": "FATS OF BOVINE ANIMALS, SHEEP OR GOATS, OTHER THAN THOSE OF HEADING 1503-TALLOW---MUTTON TALLOW",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15021090",
+            "description": "FATS OF BOVINE ANIMALS, SHEEP OR GOATS, OTHER THAN THOSE OF HEADING 1503-TALLOW---OTHER THAN MUTTON TALLOW",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15029",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15029010",
+            "description": "FATS OF BOVINE ANIMALS, SHEEP OR GOATS, OTHER THAN THOSE OF HEADING 1503-OTHER---UNRENDERED FATS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15029020",
+            "description": "FATS OF BOVINE ANIMALS, SHEEP OR GOATS, OTHER THAN THOSE OF HEADING 1503-OTHER---RENDERED FATS OR SOLVENT EXTRACTION FATS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15029090",
+            "description": "FATS OF BOVINE ANIMALS, SHEEP OR GOATS, OTHER THAN THOSE OF HEADING 1503-OTHER---OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1503",
+            "description": "LARD STEARIN, LARD OIL, OLEOSTEARIN, OLEO-OIL AND TALLOW OIL, NOT EMULSIFIED OR MIXED OR OTHERWISE PREPARED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15030000",
+            "description": "LARD STEARIN, LARD OIL, OLEOSTEARIN, OLEO-OIL AND TALLOW OIL, NOT EMULSIFIED OR MIXED OR OTHERWISE PREPARED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1504",
+            "description": "FATS AND OILS AND THEIR FRACTIONS, OF FISH OR MARINE MAMMALS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "150410",
+            "description": "FISH LIVER OILS AND THEIR FRACTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15041010",
+            "description": "FATS AND OILS AND THEIR FRACTIONS, OF FISH OR MARINE MAMMALS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED FISH LIVER OILS AND THEIR FRACTIONS : COD LIVER OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15041091",
+            "description": "FATS AND OILS AND THEIR FRACTIONS, OF FISH OR MARINE MAMMALS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED FISH LIVER OILS AND THEIR FRACTIONS : OTHER : SQUID LIVER OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15041099",
+            "description": "FATS AND OILS AND THEIR FRACTIONS, OF FISH OR MARINE MAMMALS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED FISH LIVER OILS AND THEIR FRACTIONS : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "150420",
+            "description": "FATS AND OILS AND THEIR FRACTIONS OF FISH, OTHER THAN LIVER OILS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15042010",
+            "description": "FATS AND OILS AND THEIR FRACTIONS, OF FISH OR MARINE MAMMALS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED FATS AND OILS AND THEIR FRACTIONS OF FISH, OTHER THAN LIVER OILS : FISH BODY OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15042020",
+            "description": "FATS AND OILS AND THEIR FRACTIONS, OF FISH OR MARINE MAMMALS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED FATS AND OILS AND THEIR FRACTIONS OF FISH, OTHER THAN LIVER OILS : FISH LIPID OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15042030",
+            "description": "FATS AND OILS AND THEIR FRACTIONS, OF FISH OR MARINE MAMMALS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED FATS AND OILS AND THEIR FRACTIONS OF FISH, OTHER THAN LIVER OILS : SPERM OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15042090",
+            "description": "FATS AND OILS AND THEIR FRACTIONS, OF FISH OR MARINE MAMMALS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED FATS AND OILS AND THEIR FRACTIONS OF FISH, OTHER THAN LIVER OILS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "150430",
+            "description": "FATS AND OILS AND THEIR FRACTIONS, OF FISH OR MARINE MAMMALS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED FATS AND OILS AND THEIR FRACTIONS, OF MARINE MAMMALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15043000",
+            "description": "FATS AND OILS AND THEIR FRACTIONS, OF FISH OR MARINE MAMMALS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED FATS AND OILS AND THEIR FRACTIONS, OF MARINE MAMMALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1505",
+            "description": "WOOL GREASE AND FATTY SUBSTANCES DERIVED THEREFROM (INCLUDING LANOLIN)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15050010",
+            "description": "WOOL GREASE AND FATTY SUBSTANCES DERIVED THEREFROM (INCLUDING LANOLIN) WOOL GREASE AND FATTY SUBSTANCES DERIVED THEREFROM (INCLUDING LANOLIN) : WOOL ALCOHOL (INCLUDING LANOLIN ALCOHOL)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15050020",
+            "description": "WOOL GREASE AND FATTY SUBSTANCES DERIVED THEREFROM (INCLUDING LANOLIN) WOOL GREASE AND FATTY SUBSTANCES DERIVED THEREFROM (INCLUDING LANOLIN) : WOOL GREASE, CRUDE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15050090",
+            "description": "WOOL GREASE AND FATTY SUBSTANCES DERIVED THEREFROM (INCLUDING LANOLIN) WOOL GREASE AND FATTY SUBSTANCES DERIVED THEREFROM (INCLUDING LANOLIN) : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1506",
+            "description": "OTHER ANIMAL FATS AND OILS AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15060010",
+            "description": "OTHER ANIMAL FATS AND OILS AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER ANIMAL FATS AND OILS AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED : NEATS FOOT OIL AND FATS FROM BONE OR WASTE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15060090",
+            "description": "OTHER ANIMAL FATS AND OILS AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER ANIMAL FATS AND OILS AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1507",
+            "description": "SOYA-BEAN OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "150710",
+            "description": "SOYA-BEAN OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED CRUDE OIL, WHETHER OR NOT DEGUMMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15071000",
+            "description": "SOYA-BEAN OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED CRUDE OIL, WHETHER OR NOT DEGUMMED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "150790",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15079010",
+            "description": "SOYA-BEAN OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15079090",
+            "description": "SOYA-BEAN OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1508",
+            "description": "GROUND-NUT OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "150810",
+            "description": "GROUND-NUT OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15081000",
+            "description": "GROUND-NUT OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "150890",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15089010",
+            "description": "GROUND-NUT OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : DEODORIZED (SALAD OIL)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15089091",
+            "description": "GROUND-NUT OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : OTHER : EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15089099",
+            "description": "GROUND-NUT OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1509",
+            "description": "OLIVE OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "150910",
+            "description": "OLIVE OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED VIRGIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15091000",
+            "description": "OLIVE OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED VIRGIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "150990",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15099010",
+            "description": "OLIVE OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15099090",
+            "description": "OLIVE OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1510",
+            "description": "OTHER OILS AND THEIR FRACTIONS OBTAINED SOLELY FROM OLIVES, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, INCLUDING BLENDS OF THESE OILS OR FRACTIONS WITH OILS OR FRACTIONS OF HEADING 1509",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151000",
+            "description": "OTHER OILS AND THEIR FRACTIONS OBTAINED SOLELY FROM OLIVES, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, INCLUDING BLENDS OF THESE OILS OR FRACTIONS WITH OILS OR FRACTIONS OF HEADING 1509",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15100010",
+            "description": "OTHER OILS AND THEIR FRACTIONS OBTAINED SOLELY FROM OLIVES, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, INCLUDING BLENDS OF THESE OILS OR FRACTIONS WITH OILS OR FRACTIONS OF HEADING 1509OTHER OILS AND THEIR FRACTIONS OBTAINED SOLELY FROM OLIVES,",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15100091",
+            "description": "OTHER OILS AND THEIR FRACTIONS OBTAINED SOLELY FROM OLIVES, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, INCLUDING BLENDS OF THESE OILS OR FRACTIONS WITH OILS OR FRACTIONS OF HEADING 1509 OTHER OILS AND THEIR FRACTIONS OBTAINED SOLELY FROM OLIVES,",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15100099",
+            "description": "OTHER OILS AND THEIR FRACTIONS OBTAINED SOLELY FROM OLIVES, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, INCLUDING BLENDS OF THESE OILS OR FRACTIONS WITH OILS OR FRACTIONS OF HEADING 1509 OTHER OILS AND THEIR FRACTIONS OBTAINED SOLELY FROM OLIVES,",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1511",
+            "description": "PALM OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151110",
+            "description": "PALM OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15111000",
+            "description": "PALM OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15119010",
+            "description": "PALM OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : REFINED BLEACHED DEODORISED PALM OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15119020",
+            "description": "PALM OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : REFINED BLEACHED DEODORISED PALMOLEIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15119090",
+            "description": "PALM OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1512",
+            "description": "SUNFLOWER SEED, SAFFLOWER OR COTTON SEED OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED - SUNFLOWER SEED OR SAFFLOWER OIL AND FRACTIONS THEREOF :",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151211",
+            "description": "CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15121110",
+            "description": "SUNFLOWER SEED, SAFFLOWER OR COTTON SEED OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED SUNFLOWER SEED OR SAFFLOWER OIL AND FRACTIONS THEREOF : CRUDE OIL : SUNFLOWER SEED OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15121120",
+            "description": "SUNFLOWER SEED, SAFFLOWER OR COTTON SEED OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED SUNFLOWER SEED OR SAFFLOWER OIL AND FRACTIONS THEREOF : CRUDE OIL : SAFFLOWER SEED OIL (KARDI SEED OIL)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151219",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15121910",
+            "description": "SUNFLOWER SEED, SAFFLOWER OR COTTON SEED OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED SUNFLOWER SEED OR SAFFLOWER OIL AND FRACTIONS THEREOF : OTHER : SUNFLOWER OIL, EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15121920",
+            "description": "SUNFLOWER SEED, SAFFLOWER OR COTTON SEED OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED SUNFLOWER SEED OR SAFFLOWER OIL AND FRACTIONS THEREOF : OTHER : SUNFLOWER OIL, NON-EDIBLE GRADE (OTHER THAN CRUDE OIL)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15121930",
+            "description": "SUNFLOWER SEED, SAFFLOWER OR COTTON SEED OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED SUNFLOWER SEED OR SAFFLOWER OIL AND FRACTIONS THEREOF : OTHER : SAFFOLA OIL, EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15121940",
+            "description": "SUNFLOWER SEED, SAFFLOWER OR COTTON SEED OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED SUNFLOWER SEED OR SAFFLOWER OIL AND FRACTIONS THEREOF : OTHER : SAFFOLA OIL, NON-EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15121990",
+            "description": "SUNFLOWER SEED, SAFFLOWER OR COTTON SEED OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED SUNFLOWER SEED OR SAFFLOWER OIL AND FRACTIONS THEREOF : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151221",
+            "description": "SUNFLOWER SEED, SAFFLOWER OR COTTON SEED OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED COTTON-SEED OIL AND ITS FRACTIONS : CRUDE OIL, WHETHER OR NOT GOSSYPOL HAS BEEN REMOVED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15122100",
+            "description": "SUNFLOWER SEED, SAFFLOWER OR COTTON SEED OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED COTTON-SEED OIL AND ITS FRACTIONS : CRUDE OIL, WHETHER OR NOT GOSSYPOL HAS BEEN REMOVED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151229",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15122910",
+            "description": "SUNFLOWER SEED, SAFFLOWER OR COTTON SEED OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED COTTON-SEED OIL AND ITS FRACTIONS : OTHER : EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15122990",
+            "description": "SUNFLOWER SEED, SAFFLOWER OR COTTON SEED OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED COTTON-SEED OIL AND ITS FRACTIONS : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1513",
+            "description": "COCONUT (COPRA), PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED - COCONUT (COPRA) OIL AND ITS FRACTIONS:",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151311",
+            "description": "COCONUT (COPRA), PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED COCONUT (COPRA) OIL AND ITS FRACTIONS : CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15131100",
+            "description": "COCONUT (COPRA), PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED COCONUT (COPRA) OIL AND ITS FRACTIONS : CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151319",
+            "description": "COCONUT (COPRA), PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED COCONUT (COPRA) OIL AND ITS FRACTIONS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15131900",
+            "description": "COCONUT (COPRA), PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED COCONUT (COPRA) OIL AND ITS FRACTIONS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151321",
+            "description": "CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15132110",
+            "description": "COCONUT (COPRA), PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF : CRUDE OIL : PALM KERNEL OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15132120",
+            "description": "COCONUT (COPRA), PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF : CRUDE OIL : BABASSU OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151329",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15132910",
+            "description": "COCONUT (COPRA), PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF : OTHER : PALM KERNEL OIL AND ITS FRACTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15132920",
+            "description": "COCONUT (COPRA), PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF : OTHER : BABASSU OIL AND ITS FRACTIONS EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15132930",
+            "description": "COCONUT (COPRA), PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF : OTHER : BABASSU OIL AND ITS FRACTIONS, OTHER THAN EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15132990",
+            "description": "COCONUT (COPRA), PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED PALM KERNEL OR BABASSU OIL AND FRACTIONS THEREOF : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1514",
+            "description": "RAPE, COLZA OR MUSTARD OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED , BUT NOT CHEMICALLY MODIFIED - LOW ERUCIC ACID RAPE OR COLZA OIL AND ITS FRACTIONS:",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151411",
+            "description": "CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15141110",
+            "description": "RAPE, COLZA OR MUSTARD OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED , BUT NOT CHEMICALLY MODIFIED LOW ERUCIC ACID RAPE OR COLZA OIL AND ITS FRACTIONS : CRUDE OIL : COLZA OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15141120",
+            "description": "RAPE, COLZA OR MUSTARD OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED , BUT NOT CHEMICALLY MODIFIED LOW ERUCIC ACID RAPE OR COLZA OIL AND ITS FRACTIONS : CRUDE OIL : RAPE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15141190",
+            "description": "RAPE, COLZA OR MUSTARD OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED , BUT NOT CHEMICALLY MODIFIED LOW ERUCIC ACID RAPE OR COLZA OIL AND ITS FRACTIONS : CRUDE OIL : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151419",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15141910",
+            "description": "RAPE, COLZA OR MUSTARD OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED , BUT NOT CHEMICALLY MODIFIED LOW ERUCIC ACID RAPE OR COLZA OIL AND ITS FRACTIONS : OTHER : REFINED COLZA OIL OF EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15141920",
+            "description": "RAPE, COLZA OR MUSTARD OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED , BUT NOT CHEMICALLY MODIFIED LOW ERUCIC ACID RAPE OR COLZA OIL AND ITS FRACTIONS : OTHER : REFINED RAPESEED OIL OF EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15141990",
+            "description": "RAPE, COLZA OR MUSTARD OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED , BUT NOT CHEMICALLY MODIFIED LOW ERUCIC ACID RAPE OR COLZA OIL AND ITS FRACTIONS : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151491",
+            "description": "CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15149110",
+            "description": "RAPE, COLZA OR MUSTARD OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED , BUT NOT CHEMICALLY MODIFIED OTHER : CRUDE OIL : COLZA OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15149120",
+            "description": "RAPE, COLZA OR MUSTARD OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED , BUT NOT CHEMICALLY MODIFIED OTHER : CRUDE OIL : MUSTARD OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15149190",
+            "description": "RAPE, COLZA OR MUSTARD OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED , BUT NOT CHEMICALLY MODIFIED OTHER : CRUDE OIL : RAPESEED OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151499",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15149910",
+            "description": "RAPE, COLZA OR MUSTARD OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED , BUT NOT CHEMICALLY MODIFIED OTHER : OTHER : REFINED COLZA OIL OF EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15149920",
+            "description": "RAPE, COLZA OR MUSTARD OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED , BUT NOT CHEMICALLY MODIFIED OTHER : OTHER : REFINED MUSTARD OIL OF EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15149930",
+            "description": "RAPE, COLZA OR MUSTARD OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED , BUT NOT CHEMICALLY MODIFIED OTHER : OTHER : REFINED RAPESEED OIL OF EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15149990",
+            "description": "RAPE, COLZA OR MUSTARD OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED , BUT NOT CHEMICALLY MODIFIED OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1515",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED - LINSEED OIL AND ITS FRACTIONS :",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151511",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED LINSEED OIL AND ITS FRACTIONS : CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15151100",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED LINSEED OIL AND ITS FRACTIONS : CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151519",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15151910",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED LINSEED OIL AND ITS FRACTIONS : OTHER : EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15151990",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED LINSEED OIL AND ITS FRACTIONS : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151521",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED MAIZE (CORN) OIL AND ITS FRACTIONS : CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15152100",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED MAIZE (CORN) OIL AND ITS FRACTIONS : CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151529",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15152910",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED MAIZE (CORN) OIL AND ITS FRACTIONS : OTHER : EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15152990",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED MAIZE (CORN) OIL AND ITS FRACTIONS : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151530",
+            "description": "CASTOR OIL AND ITS FRACTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15153010",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED CASTOR OIL AND ITS FRACTIONS : EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15153090",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED CASTOR OIL AND ITS FRACTIONS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151550",
+            "description": "SEASAME OIL AND ITS FRACTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15155010",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED SEASAME OIL AND ITS FRACTIONS : CRUDE OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15155091",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED SEASAME OIL AND ITS FRACTIONS : OTHER : EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15155099",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED SEASAME OIL AND ITS FRACTIONS : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151590",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15159010",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : FIXED VEGETABLE OILS, NAMELY THE FOLLOWING : CHUL MOOGRA OIL, MAWRA OIL, KOKAM OIL,TOBACCO SEED OIL, SAL OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15159020",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : FIXED VEGETABLE OILS, NAMELY THE FOLLOWING : NEEM SEED OIL, KARANJ OIL, SILK COTTON SEED OIL,KHAKHON OIL, WATER ME",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15159030",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : FIXED VEGETABLE OILS, NAMELY THE FOLLOWING : CARDAMOM OIL, CHILLIES OR CAPSICUM OIL, TURMERICOIL, AJWAIN SEED OIL,",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15159040",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : FIXED VEGETABLE OILS OF EDIBLE GRADE NAMELY THE FOLLOWING : MANGO KERNEL OIL, MAHUA OIL, RICE BRAN OIL",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15159091",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : OTHER : EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15159099",
+            "description": "OTHER FIXED VEGETABLE FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1516",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151610",
+            "description": "ANIMAL FATS AND OILS AND THEIR FRACTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15161000",
+            "description": "ANIMAL FATS AND OILS AND THEIR FRACTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151620",
+            "description": "VEGETABLE FATS AND OILS AND THEIR FRACTIONS",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15162011",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED VEGETABLE FATS AND OILS AND THEIR FRACTIONS : COTTON SEED OIL : EDIBLE G",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15162019",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED VEGETABLE FATS AND OILS AND THEIR FRACTIONS : COTTON SEED OIL : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15162021",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED VEGETABLE FATS AND OILS AND THEIR FRACTIONS : GROUNDNUT OIL : EDIBLE GRA",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15162029",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED VEGETABLE FATS AND OILS AND THEIR FRACTIONS : GROUNDNUT OIL : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15162031",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED VEGETABLE FATS AND OILS AND THEIR FRACTIONS : HYDROGENATED CASTOR OIL (",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15162039",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED VEGETABLE FATS AND OILS AND THEIR FRACTIONS : HYDROGENATED CASTOR OIL (",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15162091",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED VEGETABLE FATS AND OILS AND THEIR FRACTIONS : OTHER : EDIBLE GRADE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15162099",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED VEGETABLE FATS AND OILS AND THEIR FRACTIONS : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1517",
+            "description": "MARGARINE; EDIBLE MIXTURE OR PREPARATIONS OF ANIMAL OR VEGETABLE FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, OTHER THAN EDIBLE FATS OR OILS OR THEIR FRACTIONS OF HEADING 1516",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151710",
+            "description": "MARGARINE, EXCLUDING LIQUID MARGARINE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15171010",
+            "description": "MARGARINE; EDIBLE MIXTURE OR PREPARATIONS OF ANIMAL OR VEGETABLE FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, OTHER THAN EDIBLE FATS OR OILS OR THEIR FRACTIONS OF HEADING 1516 MARGARINE, EXCLUDING LIQUID MARGARINE : OF ANIMAL OR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15171021",
+            "description": "MARGARINE; EDIBLE MIXTURE OR PREPARATIONS OF ANIMAL OR VEGETABLE FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, OTHER THAN EDIBLE FATS OR OILS OR THEIR FRACTIONS OF HEADING 1516 MARGARINE, EXCLUDING LIQUID MARGARINE : OF VEGETABL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15171022",
+            "description": "MARGARINE; EDIBLE MIXTURE OR PREPARATIONS OF ANIMAL OR VEGETABLE FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, OTHER THAN EDIBLE FATS OR OILS OR THEIR FRACTIONS OF HEADING 1516 MARGARINE, EXCLUDING LIQUID MARGARINE : OF VEGETABL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15171029",
+            "description": "MARGARINE; EDIBLE MIXTURE OR PREPARATIONS OF ANIMAL OR VEGETABLE FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, OTHER THAN EDIBLE FATS OR OILS OR THEIR FRACTIONS OF HEADING 1516 MARGARINE, EXCLUDING LIQUID MARGARINE : OF VEGETABL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "151790",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15179010",
+            "description": "MARGARINE; EDIBLE MIXTURE OR PREPARATIONS OF ANIMAL OR VEGETABLE FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, OTHER THAN EDIBLE FATS OR OILS OR THEIR FRACTIONS OF HEADING 1516 OTHER : SAL FAT (PROCESSED OR REFINED)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15179020",
+            "description": "",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15179030",
+            "description": "MARGARINE; EDIBLE MIXTURE OR PREPARATIONS OF ANIMAL OR VEGETABLE FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, OTHER THAN EDIBLE FATS OR OILS OR THEIR FRACTIONS OF HEADING 1516 OTHER : IMITATION LARD OF ANIMAL ORIGIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15179040",
+            "description": "MARGARINE; EDIBLE MIXTURE OR PREPARATIONS OF ANIMAL OR VEGETABLE FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, OTHER THAN EDIBLE FATS OR OILS OR THEIR FRACTIONS OF HEADING 1516 OTHER : IMITATION LARD OF VEGETABLE ORIGIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15179090",
+            "description": "MARGARINE; EDIBLE MIXTURE OR PREPARATIONS OF ANIMAL OR VEGETABLE FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, OTHER THAN EDIBLE FATS OR OILS OR THEIR FRACTIONS OF HEADING 1516 OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1518",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, BOILED, OXIDISED, DEHYDRATED, SULPHURISED, BLOWN, POLYMERISED BY HEAT IN VACUUM OR IN INERT GAS OR OTHERWISE CHEMICALLY MODIFIED, EXCLUDING THOSE OF HEADING 1516 ; INEDIBLE MIXTURES OR PREPARATIONS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15180011",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, BOILED, OXIDISED, DEHYDRATED, SULPHURISED, BLOWN, POLYMERISED BY HEAT IN VACUUM OR IN INERT GAS OR OTHERWISE CHEMICALLY MODIFIED, EXCLUDING THOSE OF HEADING 1516 ; INEDIBLE MIXTURES OR PREPARATIONS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15180019",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, BOILED, OXIDISED, DEHYDRATED, SULPHURISED, BLOWN, POLYMERISED BY HEAT IN VACUUM OR IN INERT GAS OR OTHERWISE CHEMICALLY MODIFIED, EXCLUDING THOSE OF HEADING 1516 ; INEDIBLE MIXTURES OR PREPARATIONS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15180021",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, BOILED, OXIDISED, DEHYDRATED, SULPHURISED, BLOWN, POLYMERISED BY HEAT IN VACUUM OR IN INERT GAS OR OTHERWISE CHEMICALLY MODIFIED, EXCLUDING THOSE OF HEADING 1516 ; INEDIBLE MIXTURES OR PREPARATIONS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15180029",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, BOILED, OXIDISED, DEHYDRATED, SULPHURISED, BLOWN, POLYMERISED BY HEAT IN VACUUM OR IN INERT GAS OR OTHERWISE CHEMICALLY MODIFIED, EXCLUDING THOSE OF HEADING 1516 ; INEDIBLE MIXTURES OR PREPARATIONS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15180031",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, BOILED, OXIDISED, DEHYDRATED, SULPHURISED, BLOWN, POLYMERISED BY HEAT IN VACUUM OR IN INERT GAS OR OTHERWISE CHEMICALLY MODIFIED, EXCLUDING THOSE OF HEADING 1516 ; INEDIBLE MIXTURES OR PREPARATIONS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15180039",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, BOILED, OXIDISED, DEHYDRATED, SULPHURISED, BLOWN, POLYMERISED BY HEAT IN VACUUM OR IN INERT GAS OR OTHERWISE CHEMICALLY MODIFIED, EXCLUDING THOSE OF HEADING 1516 ; INEDIBLE MIXTURES OR PREPARATIONS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15180040",
+            "description": "ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, BOILED, OXIDISED, DEHYDRATED, SULPHURISED, BLOWN, POLYMERISED BY HEAT IN VACUUM OR IN INERT GAS OR OTHERWISE CHEMICALLY MODIFIED, EXCLUDING THOSE OF HEADING 1516 ; INEDIBLE MIXTURES OR PREPARATIONS OF",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1520",
+            "description": "GLYCEROL, CRUDE; GLYCEROL WATERS AND GLYCEROL LYES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "152000",
+            "description": "GLYCEROL, CRUDE; GLYCEROL WATERS AND GLYCEROL LYES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15200000",
+            "description": "GLYCEROL, CRUDE; GLYCEROL WATERS AND GLYCEROL LYES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1521",
+            "description": "VEGETABLE WAXES (OTHER THAN TRIGLYCERIDES), BEESWAX, OTHER INSECT WAXES AND SPERMACETI, WHETHER OR NOT REFINED OR COLOURED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "152110",
+            "description": "VEGETABLE WAXES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15211011",
+            "description": "VEGETABLE WAXES (OTHER THAN TRIGLYCERIDES), BEESWAX, OTHER INSECT WAXES AND SPERMACETI, WHETHER OR NOT REFINED OR COLOURED VEGETABLE WAXES : CARNAUBA WAXES : EDIBLE WAX FOR WAXING FRESH FRUITS AND VEGETABLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15211019",
+            "description": "VEGETABLE WAXES (OTHER THAN TRIGLYCERIDES), BEESWAX, OTHER INSECT WAXES AND SPERMACETI, WHETHER OR NOT REFINED OR COLOURED VEGETABLE WAXES : CARNAUBA WAXES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15211090",
+            "description": "VEGETABLE WAXES (OTHER THAN TRIGLYCERIDES), BEESWAX, OTHER INSECT WAXES AND SPERMACETI, WHETHER OR NOT REFINED OR COLOURED VEGETABLE WAXES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "152190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15219010",
+            "description": "VEGETABLE WAXES (OTHER THAN TRIGLYCERIDES), BEESWAX, OTHER INSECT WAXES AND SPERMACETI, WHETHER OR NOT REFINED OR COLOURED OTHER : BEEWAX WHETHER OR NOT COLOURED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15219020",
+            "description": "VEGETABLE WAXES (OTHER THAN TRIGLYCERIDES), BEESWAX, OTHER INSECT WAXES AND SPERMACETI, WHETHER OR NOT REFINED OR COLOURED OTHER : SHELLAC WAX WHETHER OR NOT COLOURED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15219090",
+            "description": "VEGETABLE WAXES (OTHER THAN TRIGLYCERIDES), BEESWAX, OTHER INSECT WAXES AND SPERMACETI, WHETHER OR NOT REFINED OR COLOURED OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1522",
+            "description": "DEGRAS: RESIDUES RESULTING FROM THE TREATMENT OF FATTY SUBSTANCES OR ANIMAL OR VEGETABLE WAXES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15220010",
+            "description": "DEGRAS : RESIDUES RESULTING FROM THE TREATMENT OF FATTY SUBSTANCES OR ANIMAL OR VEGETABLE WAXES DEGRAS : RESIDUES RESULTING FROM THE TREATMENT OF FATTY SUBSTANCES OR ANIMAL OR VEGETABLE WAXES : DEGRAS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15220020",
+            "description": "DEGRAS : RESIDUES RESULTING FROM THE TREATMENT OF FATTY SUBSTANCES OR ANIMAL OR VEGETABLE WAXES DEGRAS : RESIDUES RESULTING FROM THE TREATMENT OF FATTY SUBSTANCES OR ANIMAL OR VEGETABLE WAXES : SOAP STOCKS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "15220090",
+            "description": "DEGRAS : RESIDUES RESULTING FROM THE TREATMENT OF FATTY SUBSTANCES OR ANIMAL OR VEGETABLE WAXES DEGRAS : RESIDUES RESULTING FROM THE TREATMENT OF FATTY SUBSTANCES OR ANIMAL OR VEGETABLE WAXES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

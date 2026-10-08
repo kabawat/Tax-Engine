@@ -1,0 +1,277 @@
+{
+    "chapter": "66",
+    "kind": "HSN",
+    "count": 17,
+    "entries": [
+        {
+            "code": "6601",
+            "description": "UMBRELLAS AND SUN UMBRELLAS (INCLUDING WALKING-STICK UMBRELLAS, GARDEN UMBRELLAS AND SIMILAR UMBRELLAS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "660110",
+            "description": "UMBRELLAS AND SUN UMBRELLAS (INCLUDING WALKINGSTICK UMBRELLAS, GARDEN UMBRELLAS AND SIMILAR UMBRELLAS) - GARDEN OR SIMILAR UMBRELLAS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "66011000",
+            "description": "UMBRELLAS AND SUN UMBRELLAS (INCLUDING WALKINGSTICK UMBRELLAS, GARDEN UMBRELLAS AND SIMILAR UMBRELLAS) - GARDEN OR SIMILAR UMBRELLAS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "660191",
+            "description": "UMBRELLAS AND SUN UMBRELLAS (INCLUDING WALKINGSTICK UMBRELLAS, GARDEN UMBRELLAS AND SIMILAR UMBRELLAS)- OTHER: HAVING A TELESCOPIC SHAFT",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "66019100",
+            "description": "UMBRELLAS AND SUN UMBRELLAS (INCLUDING WALKINGSTICK UMBRELLAS, GARDEN UMBRELLAS AND SIMILAR UMBRELLAS)- OTHER: HAVING A TELESCOPIC SHAFT",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "660199",
+            "description": "UMBRELLAS AND SUN UMBRELLAS (INCLUDING WALKINGSTICK UMBRELLAS, GARDEN UMBRELLAS AND SIMILAR UMBRELLAS)- OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "66019900",
+            "description": "UMBRELLAS AND SUN UMBRELLAS (INCLUDING WALKINGSTICK UMBRELLAS, GARDEN UMBRELLAS AND SIMILAR UMBRELLAS)- OTHER: OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "6602",
+            "description": "WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING CROPS AND THE LIKE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "660200",
+            "description": "WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING CROPS AND THE LIKE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2019-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "66020000",
+            "description": "WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING CROPS AND THE LIKE",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2019-01-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "6603",
+            "description": "PARTS, TRIMMINGS AND ACCESSORIES OF ARTICLES OF HEADING 6601 TO 6602",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "66031090",
+            "description": "PARTS, TRIMMINGS AND ACCESSORIES OF ARTICLES OF HEADING 6601 TO 6602- HANDLES AND KNOBS:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "660320",
+            "description": "PARTS, TRIMMINGS AND ACCESSORIES OF ARTICLES OF HEADING 6601 TO 6602 - UMBRELLA FRAMES, INCLUDING FRAMES MOUNTED ON SHAFTS (STICKS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "66032000",
+            "description": "PARTS, TRIMMINGS AND ACCESSORIES OF ARTICLES OF HEADING 6601 TO 6602 - UMBRELLA FRAMES, INCLUDING FRAMES MOUNTED ON SHAFTS (STICKS)",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "660390",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "66039010",
+            "description": "PARTS, TRIMMINGS AND ACCESSORIES OF ARTICLES OF HEADING 6601 TO 6602- OTHER:UMBRELLA RIBS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "66039090",
+            "description": "PARTS, TRIMMINGS AND ACCESSORIES OF ARTICLES OF HEADING 6601 TO 6602- OTHER:OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

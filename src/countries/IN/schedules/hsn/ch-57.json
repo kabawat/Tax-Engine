@@ -1,0 +1,2041 @@
+{
+    "chapter": "57",
+    "kind": "HSN",
+    "count": 113,
+    "entries": [
+        {
+            "code": "5701",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, KNOTTED, WHETHER OR NOT MADE UP",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570110",
+            "description": "OF WOOL OR FINE ANIMAL HAIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57011000",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, KNOTTED, WHETHER OR NOT MADE UP - OF WOOL OR FINE ANIMAL HAIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570190",
+            "description": "OF OTHER TEXTILE MATERIALS;",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57019010",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, KNOTTED, WHETHER OR NOT MADE UP - OF OTHER TEXTILE MATERIALS : OF COTTON",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57019020",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, KNOTTED, WHETHER OR NOT MADE UP - OF COIR INCLUDING GEO TEXTILE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57019090",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, KNOTTED, WHETHER OR NOT MADE UP - OF OTHER TEXTILE MATERIALS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5702",
+            "description": "Coir mats, matting, floor\ncovering and handloom durries",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570210",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND-WOVEN RUGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57021000",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND-WOVEN RUGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570220",
+            "description": "FLOOR COVERINGS OF COCONUT FIBRES (COIR)",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57022010",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - FLOOR COVERINGS OF COCONUT FIBRES (COIR) : COIR MATTING, WOVEN",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57022020",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - FLOOR COVERINGS OF COCONUT FIBRES (COIR) : COIR CARPETS AND OTHER RUGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57022090",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - FLOOR COVERINGS OF COCONUT FIBRES (COIR) : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570231",
+            "description": "OF WOOL OR FINE ANIMAL HAIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57023110",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, NOT MADE UP : OF WOOL OR FINE ANIMAL HAIR : CARPETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57023120",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, NOT MADE UP : OF WOOL OR FINE ANIMAL HAIR : DRUGGETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57023130",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, NOT MADE UP : OF WOOL OR FINE ANIMAL HAIR : MATS AND MATTIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57023140",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, NOT MADE UP : OF WOOL OR FINE ANIMAL HAIR : CARPETING , FLO",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57023190",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, NOT MADE UP : OF WOOL OR FINE ANIMAL HAIR : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570232",
+            "description": "OF MAN-MADE TEXTILE MATERIAL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57023210",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, NOT MADE UP : OF MAN - MADE TEXTILE MATERIAL : CARPETS, CAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57023220",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, NOT MADE UP : OF MAN - MADE TEXTILE MATERIAL : MATS AND MAT",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57023290",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, NOT MADE UP : OF MAN - MADE TEXTILE MATERIAL : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570239",
+            "description": "OF OTHER TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57023910",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, NOT MADE UP : OF OTHER TEXTILE MATERIALS : CARPETS AND OTHE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57023920",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, NOT MADE UP : OF OTHER TEXTILE MATERIALS : CARPETS AND OTHE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570241",
+            "description": "OF WOOL OR FINE ANIMAL HAIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57024110",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, MADE UP : OF WOOL OR FINE ANIMAL HAIR : CARPETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57024120",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, MADE UP : OF WOOL OR FINE ANIMAL HAIR : DRUGGETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57024130",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, MADE UP : OF WOOL OR FINE ANIMAL HAIR : MATS AND MATTING",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57024140",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, MADE UP : OF WOOL OR FINE ANIMAL HAIR : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57024190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570242",
+            "description": "OF MAN-MADE TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57024210",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, MADE UP : OF MAN MADE TEXTILE MATERIALS : CARPETS, CARPETIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57024220",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, MADE UP : OF MAN MADE TEXTILE MATERIALS : MATS AND MATTINGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57024230",
+            "description": "CARPETS, RUGS AND MATS OF HANDLOOM",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57024290",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, MADE UP : OF MAN MADE TEXTILE MATERIALS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570249",
+            "description": "OF OTHER TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57024910",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, MADE UP : OF OTHER TEXTILE MATERIALS : CARPETS AND OTHER FL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57024920",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, MADE UP : OF OTHER TEXTILE MATERIALS : CARPETS AND OTHER FL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57024990",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, OF PILE CONSTRUCTION, MADE UP : OF OTHER TEXTILE MATERIALS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570250",
+            "description": "OF MAN-MADE TEXTILE MATERIALS;",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025021",
+            "description": "CARPETS, CARPETING AND RUGS - OF MAN MADE TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025022",
+            "description": "MATS AND MATTING - OF MAN-MADE TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025029",
+            "description": "OTHERS - NOT ELSEWHERE SPECIFIED - OF MAN-MADE TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025031",
+            "description": "CARPETS AND OTHER FLOOR COVERINGS, OF COTTON OTHER THAN DURRIES - OF OTHER TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025032",
+            "description": "CARPETS AND OTHER FLOOR COVERINGS, OF SILK",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025033",
+            "description": "PLACE MAT AND OTHER SIMILAR GOODS - OF OTHER TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025039",
+            "description": "OTHERS NOT ELSEWHERE SPECIFIED - OF OTHER TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025110",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, NOT MADE UP : OF WOOL OR FINE ANIMAL HAIR : CARPETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025120",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, NOT MADE UP : OF WOOL OR FINE ANIMAL HAIR : DRUGGETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025130",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, NOT MADE UP : OF WOOL OR FINE ANIMAL HAIR : MATS AND MA",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025140",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, NOT MADE UP : OF WOOL OR FINE ANIMAL HAIR : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025210",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, NOT MADE UP : OF MAN - MADE TEXTILE MATERIALS : CARPETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025220",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, NOT MADE UP : OF MAN - MADE TEXTILE MATERIALS : MATS AN",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025290",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, NOT MADE UP : OF MAN - MADE TEXTILE MATERIALS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025910",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, NOT MADE UP : OF OTHER TEXTILE MATERIALS : CARPETS AND",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025920",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, NOT MADE UP : OF OTHER TEXTILE MATERIALS : CARPETS AND",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025930",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, NOT MADE UP : OF OTHER TEXTILE MATERIALS : PLACE MAT AN",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57025990",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, NOT MADE UP : OF OTHER TEXTILE MATERIALS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570291",
+            "description": "OF WOOL OR FINE ANIMAL HAIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57029110",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, MADE UP : OF WOOL OR FINE ANIMAL HAIR : CARPETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57029120",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, MADE UP : OF WOOL OR FINE ANIMAL HAIR : DRUGGETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57029130",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, MADE UP : OF WOOL OR FINE ANIMAL HAIR : MATS AND MATTIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57029140",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, MADE UP : OF WOOL OR FINE ANIMAL HAIR : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57029190",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570292",
+            "description": "OF MAN-MADE TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57029210",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, MADE UP : OF MAN - MADE TEXTILE MATERIALS : CARPETS, CA",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57029220",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, MADE UP : OF MAN - MADE TEXTILE MATERIALS : MATS AND MA",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57029290",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, MADE UP : OF MAN - MADE TEXTILE MATERIALS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570299",
+            "description": "OF OTHER TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57029910",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, MADE UP : OF OTHER TEXTILE MATERIALS : CARPETS AND OTHE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57029920",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, MADE UP : OF OTHER TEXTILE MATERIALS : CARPETS AND OTHE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57029990",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WOVEN, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP, INCLUDING KELEM, SCHUMACKS, KARAMANIE AND SIMILAR HAND - WOVEN RUGS - OTHER, NOT OF PILE CONSTRUCTION, MADE UP : OF OTHER TEXTILE MATERIALS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5703",
+            "description": "Coir mats, matting, floor\ncovering and handloom durries",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-10-12"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-10-13",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570310",
+            "description": "OF WOOL OR FINE ANIMAL HAIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57031010",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, TUFTED, WHETHER OR NOT MADE UP - OF WOOL OR FINE ANIMAL HAIR : CARPETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57031020",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, TUFTED, WHETHER OR NOT MADE UP - OF WOOL OR FINE ANIMAL HAIR : MATS AND MATTING",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57031090",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, TUFTED, WHETHER OR NOT MADE UP - OF WOOL OR FINE ANIMAL HAIR : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570320",
+            "description": "OF NYLON OR OTHER POLYAMIDES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57032010",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, TUFTED, WHETHER OR NOT MADE UP - OF NYLON OR OTHER POLYAMIDES : CARPETS, CARPETING AND RUGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57032090",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, TUFTED, WHETHER OR NOT MADE UP - OF NYLON OR OTHER POLYAMIDES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570330",
+            "description": "OF OTHER MAN-MADE TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57033010",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, TUFTED, WHETHER OR NOT MADE UP - OF OTHER MAN - MADE TEXTILE MATERIALS : CARPETS, CARPETING AND RUGS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57033090",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, TUFTED, WHETHER OR NOT MADE UP - OF OTHER MAN - MADE TEXTILE MATERIALS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570390",
+            "description": "OF OTHER TEXTILE MATERIALS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57039010",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, TUFTED, WHETHER OR NOT MADE UP - OF OTHER TEXTILE MATERIALS : CARPETS AND OTHER FLOOR COVERINGS, OF COTTON, OTHER THAN DURRIES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57039020",
+            "description": "CARPETS AND FLOOR COVERINGS OF COIR",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57039090",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, TUFTED, WHETHER OR NOT MADE UP - OF OTHER TEXTILE MATERIALS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5704",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, OF FELT, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570410",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, OF FELT, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP - TILES, HAVING A MAXIMUM SURFACE AREA OF 0.3 M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57041000",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, OF FELT, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP - TILES, HAVING A MAXIMUM SURFACE AREA OF 0.3 M2",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57042010",
+            "description": "COTTON",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57042020",
+            "description": "WOOLLEN, OTHER THAN ARTWARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57042090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "570490",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57049010",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, OF FELT, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP - OTHER : COTTON",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57049020",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, OF FELT, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP - OTHER : WOOLLEN, OTHER THAN ARTWARE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57049090",
+            "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS, OF FELT, NOT TUFTED OR FLOCKED, WHETHER OR NOT MADE UP - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "5705",
+            "description": "Coir mats, matting, floor\ncovering and handloom durries",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57050011",
+            "description": "OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP - OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP : CARPETS : OF SILK",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57050019",
+            "description": "OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP - OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP : CARPETS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57050021",
+            "description": "OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP - OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP : DURRIES : DURRIES COTTON",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57050022",
+            "description": "OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP - OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP : DURRIES : DURRIES OF MAN-MADE FIBRES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57050023",
+            "description": "OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP - OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP : DURRIES : DURRIES OF WOOL",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57050029",
+            "description": "OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP - OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP : DURRIES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57050031",
+            "description": "OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP - OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP : OF JUTE : OF BLENDED JUTE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57050032",
+            "description": "OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP - OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP : OF JUTE : OF COIR JUTE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57050039",
+            "description": "OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP - OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP : OF JUTE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57050041",
+            "description": "OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP - OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP : CARPETS, CARPETING, RUGS, MATS AND MATTINGS : KNITTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57050049",
+            "description": "OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP - OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP : CARPETS, CARPETING, RUGS, MATS AND MATTINGS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "57050090",
+            "description": "OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP - OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,895 @@
+{
+    "chapter": "17",
+    "kind": "HSN",
+    "count": 55,
+    "entries": [
+        {
+            "code": "1701",
+            "description": "Jaggery of all types including Cane Jaggery (gur), Palmyra Jaggery, pre-packaged and labelled; Khandsari Sugar, pre-packaged and labelled”;",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2022-07-17"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2022-07-18",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17011200",
+            "description": "CANE OR BEET SUGAR AND CHEMICALLY PURE SUCROSE, IN SOLID FORM - RAW SUGAR NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER : BEET SUGAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "170113",
+            "description": "CANE SUGAR SPECIFIED IN SUB-HEADING NOTE 2 TO THIS CHAPTER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17011310",
+            "description": "CANE OR BEET SUGAR AND CHEMICALLY PURE SUCROSE, IN SOLID FORM - RAW SUGAR NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER --CANE SUGAR SPECIFIED IN SUB-HEADING NOTE 2 TO THIS CHAPTER---CANE JAGGERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17011320",
+            "description": "CANE OR BEET SUGAR AND CHEMICALLY PURE SUCROSE, IN SOLID FORM - RAW SUGAR NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER --CANE SUGAR SPECIFIED IN SUB-HEADING NOTE 2 TO THIS CHAPTER---KHANDSARI SUGAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17011390",
+            "description": "CANE OR BEET SUGAR AND CHEMICALLY PURE SUCROSE, IN SOLID FORM - RAW SUGAR NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER --CANE SUGAR SPECIFIED IN SUB-HEADING NOTE 2 TO THIS CHAPTER---OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "170114",
+            "description": "OTHER CANE SUGAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17011410",
+            "description": "CANE OR BEET SUGAR AND CHEMICALLY PURE SUCROSE, IN SOLID FORM - RAW SUGAR NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER --OTHER CANE SUGAR--- CANE JAGGERY",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17011420",
+            "description": "CANE OR BEET SUGAR AND CHEMICALLY PURE SUCROSE, IN SOLID FORM - RAW SUGAR NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER --OTHER CANE SUGAR ---KHANDSARI SUGAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17011490",
+            "description": "CANE OR BEET SUGAR AND CHEMICALLY PURE SUCROSE, IN SOLID FORM - RAW SUGAR NOT CONTAINING ADDED FLAVOURING OR COLOURING MATER--OTHER CANE SUGAR --- OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17019100",
+            "description": "CANE OR BEET SUGAR AND CHEMICALLY PURE SUCROSE, IN SOLID FORM - OTHER : REFINED SUGAR CONTAINING ADDED FLAVOURING OR COLOURING MATTER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "170199",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17019910",
+            "description": "CANE OR BEET SUGAR AND CHEMICALLY PURE SUCROSE, IN SOLID FORM - OTHER : OTHER : SUGAR CUBES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17019990",
+            "description": "CANE OR BEET SUGAR AND CHEMICALLY PURE SUCROSE, IN SOLID FORM - OTHER : OTHER : SUGAR CUBES",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1702",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL - LACTOSE AND LACTOSE SYRUP",
+            "rateHistory": [
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2022-07-17"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2022-07-18",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17021110",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL - LACTOSE AND LACTOSE SYRU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17021190",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL- LACTOSE AND LACTOSE SYRUP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "170219",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17021910",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL - LACTOSE AND LACTOSE SYRU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17021990",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL - LACTOSE AND LACTOSE SYRU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "170220",
+            "description": "MAPLE SUGAR AND MAPLE SYRUP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17022010",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL - MAPLE SUGAR AND MAPLE SY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17022090",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL - MAPLE SUGAR AND MAPLE SY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17023010",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL- GLUCOSE AND GLUCOSE SYRUP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17023020",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL- GLUCOSE AND GLUCOSE SYRUP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17023031",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL- GLUCOSE AND GLUCOSE SYRUP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17023039",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL- GLUCOSE AND GLUCOSE SYRUP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17024010",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL- GLUCOSE AND GLUCOSE SYRUP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17024020",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL- GLUCOSE AND GLUCOSE SYRUP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17024031",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL- GLUCOSE AND GLUCOSE SYRUP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17024039",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL- GLUCOSE AND GLUCOSE SYRUP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "170250",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL-CHEMICALLY PURE FRUCTOSE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17025000",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL-CHEMICALLY PURE FRUCTOSE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17026010",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL- OTHER FRUCTOSE AND FRUCTO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17026090",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL- OTHER FRUCTOSE AND FRUCTO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17029010",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL - OTHER FRUCTOSE AND FRUCTO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17029020",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL - OTHER FRUCTOSE AND FRUCTO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17029030",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL - OTHER FRUCTOSE AND FRUCTO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17029040",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL - OTHER FRUCTOSE AND FRUCTO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17029050",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL - OTHER FRUCTOSE AND FRUCTO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17029090",
+            "description": "OTHER SUGARS, INCLUDING CHEMICALLY PURE LACTOSE, MALTOSE, GLUCOSE AND FRUCTOSE, IN SOLID FORM; SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER; ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY; CARAMEL - OTHER FRUCTOSE AND FRUCTO",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1703",
+            "description": "MOLASSES RESULTING FROM THE EXTRACTION OR REFINING OF SUGAR",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "170310",
+            "description": "MOLASSES RESULTING FROM THE EXTRACTION OR REFINING OF SUGAR - CANE MOLASSES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17031000",
+            "description": "MOLASSES RESULTING FROM THE EXTRACTION OR REFINING OF SUGAR - CANE MOLASSES",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "170390",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17039010",
+            "description": "MOLASSES RESULTING FROM THE EXTRACTION OR REFINING OF SUGAR - OTHER : MOLASSES, EDIBLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17039090",
+            "description": "MOLASSES RESULTING FROM THE EXTRACTION OR REFINING OF SUGAR - OTHER : MOLASSES, EDIBLE",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "1704",
+            "description": "Sugar boiled confectionery",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2018-01-24"
+                },
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "170410",
+            "description": "SUGAR CONFECTIONERY (INCLUDING WHITE CHOCOLATE), NOT CONTAINIG COCOA - CHEWING GUM, WHETHER OR NOT SUGAR COATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17041000",
+            "description": "SUGAR CONFECTIONERY (INCLUDING WHITE CHOCOLATE), NOT CONTAINIG COCOA - CHEWING GUM, WHETHER OR NOT SUGAR COATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "170490",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17049010",
+            "description": "SUGAR CONFECTIONARY (INCLUDING WHITE CHOCOLATE), NOT CONTAINING COCOA - OTHER : JELLY CONFECTIONARY",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17049020",
+            "description": "SUGAR CONFECTIONARY (INCLUDING WHITE CHOCOLATE), NOT CONTAINING COCOA - OTHER : BOILED SWEETS, WHETHER OR NOT FILLED",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2018-01-25",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17049030",
+            "description": "SUGAR CONFECTIONARY (INCLUDING WHITE CHOCOLATE), NOT CONTAINING COCOA - OTHER : TOFFEES, CARAMELS AND SIMILAR SWEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "17049090",
+            "description": "SUGAR CONFECTIONARY (INCLUDING WHITE CHOCOLATE), NOT CONTAINING COCOA - OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}

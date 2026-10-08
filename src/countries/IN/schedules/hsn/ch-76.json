@@ -1,0 +1,1795 @@
+{
+    "chapter": "76",
+    "kind": "HSN",
+    "count": 143,
+    "entries": [
+        {
+            "code": "7601",
+            "description": "UNWROUGHT ALUMINIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760110",
+            "description": "ALUMINIUM, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76011010",
+            "description": "UNWROUGHT ALUMINIUM - ALUMINIUM, NOT ALLOYED : INGOTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76011020",
+            "description": "UNWROUGHT ALUMINIUM - ALUMINIUM, NOT ALLOYED : BILLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76011030",
+            "description": "UNWROUGHT ALUMINIUM - ALUMINIUM, NOT ALLOYED : WIRE BARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76011040",
+            "description": "UNWROUGHT ALUMINIUM - ALUMINIUM, NOT ALLOYED : WIRE RODS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76011090",
+            "description": "UNWROUGHT ALUMINIUM - ALUMINIUM, NOT ALLOYED : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760120",
+            "description": "ALUMINIUM ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76012010",
+            "description": "UNWROUGHT ALUMINIUM - ALUMINIUM ALLOYS : INGOTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76012020",
+            "description": "UNWROUGHT ALUMINIUM - ALUMINIUM ALLOYS : BILLETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76012030",
+            "description": "UNWROUGHT ALUMINIUM - ALUMINIUM ALLOYS : WIRE BARS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76012040",
+            "description": "UNWROUGHT ALUMINIUM - ALUMINIUM ALLOYS : WIRE RODS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76012090",
+            "description": "UNWROUGHT ALUMINIUM - ALUMINIUM ALLOYS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7602",
+            "description": "ALUMINIUM WASTE AND SCRAP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760200",
+            "description": "ALUMINIUM WASTE AND SCRAP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76020010",
+            "description": "ALUMINIUM WASTE AND SCRAP - ALUMINIUM WASTE AND SCRAP : ALUMINIUM SCRAP, NAMELY THE FOLLOWING : CLEAN ALUMINIUM LITHOGRAPHIC SHEETS (ISRI) NEW, CLEAN ALUMINIUM LITHOGRAPHIC SHEETS (ISRI)MIXED LOW COPPER ALUMINIUM CLIPPINGS AND SOLIDS (ISRI) CLEAN MIXED OL",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76020090",
+            "description": "ALUMINIUM WASTE AND SCRAP - ALUMINIUM WASTE AND SCRAP : OTHER WASTE AND SCRAP",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7603",
+            "description": "ALUMINIUM POWDERS AND FLAKES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760310",
+            "description": "POWDERS OF NON-LAMELLAR STRUCTURE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76031010",
+            "description": "ALUMINIUM POWDERS AND FLAKES - POWDERS OF NON-LAMELLAR STRUCTURE : ALUMINIUM POWDER FOR THERMIT PROCESS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76031090",
+            "description": "ALUMINIUM POWDERS AND FLAKES - POWDERS OF NON-LAMELLAR STRUCTURE : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760320",
+            "description": "ALUMINIUM POWDERS AND FLAKES - POWDERS OF LAMELLAR STRUCTURE; FLAKES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76032000",
+            "description": "ALUMINIUM POWDERS AND FLAKES - POWDERS OF LAMELLAR STRUCTURE; FLAKES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7604",
+            "description": "ALUMINIUM BARS, RODS AND PROFILES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760410",
+            "description": "OF ALUMINIUM, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76041010",
+            "description": "ALUMINIUM BARS, RODS AND PROFILES - OF ALUMINIUM, NOT ALLOYED : WIRE RODS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76041020",
+            "description": "ALUMINIUM BARS, RODS AND PROFILES - OF ALUMINIUM, NOT ALLOYED : BARS AND RODS, OTHER THAN WIRE RODS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76041031",
+            "description": "ALUMINIUM BARS, RODS AND PROFILES - OF ALUMINIUM, NOT ALLOYED : PROFILES : HOLLOW",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76041039",
+            "description": "ALUMINIUM BARS, RODS AND PROFILES - OF ALUMINIUM, NOT ALLOYED : PROFILES : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760421",
+            "description": "ALUMINIUM BARS, RODS AND PROFILES - OF ALUMINIUM ALLOYS : HOLLOW PROFILES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76042100",
+            "description": "ALUMINIUM BARS, RODS AND PROFILES - OF ALUMINIUM ALLOYS : HOLLOW PROFILES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760429",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76042910",
+            "description": "ALUMINIUM BARS, RODS AND PROFILES - OF ALUMINIUM ALLOYS : OTHER : HARD DRAWN BARE ALUMINIUM CONDUCTORS STEEL RE-INFORCED (A.C.S.R.)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76042920",
+            "description": "ALUMINIUM BARS, RODS AND PROFILES - OF ALUMINIUM ALLOYS : OTHER : WIRE RODS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76042930",
+            "description": "ALUMINIUM BARS, RODS AND PROFILES - OF ALUMINIUM ALLOYS : OTHER : BARS AND RODS, OTHER THAN WIRE RODS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76042990",
+            "description": "ALUMINIUM BARS, RODS AND PROFILES - OF ALUMINIUM ALLOYS : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7605",
+            "description": "ALUMINIUM WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760511",
+            "description": "ALUMINIUM WIRE - OF ALUMINIUM, NOT ALLOYED : OF WHICH THE MAXIMUM CROSS-SECTIONAL DIMENSION EXCEEDS 7 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76051100",
+            "description": "ALUMINIUM WIRE - OF ALUMINIUM, NOT ALLOYED : OF WHICH THE MAXIMUM CROSS-SECTIONAL DIMENSION EXCEEDS 7 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760519",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76051991",
+            "description": "ALUMINIUM WIRE - OF ALUMINIUM, NOT ALLOYED : OTHER : OTHER : HARD DRAWN BARE-SOLID",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76051999",
+            "description": "ALUMINIUM WIRE - OF ALUMINIUM, NOT ALLOYED : OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760521",
+            "description": "ALUMINIUM WIRE - OF ALUMINIUM ALLOYS : OF WHICH THE MAXIMUM CROSS-SECTIONAL DIMENSION EXCEEDS 7 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76052100",
+            "description": "ALUMINIUM WIRE - OF ALUMINIUM ALLOYS : OF WHICH THE MAXIMUM CROSS-SECTIONAL DIMENSION EXCEEDS 7 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760529",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76052990",
+            "description": "ALUMINIUM WIRE - OF ALUMINIUM ALLOYS : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7606",
+            "description": "ALUMINIUM PLATES, SHEETS AND STRIP, OF A THICKNESS EXCEEDING 0.2 MM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760611",
+            "description": "OF ALUMINIUM, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76061110",
+            "description": "ALUMINIUM PLATES, SHEETS AND STRIP, OF A THICKNESS EXCEEDING 0.2 MM - RECTANGULAR (INCLUDING SQUARE) : OF ALUMINIUM, NOT ALLOYED : ELECTROLYTIC PLATES OR SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76061190",
+            "description": "ALUMINIUM PLATES, SHEETS AND STRIP, OF A THICKNESS EXCEEDING 0.2 MM - RECTANGULAR (INCLUDING SQUARE) : OF ALUMINIUM, NOT ALLOYED : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760612",
+            "description": "ALUMINIUM PLATES, SHEETS AND STRIP, OF A THICKNESS EXCEEDING 0.2 MM - RECTANGULAR (INCLUDING SQUARE) : OF ALUMINIUM ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76061200",
+            "description": "ALUMINIUM PLATES, SHEETS AND STRIP, OF A THICKNESS EXCEEDING 0.2 MM - RECTANGULAR (INCLUDING SQUARE) : OF ALUMINIUM ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760691",
+            "description": "OF ALUMINIUM, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76069110",
+            "description": "ALUMINIUM PLATES, SHEETS AND STRIP, OF A THICKNESS EXCEEDING 0.2 MM - OTHER : OF ALUMINIUM, NOT ALLOYED : CIRCLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76069120",
+            "description": "ALUMINIUM PLATES, SHEETS AND STRIP, OF A THICKNESS EXCEEDING 0.2 MM - OTHER : OF ALUMINIUM, NOT ALLOYED : ELECTROLYTIC PLATES OR SHEETS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76069190",
+            "description": "ALUMINIUM PLATES, SHEETS AND STRIP, OF A THICKNESS EXCEEDING 0.2 MM - OTHER : OF ALUMINIUM, NOT ALLOYED : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760692",
+            "description": "OF ALUMINIUM ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76069210",
+            "description": "ALUMINIUM PLATES, SHEETS AND STRIP, OF A THICKNESS EXCEEDING 0.2 MM - OTHER : OF ALUMINIUM ALLOYS : CIRCLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76069290",
+            "description": "ALUMINIUM PLATES, SHEETS AND STRIP, OF A THICKNESS EXCEEDING 0.2 MM - OTHER : OF ALUMINIUM ALLOYS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7607",
+            "description": "ALUMINIUM FOIL (WHETHER OR NOT PRINTED OR BACKED WITH PAPER, PAPERBOARD, PLASTICS OR SIMILAR BACKING MATERIALS) OF A THICKNESS (EXCLUDING ANY BACKING) NOT EXCEEDING 0.2 MM - NOT BACKED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760711",
+            "description": "ROLLED BUT NOT FURTHER WORKED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76071110",
+            "description": "ALUMINIUM FOIL (WHETHER OR NOT PRINTED OR BACKED WITH PAPER, PAPERBOARD, PLASTICS OR SIMILAR BACKING MATERIALS) OF A THICKNESS (EXCLUDING ANY BACKING) NOT EXCEEDING 0.2 MM - NOT BACKED : ROLLED BUT NOT FURTHER WORKED : ORDINARILY USED FOR TEA CHEST LINING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76071190",
+            "description": "ALUMINIUM FOIL (WHETHER OR NOT PRINTED OR BACKED WITH PAPER, PAPERBOARD, PLASTICS OR SIMILAR BACKING MATERIALS) OF A THICKNESS (EXCLUDING ANY BACKING) NOT EXCEEDING 0.2 MM - NOT BACKED : ROLLED BUT NOT FURTHER WORKED : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760719",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76071910",
+            "description": "ALUMINIUM FOIL (WHETHER OR NOT PRINTED OR BACKED WITH PAPER, PAPERBOARD, PLASTICS OR SIMILAR BACKING MATERIALS) OF A THICKNESS (EXCLUDING ANY BACKING) NOT EXCEEDING 0.2 MM - NOT BACKED : OTHER : ORDINARILY USED FOR TEA CHEST LINING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76071991",
+            "description": "ALUMINIUM FOIL (WHETHER OR NOT PRINTED OR BACKED WITH PAPER, PAPERBOARD, PLASTICS OR SIMILAR BACKING MATERIALS) OF A THICKNESS (EXCLUDING ANY BACKING) NOT EXCEEDING 0.2 MM - NOT BACKED : OTHER : OTHER : PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76071992",
+            "description": "ALUMINIUM FOIL (WHETHER OR NOT PRINTED OR BACKED WITH PAPER, PAPERBOARD, PLASTICS OR SIMILAR BACKING MATERIALS) OF A THICKNESS (EXCLUDING ANY BACKING) NOT EXCEEDING 0.2 MM - NOT BACKED : OTHER : OTHER : EMBOSSED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76071993",
+            "description": "ALUMINIUM FOIL (WHETHER OR NOT PRINTED OR BACKED WITH PAPER, PAPERBOARD, PLASTICS OR SIMILAR BACKING MATERIALS) OF A THICKNESS (EXCLUDING ANY BACKING) NOT EXCEEDING 0.2 MM - NOT BACKED : OTHER : OTHER : PERFORATED OR CUT-TO-SHAPE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76071994",
+            "description": "ALUMINIUM FOIL (WHETHER OR NOT PRINTED OR BACKED WITH PAPER, PAPERBOARD, PLASTICS OR SIMILAR BACKING MATERIALS) OF A THICKNESS (EXCLUDING ANY BACKING) NOT EXCEEDING 0.2 MM - NOT BACKED : OTHER : OTHER : COATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76071995",
+            "description": "ALUMINIUM FOIL (WHETHER OR NOT PRINTED OR BACKED WITH PAPER, PAPERBOARD, PLASTICS OR SIMILAR BACKING MATERIALS) OF A THICKNESS (EXCLUDING ANY BACKING) NOT EXCEEDING 0.2 MM - NOT BACKED : OTHER : OTHER : PRINTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76071999",
+            "description": "ALUMINIUM FOIL (WHETHER OR NOT PRINTED OR BACKED WITH PAPER, PAPERBOARD, PLASTICS OR SIMILAR BACKING MATERIALS) OF A THICKNESS (EXCLUDING ANY BACKING) NOT EXCEEDING 0.2 MM - NOT BACKED : OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760720",
+            "description": "BACKED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76072010",
+            "description": "ALUMINIUM FOIL (WHETHER OR NOT PRINTED OR BACKED WITH PAPER, PAPERBOARD, PLASTICS OR SIMILAR BACKING MATERIALS) OF A THICKNESS (EXCLUDING ANY BACKING) NOT EXCEEDING 0.2 MM - BACKED : ORDINARILY USED FOR TEA CHEST LINING",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76072090",
+            "description": "ALUMINIUM FOIL (WHETHER OR NOT PRINTED OR BACKED WITH PAPER, PAPERBOARD, PLASTICS OR SIMILAR BACKING MATERIALS) OF A THICKNESS (EXCLUDING ANY BACKING) NOT EXCEEDING 0.2 MM - BACKED : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7608",
+            "description": "ALUMINIUM TUBES AND PIPES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760810",
+            "description": "ALUMINIUM TUBES AND PIPE - OF ALUMINIUM, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76081000",
+            "description": "ALUMINIUM TUBES AND PIPE - OF ALUMINIUM, NOT ALLOYED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "760820",
+            "description": "ALUMINIUM TUBES AND PIPE - OF ALUMINIUM ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76082000",
+            "description": "ALUMINIUM TUBES AND PIPE - OF ALUMINIUM ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7609",
+            "description": "ALUMINIUM TUBE OR PIPE FITTINGS (FOR EXAMPLE, COUPLINGS, ELBOWS, SLEEVES)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76090000",
+            "description": "ALUMINIUM TUBE OR PIPE FITTINGS (FOR EXAMPLE, COUPLINGS, ELBOWS, SLEEVES)",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7610",
+            "description": "ALUMINIUM STRUCTURES (EXCLUDING PREFABRICATED BUILDINGS OF HEADING 9406) AND PARTS OF STRUCTURES (FOR EXAMPLE, BRIDGES AND BRIDGE-SECTIONS, TOWERS, LATTICE MASTS, ROOFS, ROOFING FRAMEWORKS, DOORS AND WINDOWS AND THEIR FRAMES AND THRESHOLDS FOR DOORS, BALU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "761010",
+            "description": "ALUMINIUM STRUCTURES (EXCLUDING PREFABRICATED BUILDINGS OF HEADING 9406) AND PARTS OF STRUCTURES (FOR EXAMPLE, BRIDGES AND BRIDGE-SECTIONS, TOWERS, LATTICE MASTS, ROOFS, ROOFING FRAMEWORKS, DOORS AND WINDOWS AND THEIR FRAMES AND THRESHOLDS FOR DOORS, BALU",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76101000",
+            "description": "ALUMINIUM STRUCTURES (EXCLUDING PREFABRICATED BUILDINGS OF HEADING 9406) AND PARTS OF STRUCTURES (FOR EXAMPLE, BRIDGES AND BRIDGE-SECTIONS, TOWERS, LATTICE MASTS, ROOFS, ROOFING FRAMEWORKS, DOORS AND WINDOWS AND THEIR FRAMES AND THRESHOLDS FOR DOORS, BALU",
+            "rateHistory": [
+                {
+                    "ratePercent": 28,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "761090",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76109010",
+            "description": "ALUMINIUM STRUCTURES (EXCLUDING PREFABRICATED BUILDINGS OF HEADING 9406) AND PARTS OF STRUCTURES (FOR EXAMPLE, BRIDGES AND BRIDGE-SECTIONS, TOWERS, LATTICE MASTS, ROOFS, ROOFING FRAMEWORKS, DOORS AND WINDOWS AND THEIR FRAMES AND THRESHOLDS FOR DOORS, BALU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76109020",
+            "description": "ALUMINIUM STRUCTURES (EXCLUDING PREFABRICATED BUILDINGS OF HEADING 9406) AND PARTS OF STRUCTURES (FOR EXAMPLE, BRIDGES AND BRIDGE-SECTIONS, TOWERS, LATTICE MASTS, ROOFS, ROOFING FRAMEWORKS, DOORS AND WINDOWS AND THEIR FRAMES AND THRESHOLDS FOR DOORS, BALU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76109030",
+            "description": "ALUMINIUM STRUCTURES (EXCLUDING PREFABRICATED BUILDINGS OF HEADING 9406) AND PARTS OF STRUCTURES (FOR EXAMPLE, BRIDGES AND BRIDGE-SECTIONS, TOWERS, LATTICE MASTS, ROOFS, ROOFING FRAMEWORKS, DOORS AND WINDOWS AND THEIR FRAMES AND THRESHOLDS FOR DOORS, BALU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76109090",
+            "description": "ALUMINIUM STRUCTURES (EXCLUDING PREFABRICATED BUILDINGS OF HEADING 9406) AND PARTS OF STRUCTURES (FOR EXAMPLE, BRIDGES AND BRIDGE-SECTIONS, TOWERS, LATTICE MASTS, ROOFS, ROOFING FRAMEWORKS, DOORS AND WINDOWS AND THEIR FRAMES AND THRESHOLDS FOR DOORS, BALU",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7611",
+            "description": "ALUMINIUM RESERVOIRS, TANKS, VATS AND SIMILAR CONTAINERS, FOR ANY MATERIAL (OTHER THAN COMPRESSED OR LIQUEFIED GAS), OF A CAPACITY EXCEEDING 300 L, WHETHER OR NOT LINED OR HEAT-INSULATED, BUT NOT FITTED WITH MECHANICAL OR THERMAL EQUIPMENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76110000",
+            "description": "ALUMINIUM RESERVOIRS, TANKS, VATS AND SIMILAR CONTAINERS, FOR ANY MATERIAL (OTHER THAN COMPRESSED OR LIQUEFIED GAS), OF A CAPACITY EXCEEDING 300 L, WHETHER OR NOT LINED OR HEAT-INSULATED, BUT NOT FITTED WITH MECHANICAL OR THERMAL EQUIPMENT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7612",
+            "description": "ALUMINIUM CASKS, DRUMS, CANS, BOXES AND SIMILAR CONTAINERS (INCLUDING RIGID OR COLLAPSIBLE TUBULAR CONTAINERS), FOR ANY MATERIAL (OTHER THAN COMPRESSED OR LIQUEFIED GAS), OF A CAPACITY NOT EXCEEDING 300 L, WHETHER OR NOT LINED OR HEAT-INSULATED, BUT NOT",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "761210",
+            "description": "COLLAPSIBLE TUBULAR CONTAINERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76121010",
+            "description": "ALUMINIUM CASKS, DRUMS, CANS, BOXES AND SIMILAR CONTAINERS (INCLUDING RIGID OR COLLAPSIBLE TUBULAR CONTAINERS), FOR ANY MATERIAL (OTHER THAN COMPRESSED OR LIQUEFIED GAS), OF A CAPACITY NOT EXCEEDING 300 L, WHETHER OR NOT LINED OR HEAT-INSULATED, BUT NOT F",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76121020",
+            "description": "ALUMINIUM CASKS, DRUMS, CANS, BOXES AND SIMILAR CONTAINERS (INCLUDING RIGID OR COLLAPSIBLE TUBULAR CONTAINERS), FOR ANY MATERIAL (OTHER THAN COMPRESSED OR LIQUEFIED GAS), OF A CAPACITY NOT EXCEEDING 300 L, WHETHER OR NOT LINED OR HEAT-INSULATED, BUT NOT F",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76121030",
+            "description": "ALUMINIUM CASKS, DRUMS, CANS, BOXES AND SIMILAR CONTAINERS (INCLUDING RIGID OR COLLAPSIBLE TUBULAR CONTAINERS), FOR ANY MATERIAL (OTHER THAN COMPRESSED OR LIQUEFIED GAS), OF A CAPACITY NOT EXCEEDING 300 L, WHETHER OR NOT LINED OR HEAT-INSULATED, BUT NOT F",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76121090",
+            "description": "ALUMINIUM CASKS, DRUMS, CANS, BOXES AND SIMILAR CONTAINERS (INCLUDING RIGID OR COLLAPSIBLE TUBULAR CONTAINERS), FOR ANY MATERIAL (OTHER THAN COMPRESSED OR LIQUEFIED GAS), OF A CAPACITY NOT EXCEEDING 300 L, WHETHER OR NOT LINED OR HEAT-INSULATED, BUT NOT F",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "761290",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76129010",
+            "description": "ALUMINIUM CASKS, DRUMS, CANS, BOXES AND SIMILAR CONTAINERS (INCLUDING RIGID OR COLLAPSIBLE TUBULAR CONTAINERS), FOR ANY MATERIAL (OTHER THAN COMPRESSED OR LIQUEFIED GAS), OF A CAPACITY NOT EXCEEDING 300 L, WHETHER OR NOT LINED OR HEAT-INSULATED, BUT NOT F",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76129020",
+            "description": "ALUMINIUM CASKS, DRUMS, CANS, BOXES AND SIMILAR CONTAINERS (INCLUDING RIGID OR COLLAPSIBLE TUBULAR CONTAINERS), FOR ANY MATERIAL (OTHER THAN COMPRESSED OR LIQUEFIED GAS), OF A CAPACITY NOT EXCEEDING 300 L, WHETHER OR NOT LINED OR HEAT-INSULATED, BUT NOT F",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76129030",
+            "description": "ALUMINIUM CASKS, DRUMS, CANS, BOXES AND SIMILAR CONTAINERS (INCLUDING RIGID OR COLLAPSIBLE TUBULAR CONTAINERS), FOR ANY MATERIAL (OTHER THAN COMPRESSED OR LIQUEFIED GAS), OF A CAPACITY NOT EXCEEDING 300 L, WHETHER OR NOT LINED OR HEAT-INSULATED, BUT NOT F",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76129090",
+            "description": "ALUMINIUM CASKS, DRUMS, CANS, BOXES AND SIMILAR CONTAINERS (INCLUDING RIGID OR COLLAPSIBLE TUBULAR CONTAINERS), FOR ANY MATERIAL (OTHER THAN COMPRESSED OR LIQUEFIED GAS), OF A CAPACITY NOT EXCEEDING 300 L, WHETHER OR NOT LINED OR HEAT-INSULATED, BUT NOT F",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7613",
+            "description": "ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "761300",
+            "description": "ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76130011",
+            "description": "ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS - ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS : LOW PRESSURE CYLINDERS : PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76130012",
+            "description": "ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS - ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS : LOW PRESSURE CYLINDERS : LACQUERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76130013",
+            "description": "ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS - ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS : LOW PRESSURE CYLINDERS : PRINTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76130019",
+            "description": "ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS - ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS : LOW PRESSURE CYLINDERS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76130021",
+            "description": "ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS - ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS : HIGH PRESSURE CYLINDERS : PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76130022",
+            "description": "ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS - ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS : HIGH PRESSURE CYLINDERS : LACQUERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76130023",
+            "description": "ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS - ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS : HIGH PRESSURE CYLINDERS : PRINTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76130029",
+            "description": "ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS - ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS : HIGH PRESSURE CYLINDERS : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76130091",
+            "description": "ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS - ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS : OTHER : PLAIN",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76130092",
+            "description": "ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS - ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS : OTHER : LACQUERED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76130093",
+            "description": "ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS - ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS : OTHER : PRINTED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76130099",
+            "description": "ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS - ALUMINIUM CONTAINERS FOR COMPRESSED OR LIQUEFIED GAS : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7614",
+            "description": "STRANDED WIRE, CABLES, PLAITED BANDS AND THE LIKE, OF ALUMINIUM, NOT ELECTRICALLY INSULATED",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "761410",
+            "description": "STRANDED WIRE, CABLES, PLAITED BANDS AND THE LIKE, OF ALUMINIUM, NOT ELECTRICALLY INSULATED - WITH STEEL CORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76141000",
+            "description": "STRANDED WIRE, CABLES, PLAITED BANDS AND THE LIKE, OF ALUMINIUM, NOT ELECTRICALLY INSULATED - WITH STEEL CORE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "761490",
+            "description": "STRANDED WIRE, CABLES, PLAITED BANDS AND THE LIKE, OF ALUMINIUM, NOT ELECTRICALLY INSULATED - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76149000",
+            "description": "STRANDED WIRE, CABLES, PLAITED BANDS AND THE LIKE, OF ALUMINIUM, NOT ELECTRICALLY INSULATED - OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7615",
+            "description": "TABLE, KITCHEN OR OTHER HOUSEHOLD ARTICLES AND PARTS THEREOF, OF ALUMINIUM; POT SCOURERS AND SCOURING OR POLISHING PADS, GLOVES AND THE LIKE, OF ALUMINIUM; SANITARY WARE AND PARTS THEREOF, OF ALUMINIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2017-11-14"
+                },
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76151011",
+            "description": "PRESSURE COOKERS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76151012",
+            "description": "SOLAR COLLECTORS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76151021",
+            "description": "NON-STICK",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76151029",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-11-15",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76151030",
+            "description": "OTHER TABLE,KITCHEN OR HOUSEHOLD ARTICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76151040",
+            "description": "POT SCOURERS AND SCOURING OR POLISHING PADS, GLOVES AND THE LIKE",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76151090",
+            "description": "PARTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "761520",
+            "description": "SANITARY WARE AND PARTS THEREOF",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76152010",
+            "description": "TABLE, KITCHEN OR OTHER HOUSEHOLD ARTICLES AND PARTS THEREOF, OF ALUMINIUM; POT SCOURERS AND SCOURING OR POLISHING PADS, GLOVES AND THE LIKE, OF ALUMINIUM; SANITARY WARE AND PARTS THEREOF, OF ALUMINIUM- SANITARY WARE AND PARTS THEREOF : SANITARY WARE OF A",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76152020",
+            "description": "TABLE, KITCHEN OR OTHER HOUSEHOLD ARTICLES AND PARTS THEREOF, OF ALUMINIUM; POT SCOURERS AND SCOURING OR POLISHING PADS, GLOVES AND THE LIKE, OF ALUMINIUM; SANITARY WARE AND PARTS THEREOF, OF ALUMINIUM- SANITARY WARE AND PARTS THEREOF : PARTS",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76152090",
+            "description": "TABLE, KITCHEN OR OTHER HOUSEHOLD ARTICLES AND PARTS THEREOF, OF ALUMINIUM; POT SCOURERS AND SCOURING OR POLISHING PADS, GLOVES AND THE LIKE, OF ALUMINIUM; SANITARY WARE AND PARTS THEREOF, OF ALUMINIUM- SANITARY WARE AND PARTS THEREOF : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 12,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "7616",
+            "description": "OTHER ARTICLES OF ALUMINIUM",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "761610",
+            "description": "OTHER ARTICLES OF ALUMINIUM - NAILS, TACKS, STAPLES (OTHER THAN THOSE OF HEADING 8305), SCREWS, BOLTS, NUTS, SCREW HOOKS, RIVETS, COTTERS, COTTER-PMILAR ARTICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76161000",
+            "description": "OTHER ARTICLES OF ALUMINIUM - NAILS, TACKS, STAPLES (OTHER THAN THOSE OF HEADING 8305), SCREWS, BOLTS, NUTS, SCREW HOOKS, RIVETS, COTTERS, COTTER-PMILAR ARTICLES",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "761691",
+            "description": "OTHER ARTICLES OF ALUMINIUM - OTHER : CLOTH, GRILL, NETTING AND FENCING, OF ALUMINIUM WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76169100",
+            "description": "OTHER ARTICLES OF ALUMINIUM - OTHER : CLOTH, GRILL, NETTING AND FENCING, OF ALUMINIUM WIRE",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "761699",
+            "description": "OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76169910",
+            "description": "OTHER ARTICLES OF ALUMINIUM - OTHER : OTHER : EXPANDED METAL OF ALUMINIUM AND ALUMINIUM ALLOYS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76169920",
+            "description": "OTHER ARTICLES OF ALUMINIUM - OTHER : OTHER :CHAINS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76169930",
+            "description": "OTHER ARTICLES OF ALUMINIUM - OTHER : OTHER : BOBBINS",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": null
+                }
+            ]
+        },
+        {
+            "code": "76169990",
+            "description": "OTHER ARTICLES OF ALUMINIUM - OTHER : OTHER : OTHER",
+            "rateHistory": [
+                {
+                    "ratePercent": 18,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2017-07-01",
+                    "effectiveTo": "2025-09-21"
+                },
+                {
+                    "ratePercent": 5,
+                    "taxability": "TAXABLE",
+                    "effectiveFrom": "2025-09-22",
+                    "effectiveTo": null
+                }
+            ]
+        }
+    ]
+}
