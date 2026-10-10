@@ -1,6 +1,6 @@
 {
-  "name": "tax-engine",
-  "version": "0.0.2",
+  "name": "@kabawat/tax-engine",
+  "version": "0.0.1",
   "description": "Zero-configuration multi-country tax calculation SDK (India GST, UAE VAT, US sales tax)",
   "repository": {
     "type": "git",

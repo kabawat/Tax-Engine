@@ -1,4 +1,4 @@
-# tax-engine
+# @kabawat/tax-engine
 
 Multi-country tax calculation SDK for Node.js and TypeScript — India GST, UAE VAT, US sales tax.
 
@@ -11,15 +11,15 @@ Multi-country tax calculation SDK for Node.js and TypeScript — India GST, UAE 
 ## Install
 
 ```bash
-npm install tax-engine
+npm install @kabawat/tax-engine
 ```
 
 ```bash
-yarn add tax-engine
+yarn add @kabawat/tax-engine
 ```
 
 ```bash
-pnpm add tax-engine
+pnpm add @kabawat/tax-engine
 ```
 
 ---
@@ -27,7 +27,7 @@ pnpm add tax-engine
 ## Quick start
 
 ```ts
-import Tax from 'tax-engine';
+import Tax from '@kabawat/tax-engine';
 
 const tax = new Tax('IN', { stateCodeSource: 'GSTIN' });
 
@@ -87,7 +87,7 @@ new Tax('IN', { stateCodeSource: 'STATE' }) // use seller.state / buyer.state (d
 ### GSTIN utilities
 
 ```ts
-import { validateGSTIN, parseGSTIN, getStateFromGSTIN } from 'tax-engine';
+import { validateGSTIN, parseGSTIN, getStateFromGSTIN } from '@kabawat/tax-engine';
 
 validateGSTIN('29aabcu9603r1zj'); // → '29AABCU9603R1ZJ' (trim, case, format, state, checksum)
 parseGSTIN('29AABCU9603R1ZJ');    // state, PAN, entity fields, …
@@ -107,7 +107,7 @@ Offline only (no GST portal API). Invalid format/state/checksum → `INVALID_INP
 Full HSN/SAC schedule loads by default (lazy shards). For a subset:
 
 ```ts
-import { INDIA_FULL_SCHEDULE_INDEX, pickIndiaSchedule } from 'tax-engine/in/schedule';
+import { INDIA_FULL_SCHEDULE_INDEX, pickIndiaSchedule } from '@kabawat/tax-engine/in/schedule';
 
 const tax = new Tax('IN', {
   schedule: pickIndiaSchedule(INDIA_FULL_SCHEDULE_INDEX, {
