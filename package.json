@@ -41,7 +41,7 @@
   ],
   "scripts": {
     "generate:schedule": "node scripts/generate-india-schedule.mjs",
-    "build": "npm run generate:schedule && rm -rf dist && tsc -p tsconfig.build.json && node scripts/copy-schedule-shards.mjs",
+    "build": "npm run generate:schedule && rm -rf dist && tsc -p tsconfig.build.json && node scripts/copy-schedule-shards.mjs && node scripts/obfuscate-dist.mjs",
     "typecheck": "npm run generate:schedule && tsc -p tsconfig.build.json --noEmit",
     "test": "npm run generate:schedule && vitest run",
     "recheck:hsn": "bash scripts/recheck-hsn.sh",
@@ -65,6 +65,7 @@
   },
   "devDependencies": {
     "@types/node": "^26.6.4",
+    "javascript-obfuscator": "^5.9.0",
     "typescript": "^5.7.3",
     "vitest": "^3.0.5"
   }
