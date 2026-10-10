@@ -13,33 +13,27 @@ jobs:
     steps:
       - name: Check out main
         uses: actions/checkout@v4
-        with: fetch-depth: 0
-
-      - name: Check package version change
-        id: version
-        env: BASE_SHA: ${{ github.event.before }}
-        run: |
-          current_version="$(node -p "require('./package.json').version")"
-          if [[ -n "$BASE_SHA" ]] && git cat-file -e "$BASE_SHA^{commit}" 2>/dev/null; then
-            previous_version="$(git show "$BASE_SHA:package.json" | node -e "let input=''; process.stdin.on('data', chunk => input += chunk).on('end', () => console.log(JSON.parse(input).version ?? ''))")"
-          else
-            previous_version=""
-          fi
-
-          if [[ "$current_version" == "$previous_version" ]]; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "Package version unchanged ($current_version); skipping npm publish."
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-            echo "Package version changed from '$previous_version' to '$current_version'."
-          fi
+        with:
+          fetch-depth: 0
 
       - name: Set up Node.js
-        if: steps.version.outputs.changed == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: 22
           registry-url: https://registry.npmjs.org
+
+      - name: Check package version
+        id: version
+        run: |
+          package_name="$(node -p "require('./package.json').name")"
+          current_version="$(node -p "require('./package.json').version")"
+          if npm view "${package_name}@${current_version}" version >/dev/null 2>&1; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "${package_name}@${current_version} is already published; skipping."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "${package_name}@${current_version} is not published; continuing."
+          fi
 
       - name: Install dependencies
         if: steps.version.outputs.changed == 'true'
