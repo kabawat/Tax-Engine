@@ -360,6 +360,7 @@ describe('India STATE mode', () => {
     const rcm = tax().calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'MH', gstin: MH_GSTIN },
+      reverseCharge: true,
       items: [serviceItem({ sac: '999799' })],
       calculationDate: DATE,
     });
@@ -371,6 +372,7 @@ describe('India STATE mode', () => {
         tax().calculate({
           seller: { state: 'KA', gstin: KA_GSTIN },
           buyer: { state: 'MH' },
+          reverseCharge: true,
           items: [serviceItem({ sac: '999799' })],
           calculationDate: DATE,
         }),
