@@ -1,7 +1,7 @@
 {
   "name": "@kabawat/tax-engine",
   "version": "0.0.1",
-  "description": "Zero-configuration multi-country tax calculation SDK (India GST, UAE VAT, US sales tax)",
+  "description": "A lightweight, framework-agnostic tax calculation engine for GST, VAT, sales tax, and product and service taxation across multiple countries.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kabawat/Tax-Engine.git"
@@ -52,11 +52,15 @@
     "prepublishOnly": "npm run verify"
   },
   "keywords": [
-    "tax",
+    "tax-engine",
+    "tax-calculator",
     "gst",
     "vat",
     "sales-tax",
-    "calculation",
+    "tax-rules",
+    "tax-rates",
+    "hsn",
+    "javascript",
     "typescript"
   ],
   "license": "MIT",

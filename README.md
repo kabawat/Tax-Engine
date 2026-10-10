@@ -1,6 +1,6 @@
 # @kabawat/tax-engine
 
-Multi-country tax calculation SDK for Node.js and TypeScript — India GST, UAE VAT, US sales tax.
+A lightweight, framework-agnostic tax calculation engine for GST, VAT, sales tax, and product and service taxation across multiple countries.
 
 - Node.js 18+
 - ESM
@@ -184,6 +184,9 @@ Sample-limited (`details.limitedSupport: true`).
 | `UNSUPPORTED_CASE` | Composition, SEZ, non-invoice docs, etc. |
 
 ---
+
+## keywords
+`tax-engine`, `tax-calculator`, `gst`, `vat`, `sales-tax`, `tax-rules`, `tax-rates`, `hsn`, `javascript`, `typescript`
 
 ## License
 
