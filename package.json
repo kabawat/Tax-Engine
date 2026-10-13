@@ -1,6 +1,6 @@
 {
   "name": "@kabawat/tax-engine",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A lightweight, framework-agnostic tax calculation engine for GST, VAT, sales tax, and product and service taxation across multiple countries.",
   "repository": {
     "type": "git",

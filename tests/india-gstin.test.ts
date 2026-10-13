@@ -9,6 +9,7 @@ import Tax, {
   isValidGSTIN,
   normalizeGstin,
   parseGSTIN,
+  resolveIndiaStateCode,
   validateGSTIN,
 } from '../src/index.js';
 
@@ -55,6 +56,15 @@ describe('GSTIN validate / parse / state', () => {
   it('getStateFromGSTIN', () => {
     expect(getStateFromGSTIN(KA_GSTIN)).toBe('KA');
     expect(getStateFromGSTIN(MH_GSTIN)).toBe('MH');
+  });
+
+  it('resolveIndiaStateCode accepts numeric GSTIN prefix or alpha code', () => {
+    expect(resolveIndiaStateCode('24')).toBe('GJ');
+    expect(resolveIndiaStateCode('7')).toBe('DL');
+    expect(resolveIndiaStateCode('gj')).toBe('GJ');
+    expect(resolveIndiaStateCode('KA')).toBe('KA');
+    expect(resolveIndiaStateCode('')).toBeUndefined();
+    expect(resolveIndiaStateCode('XX')).toBeUndefined();
   });
 
   it('rejects missing / wrong length / bad characters', () => {
