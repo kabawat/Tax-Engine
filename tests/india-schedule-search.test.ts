@@ -6,6 +6,10 @@ import {
 } from '../src/in/schedule.js';
 import { buildScheduleIndex } from '../src/countries/IN/schedules/index.js';
 import { IndiaTaxability } from '../src/countries/IN/types.js';
+import {
+  getLoadedShardIds,
+  resetIndiaFullScheduleCaches,
+} from '../src/countries/IN/schedules/full.js';
 
 describe('searchIndiaSchedule and paginateIndiaSchedule', () => {
   it('paginates full schedule without query parameters', () => {
@@ -70,6 +74,22 @@ describe('searchIndiaSchedule and paginateIndiaSchedule', () => {
     }
   });
 
+  it('loads only the relevant lazy shard for a chapter-specific code prefix', () => {
+    resetIndiaFullScheduleCaches();
+    const res = searchIndiaSchedule({ code: '8471', kind: 'HSN', limit: 50 });
+    expect(res.total).toBeGreaterThan(0);
+    expect(getLoadedShardIds()).toEqual(['hsn-84']);
+  });
+
+  it('keeps deterministic ranked pagination without retaining every match', () => {
+    const first = searchIndiaSchedule({ query: 'animal', page: 1, limit: 3 });
+    const second = searchIndiaSchedule({ query: 'animal', page: 2, limit: 3 });
+    const all = searchIndiaSchedule({ query: 'animal', limit: 0 });
+    expect([...first.items, ...second.items]).toEqual(all.items.slice(0, 6));
+    expect(first.total).toBe(all.total);
+    expect(second.total).toBe(all.total);
+  });
+
   it('filters by kind HSN vs SAC', () => {
     const sacRes = searchIndiaSchedule({ kind: 'SAC', limit: 20 });
     expect(sacRes.total).toBe(568);
@@ -106,6 +126,18 @@ describe('searchIndiaSchedule and paginateIndiaSchedule', () => {
     expect(item.resolvedRate?.ratePercent).toBe(18);
     expect(item.resolvedRate?.taxability).toBe(IndiaTaxability.TAXABLE);
     expect(item.resolvedRate?.effectiveFrom).toBe('2017-07-01');
+  });
+
+  it('resolves unsorted custom rate histories and returns no rate for a gap', () => {
+    const schedule = [{
+      code: '1111', kind: 'HSN' as const, description: 'Gap test',
+      rateHistory: [
+        { ratePercent: 18, taxability: IndiaTaxability.TAXABLE, effectiveFrom: '2022-01-01', effectiveTo: null },
+        { ratePercent: 5, taxability: IndiaTaxability.TAXABLE, effectiveFrom: '2020-01-01', effectiveTo: '2020-12-31' },
+      ],
+    }];
+    expect(searchIndiaSchedule({ schedule, code: '1111', calculationDate: '2020-06-01' }).items[0]?.resolvedRate?.ratePercent).toBe(5);
+    expect(searchIndiaSchedule({ schedule, code: '1111', calculationDate: '2021-06-01' }).items[0]?.resolvedRate).toBeUndefined();
   });
 
   it('returns all items when limit is 0 or Infinity', () => {

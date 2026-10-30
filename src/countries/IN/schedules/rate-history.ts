@@ -151,6 +151,30 @@ export function sortedRateHistoryDesc<T extends RateHistoryPeriod>(
   return [...history].sort(compareEffectiveFromDesc);
 }
 
+export function findEffectiveRatePeriod<T extends RateHistoryPeriod>(
+  history: readonly T[],
+  calculationDate: string,
+): T | undefined {
+  let low = 0;
+  let high = history.length - 1;
+  let candidate: T | undefined;
+
+  while (low <= high) {
+    const middle = low + Math.floor((high - low) / 2);
+    const period = history[middle]!;
+    if (period.effectiveFrom <= calculationDate) {
+      candidate = period;
+      high = middle - 1;
+    } else {
+      low = middle + 1;
+    }
+  }
+
+  return candidate !== undefined && isEffectiveRatePeriod(candidate, calculationDate)
+    ? candidate
+    : undefined;
+}
+
 export function isEffectiveRatePeriod(
   period: RateHistoryPeriod,
   calculationDate: string,

@@ -135,6 +135,16 @@ export function preloadIndiaScheduleShard(shardId: string): void {
   loadShard(shardId);
 }
 
+export function entriesForIndiaScheduleShards(
+  shardIds: readonly string[],
+): IterableIterator<IndiaScheduleEntry> {
+  return (function* entries(): IterableIterator<IndiaScheduleEntry> {
+    for (const shardId of shardIds) {
+      yield* loadShard(shardId).values();
+    }
+  })();
+}
+
 // Lazy Map-like index; loads one shard on demand
 export class LazyIndiaScheduleIndex {
   readonly size: number;
