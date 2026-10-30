@@ -25,6 +25,14 @@ export {
 } from '../countries/IN/schedules/index.js';
 
 export {
+  searchIndiaSchedule,
+  paginateIndiaSchedule,
+  type IndiaScheduleSearchOptions,
+  type IndiaScheduleSearchResultItem,
+  type PaginatedScheduleResult,
+} from '../countries/IN/schedules/search.js';
+
+export {
   validateIndiaGstRate,
   assertResolvedIndiaRate,
   type ValidateIndiaGstRateInput,

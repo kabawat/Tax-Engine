@@ -71,3 +71,16 @@ export function stateFromGstin(gstin: string): string | undefined {
   const code = gstin.slice(0, 2);
   return GSTIN_STATE_CODES[code];
 }
+
+export function resolveIndiaStateCode(input: string): string | undefined {
+  const raw = normalizeIndiaState(String(input || ''));
+  if (!raw) return undefined;
+
+  if (/^[A-Z]{2}$/.test(raw)) {
+    return isKnownIndiaState(raw) || raw === 'OTH' ? raw : undefined;
+  }
+
+  if (!/^\d{1,2}$/.test(raw)) return undefined;
+  const numeric = raw.length === 1 ? `0${raw}` : raw;
+  return GSTIN_STATE_CODES[numeric];
+}

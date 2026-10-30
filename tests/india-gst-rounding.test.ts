@@ -217,6 +217,7 @@ describe('India GST inclusive/exclusive + roundingDifference', () => {
     const result = tax().calculate({
       seller: { state: 'KA', gstin: KA_GSTIN },
       buyer: { state: 'MH', gstin: MH_GSTIN },
+      reverseCharge: true,
       items: [
         {
           type: 'SERVICE',

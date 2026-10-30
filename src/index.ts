@@ -43,6 +43,21 @@ export {
   validateGstinFormat,
   type ParsedGstin,
 } from './countries/IN/gstin.js';
+export {
+  GSTIN_STATE_CODES,
+  resolveIndiaStateCode,
+  normalizeIndiaState,
+  isKnownIndiaState,
+  isUnionTerritoryWithUtgst,
+  INDIA_UTGST_STATES,
+} from './countries/IN/states.js';
+export {
+  searchIndiaSchedule,
+  paginateIndiaSchedule,
+  type IndiaScheduleSearchOptions,
+  type IndiaScheduleSearchResultItem,
+  type PaginatedScheduleResult,
+} from './countries/IN/schedules/search.js';
 export type { UaeTaxInput } from './countries/AE/provider.js';
 export type { UsTaxInput } from './countries/US/provider.js';
 

@@ -18,11 +18,11 @@
     { "kind": "HSN", "code": "2203", "ratePercent": 0, "taxability": "NON_GST" },
     { "kind": "SAC", "code": "998314", "ratePercent": 18, "taxability": "TAXABLE" },
     { "kind": "SAC", "code": "996511", "ratePercent": 5, "taxability": "TAXABLE" },
-    { "kind": "SAC", "code": "999799", "ratePercent": 18, "taxability": "TAXABLE", "reverseCharge": true },
-    { "kind": "SAC", "code": "999210", "ratePercent": 0, "taxability": "EXEMPT" },
-    { "kind": "SAC", "code": "999220", "ratePercent": 0, "taxability": "EXEMPT" },
-    { "kind": "SAC", "code": "999231", "ratePercent": 0, "taxability": "EXEMPT" },
-    { "kind": "SAC", "code": "999311", "ratePercent": 0, "taxability": "EXEMPT" },
-    { "kind": "SAC", "code": "999312", "ratePercent": 0, "taxability": "EXEMPT" }
+    { "kind": "SAC", "code": "999799", "ratePercent": 18, "taxability": "TAXABLE" },
+    { "kind": "SAC", "code": "999210", "ratePercent": 18, "taxability": "TAXABLE" },
+    { "kind": "SAC", "code": "999220", "ratePercent": 18, "taxability": "TAXABLE" },
+    { "kind": "SAC", "code": "999231", "ratePercent": 18, "taxability": "TAXABLE" },
+    { "kind": "SAC", "code": "999311", "ratePercent": 18, "taxability": "TAXABLE" },
+    { "kind": "SAC", "code": "999312", "ratePercent": 18, "taxability": "TAXABLE" }
   ]
 }
