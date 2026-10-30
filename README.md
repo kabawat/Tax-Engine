@@ -271,6 +271,40 @@ const rate = resolveScheduleEntry('6403', 'HSN', '2026-04-01', INDIA_FULL_SCHEDU
 
 Also exported: `INDIA_FULL_SCHEDULE`, `INDIA_FULL_SCHEDULE_META`, `INDIA_SCHEDULE_INTEGRITY`, `hsnLookupCandidates`, `sacLookupCandidates`, `scheduleLookupKey`, `assertRateHistoryIntegrity`, `assertResolvedIndiaRate`.
 
+#### Search & Pagination
+
+Search HSN/SAC codes by keyword, description, code prefix, kind, or chapter with full pagination support for backend APIs:
+
+```ts
+import { searchIndiaSchedule, paginateIndiaSchedule } from '@kabawat/tax-engine';
+// or: import { searchIndiaSchedule } from '@kabawat/tax-engine/in/schedule';
+
+// 1. Search by description keyword or HSN code
+const searchResult = searchIndiaSchedule({
+  query: 'computer',
+  kind: 'HSN',
+  page: 1,
+  limit: 10,
+});
+
+// 2. Paginate all HSN/SAC records (without search query)
+const pageData = paginateIndiaSchedule({
+  page: 2,
+  limit: 50,
+});
+
+// 3. Search and resolve active GST rate for a date
+const withRates = searchIndiaSchedule({
+  query: '8471',
+  calculationDate: '2026-04-01',
+});
+
+console.log(searchResult.total);        // Total matching entries
+console.log(searchResult.totalPages);   // Total pages
+console.log(searchResult.hasNextPage);  // boolean
+console.log(searchResult.items);        // Array of matching items
+```
+
 Rates may lag CBIC — verify before production use.
 
 ### Taxability
@@ -392,6 +426,7 @@ import Tax, {
   isKnownIndiaState, isUnionTerritoryWithUtgst,
   carriesGstHeads, isNilExemptOrNonGst, resolveTaxability,
   selectIndiaTaxHeads, withIndiaCessHead,
+  searchIndiaSchedule, paginateIndiaSchedule,
 
   // Discount
   DiscountMode, DiscountType, resolveDiscountMode,
