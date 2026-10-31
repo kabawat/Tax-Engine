@@ -4,6 +4,7 @@ import {
   resetIndiaScheduleShardCache,
   getLoadedShardIds,
   preloadIndiaScheduleShard,
+  entriesForIndiaScheduleShards,
   shardIdForLookupKey,
 } from './lazy-index.js';
 import {
@@ -17,6 +18,7 @@ export {
   resetIndiaScheduleShardCache,
   getLoadedShardIds,
   preloadIndiaScheduleShard,
+  entriesForIndiaScheduleShards,
   shardIdForLookupKey,
 };
 

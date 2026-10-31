@@ -2,12 +2,14 @@ import type { IndiaTaxability } from '../types.js';
 import { TaxEngineError, TaxEngineErrorCode } from '../../../errors/TaxEngineError.js';
 import {
   assertRateHistoryIntegrity,
+  findEffectiveRatePeriod,
   isEffectiveRatePeriod,
   sortedRateHistoryDesc,
 } from './rate-history.js';
 
 export {
   assertRateHistoryIntegrity,
+  findEffectiveRatePeriod,
   isEffectiveRatePeriod,
 } from './rate-history.js';
 
@@ -93,13 +95,8 @@ function pickRatePeriod(
     return undefined;
   }
 
-  for (const period of sortedRateHistoryDesc(entry.rateHistory)) {
-    if (isEffectiveRatePeriod(period, calculationDate)) {
-      return toResolvedEntry(entry, period);
-    }
-  }
-
-  return undefined;
+  const period = findEffectiveRatePeriod(entry.rateHistory, calculationDate);
+  return period === undefined ? undefined : toResolvedEntry(entry, period);
 }
 
 // Build Map index from catalog entries
